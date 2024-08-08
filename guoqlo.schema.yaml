@@ -58,7 +58,7 @@ speller:
     - abbrev/^([iuaoeè]).+$/$1/
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
-    - abbrev/^tz/z/
+    - derive/^tz/z/
 
 translator:
   dictionary: guoqlo
@@ -80,6 +80,11 @@ custom_phrase:
 punctuator:
   import_preset: default
 
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
 recognizer:
   import_preset: default
   patterns:
@@ -88,5 +93,3 @@ recognizer:
 __patch:
   # 使用八股文語言模型
   - grammar:/hant?
-  # 用家自選配置
-  - terra_pinyin.custom:/patch?
