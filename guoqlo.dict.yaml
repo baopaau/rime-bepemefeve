@@ -533,7 +533,7 @@ use_preset_vocabulary: true
 𧙁	tzyh
 𧧕	tzyh
 骴	tzyh
-子	.tzy
+子	.tz
 差	tsy
 縒	tsy
 胔	tsy
@@ -1488,7 +1488,7 @@ use_preset_vocabulary: true
 鷁	niq
 鷊	niq
 䵒	niq
-呢	.nhi
+呢	.ni
 兣	li
 㒿	li
 剺	li
@@ -2049,7 +2049,7 @@ use_preset_vocabulary: true
 鷁	gniq
 鷊	gniq
 䵒	gniq
-呢	.gnhi
+呢	.gni
 俙	shi
 傒	shi
 僖	shi
@@ -4189,7 +4189,7 @@ use_preset_vocabulary: true
 㑻	maq
 䀣	maq
 礣	maq
-嗎	.mha
+嗎	.ma
 乏	faq
 伐	faq
 垡	faq
@@ -4312,6 +4312,8 @@ use_preset_vocabulary: true
 辢	laq
 邋	laq
 鑞	laq
+了	.la
+啦	.la
 玍	ga
 尬	gah
 嘎	gaq
@@ -5921,7 +5923,7 @@ use_preset_vocabulary: true
 泐	leq
 肋	leq
 阞	leq
-了	.lhe
+了	.le
 嗝	geq
 挌	geq
 𢯹	geq
