@@ -1,0 +1,92 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: guoqlo
+  name: 老國音 - 國羅
+  version: '2024.08.08'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音輸入方案（國語羅馬字形式）
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba'
+  delimiter: " '"
+  algebra:
+    - derive/è$/e/
+    - derive/èr/er/
+    - derive/èè/ee/
+    - derive/èh/eh/
+    - xform/è/x/
+    - derive/^\.//
+    - abbrev/^([iuaoeè]).+$/$1/
+    - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
+    - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
+    - abbrev/^tz/z/
+
+translator:
+  dictionary: guoqlo
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/x/è/
+
+  comment_format:
+    - xform/x/è/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
+  # 用家自選配置
+  - terra_pinyin.custom:/patch?
