@@ -11,7 +11,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.08"
+version: "2024.08.09"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -45,6 +45,7 @@ use_preset_vocabulary: true
 錙	jy
 鳷	jy
 鼅	jy
+只	jy
 傂	jyy
 厎	jyy
 只	jyy
@@ -533,7 +534,7 @@ use_preset_vocabulary: true
 𧙁	tzyh
 𧧕	tzyh
 骴	tzyh
-子	.tz
+子	.tzyy
 差	tsy
 縒	tsy
 胔	tsy
@@ -625,6 +626,7 @@ use_preset_vocabulary: true
 四	syh
 姒	syh
 已	syh
+巳	syh
 杫	syh
 柶	syh
 肂	syh
@@ -722,6 +724,9 @@ use_preset_vocabulary: true
 頤	yi
 飴	yi
 鮧	yi
+宜	yi
+沂	yi
+疑	yi
 以	yii
 倚	yii
 佁	yii
@@ -890,6 +895,7 @@ use_preset_vocabulary: true
 䴬	yiq
 黓	yiq
 齸	yiq
+役	yiq
 㡙	bi
 庳	bi
 悂	bi
@@ -930,6 +936,7 @@ use_preset_vocabulary: true
 鄙	bii
 𦸣	bii
 骳	bii
+比	bih
 圮	bih
 坒	bih
 㘩	bih
@@ -1383,7 +1390,6 @@ use_preset_vocabulary: true
 呢	ni
 埿	ni
 妮	ni
-宜	ni
 尼	ni
 㞾	ni
 嶷	ni
@@ -1391,10 +1397,8 @@ use_preset_vocabulary: true
 旎	ni
 柅	ni
 檥	ni
-沂	ni
 涴	ni
 猊	ni
-疑	ni
 䍲	ni
 臡	ni
 䘽	ni
@@ -2151,7 +2155,6 @@ use_preset_vocabulary: true
 㒆	shiq
 吸	shiq
 㘊	shiq
-役	shiq
 𢙅	shiq
 𢢞	shiq
 扱	shiq
@@ -2531,6 +2534,7 @@ use_preset_vocabulary: true
 模	mu
 膜	mu
 謨	mu
+母	mu
 姆	muu
 姥	muu
 拇	muu
@@ -4007,6 +4011,7 @@ use_preset_vocabulary: true
 詡	sheu
 鄦	sheu
 呴	shiuh
+酗	shiuh
 侐	shiuq
 勖	shiuq
 㗵	shiuq
@@ -4210,6 +4215,7 @@ use_preset_vocabulary: true
 髮	faq
 疸	da
 靼	dar
+打	daa
 大	dah
 噠	daq
 妲	daq
@@ -4279,6 +4285,7 @@ use_preset_vocabulary: true
 䏧	na
 哪	naa
 䋈	naa
+那	naa
 絮	nah
 呐	naq
 妠	naq
@@ -4315,11 +4322,14 @@ use_preset_vocabulary: true
 了	.la
 啦	.la
 玍	ga
+伽	ga
 尬	gah
 嘎	gaq
 𪆰	gaq
 𡤫	ka
 跒	ka
+咖	ka
+卡	kaa
 髂	kah
 𤫶	kaq
 齾	ngaq
@@ -4485,6 +4495,7 @@ use_preset_vocabulary: true
 攃	tsaq
 䌨	tsaq
 𠎷	saq
+𢶍	saq
 𠦃	saq
 撒	saq
 殺	saq
@@ -4571,6 +4582,7 @@ use_preset_vocabulary: true
 鎵	jia
 鴐	jia
 麚	jia
+伽	jia
 假	jea
 叚	jea
 斚	jea
@@ -4696,6 +4708,7 @@ use_preset_vocabulary: true
 䨟	ua
 鮭	ua
 鼃	ua
+媧	ua
 婐	woa
 瓦	woa
 䠚	woa
@@ -4851,9 +4864,11 @@ use_preset_vocabulary: true
 番	bo
 碆	bo
 菠	bo
+播	bo
 㝿	boo
 簸	boo
 跛	boo
+播	boo
 播	boh
 譒	boh
 亳	boq
@@ -5041,9 +5056,11 @@ use_preset_vocabulary: true
 儺	no
 㔮	no
 那	no
+那	noo
 娜	noo
 𣃽	noo
 袲	noo
+那	noh
 訥	noq
 諾	noq
 囉	lho
@@ -5368,6 +5385,7 @@ use_preset_vocabulary: true
 娑	so
 挱	so
 犧	so
+些	so
 些	soh
 㱇	soq
 索	soq
@@ -6155,6 +6173,7 @@ use_preset_vocabulary: true
 耶	ye
 䓉	ye
 邪	ye
+琊	ye
 釾	ye
 鋣	ye
 也	yee
@@ -6543,6 +6562,7 @@ use_preset_vocabulary: true
 且	tsiee
 跙	tsiee
 笡	tsieh
+切	tsieh
 切	tsieq
 妾	tsieq
 沏	tsieq
@@ -6804,6 +6824,7 @@ use_preset_vocabulary: true
 黛	day
 胎	tai
 駘	tai
+台	tai
 儓	tair
 台	tair
 抬	tair
@@ -7073,12 +7094,12 @@ use_preset_vocabulary: true
 鞵	shyai
 鮭	shyai
 懈	sheai
+蟹	sheai
 㒠	shiay
 嶰	shiay
 械	shiay
 澥	shiay
 瀣	shiay
-蟹	shiay
 解	shiay
 䚸	shiay
 邂	shiay
@@ -7282,7 +7303,6 @@ use_preset_vocabulary: true
 裶	fei
 誹	fei
 非	fei
-啡	fei
 飛	fei
 馡	fei
 騑	fei
@@ -7764,6 +7784,7 @@ use_preset_vocabulary: true
 蛕	hwei
 蛔	hwei
 囘	hwei
+茴	hwei
 卉	hoei
 檓	hoei
 毀	hoei
@@ -8271,6 +8292,7 @@ use_preset_vocabulary: true
 槁	gao
 櫜	gao
 皓	gao
+稿	gao
 稾	gao
 縞	gao
 藁	gao
@@ -9246,6 +9268,7 @@ use_preset_vocabulary: true
 傋	gou
 冓	gou
 勾	gou
+句	gou
 拘	gou
 溝	gou
 篝	gou
@@ -9724,9 +9747,9 @@ use_preset_vocabulary: true
 銶	chyou
 頄	chyou
 鼽	chyou
+叴	chyou
 玘	cheou
 糗	cheou
-叴	chiow
 䠗	chiow
 𪖛	chiow
 牛	gniou
@@ -10104,6 +10127,7 @@ use_preset_vocabulary: true
 驔	tarn
 驙	tarn
 鷤	tarn
+荨	tarn
 儃	taan
 啿	taan
 嗿	taan
@@ -11439,6 +11463,7 @@ use_preset_vocabulary: true
 鋟	tsian
 阡	tsian
 韆	tsian
+荨	tsyan
 前	tsyan
 媊	tsyan
 潛	tsyan
@@ -11529,6 +11554,7 @@ use_preset_vocabulary: true
 紈	wan
 羱	wan
 頑	wan
+完	wan
 妴	woan
 婉	woan
 宛	woan
@@ -12287,6 +12313,8 @@ use_preset_vocabulary: true
 霃	chern
 𩻛	chern
 麎	chern
+臣	chern
+辰	chern
 墋	cheen
 瀋	cheen
 趻	cheen
@@ -12335,9 +12363,7 @@ use_preset_vocabulary: true
 𩺵	shen
 宸	shern
 神	shern
-臣	shern
 諶	shern
-辰	shern
 䰠	shern
 哂	sheen
 嬸	sheen
@@ -12764,6 +12790,7 @@ use_preset_vocabulary: true
 薪	sin
 辛	sin
 鋅	sin
+荨	syn
 尋	syn
 撏	syn
 樳	syn
@@ -12991,6 +13018,7 @@ use_preset_vocabulary: true
 蒘	shuen
 鶉	shwen
 蓴	shwen
+吮	shuenn
 揗	shuenn
 楯	shuenn
 盾	shuenn
@@ -13113,6 +13141,7 @@ use_preset_vocabulary: true
 韗	yunn
 韻	yunn
 餫	yunn
+孕	yunn
 啍	tiun
 君	jiun
 均	jiun
@@ -13164,6 +13193,7 @@ use_preset_vocabulary: true
 醺	shiun
 焌	shiunn
 訓	shiunn
+竣	tziun
 踆	tziun
 逡	tziun
 俊	tziunn
@@ -14329,6 +14359,7 @@ use_preset_vocabulary: true
 裎	cherng
 郕	cherng
 酲	cherng
+誠	cherng
 偁	cheeng
 庱	cheeng
 悜	cheeng
@@ -14355,7 +14386,6 @@ use_preset_vocabulary: true
 陞	sheng
 鼪	sheng
 繩	sherng
-誠	sherng
 譝	sherng
 鱦	sherng
 冼	sheeng
@@ -14460,7 +14490,6 @@ use_preset_vocabulary: true
 應	yinq
 媵	yinq
 硬	yinq
-孕	yinq
 映	yinq
 瀅	yinq
 譍	yinq
@@ -15197,7 +15226,6 @@ use_preset_vocabulary: true
 翃	horng
 耾	horng
 苰	horng
-茴	horng
 葒	horng
 虹	horng
 訌	horng

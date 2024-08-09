@@ -11,7 +11,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.08"
+version: "2024.08.09"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -45,6 +45,7 @@ use_preset_vocabulary: true
 錙	ㄓ
 鳷	ㄓ
 鼅	ㄓ
+只	ㄓ
 傂	ㄓˇ
 厎	ㄓˇ
 只	ㄓˇ
@@ -533,7 +534,7 @@ use_preset_vocabulary: true
 𧙁	ㄗˋ
 𧧕	ㄗˋ
 骴	ㄗˋ
-子	·ㄗ
+子	·ㄗˇ
 差	ㄘ
 縒	ㄘ
 胔	ㄘ
@@ -625,6 +626,7 @@ use_preset_vocabulary: true
 四	ㄙˋ
 姒	ㄙˋ
 已	ㄙˋ
+巳	ㄙˋ
 杫	ㄙˋ
 柶	ㄙˋ
 肂	ㄙˋ
@@ -722,6 +724,9 @@ use_preset_vocabulary: true
 頤	ㄧˊ
 飴	ㄧˊ
 鮧	ㄧˊ
+宜	ㄧˊ
+沂	ㄧˊ
+疑	ㄧˊ
 以	ㄧˇ
 倚	ㄧˇ
 佁	ㄧˇ
@@ -890,6 +895,7 @@ use_preset_vocabulary: true
 䴬	ㄧ˙
 黓	ㄧ˙
 齸	ㄧ˙
+役	ㄧ˙
 㡙	ㄅㄧ
 庳	ㄅㄧ
 悂	ㄅㄧ
@@ -930,6 +936,7 @@ use_preset_vocabulary: true
 鄙	ㄅㄧˇ
 𦸣	ㄅㄧˇ
 骳	ㄅㄧˇ
+比	ㄅㄧˋ
 圮	ㄅㄧˋ
 坒	ㄅㄧˋ
 㘩	ㄅㄧˋ
@@ -1383,7 +1390,6 @@ use_preset_vocabulary: true
 呢	ㄋㄧˊ
 埿	ㄋㄧˊ
 妮	ㄋㄧˊ
-宜	ㄋㄧˊ
 尼	ㄋㄧˊ
 㞾	ㄋㄧˊ
 嶷	ㄋㄧˊ
@@ -1391,10 +1397,8 @@ use_preset_vocabulary: true
 旎	ㄋㄧˊ
 柅	ㄋㄧˊ
 檥	ㄋㄧˊ
-沂	ㄋㄧˊ
 涴	ㄋㄧˊ
 猊	ㄋㄧˊ
-疑	ㄋㄧˊ
 䍲	ㄋㄧˊ
 臡	ㄋㄧˊ
 䘽	ㄋㄧˊ
@@ -1488,7 +1492,7 @@ use_preset_vocabulary: true
 鷁	ㄋㄧ˙
 鷊	ㄋㄧ˙
 䵒	ㄋㄧ˙
-呢	·ㄋㄧ
+呢	·ㄋㄧˊ
 兣	ㄌㄧˊ
 㒿	ㄌㄧˊ
 剺	ㄌㄧˊ
@@ -2049,7 +2053,7 @@ use_preset_vocabulary: true
 鷁	ㄬㄧ˙
 鷊	ㄬㄧ˙
 䵒	ㄬㄧ˙
-呢	·ㄬㄧ
+呢	·ㄬㄧˊ
 俙	ㄒㄧ
 傒	ㄒㄧ
 僖	ㄒㄧ
@@ -2151,7 +2155,6 @@ use_preset_vocabulary: true
 㒆	ㄒㄧ˙
 吸	ㄒㄧ˙
 㘊	ㄒㄧ˙
-役	ㄒㄧ˙
 𢙅	ㄒㄧ˙
 𢢞	ㄒㄧ˙
 扱	ㄒㄧ˙
@@ -2531,6 +2534,7 @@ use_preset_vocabulary: true
 模	ㄇㄨˊ
 膜	ㄇㄨˊ
 謨	ㄇㄨˊ
+母	ㄇㄨˊ
 姆	ㄇㄨˇ
 姥	ㄇㄨˇ
 拇	ㄇㄨˇ
@@ -4007,6 +4011,7 @@ use_preset_vocabulary: true
 詡	ㄒㄩˇ
 鄦	ㄒㄩˇ
 呴	ㄒㄩˋ
+酗	ㄒㄩˋ
 侐	ㄒㄩ˙
 勖	ㄒㄩ˙
 㗵	ㄒㄩ˙
@@ -4189,7 +4194,7 @@ use_preset_vocabulary: true
 㑻	ㄇㄚ˙
 䀣	ㄇㄚ˙
 礣	ㄇㄚ˙
-嗎	·ㄇㄚ
+嗎	·ㄇㄚˊ
 乏	ㄈㄚ˙
 伐	ㄈㄚ˙
 垡	ㄈㄚ˙
@@ -4210,6 +4215,7 @@ use_preset_vocabulary: true
 髮	ㄈㄚ˙
 疸	ㄉㄚ
 靼	ㄉㄚˊ
+打	ㄉㄚˇ
 大	ㄉㄚˋ
 噠	ㄉㄚ˙
 妲	ㄉㄚ˙
@@ -4279,6 +4285,7 @@ use_preset_vocabulary: true
 䏧	ㄋㄚˊ
 哪	ㄋㄚˇ
 䋈	ㄋㄚˇ
+那	ㄋㄚˇ
 絮	ㄋㄚˋ
 呐	ㄋㄚ˙
 妠	ㄋㄚ˙
@@ -4312,14 +4319,17 @@ use_preset_vocabulary: true
 辢	ㄌㄚ˙
 邋	ㄌㄚ˙
 鑞	ㄌㄚ˙
-了	·ㄌㄚ
-啦	·ㄌㄚ
+了	·ㄌㄚˊ
+啦	·ㄌㄚˊ
 玍	ㄍㄚ
+伽	ㄍㄚ
 尬	ㄍㄚˋ
 嘎	ㄍㄚ˙
 𪆰	ㄍㄚ˙
 𡤫	ㄎㄚ
 跒	ㄎㄚ
+咖	ㄎㄚ
+卡	ㄎㄚˇ
 髂	ㄎㄚˋ
 𤫶	ㄎㄚ˙
 齾	ㄫㄚ˙
@@ -4485,6 +4495,7 @@ use_preset_vocabulary: true
 攃	ㄘㄚ˙
 䌨	ㄘㄚ˙
 𠎷	ㄙㄚ˙
+𢶍	ㄙㄚ˙
 𠦃	ㄙㄚ˙
 撒	ㄙㄚ˙
 殺	ㄙㄚ˙
@@ -4571,6 +4582,7 @@ use_preset_vocabulary: true
 鎵	ㄐㄧㄚ
 鴐	ㄐㄧㄚ
 麚	ㄐㄧㄚ
+伽	ㄐㄧㄚ
 假	ㄐㄧㄚˇ
 叚	ㄐㄧㄚˇ
 斚	ㄐㄧㄚˇ
@@ -4696,6 +4708,7 @@ use_preset_vocabulary: true
 䨟	ㄨㄚ
 鮭	ㄨㄚ
 鼃	ㄨㄚ
+媧	ㄨㄚ
 婐	ㄨㄚˇ
 瓦	ㄨㄚˇ
 䠚	ㄨㄚˇ
@@ -4851,9 +4864,11 @@ use_preset_vocabulary: true
 番	ㄅㄛ
 碆	ㄅㄛ
 菠	ㄅㄛ
+播	ㄅㄛ
 㝿	ㄅㄛˇ
 簸	ㄅㄛˇ
 跛	ㄅㄛˇ
+播	ㄅㄛˇ
 播	ㄅㄛˋ
 譒	ㄅㄛˋ
 亳	ㄅㄛ˙
@@ -5041,9 +5056,11 @@ use_preset_vocabulary: true
 儺	ㄋㄛˊ
 㔮	ㄋㄛˊ
 那	ㄋㄛˊ
+那	ㄋㄛˇ
 娜	ㄋㄛˇ
 𣃽	ㄋㄛˇ
 袲	ㄋㄛˇ
+那	ㄋㄛˋ
 訥	ㄋㄛ˙
 諾	ㄋㄛ˙
 囉	ㄌㄛ
@@ -5368,6 +5385,7 @@ use_preset_vocabulary: true
 娑	ㄙㄛ
 挱	ㄙㄛ
 犧	ㄙㄛ
+些	ㄙㄛ
 些	ㄙㄛˋ
 㱇	ㄙㄛ˙
 索	ㄙㄛ˙
@@ -5923,7 +5941,7 @@ use_preset_vocabulary: true
 泐	ㄌㄜ˙
 肋	ㄌㄜ˙
 阞	ㄌㄜ˙
-了	·ㄌㄜ
+了	·ㄌㄜˊ
 嗝	ㄍㄜ˙
 挌	ㄍㄜ˙
 𢯹	ㄍㄜ˙
@@ -6155,6 +6173,7 @@ use_preset_vocabulary: true
 耶	ㄧㄝˊ
 䓉	ㄧㄝˊ
 邪	ㄧㄝˊ
+琊	ㄧㄝˊ
 釾	ㄧㄝˊ
 鋣	ㄧㄝˊ
 也	ㄧㄝˇ
@@ -6543,6 +6562,7 @@ use_preset_vocabulary: true
 且	ㄘㄧㄝˇ
 跙	ㄘㄧㄝˇ
 笡	ㄘㄧㄝˋ
+切	ㄘㄧㄝˋ
 切	ㄘㄧㄝ˙
 妾	ㄘㄧㄝ˙
 沏	ㄘㄧㄝ˙
@@ -6804,6 +6824,7 @@ use_preset_vocabulary: true
 黛	ㄉㄞˋ
 胎	ㄊㄞ
 駘	ㄊㄞ
+台	ㄊㄞ
 儓	ㄊㄞˊ
 台	ㄊㄞˊ
 抬	ㄊㄞˊ
@@ -7073,12 +7094,12 @@ use_preset_vocabulary: true
 鞵	ㄒㄧㄞˊ
 鮭	ㄒㄧㄞˊ
 懈	ㄒㄧㄞˇ
+蟹	ㄒㄧㄞˇ
 㒠	ㄒㄧㄞˋ
 嶰	ㄒㄧㄞˋ
 械	ㄒㄧㄞˋ
 澥	ㄒㄧㄞˋ
 瀣	ㄒㄧㄞˋ
-蟹	ㄒㄧㄞˋ
 解	ㄒㄧㄞˋ
 䚸	ㄒㄧㄞˋ
 邂	ㄒㄧㄞˋ
@@ -7282,7 +7303,6 @@ use_preset_vocabulary: true
 裶	ㄈㄟ
 誹	ㄈㄟ
 非	ㄈㄟ
-啡	ㄈㄟ
 飛	ㄈㄟ
 馡	ㄈㄟ
 騑	ㄈㄟ
@@ -7764,6 +7784,7 @@ use_preset_vocabulary: true
 蛕	ㄏㄨㄟˊ
 蛔	ㄏㄨㄟˊ
 囘	ㄏㄨㄟˊ
+茴	ㄏㄨㄟˊ
 卉	ㄏㄨㄟˇ
 檓	ㄏㄨㄟˇ
 毀	ㄏㄨㄟˇ
@@ -8271,6 +8292,7 @@ use_preset_vocabulary: true
 槁	ㄍㄠˇ
 櫜	ㄍㄠˇ
 皓	ㄍㄠˇ
+稿	ㄍㄠˇ
 稾	ㄍㄠˇ
 縞	ㄍㄠˇ
 藁	ㄍㄠˇ
@@ -9246,6 +9268,7 @@ use_preset_vocabulary: true
 傋	ㄍㄡ
 冓	ㄍㄡ
 勾	ㄍㄡ
+句	ㄍㄡ
 拘	ㄍㄡ
 溝	ㄍㄡ
 篝	ㄍㄡ
@@ -9724,9 +9747,9 @@ use_preset_vocabulary: true
 銶	ㄑㄧㄡˊ
 頄	ㄑㄧㄡˊ
 鼽	ㄑㄧㄡˊ
+叴	ㄑㄧㄡˊ
 玘	ㄑㄧㄡˇ
 糗	ㄑㄧㄡˇ
-叴	ㄑㄧㄡˋ
 䠗	ㄑㄧㄡˋ
 𪖛	ㄑㄧㄡˋ
 牛	ㄬㄧㄡˊ
@@ -10104,6 +10127,7 @@ use_preset_vocabulary: true
 驔	ㄊㄢˊ
 驙	ㄊㄢˊ
 鷤	ㄊㄢˊ
+荨	ㄊㄢˊ
 儃	ㄊㄢˇ
 啿	ㄊㄢˇ
 嗿	ㄊㄢˇ
@@ -11439,6 +11463,7 @@ use_preset_vocabulary: true
 鋟	ㄘㄧㄢ
 阡	ㄘㄧㄢ
 韆	ㄘㄧㄢ
+荨	ㄘㄧㄢˊ
 前	ㄘㄧㄢˊ
 媊	ㄘㄧㄢˊ
 潛	ㄘㄧㄢˊ
@@ -11529,6 +11554,7 @@ use_preset_vocabulary: true
 紈	ㄨㄢˊ
 羱	ㄨㄢˊ
 頑	ㄨㄢˊ
+完	ㄨㄢˊ
 妴	ㄨㄢˇ
 婉	ㄨㄢˇ
 宛	ㄨㄢˇ
@@ -12287,6 +12313,8 @@ use_preset_vocabulary: true
 霃	ㄔㄣˊ
 𩻛	ㄔㄣˊ
 麎	ㄔㄣˊ
+臣	ㄔㄣˊ
+辰	ㄔㄣˊ
 墋	ㄔㄣˇ
 瀋	ㄔㄣˇ
 趻	ㄔㄣˇ
@@ -12335,9 +12363,7 @@ use_preset_vocabulary: true
 𩺵	ㄕㄣ
 宸	ㄕㄣˊ
 神	ㄕㄣˊ
-臣	ㄕㄣˊ
 諶	ㄕㄣˊ
-辰	ㄕㄣˊ
 䰠	ㄕㄣˊ
 哂	ㄕㄣˇ
 嬸	ㄕㄣˇ
@@ -12764,6 +12790,7 @@ use_preset_vocabulary: true
 薪	ㄙㄧㄣ
 辛	ㄙㄧㄣ
 鋅	ㄙㄧㄣ
+荨	ㄙㄧㄣˊ
 尋	ㄙㄧㄣˊ
 撏	ㄙㄧㄣˊ
 樳	ㄙㄧㄣˊ
@@ -12991,6 +13018,7 @@ use_preset_vocabulary: true
 蒘	ㄕㄨㄣ
 鶉	ㄕㄨㄣˊ
 蓴	ㄕㄨㄣˊ
+吮	ㄕㄨㄣˋ
 揗	ㄕㄨㄣˋ
 楯	ㄕㄨㄣˋ
 盾	ㄕㄨㄣˋ
@@ -13113,6 +13141,7 @@ use_preset_vocabulary: true
 韗	ㄩㄣˋ
 韻	ㄩㄣˋ
 餫	ㄩㄣˋ
+孕	ㄩㄣˋ
 啍	ㄊㄩㄣ
 君	ㄐㄩㄣ
 均	ㄐㄩㄣ
@@ -13164,6 +13193,7 @@ use_preset_vocabulary: true
 醺	ㄒㄩㄣ
 焌	ㄒㄩㄣˋ
 訓	ㄒㄩㄣˋ
+竣	ㄗㄩㄣ
 踆	ㄗㄩㄣ
 逡	ㄗㄩㄣ
 俊	ㄗㄩㄣˋ
@@ -14329,6 +14359,7 @@ use_preset_vocabulary: true
 裎	ㄔㄥˊ
 郕	ㄔㄥˊ
 酲	ㄔㄥˊ
+誠	ㄔㄥˊ
 偁	ㄔㄥˇ
 庱	ㄔㄥˇ
 悜	ㄔㄥˇ
@@ -14355,7 +14386,6 @@ use_preset_vocabulary: true
 陞	ㄕㄥ
 鼪	ㄕㄥ
 繩	ㄕㄥˊ
-誠	ㄕㄥˊ
 譝	ㄕㄥˊ
 鱦	ㄕㄥˊ
 冼	ㄕㄥˇ
@@ -14460,7 +14490,6 @@ use_preset_vocabulary: true
 應	ㄧㄥˋ
 媵	ㄧㄥˋ
 硬	ㄧㄥˋ
-孕	ㄧㄥˋ
 映	ㄧㄥˋ
 瀅	ㄧㄥˋ
 譍	ㄧㄥˋ
@@ -15197,7 +15226,6 @@ use_preset_vocabulary: true
 翃	ㄏㄨㄥˊ
 耾	ㄏㄨㄥˊ
 苰	ㄏㄨㄥˊ
-茴	ㄏㄨㄥˊ
 葒	ㄏㄨㄥˊ
 虹	ㄏㄨㄥˊ
 訌	ㄏㄨㄥˊ
