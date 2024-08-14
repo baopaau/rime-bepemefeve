@@ -11,7 +11,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.09"
+version: "2024.08.11"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -1200,6 +1200,7 @@ use_preset_vocabulary: true
 䱊	ㄇㄧˇ
 袂	ㄇㄧˋ
 謎	ㄇㄧˋ
+媢	ㄇㄧˋ
 冖	ㄇㄧ˙
 冥	ㄇㄧ˙
 冪	ㄇㄧ˙
@@ -2528,7 +2529,6 @@ use_preset_vocabulary: true
 蒪	ㄆㄨ˙
 醭	ㄆㄨ˙
 鏷	ㄆㄨ˙
-奴	ㄇㄨˊ
 嫫	ㄇㄨˊ
 摹	ㄇㄨˊ
 模	ㄇㄨˊ
@@ -2564,6 +2564,7 @@ use_preset_vocabulary: true
 霂	ㄇㄨ˙
 鞪	ㄇㄨ˙
 鶩	ㄇㄨ˙
+媢	ㄇㄨ˙
 俘	ㄈㄨ
 夫	ㄈㄨ
 孚	ㄈㄨ
@@ -2840,6 +2841,7 @@ use_preset_vocabulary: true
 鈯	ㄊㄨ˙
 鵚	ㄊㄨ˙
 鼵	ㄊㄨ˙
+奴	ㄋㄨˊ
 拏	ㄋㄨˊ
 帑	ㄋㄨˊ
 砮	ㄋㄨˊ
@@ -4083,12 +4085,15 @@ use_preset_vocabulary: true
 徐	ㄙㄩˊ
 邪	ㄙㄩˊ
 敍	ㄙㄩˇ
+叙	ㄙㄩˇ
 𦄼	ㄙㄩˇ
 藇	ㄙㄩˇ
 諝	ㄙㄩˇ
 醑	ㄙㄩˇ
 𨣦	ㄙㄩˇ
 鱮	ㄙㄩˇ
+敍	ㄙㄩˋ
+叙	ㄙㄩˋ
 㐨	ㄙㄩˋ
 垿	ㄙㄩˋ
 壻	ㄙㄩˋ
@@ -5191,7 +5196,7 @@ use_preset_vocabulary: true
 礊	ㄎㄛ˙
 頜	ㄎㄛ˙
 顝	ㄎㄛ˙
-譌	ㄫㄛ
+譌	ㄫㄛˊ
 俄	ㄫㄛˊ
 吪	ㄫㄛˊ
 哦	ㄫㄛˊ
@@ -5205,6 +5210,8 @@ use_preset_vocabulary: true
 蛾	ㄫㄛˊ
 鈋	ㄫㄛˊ
 鵝	ㄫㄛˊ
+訛	ㄫㄛˊ
+峨	ㄫㄛˇ
 我	ㄫㄛˇ
 硪	ㄫㄛˇ
 騀	ㄫㄛˇ
@@ -5222,7 +5229,6 @@ use_preset_vocabulary: true
 萼	ㄫㄛ˙
 蘁	ㄫㄛ˙
 虉	ㄫㄛ˙
-訛	ㄫㄛ˙
 諤	ㄫㄛ˙
 遌	ㄫㄛ˙
 鄂	ㄫㄛ˙
@@ -6924,6 +6930,7 @@ use_preset_vocabulary: true
 𥏪	ㄎㄞˇ
 鍇	ㄎㄞˇ
 鎧	ㄎㄞˇ
+𡢖	ㄎㄞˇ
 咳	ㄎㄞˋ
 嘅	ㄎㄞˋ
 𡢖	ㄎㄞˋ
@@ -6933,8 +6940,8 @@ use_preset_vocabulary: true
 欬	ㄎㄞˋ
 輆	ㄎㄞˋ
 隑	ㄎㄞˋ
-呆	ㄫㄞ
-獃	ㄫㄞ
+呆	ㄫㄞˊ
+獃	ㄫㄞˊ
 捱	ㄫㄞˊ
 敳	ㄫㄞˊ
 㾍	ㄫㄞˊ
@@ -7372,7 +7379,6 @@ use_preset_vocabulary: true
 菋	ㄪㄟˋ
 給	ㄍㄟˇ
 嘿	ㄏㄟˋ
-慰	ㄏㄟˋ
 倭	ㄨㄟ
 偎	ㄨㄟ
 威	ㄨㄟ
@@ -7466,6 +7472,7 @@ use_preset_vocabulary: true
 颹	ㄨㄟˇ
 骫	ㄨㄟˇ
 鮪	ㄨㄟˇ
+慰	ㄨㄟˋ
 位	ㄨㄟˋ
 爲	ㄨㄟˋ
 僞	ㄨㄟˋ
@@ -8133,6 +8140,7 @@ use_preset_vocabulary: true
 泖	ㄇㄠˇ
 䒢	ㄇㄠˇ
 冇	ㄇㄠˇ
+媢	ㄇㄠˇ
 冃	ㄇㄠˋ
 冒	ㄇㄠˋ
 媢	ㄇㄠˋ
@@ -8234,6 +8242,7 @@ use_preset_vocabulary: true
 碯	ㄋㄠˇ
 腦	ㄋㄠˇ
 鐃	ㄋㄠˇ
+嫐	ㄋㄠˇ
 婥	ㄋㄠˋ
 橈	ㄋㄠˋ
 淖	ㄋㄠˋ
@@ -8784,7 +8793,7 @@ use_preset_vocabulary: true
 僥	ㄋㄧㄠˊ
 垚	ㄋㄧㄠˊ
 堯	ㄋㄧㄠˊ
-嬲	ㄋㄧㄠˊ
+嬲	ㄋㄧㄠˇ
 嫋	ㄋㄧㄠˇ
 嬈	ㄋㄧㄠˇ
 㹓	ㄋㄧㄠˇ
@@ -8961,7 +8970,7 @@ use_preset_vocabulary: true
 僥	ㄬㄧㄠˊ
 垚	ㄬㄧㄠˊ
 堯	ㄬㄧㄠˊ
-嬲	ㄬㄧㄠˊ
+嬲	ㄬㄧㄠˇ
 嫋	ㄬㄧㄠˇ
 嬈	ㄬㄧㄠˇ
 㹓	ㄬㄧㄠˇ
@@ -11977,6 +11986,7 @@ use_preset_vocabulary: true
 罥	ㄐㄩㄢˋ
 鄄	ㄐㄩㄢˋ
 韏	ㄐㄩㄢˋ
+圈	ㄑㄩㄢ
 棬	ㄑㄩㄢ
 卷	ㄑㄩㄢˊ
 埢	ㄑㄩㄢˊ
@@ -12200,6 +12210,7 @@ use_preset_vocabulary: true
 拫	ㄏㄣˊ
 痕	ㄏㄣˊ
 狠	ㄏㄣˇ
+很	ㄏㄣˇ
 很	ㄏㄣˋ
 恨	ㄏㄣˋ
 詪	ㄏㄣˋ
@@ -12475,6 +12486,8 @@ use_preset_vocabulary: true
 䤁	ㄧㄣˊ
 霪	ㄧㄣˊ
 鷣	ㄧㄣˊ
+訢	ㄧㄣˊ
+听	ㄧㄣˇ
 尹	ㄧㄣˇ
 檼	ㄧㄣˇ
 廴	ㄧㄣˇ
@@ -13128,6 +13141,7 @@ use_preset_vocabulary: true
 霣	ㄩㄣˇ
 韞	ㄩㄣˇ
 馻	ㄩㄣˇ
+听	ㄩㄣˋ
 𪝑	ㄩㄣˋ
 抎	ㄩㄣˋ
 緷	ㄩㄣˋ

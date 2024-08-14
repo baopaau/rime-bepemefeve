@@ -11,7 +11,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.09"
+version: "2024.08.11"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -1200,6 +1200,7 @@ use_preset_vocabulary: true
 䱊	mii
 袂	mih
 謎	mih
+媢	mih
 冖	miq
 冥	miq
 冪	miq
@@ -2528,7 +2529,6 @@ use_preset_vocabulary: true
 蒪	puq
 醭	puq
 鏷	puq
-奴	mu
 嫫	mu
 摹	mu
 模	mu
@@ -2564,6 +2564,7 @@ use_preset_vocabulary: true
 霂	muq
 鞪	muq
 鶩	muq
+媢	muq
 俘	fu
 夫	fu
 孚	fu
@@ -2840,6 +2841,7 @@ use_preset_vocabulary: true
 鈯	tuq
 鵚	tuq
 鼵	tuq
+奴	nu
 拏	nu
 帑	nu
 砮	nu
@@ -4083,12 +4085,15 @@ use_preset_vocabulary: true
 徐	syu
 邪	syu
 敍	seu
+叙	seu
 𦄼	seu
 藇	seu
 諝	seu
 醑	seu
 𨣦	seu
 鱮	seu
+敍	siuh
+叙	siuh
 㐨	siuh
 垿	siuh
 壻	siuh
@@ -5191,7 +5196,7 @@ use_preset_vocabulary: true
 礊	koq
 頜	koq
 顝	koq
-譌	ngho
+譌	ngo
 俄	ngo
 吪	ngo
 哦	ngo
@@ -5205,6 +5210,8 @@ use_preset_vocabulary: true
 蛾	ngo
 鈋	ngo
 鵝	ngo
+訛	ngo
+峨	ngoo
 我	ngoo
 硪	ngoo
 騀	ngoo
@@ -5222,7 +5229,6 @@ use_preset_vocabulary: true
 萼	ngoq
 蘁	ngoq
 虉	ngoq
-訛	ngoq
 諤	ngoq
 遌	ngoq
 鄂	ngoq
@@ -6924,6 +6930,7 @@ use_preset_vocabulary: true
 𥏪	kae
 鍇	kae
 鎧	kae
+𡢖	kae
 咳	kay
 嘅	kay
 𡢖	kay
@@ -6933,8 +6940,8 @@ use_preset_vocabulary: true
 欬	kay
 輆	kay
 隑	kay
-呆	nghai
-獃	nghai
+呆	ngai
+獃	ngai
 捱	ngai
 敳	ngai
 㾍	ngai
@@ -7372,7 +7379,6 @@ use_preset_vocabulary: true
 菋	vey
 給	geei
 嘿	hey
-慰	hey
 倭	uei
 偎	uei
 威	uei
@@ -7466,6 +7472,7 @@ use_preset_vocabulary: true
 颹	woei
 骫	woei
 鮪	woei
+慰	wey
 位	wey
 爲	wey
 僞	wey
@@ -8133,6 +8140,7 @@ use_preset_vocabulary: true
 泖	mao
 䒢	mao
 冇	mao
+媢	mao
 冃	maw
 冒	maw
 媢	maw
@@ -8234,6 +8242,7 @@ use_preset_vocabulary: true
 碯	nao
 腦	nao
 鐃	nao
+嫐	nao
 婥	naw
 橈	naw
 淖	naw
@@ -8784,7 +8793,7 @@ use_preset_vocabulary: true
 僥	niau
 垚	niau
 堯	niau
-嬲	niau
+嬲	neau
 嫋	neau
 嬈	neau
 㹓	neau
@@ -8961,7 +8970,7 @@ use_preset_vocabulary: true
 僥	gniau
 垚	gniau
 堯	gniau
-嬲	gniau
+嬲	gneau
 嫋	gneau
 嬈	gneau
 㹓	gneau
@@ -11977,6 +11986,7 @@ use_preset_vocabulary: true
 罥	jiuann
 鄄	jiuann
 韏	jiuann
+圈	chiuan
 棬	chiuan
 卷	chyuan
 埢	chyuan
@@ -12200,6 +12210,7 @@ use_preset_vocabulary: true
 拫	hern
 痕	hern
 狠	heen
+很	heen
 很	henn
 恨	henn
 詪	henn
@@ -12475,6 +12486,8 @@ use_preset_vocabulary: true
 䤁	yn
 霪	yn
 鷣	yn
+訢	yn
+听	yiin
 尹	yiin
 檼	yiin
 廴	yiin
@@ -13128,6 +13141,7 @@ use_preset_vocabulary: true
 霣	yeun
 韞	yeun
 馻	yeun
+听	yunn
 𪝑	yunn
 抎	yunn
 緷	yunn
