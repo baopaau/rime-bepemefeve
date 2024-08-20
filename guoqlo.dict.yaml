@@ -23,7 +23,7 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.20b"
+version: "2024.08.20c"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -6033,17 +6033,9 @@ use_preset_vocabulary: true
 麧	heq
 黑	heq
 齕	heq
-遮	je
-者	jee
-蔗	jeh
-這	jeh
-哲	jeq
 宅	jeq
-折	jeq
 摘	jeq
-摺	jeq
 擇	jeq
-浙	jeq
 澤	jeq
 炙	jeq
 磔	jeq
@@ -6060,39 +6052,22 @@ use_preset_vocabulary: true
 䶦	jeq
 著	.je
 着	.je
-車	che
-扯	chee
 坼	cheq
 拆	cheq
-撤	cheq
 斥	cheq
-奢	she
 什	sher
 甚	sher
-蛇	sher
-捨	shee
-射	sheh
-社	sheh
-舍	sheh
-赦	sheh
-麝	sheh
 什	sheq
 㒊	sheq
-攝	sheq
-涉	sheq
 澁	sheq
 澀	sheq
 濇	sheq
 瑟	sheq
 璱	sheq
 翜	sheq
-舌	sheq
 虱	sheq
 蝨	sheq
 蟀	sheq
-設	sheq
-惹	ree
-熱	req
 仄	tzeq
 側	tzeq
 則	tzeq
