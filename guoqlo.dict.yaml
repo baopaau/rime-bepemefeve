@@ -3,15 +3,27 @@
 #
 # [Guoqlo 老國音 - 國羅](https://github.com/baopaau/rime-bepemefe)
 #
-# Referenced works:
-# 胡（水光水）[胡拼](https://www.zhihu.com/question/31456983/answer/3418100886)
-# iacobvstsok [iac老國音](https://github.com/jacob-us/lau_guoq_in)
-# [維基學院：老國音](https://zh.wikiversity.org/zh-hk/Subject:老國音)
+# 鳴謝：
+# - 訸
+# - 神勈橆敵㞢人
+# - Suen Mingtzer
 #
-
+# 字音數據來源：
+# - [電子化《校改國音字典》](https://zhuanlan.zhihu.com/p/22056043)
+#   - [iacobvstsok](https://www.zhihu.com/people/0ff167dfc98216d1064c3abd28d3d999)
+#   - [李鶱棹](https://www.zhihu.com/people/3de247f4d4bb222ccfbfb48a76b36aea)
+#   - [曹潔萍](https://www.zhihu.com/people/b7e5d56f3544d1510d2d247a6d5f93b1)
+#   - [王子軒](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+#   - [馬從之](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+# - [整合《國音新詩韻》字彙](https://zh.wikiversity.org/zh-hant/整合老國音熟字彙)
+# - [校改國音字典整理會](https://zhuanlan.zhihu.com/Jiaoq-gais-guoh-iny-ziq-dians)
+#   - [勝爲士](https://www.zhihu.com/people/ff123b1d3fcdab2a70675df1245a9eeb)
+#   - [HANCVS韓](https://www.zhihu.com/people/7b106d7c1f31a47d8ba6cdbcb0e11316)
+# - [iac老國音輸入法](https://github.com/jacob-us/lau_guoq_in)
+# - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.20"
+version: "2024.08.20b"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -1347,6 +1359,7 @@ use_preset_vocabulary: true
 頔	diq
 馰	diq
 䵠	diq
+的	.diq
 梯	ti
 焍	ti
 睇	ti
@@ -5955,6 +5968,8 @@ use_preset_vocabulary: true
 德	deq
 悳	deq
 淂	deq
+的	.de
+的	.deq
 忒	teq
 忑	teq
 慝	teq
@@ -6112,6 +6127,7 @@ use_preset_vocabulary: true
 穡	seq
 色	seq
 轖	seq
+ㄝ	è
 遮	jè
 堵	jèè
 者	jèè
