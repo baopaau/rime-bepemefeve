@@ -23,7 +23,7 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.22"
+version: "2024.08.22b"
 sort: be_weight
 use_preset_vocabulary: true
 ...

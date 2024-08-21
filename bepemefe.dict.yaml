@@ -24,7 +24,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.22"
+version: "2024.08.22b"
 sort: be_weight
 use_preset_vocabulary: true
 import_tables:
