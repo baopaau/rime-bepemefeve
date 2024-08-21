@@ -24,7 +24,7 @@
 
 ---
 name: guoqlo
-version: "2024.08.21"
+version: "2024.08.21b"
 sort: be_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8385,6 +8385,7 @@ import_tables:
 縞	ㄍㄠˇ
 藁	ㄍㄠˇ
 稿	ㄍㄠˇ
+搞	ㄍㄠˇ
 告	ㄍㄠˋ
 誥	ㄍㄠˋ
 郜	ㄍㄠˋ

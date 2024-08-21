@@ -23,7 +23,7 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.21"
+version: "2024.08.21b"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -8382,6 +8382,7 @@ use_preset_vocabulary: true
 縞	gao
 藁	gao
 稿	gao
+搞	gao
 告	gaw
 誥	gaw
 郜	gaw
