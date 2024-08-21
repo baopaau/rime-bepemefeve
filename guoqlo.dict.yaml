@@ -23,7 +23,7 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.20c"
+version: "2024.08.21"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -1359,7 +1359,6 @@ use_preset_vocabulary: true
 頔	diq
 馰	diq
 䵠	diq
-的	.diq
 梯	ti
 焍	ti
 睇	ti
@@ -5969,7 +5968,8 @@ use_preset_vocabulary: true
 悳	deq
 淂	deq
 的	.de
-的	.deq
+地	.de
+得	.de
 忒	teq
 忑	teq
 慝	teq
