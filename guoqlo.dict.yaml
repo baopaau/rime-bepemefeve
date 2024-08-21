@@ -23,13 +23,14 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 ---
 name: guoqlo
-version: "2024.08.22b"
+version: "2024.08.22c"
 sort: be_weight
 use_preset_vocabulary: true
 ...
 
 之	jy	85%
 卮	jy
+只	jy	0%
 搘	jy
 支	jy	87%
 㩼	jy
@@ -38,6 +39,7 @@ use_preset_vocabulary: true
 榰	jy
 氏	jy
 知	jy	89%
+砥	jy	0%
 硃	jy
 祖	jy
 秖	jy
@@ -48,10 +50,11 @@ use_preset_vocabulary: true
 蜘	jy	82%
 衼	jy
 衹	jy
+觶	jy	0%
 跂	jy
 鳷	jy
 鼅	jy
-只	jy
+荎	jyr	0%
 傂	jyy
 厎	jyy
 只	jyy	83%
@@ -60,6 +63,7 @@ use_preset_vocabulary: true
 坻	jyy
 夂	jyy
 帋	jyy
+廌	jyy	0%
 徵	jyy	82%
 扺	jyy
 抵	jyy
@@ -93,6 +97,7 @@ use_preset_vocabulary: true
 值	jyh
 𠊷	jyh
 制	jyh	87%
+厎	jyh	0%
 埃	jyh
 埴	jyh
 寘	jyh	74%
@@ -105,13 +110,18 @@ use_preset_vocabulary: true
 忮	jyh
 懥	jyh
 懫	jyh
+㨖	jyh	0%
 摯	jyh
+㩼	jyh	0%
+晣	jyh	0%
 智	jyh	88%
 杝	jyh
+植	jyh	0%
 歭	jyh
 治	jyh	89%
 淛	jyh
 滯	jyh	81%
+炙	jyh	0%
 熾	jyh	76%
 狾	jyh
 猘	jyh
@@ -121,19 +131,24 @@ use_preset_vocabulary: true
 痓	jyh
 痣	jyh	84%
 㿃	jyh
+礩	jyh	0%
 稚	jyh	80%
 稺	jyh	79%
 穉	jyh
 糦	jyh
 緻	jyh
+䋾	jyh	0%
+織	jyh	0%
 置	jyh	75%
 至	jyh	78%
 致	jyh	77%
+蛭	jyh	0%
 製	jyh	86%
 觶	jyh
 䚳	jyh
 誌	jyh	82%
 識	jyh
+質	jyh	0%
 贄	jyh
 跱	jyh
 蹛	jyh
@@ -156,6 +171,7 @@ use_preset_vocabulary: true
 劕	jyq
 厔	jyq
 執	jyq	84%
+埴	jyq	0%
 墌	jyq
 姪	jyq	85%
 帙	jyq
@@ -209,6 +225,7 @@ use_preset_vocabulary: true
 跖	jyq
 蹠	jyq
 躑	jyq
+躓	jyq	0%
 郅	jyq
 鉄	jyq
 銍	jyq
@@ -218,6 +235,7 @@ use_preset_vocabulary: true
 馽	jyq
 騭	jyq
 𪐏	jyq
+哆	chy	0%
 嗤	chy
 媸	chy
 彲	chy
@@ -229,6 +247,7 @@ use_preset_vocabulary: true
 眵	chy
 笞	chy
 絺	chy
+翅	chy	0%
 胵	chy
 蚩	chy
 螭	chy
@@ -255,6 +274,9 @@ use_preset_vocabulary: true
 蚳	chyr
 蛇	chyr
 𧎨	chyr
+褫	chyr	0%
+誺	chyr	0%
+謘	chyr	0%
 謻	chyr
 趍	chyr
 跢	chyr
@@ -278,12 +300,17 @@ use_preset_vocabulary: true
 袳	chyy
 褫	chyy
 誃	chyy
+豸	chyy	0%
 鉹	chyy
 齒	chyy	89%
 耻	chyy	88%
 佁	chyh
 傺	chyh
+哆	chyh	0%
 啻	chyh
+懘	chyh	0%
+掣	chyh	0%
+杘	chyh	0%
 泜	chyh
 痸	chyh
 瘛	chyh
@@ -292,11 +319,14 @@ use_preset_vocabulary: true
 翨	chyh
 觢	chyh
 䚦	chyh
+誺	chyh	0%
+謘	chyh	0%
 豸	chyh
 阤	chyh
 䰡	chyh
 ​	chyh	89%
 侙	chyq
+㓼	chyq	0%
 敕	chyq
 敕	chyq
 勑	chyq
@@ -329,6 +359,7 @@ use_preset_vocabulary: true
 師	shy	88%
 施	shy	84%
 獅	shy	87%
+畤	shy	0%
 篩	shy
 籭	shy
 絁	shy
@@ -355,6 +386,8 @@ use_preset_vocabulary: true
 時	shyr	89%
 榯	shyr
 漦	shyr
+𤜣	shyr	0%
+矖	shyr	0%
 茌	shyr
 茬	shyr
 蒔	shyr
@@ -367,18 +400,22 @@ use_preset_vocabulary: true
 屎	shyy	84%
 弛	shyy
 施	shyy	86%
+𤜣	shyy	0%
 狧	shyy
 畤	shyy
 痑	shyy
 矖	shyy
 矢	shyy	83%
 纚	shyy
+襹	shyy	0%
 豕	shyy	82%
+釃	shyy	0%
 駛	shyy	87%
 世	shyh	83%
 事	shyh	89%
 仕	shyh	73%
 似	shyh	72%
+使	shyh	0%
 侍	shyh	80%
 勢	shyh	78%
 嗜	shyh	84%
@@ -407,7 +444,9 @@ use_preset_vocabulary: true
 簭	shyh
 舐	shyh	69%
 舓	shyh
+蒔	shyh	0%
 褆	shyh
+襹	shyh	0%
 視	shyh	77%
 試	shyh	87%
 誓	shyh	76%
@@ -420,7 +459,10 @@ use_preset_vocabulary: true
 䟡	shyh
 逝	shyh	75%
 遾	shyh
+釃	shyh	0%
+鍦	shyh	0%
 𨸝	shyh
+駛	shyh	0%
 𩰢	shyh
 柿	shyh	70%
 䑛	shyh	68%
@@ -472,6 +514,7 @@ use_preset_vocabulary: true
 釰	ryq
 鈤	ryq
 馹	ryq
+仔	tzy	0%
 吱	tzy
 咨	tzy
 姿	tzy
@@ -493,6 +536,8 @@ use_preset_vocabulary: true
 䖪	tzy
 蟕	tzy
 𧕓	tzy
+訾	tzy	0%
+訿	tzy	0%
 諮	tzy
 貲	tzy
 資	tzy	87%
@@ -509,6 +554,7 @@ use_preset_vocabulary: true
 鼒	tzy
 齍	tzy
 𪗋	tzy
+骴	tzyr	0%
 𠂔	tzyy
 仔	tzyy
 呰	tzyy
@@ -523,6 +569,8 @@ use_preset_vocabulary: true
 笫	tzyy
 籽	tzyy
 紫	tzyy	88%
+緇	tzyy	0%
+耔	tzyy	0%
 胏	tzyy
 茈	tzyy
 虸	tzyy
@@ -535,18 +583,22 @@ use_preset_vocabulary: true
 倳	tzyh
 剚	tzyh
 字	tzyh	89%
+孳	tzyh	0%
 恣	tzyh
 扻	tzyh
 㧘	tzyh
+椔	tzyh	0%
 㰣	tzyh
 漬	tzyh
 牸	tzyh
 𤿙	tzyh
 眥	tzyh
 積	tzyh
+笫	tzyh	0%
 𦎸	tzyh
 胾	tzyh
 自	tzyh	88%
+菑	tzyh	0%
 𧙁	tzyh
 𧧕	tzyh
 骴	tzyh
@@ -554,6 +606,7 @@ use_preset_vocabulary: true
 伺	tsy
 嵯	tsy
 差	tsy	88%
+玼	tsy	0%
 疵	tsy	87%
 縒	tsy
 胔	tsy
@@ -645,20 +698,24 @@ use_preset_vocabulary: true
 柌	syr
 俟	syy
 死	syy	89%
+虒	syy	0%
 似	syh	86%
 俟	syh	83%
 兕	syh
+司	syh	0%
 嗣	syh	82%
 四	syh	89%
 姒	syh
 寺	syh	88%
 已	syh
+思	syh	0%
 杫	syh
 柶	syh
 肂	syh
 汜	syh
 泗	syh
 涘	syh
+澌	syh	0%
 瀃	syh
 祀	syh
 竢	syh
@@ -677,10 +734,12 @@ use_preset_vocabulary: true
 伊	i	88%
 依	i	86%
 凒	i
+𠯋	i	0%
 咿	i
 咦	i
 噫	i	84%
 㙠	i
+撎	i	0%
 旖	i
 暆	i
 椅	i
@@ -692,6 +751,7 @@ use_preset_vocabulary: true
 䃜	i
 禕	i
 繄	i
+羛	i	0%
 翳	i
 蛜	i
 衣	i	87%
@@ -704,6 +764,7 @@ use_preset_vocabulary: true
 黟	i
 黳	i
 她	i	89%
+依	yi	0%
 侇	yi
 儀	yi	83%
 𠗺	yi
@@ -715,6 +776,7 @@ use_preset_vocabulary: true
 宜	yi	89%
 宧	yi
 峓	yi
+异	yi	0%
 彝	yi
 𢓡	yi
 怡	yi	82%
@@ -735,6 +797,7 @@ use_preset_vocabulary: true
 疑	yi	86%
 痍	yi
 眙	yi
+禕	yi	0%
 移	yi	85%
 簃	yi
 胰	yi
@@ -742,9 +805,12 @@ use_preset_vocabulary: true
 䔟	yi
 蛇	yi
 蛦	yi
+衣	yi	0%
 袲	yi
 訑	yi
 詒	yi
+譩	yi	0%
+貤	yi	0%
 貽	yi
 跠	yi
 迤	yi
@@ -759,28 +825,45 @@ use_preset_vocabulary: true
 䲑	yi
 鸃	yi
 以	yii	87%
+依	yii	0%
 倚	yii	88%
 偯	yii
+匜	yii	0%
+医	yii	0%
 㕈	yii
 𠯋	yii
+㙪	yii	0%
 崺	yii
 㠖	yii
 已	yii	85%
+𢟇	yii	0%
 㥴	yii
 扆	yii
+旖	yii	0%
+枍	yii	0%
 椅	yii	89%
+檥	yii	0%
+猗	yii	0%
+瘱	yii	0%
 矣	yii	84%
+羛	yii	0%
 肔	yii
 艤	yii
 苡	yii
 苢	yii
+蘙	yii	0%
+蛡	yii	0%
 螘	yii
 蟻	yii	86%
 衪	yii
 裿	yii
 𧩹	yii
+譩	yii	0%
 踦	yii
+輢	yii	0%
 迆	yii
+酏	yii	0%
+醫	yii	0%
 陭	yii
 顗	yii
 齮	yii
@@ -791,10 +874,12 @@ use_preset_vocabulary: true
 勩	yih
 医	yih
 呭	yih
+噫	yih	0%
 㘈	yih
 囈	yih
 㙪	yih
 寱	yih
+已	yih	0%
 廙	yih
 异	yih
 㣻	yih
@@ -804,6 +889,7 @@ use_preset_vocabulary: true
 抴	yih
 撎	yih
 敡	yih
+施	yih	0%
 易	yih	81%
 曀	yih
 曳	yih
@@ -812,6 +898,7 @@ use_preset_vocabulary: true
 栺	yih
 槸	yih
 𣚘	yih
+檍	yih	0%
 殔	yih
 殪	yih
 毅	yih	79%
@@ -825,20 +912,25 @@ use_preset_vocabulary: true
 瞖	yih
 稏	yih
 縊	yih
+繄	yih	0%
 羛	yih
 義	yih	87%
 羿	yih
+翳	yih	0%
 肄	yih	84%
 蓺	yih
 𦻜	yih
+薏	yih	0%
 藝	yih	85%
 藙	yih
 蘙	yih
+衣	yih	0%
 袘	yih
 袣	yih
 裔	yih	82%
 褹	yih
 襼	yih
+詒	yih	0%
 詣	yih
 誼	yih	83%
 議	yih	86%
@@ -879,6 +971,7 @@ use_preset_vocabulary: true
 射	yiq
 嶧	yiq
 帟	yiq
+廙	yiq	0%
 弈	yiq	71%
 弋	yiq	67%
 役	yiq	77%
@@ -886,6 +979,7 @@ use_preset_vocabulary: true
 憶	yiq	85%
 懌	yiq
 抑	yiq	74%
+抴	yiq	0%
 㧒	yiq
 拽	yiq	76%
 挹	yiq
@@ -894,6 +988,7 @@ use_preset_vocabulary: true
 斁	yiq
 易	yiq	83%
 欥	yiq
+曳	yiq	0%
 杙	yiq
 檍	yiq
 汩	yiq
@@ -902,6 +997,7 @@ use_preset_vocabulary: true
 液	yiq	81%
 㴒	yiq
 溢	yiq	79%
+潩	yiq	0%
 澺	yiq
 瀷	yiq
 熠	yiq
@@ -950,12 +1046,17 @@ use_preset_vocabulary: true
 黓	yiq
 齸	yiq
 弌	yiq	88%
+俾	bi	0%
 㡙	bi
 庳	bi
 悂	bi
+梐	bi	0%
 椑	bi
+比	bi	0%
+沘	bi	0%
 箄	bi
 篦	bi
+綼	bi	0%
 萆	bi
 𦱔	bi
 蓖	bi
@@ -965,6 +1066,7 @@ use_preset_vocabulary: true
 錍	bi
 鎞	bi
 𨻼	bi
+庳	byi	0%
 佊	bii
 俾	bii
 匕	bii
@@ -977,6 +1079,7 @@ use_preset_vocabulary: true
 𢔌	bii
 㪏	bii
 朼	bii
+枇	bii	0%
 柀	bii
 梐	bii
 比	bii	89%
@@ -984,23 +1087,28 @@ use_preset_vocabulary: true
 疪	bii
 䃾	bii
 秕	bii
+箄	bii	0%
 粃	bii
 𦸣	bii
 貏	bii
 鄙	bii	87%
 骳	bii
+髀	bii	0%
 坒	bih
 㘩	bih
 婢	bih	79%
 嬖	bih
 幣	bih	84%
 庇	bih
+庳	bih	0%
 弊	bih	85%
+彃	bih	0%
 彆	bih
 敝	bih	86%
 斃	bih	83%
 枇	bih
 柲	bih
+比	bih	0%
 毖	bih
 泌	bih
 㵒	bih
@@ -1013,8 +1121,10 @@ use_preset_vocabulary: true
 痺	bih
 𤹝	bih
 䀣	bih
+䃾	bih	0%
 祔	bih
 秘	bih	88%
+箄	bih	0%
 𦌠	bih
 臂	bih	81%
 芘	bih
@@ -1024,24 +1134,27 @@ use_preset_vocabulary: true
 蜌	bih
 襣	bih
 䠋	bih
+蹕	bih	0%
 避	bih	87%
+邲	bih	0%
 鄨	bih
 閉	bih	89%
 閟	bih
 陛	bih	80%
 鞁	bih
 䪐	bih
+骳	bih	0%
 髀	bih
 髲	bih
 鷩	bih
 鼻	bih
-比	bih
 佛	biq
 佖	biq
 偪	biq
 㓖	biq
 吡	biq
 咇	biq
+坒	biq	0%
 堛	biq
 壁	biq	87%
 幅	biq
@@ -1054,9 +1167,14 @@ use_preset_vocabulary: true
 㧙	biq
 擘	biq	85%
 擗	biq
+敝	biq	0%
+斃	biq	0%
+柲	biq	0%
 楅	biq
 㮿	biq
 𣝍	biq
+比	biq	0%
+泌	biq	0%
 湢	biq
 滭	biq
 熚	biq
@@ -1077,7 +1195,9 @@ use_preset_vocabulary: true
 腷	biq
 苾	biq
 荸	biq
+萆	biq	0%
 蓽	biq
+薜	biq	0%
 襞	biq
 覕	biq
 觱	biq
@@ -1090,7 +1210,9 @@ use_preset_vocabulary: true
 逼	biq	82%
 𨚍	biq
 邲	biq
+鄨	biq	0%
 鉍	biq
+閉	biq	0%
 韠	biq
 飶	biq
 饆	biq
@@ -1099,12 +1221,14 @@ use_preset_vocabulary: true
 鴔	biq
 鵖	biq
 鷝	biq
+鷩	biq	0%
 鼊	biq
 鼻	biq	78%
 丕	pi	86%
 伾	pi
 𠜱	pi
 岯	pi
+崥	pi	0%
 怌	pi
 批	pi	88%
 披	pi	89%
@@ -1121,6 +1245,7 @@ use_preset_vocabulary: true
 翍	pi
 耚	pi
 被	pi
+詖	pi	0%
 𧧺	pi
 豾	pi
 邳	pi
@@ -1132,7 +1257,9 @@ use_preset_vocabulary: true
 髬	pi
 魾	pi
 䲹	pi
+仳	pyi	0%
 埤	pyi
+岯	pyi	0%
 崥	pyi
 枇	pyi	87%
 㯅	pyi
@@ -1159,18 +1286,28 @@ use_preset_vocabulary: true
 魮	pyi
 鼙	pyi
 仳	pii
+俾	pii	0%
 否	pii
 嚭	pii
 坯	pii
+埤	pii	0%
+岯	pii	0%
+崥	pii	0%
 庀	pii
+披	pii	0%
 㪏	pii
+㱟	pii	0%
 疕	pii
 痞	pii
 𤿎	pii
+秠	pii	0%
+紕	pii	0%
+被	pii	0%
 諀	pii
 𧳏	pii
 䫌	pii
 𩣚	pii
+魮	pii	0%
 俾	pih
 嚊	pih
 圮	pih
@@ -1184,6 +1321,7 @@ use_preset_vocabulary: true
 睥	pih
 箅	pih
 䉾	pih
+紕	pih	0%
 罷	pih
 詖	pih
 譬	pih	89%
@@ -1192,11 +1330,13 @@ use_preset_vocabulary: true
 贔	pih
 跛	pih
 鄪	pih
+䫌	pih	0%
 僻	piq	86%
 副	piq
 劈	piq	84%
 匹	piq	89%
 愊	piq
+潎	piq	0%
 澼	piq
 疈	piq
 疋	piq	88%
@@ -1240,6 +1380,7 @@ use_preset_vocabulary: true
 洣	mii
 渳	mii
 濔	mii
+瀰	mii	0%
 灖	mii
 眯	mii
 米	mii	89%
@@ -1249,12 +1390,16 @@ use_preset_vocabulary: true
 𦗕	mii
 葞	mii
 蔝	mii
+蘼	mii	0%
 䖹	mii
 銤	mii
 靡	mii
 䱊	mii
+沕	mih	0%
+縻	mih	0%
 袂	mih
 謎	mih	89%
+靡	mih	0%
 媢	mih
 冖	miq
 冥	miq
@@ -1285,9 +1430,14 @@ use_preset_vocabulary: true
 鼏	miq
 低	di	89%
 彽	di
+柢	di	0%
+氐	di	0%
+砥	di	0%
 磾	di
 羝	di
 袛	di
+詆	di	0%
+踧	di	0%
 隄	di
 鞮	di
 堤	dii
@@ -1312,7 +1462,9 @@ use_preset_vocabulary: true
 揥	dih
 摕	dih
 杕	dih
+柢	dih	0%
 棣	dih	84%
+氐	dih	0%
 㼵	dih
 碲	dih
 禘	dih
@@ -1331,6 +1483,7 @@ use_preset_vocabulary: true
 嚁	diq
 嫡	diq	85%
 弔	diq
+摕	diq	0%
 敵	diq	87%
 樀	diq
 滌	diq	83%
@@ -1380,6 +1533,7 @@ use_preset_vocabulary: true
 禔	tyi
 稊	tyi
 綈	tyi
+締	tyi	0%
 緹	tyi
 荑	tyi
 𧋘	tyi
@@ -1388,6 +1542,7 @@ use_preset_vocabulary: true
 蹄	tyi	85%
 蹏	tyi
 遆	tyi
+醍	tyi	0%
 銻	tyi
 鍉	tyi
 隄	tyi	88%
@@ -1398,9 +1553,12 @@ use_preset_vocabulary: true
 鮧	tyi
 䱱	tyi
 鴺	tyi
+鵜	tyi	0%
 鶗	tyi
 体	tii	88%
+媞	tii	0%
 涕	tii	87%
+緹	tii	0%
 醍	tii
 體	tii	89%
 剃	tih	87%
@@ -1415,8 +1573,11 @@ use_preset_vocabulary: true
 替	tih	89%
 洟	tih
 涕	tih	86%
+焍	tih	0%
 珶	tih
 𤴡	tih
+睇	tih	0%
+睼	tih	0%
 締	tih
 薙	tih
 𧝐	tih
@@ -1425,6 +1586,7 @@ use_preset_vocabulary: true
 达	tih
 逮	tih
 遰	tih
+題	tih	0%
 鬀	tih
 鯷	tih
 䶑	tih
@@ -1449,6 +1611,7 @@ use_preset_vocabulary: true
 禰	nii
 薾	nii
 伱	nii	88%
+泥	nih	0%
 惄	niq
 愵	niq
 溺	niq
@@ -1514,8 +1677,10 @@ use_preset_vocabulary: true
 娌	lii
 履	lii	82%
 峛	lii
+攦	lii	0%
 𣀷	lii
 李	lii	83%
+梩	lii	0%
 欐	lii
 澧	lii
 理	lii	88%
@@ -1525,6 +1690,7 @@ use_preset_vocabulary: true
 禮	lii	81%
 𥴡	lii
 艃	lii
+蠡	lii	0%
 裏	lii	86%
 裡	lii	87%
 豊	lii
@@ -1539,10 +1705,12 @@ use_preset_vocabulary: true
 俐	lih
 儷	lih	80%
 利	lih	88%
+劙	lih	0%
 勵	lih	83%
 厲	lih	84%
 吏	lih	79%
 唳	lih
+孋	lih	0%
 悷	lih
 戾	lih
 攦	lih
@@ -1550,6 +1718,7 @@ use_preset_vocabulary: true
 栛	lih
 棙	lih
 櫔	lih
+欐	lih	0%
 沴	lih
 涖	lih
 浰	lih
@@ -1569,9 +1738,11 @@ use_preset_vocabulary: true
 蜧	lih
 蠣	lih	82%
 㼖	lih
+裏	lih	0%
 䚕	lih
 詈	lih
 隷	lih
+離	lih	0%
 䬅	lih
 𩗭	lih
 麗	lih	81%
@@ -1585,10 +1756,12 @@ use_preset_vocabulary: true
 屴	liq
 岦	liq
 慄	liq
+戾	liq	0%
 擽	liq
 歷	liq	87%
 朸	liq
 栗	liq	81%
+栵	liq	0%
 櫟	liq
 櫪	liq
 溧	liq
@@ -1604,6 +1777,7 @@ use_preset_vocabulary: true
 笠	liq	82%
 篥	liq
 粒	liq	83%
+糲	liq	0%
 䍥	liq
 䍽	liq
 苙	liq
@@ -1616,6 +1790,7 @@ use_preset_vocabulary: true
 鎘	liq
 靂	liq	86%
 颯	liq
+䬅	liq	0%
 䬆	liq
 鬲	liq
 鴗	liq
@@ -1625,9 +1800,11 @@ use_preset_vocabulary: true
 哩	.li	89%
 丌	ji
 乩	ji
+伎	ji	0%
 其	ji
 几	ji	84%
 刏	ji
+剞	ji	0%
 卟	ji
 咭	ji
 嘰	ji
@@ -1673,14 +1850,23 @@ use_preset_vocabulary: true
 麂	ji
 稽	ji	76%
 竒	ji	74%
+刏	jyi	0%
 嵆	jyi
+幾	jyi	0%
+璣	jyi	0%
+禨	jyi	0%
+蟣	jyi	0%
+𩴪	jyi	0%
 鵋	jyi
+伎	jii	0%
 几	jii	87%
 剞	jii
 㞆	jii
 己	jii	88%
 幾	jii	89%
 庋	jii
+掎	jii	0%
+机	jii	0%
 枳	jii
 穖	jii
 紀	jii	86%
@@ -1691,19 +1877,23 @@ use_preset_vocabulary: true
 𪊍	jii
 𪊨	jii
 伎	jih
+其	jih	0%
 冀	jih	79%
 刉	jih
+刏	jih	0%
 垍	jih
 塈	jih
 妓	jih	81%
 季	jih	86%
 寄	jih	87%
+幾	jih	0%
 彐	jih
 忌	jih	84%
 悸	jih
 惎	jih
 懻	jih
 技	jih	82%
+掎	jih	0%
 旡	jih
 既	jih	85%
 曁	jih
@@ -1711,8 +1901,10 @@ use_preset_vocabulary: true
 洎	jih
 瀱	jih
 猤	jih
+璣	jih	0%
 𢍉	jih
 痵	jih
+禨	jih	0%
 穊	jih
 紒	jih
 繼	jih	83%
@@ -1734,6 +1926,7 @@ use_preset_vocabulary: true
 𧫜	jih
 譏	jih
 跽	jih
+轚	jih	0%
 𨜒	jih
 䤒	jih
 騎	jih	78%
@@ -1759,6 +1952,7 @@ use_preset_vocabulary: true
 扢	jiq
 撠	jiq
 擊	jiq	79%
+曁	jiq	0%
 棘	jiq	82%
 極	jiq	88%
 殛	jiq
@@ -1780,7 +1974,9 @@ use_preset_vocabulary: true
 䞘	jiq
 轚	jiq
 䩯	jiq
+髻	jiq	0%
 鷑	jiq
+企	chi	0%
 僛	chi
 娸	chi
 崎	chi	87%
@@ -1796,13 +1992,19 @@ use_preset_vocabulary: true
 𤘌	chi
 玂	chi
 疧	chi
+碕	chi	0%
+綦	chi	0%
 綺	chi
+蚑	chi	0%
 䗁	chi
 螇	chi
 觭	chi
 谿	chi	89%
+跂	chi	0%
 踦	chi
 軝	chi
+錡	chi	0%
+騎	chi	0%
 魌	chi
 𪅾	chi
 鸂	chi
@@ -1869,9 +2071,12 @@ use_preset_vocabulary: true
 𡵆	chii
 己	chii
 㥓	chii
+敧	chii	0%
 晵	chii
 𣏌	chii
 棨	chii
+㱦	chii	0%
+碕	chii	0%
 䄫	chii
 䅲	chii
 綮	chii
@@ -1880,8 +2085,10 @@ use_preset_vocabulary: true
 䒻	chii
 䔇	chii
 裿	chii
+觭	chii	0%
 豈	chii	88%
 起	chii	89%
+錡	chii	0%
 啟	chii	87%
 杞	chii	84%
 亟	chih	83%
@@ -1891,6 +2098,7 @@ use_preset_vocabulary: true
 器	chih	87%
 契	chih	84%
 弃	chih
+徛	chih	0%
 憩	chih
 揭	chih
 栔	chih
@@ -1900,9 +2108,13 @@ use_preset_vocabulary: true
 汽	chih
 炁	chih
 瘈	chih
+綦	chih	0%
 罊	chih
+䏿	chih	0%
+蚑	chih	0%
 䞚	chih
 跂	chih
+騎	chih	0%
 噐	chih	86%
 乞	chiq	89%
 仡	chiq
@@ -1910,8 +2122,10 @@ use_preset_vocabulary: true
 喫	chiq	85%
 嘁	chiq
 圪	chiq
+契	chiq	0%
 屹	chiq
 忔	chiq
+栔	chiq	0%
 毄	chiq
 汔	chiq
 泣	chiq	84%
@@ -1926,6 +2140,11 @@ use_preset_vocabulary: true
 迄	chiq	87%
 郤	chiq
 釳	chiq
+尼	gnhi	0%
+抳	gnhi	0%
+旎	gnhi	0%
+柅	gnhi	0%
+狔	gnhi	0%
 倪	gni	87%
 兒	gni
 呢	gni	88%
@@ -1937,6 +2156,7 @@ use_preset_vocabulary: true
 怩	gni
 旎	gni
 柅	gni
+檷	gni	0%
 涴	gni
 猊	gni
 䍲	gni
@@ -1953,6 +2173,8 @@ use_preset_vocabulary: true
 麑	gni
 齯	gni
 伲	gnii
+倪	gnii	0%
+儗	gnii	0%
 堄	gnii
 婗	gnii
 嬟	gnii
@@ -1961,23 +2183,33 @@ use_preset_vocabulary: true
 擬	gnii	89%
 㪒	gnii
 𢾿	gnii
+旎	gnii	0%
 昵	gnii
 晲	gnii
+暱	gnii	0%
+柅	gnii	0%
 檷	gnii
 狔	gnii
 礒	gnii
 苨	gnii
 薿	gnii
 䘦	gnii
+觬	gnii	0%
+轙	gnii	0%
 鈮	gnii
 儗	gnih
+堄	gnih	0%
 帠	gnih
 掜	gnih
+檷	gnih	0%
 甈	gnih
 睨	gnih
 膩	gnih	89%
 匿	gniq	88%
 孨	gniq
+孴	gniq	0%
+尼	gniq	0%
+嶷	gniq	0%
 㥾	gniq
 暱	gniq
 𣘗	gniq
@@ -1985,10 +2217,13 @@ use_preset_vocabulary: true
 㵫	gniq
 縌	gniq
 耴	gniq
+薿	gniq	0%
 䘌	gniq
 衵	gniq
+觺	gniq	0%
 逆	gniq	89%
 鑈	gniq
+霓	gniq	0%
 顳	gniq
 鷊	gniq
 䵒	gniq
@@ -1996,6 +2231,7 @@ use_preset_vocabulary: true
 俙	shi
 傒	shi
 僖	shi
+㕧	shi	0%
 咦	shi
 唏	shi	85%
 嘻	shi	89%
@@ -2005,6 +2241,7 @@ use_preset_vocabulary: true
 巇	shi
 希	shi	86%
 悕	shi
+戲	shi	0%
 晞	shi
 㬢	shi
 桸	shi
@@ -2024,6 +2261,7 @@ use_preset_vocabulary: true
 羲	shi
 莃	shi
 蒵	shi
+蓰	shi	0%
 蠵	shi
 觿	shi
 誒	shi
@@ -2039,28 +2277,45 @@ use_preset_vocabulary: true
 鵗	shi
 黊	shi
 𪓷	shi
+俙	shyi	0%
 兮	shyi	89%
 奚	shyi	88%
 㜎	shyi
 巂	shyi
 徯	shyi
 攜	shyi	87%
+桸	shyi	0%
+榽	shyi	0%
 畦	shyi
+蒵	shyi	0%
+蠵	shyi	0%
 豀	shyi
 蹊	shyi
 雟	shyi
 驨	shyi
 鼷	shyi
+俙	shii	0%
 匸	shii
+咥	shii	0%
 唏	shii
 喜	shii	89%
+娭	shii	0%
+嬉	shii	0%
+屣	shii	0%
+徯	shii	0%
 㰥	shii
+欷	shii	0%
 漇	shii
 蓰	shii
 蟢	shii
+謑	shii	0%
+豨	shii	0%
 蹝	shii
 躧	shii
+霼	shii	0%
 𩌦	shii
+鵗	shii	0%
+鼳	shii	0%
 𪖥	shii
 係	shih	88%
 㕧	shih
@@ -2069,6 +2324,7 @@ use_preset_vocabulary: true
 嚱	shih
 㚛	shih
 妎	shih
+嬉	shih	0%
 屓	shih
 屣	shih
 屭	shih
@@ -2078,23 +2334,31 @@ use_preset_vocabulary: true
 憙	shih
 戲	shih	89%
 擊	shih
+榽	shih	0%
 檕	shih
+欷	shih	0%
 忥	shih
 熂	shih
 䀈	shih
 盻	shih
 禊	shih
 系	shih	87%
+纗	shih	0%
+脇	shih	0%
+蒵	shih	0%
 蔇	shih
 蘻	shih
+謑	shih	0%
 豷	shih
 霼	shih
+𩌦	shih	0%
 餼	shih
 黖	shih
 齂	shih
 繫	shih	86%
 㒆	shiq
 吸	shiq	89%
+咥	shiq	0%
 㘊	shiq
 𢙅	shiq
 𢢞	shiq
@@ -2132,12 +2396,17 @@ use_preset_vocabulary: true
 齎	tzi
 齏	tzi
 劑	tzyi
+嚌	tzyi	0%
 懠	tzyi
 擠	tzii	89%
 泲	tzii
 濟	tzii
+癠	tzii	0%
 劑	tzih	87%
 嚌	tzih
+嫉	tzih	0%
+懠	tzih	0%
+擠	tzih	0%
 漈	tzih
 濟	tzih	84%
 癠	tzih
@@ -2220,8 +2489,10 @@ use_preset_vocabulary: true
 麡	tsyi
 齊	tsyi	89%
 𪗏	tsyi
+緀	tsii	0%
 鮆	tsii
 切	tsih
+妻	tsih	0%
 𥉻	tsih
 砌	tsih	89%
 刺	tsiq
@@ -2233,6 +2504,7 @@ use_preset_vocabulary: true
 桼	tsiq
 漆	tsiq	87%
 潗	tsiq
+𥉻	tsiq	0%
 磧	tsiq
 磩	tsiq
 緝	tsiq
@@ -2314,6 +2586,7 @@ use_preset_vocabulary: true
 𪅽	siq
 嗚	u	88%
 圬	u
+惡	u	0%
 摀	u
 於	u
 杇	u
@@ -2334,6 +2607,8 @@ use_preset_vocabulary: true
 唔	wu
 峿	wu
 巫	wu	83%
+廡	wu	0%
+憮	wu	0%
 无	wu
 梧	wu	84%
 毋	wu	82%
@@ -2342,6 +2617,7 @@ use_preset_vocabulary: true
 無	wu	87%
 㻍	wu
 璑	wu
+瞴	wu	0%
 䍢	wu
 䓊	wu
 蕪	wu	86%
@@ -2357,6 +2633,7 @@ use_preset_vocabulary: true
 儛	wuu
 午	wuu	83%
 嫵	wuu
+峿	wuu	0%
 廡	wuu
 忤	wuu
 𢜮	wuu
@@ -2368,15 +2645,18 @@ use_preset_vocabulary: true
 武	wuu	87%
 潕	wuu
 玝	wuu
+瑦	wuu	0%
 甒	wuu
 瞴	wuu
 碔	wuu
 舞	wuu	84%
 蘁	wuu
 迕	wuu
+鄔	wuu	0%
 鋘	wuu
 隝	wuu
 鵡	wuu	86%
+鶩	wuu	0%
 務	wuh	89%
 塢	wuh
 婺	wuh
@@ -2388,11 +2668,13 @@ use_preset_vocabulary: true
 捂	wuh
 敄	wuh
 晤	wuh	84%
+梧	wuh	0%
 汙	wuh	82%
 牾	wuh
 誤	wuh	86%
 逜	wuh
 遻	wuh
+隝	wuh	0%
 霧	wuh	88%
 騖	wuh
 鶩	wuh
@@ -2415,11 +2697,15 @@ use_preset_vocabulary: true
 阢	wuq
 𩑦	wuq
 䬑	wuq
+抪	bu	0%
 晡	bu
 誧	bu
 逋	bu
 餔	bu
+蔀	buu	0%
 補	buu	89%
+誧	buu	0%
+部	buu	0%
 鞴	buu
 佈	buh	88%
 哺	buh	82%
@@ -2436,7 +2722,9 @@ use_preset_vocabulary: true
 荹	buh
 蔀	buh
 𧦞	buh
+誧	buh	0%
 部	buh	85%
+餔	buh	0%
 𩣝	buh
 不	buq	89%
 卜	buq	88%
@@ -2472,7 +2760,9 @@ use_preset_vocabulary: true
 譜	puu	88%
 鐠	puu
 䲕	puu
+圃	puh	0%
 舖	puh	88%
+酺	puh	0%
 鋪	puh	89%
 僕	puq	89%
 墣	puq
@@ -2501,16 +2791,19 @@ use_preset_vocabulary: true
 拇	muu
 母	muu	89%
 畝	muu	88%
+蓩	muu	0%
 𧬏	muu
 鉧	muu
 䥈	muu
 䳇	muu
 募	muh	89%
 墓	muh	88%
+姆	muh	0%
 慕	muh	86%
 慔	muh
 暮	muh	87%
 楘	muh
+慔	muq	0%
 木	muq	89%
 毣	muq
 沐	muq	87%
@@ -2538,13 +2831,17 @@ use_preset_vocabulary: true
 敷	fu	87%
 枹	fu
 柎	fu
+桴	fu	0%
 泭	fu
 玞	fu
 痡	fu
 砆	fu
 䄮	fu
+簠	fu	0%
+紑	fu	0%
 紨	fu
 膚	fu	88%
+艴	fu	0%
 荂	fu
 莩	fu
 衃	fu
@@ -2598,9 +2895,11 @@ use_preset_vocabulary: true
 㾈	fuu
 秿	fuu
 簠	fuu
+紑	fuu	0%
 脯	fuu
 腐	fuu	86%
 腑	fuu	87%
+芣	fuu	0%
 莆	fuu
 蚥	fuu
 𧉊	fuu
@@ -2609,8 +2908,10 @@ use_preset_vocabulary: true
 頫	fuu
 鬴	fuu
 黼	fuu
+䵾	fuu	0%
 仆	fuh
 付	fuh	86%
+伏	fuh	0%
 傅	fuh	84%
 副	fuh	85%
 㕮	fuh
@@ -2618,28 +2919,39 @@ use_preset_vocabulary: true
 坿	fuh
 婦	fuh	88%
 富	fuh	83%
+復	fuh	0%
+拊	fuh	0%
+柎	fuh	0%
 滏	fuh
 父	fuh	89%
+祓	fuh	0%
+簠	fuh	0%
 䍸	fuh
 腐	fuh	76%
+茀	fuh	0%
+茇	fuh	0%
 萯	fuh
 𦺉	fuh
 䔰	fuh
 蚹	fuh
 蝜	fuh
+覆	fuh	0%
 訃	fuh	80%
 詂	fuh
 負	fuh	87%
 賦	fuh	82%
 賻	fuh
 赴	fuh	81%
+跗	fuh	0%
 軵	fuh
 輔	fuh	75%
+輻	fuh	0%
 鍑	fuh
 阜	fuh
 附	fuh	78%
 䩉	fuh
 駙	fuh	77%
+髴	fuh	0%
 𩬙	fuh
 鮒	fuh
 伏	fuq	81%
@@ -2647,6 +2959,7 @@ use_preset_vocabulary: true
 偪	fuq
 冹	fuq
 刜	fuq
+副	fuq	0%
 匐	fuq
 咈	fuq
 坲	fuq
@@ -2700,6 +3013,7 @@ use_preset_vocabulary: true
 輹	fuq
 輻	fuq
 𨚓	fuq
+鍑	fuq	0%
 𩍩	fuq
 韍	fuq
 𩖼	fuq
@@ -2729,6 +3043,7 @@ use_preset_vocabulary: true
 杜	duh	86%
 渡	duh	89%
 稌	duh
+纛	duh	0%
 肚	duh	85%
 芏	duh
 荰	duh
@@ -2783,6 +3098,7 @@ use_preset_vocabulary: true
 䅷	twu
 筡	twu
 荼	twu
+菟	twu	0%
 蒤	twu
 跿	twu
 途	twu	88%
@@ -2814,6 +3130,7 @@ use_preset_vocabulary: true
 鵚	tuq
 鼵	tuq
 禿	tuq	89%
+笯	nhu	0%
 奴	nu	89%
 拏	nu
 帑	nu
@@ -2823,8 +3140,11 @@ use_preset_vocabulary: true
 努	nuu	89%
 弩	nuu
 怒	nuu
+砮	nuu	0%
 怒	nuh	89%
+笯	nuh	0%
 嚕	lhu	89%
+戮	lu	0%
 壚	lu
 廬	lu	86%
 擄	lu
@@ -2850,6 +3170,7 @@ use_preset_vocabulary: true
 𪈒	lu
 黸	lu
 嚕	luu
+𢫫	luu	0%
 櫓	luu	86%
 滷	luu	88%
 艣	luu
@@ -2859,6 +3180,7 @@ use_preset_vocabulary: true
 魯	luu	87%
 䲐	luu
 鹵	luu	89%
+𢫫	luh	0%
 潞	luh
 璐	luh
 簬	luh
@@ -2941,7 +3263,9 @@ use_preset_vocabulary: true
 估	guu	88%
 古	guu	89%
 嘏	guu
+沽	guu	0%
 牯	guu
+盬	guu	0%
 𥂩	guu
 瞽	guu
 罟	guu
@@ -2957,8 +3281,11 @@ use_preset_vocabulary: true
 固	guh	85%
 故	guh	89%
 棝	guh
+沽	guh	0%
 痼	guh
 稒	guh
+詁	guh	0%
+酤	guh	0%
 錮	guh
 雇	guh	88%
 顧	guh	86%
@@ -2991,6 +3318,7 @@ use_preset_vocabulary: true
 郀	ku
 苦	kuu	89%
 庫	kuh	89%
+苦	kuh	0%
 袴	kuh	87%
 褲	kuh	88%
 俈	kuq
@@ -3040,6 +3368,7 @@ use_preset_vocabulary: true
 鶦	hwu
 滸	huu	87%
 琥	huu	88%
+膴	huu	0%
 虎	huu	89%
 互	huh	89%
 冱	huh
@@ -3061,6 +3390,7 @@ use_preset_vocabulary: true
 濩	huh
 瓠	huh	86%
 祚	huh
+穫	huh	0%
 簄	huh
 芐	huh
 謼	huh
@@ -3078,6 +3408,7 @@ use_preset_vocabulary: true
 彠	huq
 忽	huq	89%
 惚	huq	88%
+擭	huq	0%
 斛	huq	87%
 昒	huq
 曶	huq
@@ -3087,6 +3418,7 @@ use_preset_vocabulary: true
 豰	huq
 㳷	huq
 淴	huq
+濩	huq	0%
 瀫	huq
 熇	huq
 㿥	huq
@@ -3101,8 +3433,10 @@ use_preset_vocabulary: true
 觳	huq
 𣫈	huq
 鑊	huq
+雘	huq	0%
 䬍	huq
 𩟓	huq
+鱯	huq	0%
 鵠	huq
 鶮	huq
 侏	ju
@@ -3123,6 +3457,7 @@ use_preset_vocabulary: true
 諸	ju	84%
 豬	ju	82%
 跦	ju
+𨙔	ju	0%
 邾	ju
 鴸	ju
 鼄	ju
@@ -3139,6 +3474,7 @@ use_preset_vocabulary: true
 竚	juu
 罜	juu
 羜	juu
+著	juu	0%
 䘢	juu
 貯	juu
 䰞	juu
@@ -3147,11 +3483,14 @@ use_preset_vocabulary: true
 佇	juh
 住	juh	89%
 助	juh	81%
+咮	juh	0%
 杼	juh
 柱	juh	86%
 注	juh	88%
+炷	juh	0%
 箸	juh	82%
 紵	juh
+罜	juh	0%
 翥	juh
 苧	juh
 著	juh	83%
@@ -3192,6 +3531,7 @@ use_preset_vocabulary: true
 筑	juq	83%
 築	juq	82%
 粥	juq	85%
+罜	juq	0%
 舳	juq
 茿	juq
 䕽	juq
@@ -3225,6 +3565,7 @@ use_preset_vocabulary: true
 裯	chwu
 躇	chwu	86%
 躕	chwu
+鉏	chwu	0%
 鋤	chwu	84%
 除	chwu	89%
 雛	chwu	85%
@@ -3236,15 +3577,22 @@ use_preset_vocabulary: true
 楮	chuu
 濋	chuu
 礎	chuu	88%
+絮	chuu	0%
 處	chuu	87%
 褚	chuu	84%
+鉏	chuu	0%
 𪓐	chuu
 齼	chuu
 処	chuu	86%
+楚	chuh	0%
+矗	chuh	0%
 絮	chuh
+耡	chuh	0%
 菆	chuh
 處	chuh	89%
+躇	chuh	0%
 𨳳	chuh
+除	chuh	0%
 処	chuh	88%
 亍	chuq
 俶	chuq
@@ -3293,6 +3641,7 @@ use_preset_vocabulary: true
 舒	shu	83%
 茱	shu
 蔬	shu	86%
+䜴	shu	0%
 輸	shu	88%
 鄃	shu
 隃	shu
@@ -3303,10 +3652,12 @@ use_preset_vocabulary: true
 蜍	shwu
 銖	shwu
 墅	shuu
+抒	shuu	0%
 數	shuu	85%
 暑	shuu	89%
 癙	shuu
 籔	shuu
+紓	shuu	0%
 署	shuu	88%
 藪	shuu
 𧑓	shuu
@@ -3324,6 +3675,7 @@ use_preset_vocabulary: true
 杼	shuh
 樹	shuh	89%
 澍	shuh
+疏	shuh	0%
 竪	shuh
 署	shuh
 腧	shuh
@@ -3332,6 +3684,8 @@ use_preset_vocabulary: true
 裋	shuh
 䜴	shuh
 豎	shuh	86%
+輸	shuh	0%
+隃	shuh	0%
 倐	shuq
 倏	shuq	80%
 儵	shuq
@@ -3341,6 +3695,7 @@ use_preset_vocabulary: true
 屬	shuq	78%
 摵	shuq
 摍	shuq
+數	shuq	0%
 束	shuq	81%
 㯮	shuq
 沭	shuq
@@ -3371,6 +3726,7 @@ use_preset_vocabulary: true
 䴰	shuq
 属	shuq	77%
 儒	ru	88%
+嗕	ru	0%
 嚅	ru
 如	ru	89%
 嬬	ru
@@ -3378,6 +3734,7 @@ use_preset_vocabulary: true
 帤	ru
 懦	ru
 挐	ru
+洳	ru	0%
 濡	ru
 獳	ru
 繻	ru
@@ -3389,6 +3746,7 @@ use_preset_vocabulary: true
 蠕	ru
 袽	ru
 襦	ru
+醹	ru	0%
 銣	ru
 顬	ru
 鱬	ru
@@ -3399,9 +3757,12 @@ use_preset_vocabulary: true
 籹	ruu
 醹	ruu
 𪏮	ruu
+如	ruh	0%
 孺	ruh	89%
 擩	ruh
 洳	ruh
+濡	ruh	0%
+茹	ruh	0%
 傉	ruq
 入	ruq	89%
 嗕	ruq
@@ -3425,14 +3786,17 @@ use_preset_vocabulary: true
 祖	tzuu	89%
 組	tzuu	87%
 蔖	tzuu
+詛	tzuu	0%
 跙	tzuu
 阻	tzuu	88%
 靻	tzuu
 齟	tzuu
 祗	tzuh
+稡	tzuh	0%
 胙	tzuh
 葄	tzuh
 詛	tzuh
+跙	tzuh	0%
 飵	tzuh
 駔	tzuh
 倅	tzuq
@@ -3443,6 +3807,7 @@ use_preset_vocabulary: true
 族	tzuq	87%
 椊	tzuq
 稡	tzuq
+胙	tzuq	0%
 足	tzuq	89%
 踤	tzuq
 鏃	tzuq
@@ -3451,7 +3816,10 @@ use_preset_vocabulary: true
 觕	tsu
 麤	tsu	88%
 皻	tsuu
+粗	tsuu	0%
+觕	tsuu	0%
 措	tsuh	88%
+皻	tsuh	0%
 醋	tsuh	89%
 錯	tsuh
 促	tsuq	89%
@@ -3526,11 +3894,15 @@ use_preset_vocabulary: true
 鱐	suq
 鷫	suq
 肃	suq	87%
+𢮁	iu	0%
 毹	iu
+淤	iu	0%
+瘀	iu	0%
 紆	iu
 菸	iu
 藇	iu
 迂	iu	89%
+醧	iu	0%
 陓	iu
 予	yu	81%
 于	yu	87%
@@ -3546,6 +3918,7 @@ use_preset_vocabulary: true
 妤	yu
 娛	yu	71%
 嵎	yu
+悇	yu	0%
 㥚	yu
 愉	yu	75%
 愚	yu	82%
@@ -3570,6 +3943,7 @@ use_preset_vocabulary: true
 璵	yu
 㼶	yu
 畬	yu
+瘉	yu	0%
 盂	yu	85%
 盓	yu
 睮	yu
@@ -3582,6 +3956,7 @@ use_preset_vocabulary: true
 腴	yu
 臾	yu	77%
 舁	yu
+與	yu	0%
 艅	yu
 𦩞	yu
 萸	yu
@@ -3609,6 +3984,7 @@ use_preset_vocabulary: true
 𨵦	yu
 隅	yu	83%
 雓	yu
+雨	yu	0%
 雩	yu
 餘	yu	76%
 騟	yu
@@ -3619,23 +3995,30 @@ use_preset_vocabulary: true
 䳜	yu
 𪃍	yu
 鸆	yu
+麌	yu	0%
 齬	yu
 齵	yu
 楡	yu	73%
 与	yeu
+予	yeu	0%
 俁	yeu
 偊	yeu
 傴	yeu
+噊	yeu	0%
 噢	yeu
 圄	yeu
 圉	yeu
+嫗	yeu	0%
 宇	yeu	85%
 庾	yeu
+㥚	yeu	0%
 愈	yeu
 㦛	yeu
 𢮁	yeu
+揄	yeu	0%
 敔	yeu
 斞	yeu
+楰	yeu	0%
 楀	yeu
 瑀	yeu
 瘉	yeu
@@ -3650,13 +4033,18 @@ use_preset_vocabulary: true
 與	yeu	87%
 萭	yeu
 蘌	yeu
+衙	yeu	0%
 語	yeu	86%
 貐	yeu
 𧾚	yeu
+鋙	yeu	0%
 雨	yeu	89%
+髃	yeu	0%
 𪇬	yeu
 鸒	yeu
 麌	yeu	83%
+齬	yeu	0%
+俞	yuh	0%
 𠕦	yuh
 娛	yuh	78%
 嫗	yuh
@@ -3667,26 +4055,41 @@ use_preset_vocabulary: true
 愈	yuh	77%
 愉	yuh	82%
 棜	yuh
+欲	yuh	0%
+歟	yuh	0%
 淤	yuh
 淢	yuh
+渝	yuh	0%
 澦	yuh
+燠	yuh	0%
 瘀	yuh
 礜	yuh
 禦	yuh	85%
+禺	yuh	0%
+穥	yuh	0%
 籲	yuh
 緎	yuh
+羽	yuh	0%
 與	yuh	87%
 芋	yuh
+菸	yuh	0%
 蓲	yuh
 蕷	yuh
+藇	yuh	0%
+虞	yuh	0%
 裕	yuh	83%
+覦	yuh	0%
+語	yuh	0%
+諛	yuh	0%
 諭	yuh	81%
 譽	yuh	80%
 豫	yuh	79%
+輿	yuh	0%
 遇	yuh	89%
 醧	yuh
 閼	yuh
 隅	yuh	76%
+雨	yuh	0%
 預	yuh	84%
 飫	yuh
 饇	yuh
@@ -3756,12 +4159,15 @@ use_preset_vocabulary: true
 黦	yuq
 婁	liu
 㟺	liu
+慮	liu	0%
 櫚	liu
 氀	liu
 漊	liu
 瘻	liu
 藘	liu
 䕡	liu
+褸	liu	0%
+謱	liu	0%
 䣚	liu
 閭	liu
 䮉	liu
@@ -3771,20 +4177,24 @@ use_preset_vocabulary: true
 僂	leu
 儢	leu
 呂	leu	88%
+婁	leu	0%
 屢	leu	85%
 旅	leu	86%
 㭚	leu
 梠	leu
+漊	leu	0%
 祣	leu
 穭	leu
 𥰠	leu
 𥴧	leu
 縷	leu	84%
 膂	leu
+䕡	leu	0%
 𧃒	leu
 褸	leu
 謱	leu
 鋁	leu
+鷜	leu	0%
 吕	leu	89%
 勴	liuh
 屢	liuh
@@ -3802,6 +4212,7 @@ use_preset_vocabulary: true
 繂	liuq
 膟	liuq
 俱	jiu	85%
+句	jiu	0%
 𡨢	jiu
 居	jiu	89%
 崌	jiu
@@ -3816,12 +4227,16 @@ use_preset_vocabulary: true
 蜛	jiu
 跔	jiu
 車	jiu	86%
+醵	jiu	0%
+鐻	jiu	0%
 駒	jiu	87%
 鴝	jiu
 鶋	jiu
 侷	jyu
 弆	jeu
 怇	jeu
+拒	jeu	0%
+枸	jeu	0%
 椇	jeu
 櫸	jeu
 矩	jeu	88%
@@ -3829,6 +4244,8 @@ use_preset_vocabulary: true
 舉	jeu	89%
 莒	jeu
 蒟	jeu
+蚷	jeu	0%
+詎	jeu	0%
 貗	jeu
 踽	jeu
 鄅	jeu
@@ -3842,12 +4259,15 @@ use_preset_vocabulary: true
 懅	jiuh
 懼	jiuh	87%
 拒	jiuh	79%
+据	jiuh	0%
 據	jiuh	85%
 㬬	jiuh
 柜	jiuh
+椐	jiuh	0%
 歫	jiuh
 泃	jiuh
 炬	jiuh
+痀	jiuh	0%
 䀠	jiuh
 𥉁	jiuh
 秬	jiuh
@@ -3855,6 +4275,7 @@ use_preset_vocabulary: true
 粔	jiuh
 苣	jiuh	82%
 萭	jiuh
+蒟	jiuh	0%
 虡	jiuh
 蚷	jiuh
 裾	jiuh
@@ -3866,11 +4287,13 @@ use_preset_vocabulary: true
 踞	jiuh
 躆	jiuh
 遽	jiuh	84%
+醵	jiuh	0%
 鉅	jiuh	81%
 鋸	jiuh	78%
 鐻	jiuh
 雊	jiuh
 颶	jiuh	88%
+駒	jiuh	0%
 駏	jiuh
 䱟	jiuh
 㑢	jiuq
@@ -3894,6 +4317,7 @@ use_preset_vocabulary: true
 谻	jiuq
 跼	jiuq
 踘	jiuq
+躆	jiuq	0%
 輂	jiuq
 郹	jiuq
 醵	jiuq
@@ -3908,13 +4332,17 @@ use_preset_vocabulary: true
 呿	chiu
 嶇	chiu
 㠊	chiu
+抾	chiu	0%
 敺	chiu
 斪	chiu
 瞿	chiu
 祛	chiu
+竘	chiu	0%
+絇	chiu	0%
 胠	chiu
 朐	chiu
 葋	chiu
+蘧	chiu	0%
 袪	chiu
 𨄅	chiu
 軀	chiu	87%
@@ -3924,6 +4352,7 @@ use_preset_vocabulary: true
 鮬	chiu
 鰸	chiu
 鼩	chiu
+齲	chiu	0%
 劬	chyu
 戵	chyu
 抾	chyu
@@ -3948,15 +4377,26 @@ use_preset_vocabulary: true
 𪆂	chyu
 鸜	chyu
 佢	chyu	88%
+去	cheu	0%
 竘	cheu
+胠	cheu	0%
 詓	cheu
+麮	cheu	0%
+鼁	cheu	0%
 齲	cheu
 去	chiuh	89%
+抾	chiuh	0%
 㰦	chiuh
+瞿	chiuh	0%
+絇	chiuh	0%
+胠	chiuh	0%
+詓	chiuh	0%
+驅	chiuh	0%
 麮	chiuh
 鼁	chiuh
 屈	chiuq	89%
 曲	chiuq	88%
+胠	chiuq	0%
 䒼	chiuq
 䖦	chiuq
 詘	chiuq
@@ -3965,8 +4405,11 @@ use_preset_vocabulary: true
 鶌	chiuq
 麯	chiuq	87%
 麴	chiuq
+絮	gnhiu	0%
 女	gneu	89%
 絮	gneu
+女	gniuh	0%
+絮	gniuh	0%
 恧	gniuq
 朒	gniuq
 衄	gniuq
@@ -3983,6 +4426,7 @@ use_preset_vocabulary: true
 昫	shiu
 欨	shiu
 歔	shiu
+煦	shiu	0%
 盱	shiu
 芋	shiu
 蓲	shiu
@@ -3992,14 +4436,25 @@ use_preset_vocabulary: true
 驉	shiu
 魖	shiu
 虛	shiu	89%
+冔	sheu	0%
 咻	sheu
+姁	sheu	0%
+昫	sheu	0%
 栩	sheu
 煦	sheu
 珝	sheu
+訏	sheu	0%
 許	sheu	89%
 詡	sheu
 鄦	sheu
+侐	shiuh	0%
+吁	shiuh	0%
 呴	shiuh
+嘔	shiuh	0%
+噓	shiuh	0%
+姁	shiuh	0%
+昫	shiuh	0%
+煦	shiuh	0%
 酗	shiuh
 侐	shiuq
 勖	shiuq
@@ -4024,7 +4479,9 @@ use_preset_vocabulary: true
 䛙	shiuq
 頊	shiuq
 且	tziu
+怚	tziu	0%
 沮	tziu
+狙	tziu	0%
 疽	tziu
 砠	tziu
 罝	tziu
@@ -4034,17 +4491,27 @@ use_preset_vocabulary: true
 趄	tziu
 䢸	tziu
 雎	tziu
+冣	tzeu	0%
 咀	tzeu
+怚	tzeu	0%
+沮	tzeu	0%
+疽	tzeu	0%
 𤿚	tzeu
+苴	tzeu	0%
 冣	tziuh
 埾	tziuh
 怚	tziuh
+沮	tziuh	0%
 狙	tziuh
 耝	tziuh
 聚	tziuh	89%
+䏣	tziuh	0%
+苴	tziuh	0%
 蜡	tziuh
 足	tziuh
+取	tsiu	0%
 蛆	tsiu	88%
+趣	tsiu	0%
 趨	tsiu	89%
 騶	tsiu
 鯫	tsiu
@@ -4059,10 +4526,13 @@ use_preset_vocabulary: true
 揟	siu
 楈	siu
 湑	siu
+稰	siu	0%
 糈	siu
 繻	siu
 胥	siu	86%
 蝑	siu
+諝	siu	0%
+醑	siu	0%
 鑐	siu
 需	siu	87%
 須	siu	89%
@@ -4074,6 +4544,9 @@ use_preset_vocabulary: true
 徐	syu	89%
 邪	syu
 敍	seu
+湑	seu	0%
+稰	seu	0%
+糈	seu	0%
 𦄼	seu
 藇	seu
 諝	seu
@@ -4122,12 +4595,16 @@ use_preset_vocabulary: true
 豝	ba
 鈀	ba
 杷	bar	89%
+𥝧	bar	0%
 把	baa	89%
+爸	baa	0%
+笆	baa	0%
 靶	baa	88%
 叭	bah
 壩	bah	84%
 弝	bah
 把	bah	88%
+杷	bah	0%
 欛	bah
 灞	bah
 爸	bah	89%
@@ -4164,6 +4641,7 @@ use_preset_vocabulary: true
 琶	par	86%
 跁	par
 趴	par	89%
+跁	paa	0%
 帊	pah
 帕	pah
 怕	pah	89%
@@ -4192,10 +4670,12 @@ use_preset_vocabulary: true
 嗎	mah
 禡	mah	88%
 罵	mah	89%
+䣕	mah	0%
 鬕	mah
 㑻	maq
 䀣	maq
 礣	maq
+鬕	maq	0%
 嗎	.ma	89%
 麼	.ma	88%
 乏	faq	82%
@@ -4238,7 +4718,10 @@ use_preset_vocabulary: true
 韃	daq
 䵣	daq
 他	ta	89%
+漯	ta	0%
 㻌	ta
+㻌	taa	0%
+闟	taa	0%
 呾	taq
 嗒	taq
 嚃	taq
@@ -4287,6 +4770,9 @@ use_preset_vocabulary: true
 䵬	taq
 䶀	taq
 龖	taq
+䋈	nha	0%
+絮	nha	0%
+䏧	nha	0%
 拏	na	88%
 挐	na
 拿	na	89%
@@ -4314,7 +4800,9 @@ use_preset_vocabulary: true
 吶	naq	87%
 拉	lha	89%
 啦	la
+攋	laa	0%
 藞	laa
+藞	lah	0%
 剌	laq	87%
 喇	laq	86%
 垃	laq
@@ -4351,6 +4839,8 @@ use_preset_vocabulary: true
 哈	ha	89%
 餀	hah
 𠭯	ja
+咤	ja	0%
+奓	ja	0%
 抯	ja
 㪥	ja
 查	ja
@@ -4367,28 +4857,39 @@ use_preset_vocabulary: true
 𥹁	ja
 𦘴	ja
 蔖	ja
+觰	ja	0%
 諸	ja
 齇	ja
 䶥	ja
 厏	jaa
+奓	jaa	0%
+抯	jaa	0%
 拃	jaa
 痄	jaa
+皻	jaa	0%
 苴	jaa
 䕢	jaa
+觰	jaa	0%
 鮓	jaa
 乍	jah	89%
 咤	jah
 奓	jah
 榨	jah	86%
+溠	jah	0%
+𣻐	jah	0%
 炸	jah	88%
 砟	jah
 䄍	jah
+𥞒	jah	0%
 䆛	jah
+𦘴	jah	0%
 蔗	jah	85%
+䕢	jah	0%
 蜡	jah
 觰	jah
 詐	jah	87%
 醡	jah
+鮓	jah	0%
 𠗨	jaq
 哳	jaq
 㞚	jaq
@@ -4409,6 +4910,7 @@ use_preset_vocabulary: true
 䥷	jaq
 閘	jaq	86%
 鰈	jaq
+侘	cha	0%
 叉	cha	89%
 喳	cha
 差	cha	88%
@@ -4431,19 +4933,27 @@ use_preset_vocabulary: true
 搽	char	88%
 查	char	87%
 楂	char
+槎	char	0%
 苴	char
 茶	char	89%
 荼	char
+喳	chaa	0%
+奼	chaa	0%
+槎	chaa	0%
 𥫢	chaa
 䟻	chaa
 侘	chah
 奼	chah
 岔	chah	88%
 搾	chah
+杈	chah	0%
 汊	chah
+秅	chah	0%
+𥫢	chah	0%
 䖳	chah
 衩	chah
 詫	chah	89%
+䟻	chah	0%
 䛽	chah	87%
 偞	chaq
 剎	chaq	85%
@@ -4462,6 +4972,7 @@ use_preset_vocabulary: true
 䶪	chaq
 䛽	chaq	88%
 擦	chaq	86%
+傻	sha	0%
 嗄	sha
 沙	sha	89%
 㸺	sha
@@ -4478,7 +4989,10 @@ use_preset_vocabulary: true
 啥	shar
 傻	shaa	89%
 儍	shaa
+硰	shaa	0%
 厦	shah
+嗄	shah	0%
+沙	shah	0%
 剎	shaq	87%
 摋	shaq
 柵	shaq	86%
@@ -4498,6 +5012,7 @@ use_preset_vocabulary: true
 咱	tzar	89%
 喒	tzar	88%
 偺	tzar	87%
+雥	tzah	0%
 匝	tzaq
 𠯗	tzaq
 唼	tzaq
@@ -4538,6 +5053,7 @@ use_preset_vocabulary: true
 丫	ia	89%
 𠜲	ia
 呀	ia	88%
+啞	ia	0%
 椏	ia
 烏	ia
 䃁	ia
@@ -4545,6 +5061,7 @@ use_preset_vocabulary: true
 鴉	ia	87%
 呀	ya
 崖	ya	87%
+庌	ya	0%
 㧎	ya
 枒	ya
 涯	ya	86%
@@ -4557,18 +5074,23 @@ use_preset_vocabulary: true
 亞	yea	88%
 厊	yea
 啞	yea	87%
+婭	yea	0%
 庌	yea
 疋	yea
 疨	yea
 雅	yea	89%
 亞	yah	87%
+啞	yah	0%
 婭	yah
+庌	yah	0%
+枒	yah	0%
 氬	yah
 砑	yah
 襾	yah
 訝	yah	89%
 迓	yah	88%
 閕	yah
+齖	yah	0%
 𡇼	yaq
 圔	yaq
 圠	yaq
@@ -4619,13 +5141,17 @@ use_preset_vocabulary: true
 椵	jea
 榎	jea
 檟	jea
+瘕	jea	0%
 貑	jea
 賈	jea	88%
 价	jiah	85%
 假	jiah	84%
 價	jiah	86%
 嫁	jiah	89%
+幏	jiah	0%
+斝	jiah	0%
 架	jiah	88%
+瘕	jiah	0%
 稼	jiah
 駕	jiah	87%
 俠	jiaq	88%
@@ -4691,6 +5217,7 @@ use_preset_vocabulary: true
 颬	shya
 騢	shya
 㗿	shea
+閜	shea	0%
 下	shiah	89%
 厦	shiah
 唬	shiah
@@ -4728,6 +5255,7 @@ use_preset_vocabulary: true
 䔑	sya
 哇	ua	87%
 娃	ua	88%
+婐	ua	0%
 媧	ua	84%
 搲	ua
 汙	ua
@@ -4739,13 +5267,18 @@ use_preset_vocabulary: true
 窊	ua
 窪	ua	86%
 蛙	ua	89%
+䠚	ua	0%
 䨟	ua
 鮭	ua
 鼃	ua
+瀤	wa	0%
 婐	woa
+搲	woa	0%
 瓦	woa	89%
 䠚	woa
 邷	woa
+瓦	wah	0%
+窊	wah	0%
 䵳	wah
 嗢	waq
 嗗	waq
@@ -4765,6 +5298,7 @@ use_preset_vocabulary: true
 冎	goa
 剮	goa
 寡	goa	89%
+掛	goa	0%
 𣑍	goa
 卦	guah	88%
 挂	guah	89%
@@ -4772,6 +5306,7 @@ use_preset_vocabulary: true
 絓	guah
 罣	guah
 罫	guah
+袿	guah	0%
 褂	guah	86%
 詿	guah
 𧬮	guah
@@ -4797,8 +5332,13 @@ use_preset_vocabulary: true
 夸	kua
 姱	kua
 恗	kua
+胯	kua	0%
 誇	kua	89%
+跨	kua	0%
+夸	koa	0%
 㡁	koa
+胯	koa	0%
+跨	koa	0%
 銙	koa
 髁	koa
 胯	kuah
@@ -4810,6 +5350,8 @@ use_preset_vocabulary: true
 譁	hua
 划	hwa
 崋	hwa
+摦	hwa	0%
+樺	hwa	0%
 華	hwa	89%
 蘹	hwa
 𧑍	hwa
@@ -4824,10 +5366,12 @@ use_preset_vocabulary: true
 化	huah	89%
 㕦	huah
 䋀	huah
+摦	huah	0%
 杹	huah
 樺	huah
 畫	huah	87%
 繣	huah
+華	huah	0%
 話	huah	88%
 諣	huah
 踝	huah
@@ -4841,6 +5385,7 @@ use_preset_vocabulary: true
 猾	huaq	88%
 磆	huaq
 縎	huaq
+繣	huaq	0%
 螖	huaq
 豁	huaq	86%
 頢	huaq
@@ -4873,12 +5418,16 @@ use_preset_vocabulary: true
 痾	o
 䋪	o
 阿	o	88%
+娿	oo	0%
 㫊	oo
 椏	oo
+𣘨	oo	0%
 猗	oo
 𧙃	oo
 𨵌	oo
 侉	oh
+堊	oh	0%
+堨	oh	0%
 㔩	oq
 堊	oq
 堨	oq
@@ -4902,12 +5451,17 @@ use_preset_vocabulary: true
 番	bo
 碆	bo
 菠	bo
+礴	bor	0%
 㝿	boo
 播	boo	88%
 簸	boo
 跛	boo	89%
+搏	boh	0%
 播	boh	89%
+礴	boh	0%
 簸	boh	88%
+茇	boh	0%
+誖	boh	0%
 譒	boh
 亳	boq
 仢	boq
@@ -4996,6 +5550,7 @@ use_preset_vocabulary: true
 鏺	poq
 劘	mo
 𡡉	mo
+懡	mo	0%
 摩	mo	89%
 磨	mo	88%
 饝	mo
@@ -5005,6 +5560,7 @@ use_preset_vocabulary: true
 懡	moo
 麼	moo	89%
 塺	moh
+摩	moh	0%
 磨	moh	89%
 嗼	moq
 圽	moq
@@ -5046,6 +5602,7 @@ use_preset_vocabulary: true
 饃	moq
 𩢷	moq
 䳮	moq
+縛	foh	0%
 縛	foq	89%
 𩅿	foq
 𩌏	foq
@@ -5054,6 +5611,7 @@ use_preset_vocabulary: true
 嚲	doo
 癉	doo
 柁	doh	89%
+癉	doh	0%
 舵	doh	88%
 度	doq	89%
 踱	doq
@@ -5065,6 +5623,7 @@ use_preset_vocabulary: true
 池	to
 詑	to
 牠	to	89%
+佗	tor	0%
 沱	tor
 紽	tor
 䍫	tor
@@ -5076,10 +5635,13 @@ use_preset_vocabulary: true
 鮀	tor
 鴕	tor	86%
 鼉	tor
+拕	too	0%
 柁	too
+沱	too	0%
 陊	too
 拖	toh
 舵	toh
+馱	toh	0%
 侂	toq
 厒	toq
 托	toq	89%
@@ -5097,11 +5659,13 @@ use_preset_vocabulary: true
 橠	no
 㔮	no
 那	no
+儺	noo	0%
 娜	noo
 𣃽	noo
+橠	noo	0%
 袲	noo
 那	noo
-那	noh
+那	noh	0%
 訥	noq
 諾	noq	89%
 儸	lo
@@ -5111,7 +5675,9 @@ use_preset_vocabulary: true
 籮	lo
 羅	lo	89%
 蘿	lo	87%
+邏	lo	0%
 鑼	lo	88%
+砢	loo	0%
 邏	loh
 咯	loq	83%
 樂	loq	89%
@@ -5151,9 +5717,12 @@ use_preset_vocabulary: true
 菏	go
 滒	go
 牁	go
+舸	go	0%
 䔅	go
 鴚	go
+菏	gor	0%
 哿	goo
+菏	goo	0%
 笴	goo
 𥰮	goo
 舸	goo
@@ -5211,17 +5780,26 @@ use_preset_vocabulary: true
 薖	ko
 顆	ko	86%
 髁	ko
+苛	kor	0%
 㐓	koo
 可	koo	89%
 哿	koo	87%
 坷	koo
 堁	koo
 岢	koo
+苛	koo	0%
+軻	koo	0%
 錁	koo
 閜	koo
 顆	koo	88%
+坷	koh	0%
+堁	koh	0%
+磕	koh	0%
+科	koh	0%
 課	koh	89%
+軻	koh	0%
 騍	koh
+髁	koh	0%
 㕎	koq
 壳	koq	87%
 嶱	koq
@@ -5248,16 +5826,17 @@ use_preset_vocabulary: true
 峩	ngo
 涐	ngo
 睋	ngo
+硪	ngo	0%
 莪	ngo
 蛾	ngo	87%
 訛	ngo	83%
 譌	ngo
 鈋	ngo
 鵝	ngo	84%
+峨	ngoo	0%
 我	ngoo	89%
 硪	ngoo
 騀	ngoo
-峨	ngoo
 餓	ngoh	89%
 咢	ngoq
 噩	ngoq
@@ -5295,6 +5874,9 @@ use_preset_vocabulary: true
 魺	hor
 龢	hor	84%
 㰤	hoo
+荷	hoo	0%
+呵	hoh	0%
+涸	hoh	0%
 荷	hoh	88%
 𧬂	hoh
 賀	hoh	89%
@@ -5360,6 +5942,7 @@ use_preset_vocabulary: true
 酌	joq	87%
 鸅	joq
 着	joq	88%
+婼	cho	0%
 婼	choq
 戳	choq	89%
 綽	choq
@@ -5387,7 +5970,10 @@ use_preset_vocabulary: true
 蒻	roq
 左	tzoo	89%
 佐	tzoh	88%
+作	tzoh	0%
 做	tzoh	89%
+左	tzoh	0%
+阼	tzoh	0%
 作	tzoq	89%
 岝	tzoq
 崱	tzoq
@@ -5415,8 +6001,13 @@ use_preset_vocabulary: true
 磋	tso
 蹉	tso
 䣜	tso
+䰈	tso	0%
+瘥	tsor	0%
 鹺	tsor
+瑳	tsoo	0%
 䰈	tsoo
+磋	tsoh	0%
+蹉	tsoh	0%
 錯	tsoh	89%
 𡍫	tsoq
 墄	tsoq
@@ -5433,10 +6024,12 @@ use_preset_vocabulary: true
 挱	so
 犧	so
 些	so
+娑	soo	0%
 些	soh
 㱇	soq
 索	soq	89%
 薔	soq
+瀹	yoh	0%
 喲	yoq	88%
 岳	yoq	82%
 嶽	yoq	81%
@@ -5457,9 +6050,11 @@ use_preset_vocabulary: true
 鸑	yoq
 龠	yoq	84%
 唷	yoq	87%
+掠	lioh	0%
 掠	lioq	87%
 略	lioq	89%
 畧	lioq	88%
+榷	jeo	0%
 傕	jioq
 搉	jioq
 桷	jioq
@@ -5482,6 +6077,7 @@ use_preset_vocabulary: true
 毃	chioq
 確	chioq	89%
 碻	chioq
+眲	gnioh	0%
 搦	gnioq
 瘧	gnioq	88%
 眲	gnioq
@@ -5491,6 +6087,7 @@ use_preset_vocabulary: true
 确	shioq
 觳	shioq
 鷽	shioq
+爝	tzioh	0%
 嚼	tzioq	88%
 㬭	tzioq
 爝	tzioq
@@ -5511,6 +6108,7 @@ use_preset_vocabulary: true
 窩	uo	89%
 萵	uo	88%
 踒	uo
+涴	wo	0%
 𡛖	woo
 涴	woh
 臥	woh	89%
@@ -5531,6 +6129,8 @@ use_preset_vocabulary: true
 齷	woq	88%
 跢	duo
 𨹃	duo
+鬌	duo	0%
+刴	duoo	0%
 垛	duoo
 埵	duoo
 崜	duoo
@@ -5538,8 +6138,10 @@ use_preset_vocabulary: true
 揣	duoo
 朵	duoo	89%
 朶	duoo	88%
+桗	duoo	0%
 𥠄	duoo
 躱	duoo
+𨹃	duoo	0%
 鬌	duoo
 躲	duoo	87%
 刴	duoh
@@ -5548,6 +6150,7 @@ use_preset_vocabulary: true
 惰	duoh	89%
 桗	duoh
 𥳔	duoh
+跢	duoh	0%
 䤻	duoh
 䲊	duoh
 剁	duoh	87%
@@ -5567,6 +6170,7 @@ use_preset_vocabulary: true
 裰	duoq
 鮵	duoq
 鵽	duoq
+橢	tuo	0%
 涶	tuo
 㐌	two
 堶	two
@@ -5574,14 +6178,18 @@ use_preset_vocabulary: true
 㸰	two
 𧕦	two
 迱	two
+隋	two	0%
 驒	two
 鼧	two
 妥	tuoo	89%
 媠	tuoo
 㟎	tuoo
 橢	tuoo	88%
+沲	tuoo	0%
+涶	tuoo	0%
 袉	tuoo
 鋖	tuoo
+隋	tuoo	0%
 唾	tuoh	89%
 嫷	tuoh
 毻	tuoh
@@ -5601,17 +6209,20 @@ use_preset_vocabulary: true
 𢫷	nuoo
 愞	nuoh
 懦	nuoh
+𢫷	nuoh	0%
 稬	nuoh
 糯	nuoh	89%
 妠	nuoq
 豽	nuoq
 貀	nuoq
+㦬	luo	0%
 㰁	luo
 欏	luo
 𥢵	luo
 腡	luo
 蔂	luo
 螺	luo	88%
+蠃	luo	0%
 覶	luo
 𨰠	luo
 饠	luo
@@ -5622,6 +6233,7 @@ use_preset_vocabulary: true
 卵	luoo	89%
 㦬	luoo
 攞	luoo
+㰁	luoo	0%
 臝	luoo
 蓏	luoo
 蠃	luoo
@@ -5629,6 +6241,7 @@ use_preset_vocabulary: true
 裸	luoo	88%
 躶	luoo
 䇔	luoh
+酹	luoh	0%
 捋	luoq
 䂮	luoq
 硦	luoq
@@ -5726,6 +6339,12 @@ use_preset_vocabulary: true
 靃	huoq
 騞	huoq
 䰥	huoq
+梲	juoo	0%
+櫂	juoo	0%
+啜	juoh	0%
+啅	juoh	0%
+畷	juoh	0%
+餟	juoh	0%
 倬	juoq
 卓	juoq	88%
 啄	juoq
@@ -5812,9 +6431,16 @@ use_preset_vocabulary: true
 㛗	tzuo
 痤	tzuo
 睉	tzuo
+痤	tzwo	0%
+睉	tzwo	0%
 㝾	tzuoo
 坐	tzuoh	89%
+㛗	tzuoh	0%
 座	tzuoh	88%
+痤	tzuoh	0%
+睉	tzuoh	0%
+蕞	tzuoh	0%
+鑿	tzuoh	0%
 㘀	tzuoq
 岝	tzuoq
 昨	tzuoq	89%
@@ -5827,22 +6453,29 @@ use_preset_vocabulary: true
 䎰	tzuoq
 蕞	tzuoq
 鑿	tzuoq	88%
+侳	tsuo	0%
 㽨	tsuo
 䑘	tsuo
 矬	tsuo
 𥰭	tsuo
+縒	tsuo	0%
 脞	tsuo
 蒫	tsuo
 遳	tsuo
 齹	tsuo
 醝	tswo
 銼	tswo
+齹	tswo	0%
 縒	tsuoo
+脞	tsuoo	0%
+齹	tsuoo	0%
 侳	tsuoh
 剉	tsuoh
 挫	tsuoh	89%
 莝	tsuoh
 蓌	tsuoh
+襊	tsuoh	0%
+銼	tsuoh	0%
 剒	tsuoq
 厝	tsuoq
 撮	tsuoq	89%
@@ -5858,10 +6491,13 @@ use_preset_vocabulary: true
 莎	suo
 莏	suo
 蓑	suo	88%
+褨	suo	0%
 䤬	suo
 鮻	suo
 所	suoo	89%
 瑣	suoo	87%
+䐝	suoo	0%
+葰	suoo	0%
 褨	suoo
 䝪	suoo
 鎖	suoo	88%
@@ -5885,6 +6521,7 @@ use_preset_vocabulary: true
 㗉	liuoq
 𧎾	liuoq
 䛚	liuoq
+顜	jeuo	0%
 彏	jiuoq
 戄	jiuoq
 捔	jiuoq
@@ -5905,6 +6542,7 @@ use_preset_vocabulary: true
 礐	shiuoq
 觷	shiuoq
 𧮞	shiuoq
+搤	eh	0%
 厄	eq	89%
 呃	eq	88%
 啞	eq
@@ -5943,6 +6581,7 @@ use_preset_vocabulary: true
 迫	peq	86%
 霸	peq
 魄	peq	87%
+嚜	meh	0%
 万	meq
 佰	meq
 冒	meq
@@ -6018,6 +6657,8 @@ use_preset_vocabulary: true
 詻	ngeq
 頟	ngeq
 額	ngeq	89%
+劾	heh	0%
+閡	heh	0%
 劾	heq
 匌	heq
 嘿	heq	88%
@@ -6033,6 +6674,7 @@ use_preset_vocabulary: true
 麧	heq
 黑	heq	89%
 齕	heq
+齰	jeh	0%
 宅	jeq	89%
 摘	jeq	83%
 擇	jeq	87%
@@ -6129,6 +6771,7 @@ use_preset_vocabulary: true
 䐑	jèq
 䐲	jèq
 蜇	jèq
+蟅	jèq	0%
 褶	jèq
 襵	jèq
 讋	jèq
@@ -6138,6 +6781,7 @@ use_preset_vocabulary: true
 霅	jèq
 硨	chè
 車	chè	89%
+聅	chèr	0%
 扯	chèè	89%
 䞣	chèè
 屮	chèh
@@ -6175,6 +6819,7 @@ use_preset_vocabulary: true
 社	shèh	87%
 舍	shèh	89%
 赦	shèh	86%
+騇	shèh	0%
 麝	shèh	85%
 懾	shèq
 折	shèq
@@ -6193,11 +6838,13 @@ use_preset_vocabulary: true
 設	shèq	88%
 韘	shèq
 䱑	shèq
+麝	shèq	0%
 喏	rèè
 惹	rèè	89%
 若	rèè
 偌	rèh
 渃	rèh
+渃	rèq	0%
 焫	rèq
 熱	rèq	89%
 爇	rèq
@@ -6219,6 +6866,7 @@ use_preset_vocabulary: true
 鋣	ye
 也	yee	89%
 冶	yee	87%
+擪	yee	0%
 虵	yee
 野	yee	88%
 夜	yeh	89%
@@ -6255,6 +6903,7 @@ use_preset_vocabulary: true
 頁	yeq	88%
 饁	yeq
 𩸆	yeq
+瞥	bieh	0%
 別	bieq	89%
 㢼	bieq
 憋	bieq
@@ -6283,7 +6932,9 @@ use_preset_vocabulary: true
 䠥	pieq
 咩	mie
 乜	miee
+哶	miee	0%
 芈	miee
+覕	mieh	0%
 哶	mieq
 幭	mieq
 懱	mieq
@@ -6299,6 +6950,7 @@ use_preset_vocabulary: true
 覕	mieq
 鱴	mieq
 爹	die	89%
+爹	diee	0%
 凸	dieq
 叠	dieq	83%
 咥	dieq
@@ -6345,6 +6997,7 @@ use_preset_vocabulary: true
 䳀	dieq
 䴑	dieq
 㩹	dieq	82%
+餮	tiee	0%
 僣	tieq
 屟	tieq
 帖	tieq	86%
@@ -6436,6 +7089,7 @@ use_preset_vocabulary: true
 佉	chie
 茄	chie
 茄	chye	89%
+挈	chieh	0%
 㓶	chieq
 呿	chieq
 契	chieq	88%
@@ -6454,6 +7108,8 @@ use_preset_vocabulary: true
 蛪	chieq
 𧎩	chieq
 鍥	chieq
+蜺	gnie	0%
+𪌊	gnieh	0%
 㖏	gnieq
 喦	gnieq
 囁	gnieq
@@ -6540,6 +7196,7 @@ use_preset_vocabulary: true
 唶	tzieh
 藉	tzieh	88%
 褯	tzieh
+借	tzieq	0%
 倢	tzieq
 卩	tzieq
 啑	tzieq
@@ -6576,6 +7233,7 @@ use_preset_vocabulary: true
 且	tsiee	89%
 跙	tsiee
 笡	tsieh
+跙	tsieh	0%
 切	tsieh
 切	tsieq	89%
 妾	tsieq	88%
@@ -6593,8 +7251,10 @@ use_preset_vocabulary: true
 寫	siee	89%
 𣞐	siee
 瀉	siee
+些	sieh	0%
 卸	sieh	87%
 榭	sieh
+渫	sieh	0%
 㴬	sieh
 瀉	sieh	88%
 灺	sieh
@@ -6656,6 +7316,8 @@ use_preset_vocabulary: true
 捋	liueq
 脟	liueq
 鋝	liueq
+劂	jiueh	0%
+鈌	jiueh	0%
 亅	jiueq
 掘	jiueq	86%
 决	jiueq	89%
@@ -6707,6 +7369,7 @@ use_preset_vocabulary: true
 闋	chiueq
 闕	chiueq	88%
 靴	shiue	89%
+靴	shiueh	0%
 吷	shiueq
 泬	shiueq
 烕	shiueq
@@ -6719,6 +7382,7 @@ use_preset_vocabulary: true
 血	shiueq	89%
 鞾	shiueq
 䬂	shiueq
+蕝	tziueh	0%
 絶	tziueq
 蕝	tziueq
 絕	tziueq	89%
@@ -6739,10 +7403,15 @@ use_preset_vocabulary: true
 噯	ai	89%
 乃	ae
 佁	ae
+僾	ae	0%
+唉	ae	0%
+挨	ae	0%
+欸	ae	0%
 毐	ae
 矮	ae	89%
 靉	ae
 僾	ay
+唉	ay	0%
 喝	ay
 嗌	ay
 嗄	ay
@@ -6752,17 +7421,23 @@ use_preset_vocabulary: true
 愛	ay	89%
 曖	ay
 𣋞	ay
+欸	ay	0%
 濭	ay
 𥴨	ay
 薆	ay
 藹	ay	88%
+誒	ay	0%
 隘	ay
 靄	ay	87%
+靉	ay	0%
 餲	ay
 馤	ay
+靄	aiq	0%
+餲	aiq	0%
 掰	bai
 擘	bai	89%
 啡	bae
+㠔	bae	0%
 㤳	bae
 捭	bae
 擺	bae	89%
@@ -6785,20 +7460,24 @@ use_preset_vocabulary: true
 𥱼	pair
 篺	pair
 蠯	pair
+㤄	pay	0%
 派	pay	89%
 湃	pay
 矲	pay
 䥯	pay
+㤄	paiq	0%
 埋	mai	89%
 薶	mai
 霾	mai	88%
 䆀	mae
 買	mae	89%
 勱	may
+䆀	may	0%
 蕒	may
 䜕	may
 賣	may	89%
 邁	may	88%
+霾	may	0%
 呆	dai	88%
 獃	dai	89%
 歹	dae	89%
@@ -6837,6 +7516,8 @@ use_preset_vocabulary: true
 䲦	day
 黛	day	85%
 台	tai	89%
+㘆	tai	0%
+䈚	tai	0%
 胎	tai	88%
 駘	tai
 儓	tair
@@ -6855,7 +7536,12 @@ use_preset_vocabulary: true
 薹	tair
 跆	tair
 邰	tair
+駘	tair	0%
 鮐	tair
+㘆	tae	0%
+䈚	tae	0%
+駘	tae	0%
+儓	tay	0%
 㘆	tay
 太	tay	89%
 忕	tay
@@ -6874,8 +7560,11 @@ use_preset_vocabulary: true
 柰	nay
 耏	nay
 耐	nay	89%
+能	nay	0%
 螚	nay
 褦	nay
+鼐	nay	0%
+睞	lhai	0%
 來	lai	89%
 崍	lai
 徠	lai
@@ -6889,9 +7578,12 @@ use_preset_vocabulary: true
 鶆	lai
 唻	lae
 𨦂	lae
+徠	lay	0%
 瀨	lay
 癩	lay	88%
+睞	lay	0%
 籟	lay
+萊	lay	0%
 藾	lay
 賚	lay
 賴	lay	89%
@@ -6909,9 +7601,14 @@ use_preset_vocabulary: true
 豥	gai
 賅	gai
 陔	gai
+豥	gair	0%
+侅	gae	0%
 改	gae	89%
 㱼	gae
+胲	gae	0%
+豥	gae	0%
 丐	gay	87%
+侅	gay	0%
 匄	gay
 戤	gay
 扢	gay
@@ -6925,13 +7622,16 @@ use_preset_vocabulary: true
 鈣	gay
 𪙏	gay
 盖	gay	88%
+匄	gaiq	0%
 𢔡	kai
 揩	kai	88%
 𦂄	kai
 開	kai	89%
 闓	kai
 凱	kae	88%
+嘅	kae	0%
 塏	kae
+𡢖	kae	0%
 愷	kae	87%
 慨	kae	86%
 楷	kae	89%
@@ -6939,7 +7639,7 @@ use_preset_vocabulary: true
 𥏪	kae
 鍇	kae
 鎧	kae
-𡢖	kae
+闓	kae	0%
 咳	kay
 嘅	kay
 𡢖	kay
@@ -6947,7 +7647,10 @@ use_preset_vocabulary: true
 愾	kay
 慨	kay	89%
 欬	kay
+烗	kay	0%
 輆	kay
+鎧	kay	0%
+闓	kay	0%
 隑	kay
 呆	ngai	89%
 捱	ngai
@@ -6976,6 +7679,7 @@ use_preset_vocabulary: true
 骸	hair
 海	hae	89%
 醢	hae
+頦	hae	0%
 亥	hay	88%
 噧	hay
 妎	hay
@@ -6992,6 +7696,7 @@ use_preset_vocabulary: true
 寨	jay	88%
 瘵	jay
 祭	jay
+債	jaiq	0%
 差	chai	89%
 𨌅	chai
 釵	chai	88%
@@ -7013,13 +7718,16 @@ use_preset_vocabulary: true
 砦	chay
 𧀱	chay
 蠆	chay
+靫	chay	0%
 摔	shai
 篩	shai	89%
 簁	shai
 洒	shae	88%
 灑	shae	89%
+簁	shae	0%
 曬	shay	89%
 殺	shay	87%
+洒	shay	0%
 灑	shay
 鎩	shay
 晒	shay	88%
@@ -7032,10 +7740,12 @@ use_preset_vocabulary: true
 囝	tzae	88%
 宰	tzae	89%
 崽	tzae
+縡	tzae	0%
 䏁	tzae
 載	tzae	87%
 再	tzay	88%
 在	tzay	89%
+栽	tzay	0%
 縡	tzay
 載	tzay	87%
 偲	tsai
@@ -7054,11 +7764,15 @@ use_preset_vocabulary: true
 采	tsae	87%
 䰂	tsae
 䌽	tsae	86%
+寀	tsay	0%
+棌	tsay	0%
 縩	tsay
 䌨	tsay
 䐆	tsay
 菜	tsay	88%
 蔡	tsay	89%
+裁	tsay	0%
+采	tsay	0%
 㩄	sai
 毢	sai
 腮	sai	89%
@@ -7072,21 +7786,25 @@ use_preset_vocabulary: true
 㩙	say
 簺	say
 賽	say	88%
+忦	iai	0%
 厓	yai	89%
 啀	yai
 睚	yai
 𧡋	yeai
 忦	yay
+睚	yay	0%
 偕	jiai	87%
 喈	jiai
 楷	jiai
 湝	jiai
 皆	jiai	88%
 稭	jiai
+薢	jiai	0%
 䕸	jiai
 街	jiai	89%
 裓	jiai
 階	jiai	86%
+楷	jeai	0%
 檞	jeai
 薢	jeai
 解	jeai	89%
@@ -7103,8 +7821,11 @@ use_preset_vocabulary: true
 界	jiay	87%
 疥	jiay	86%
 芥	jiay	88%
+薢	jiay	0%
 蚧	jiay
+解	jiay	0%
 誡	jiay	83%
+介	jiaiq	0%
 諧	shyai	88%
 鞋	shyai	89%
 鞵	shyai
@@ -7124,6 +7845,7 @@ use_preset_vocabulary: true
 齘	shiay
 崴	uai
 歪	uai	89%
+崴	woai	0%
 舀	woai
 外	way	89%
 乖	guai	89%
@@ -7172,6 +7894,7 @@ use_preset_vocabulary: true
 蘾	huay
 譮	huay
 躛	huay
+澅	huaiq	0%
 拽	juay	89%
 聉	juay
 跩	juay
@@ -7191,6 +7914,7 @@ use_preset_vocabulary: true
 甩	shoai	88%
 帥	shuay	89%
 率	shuay	88%
+甩	shuay	0%
 卑	bei	88%
 悲	bei	86%
 杯	bei	89%
@@ -7198,6 +7922,8 @@ use_preset_vocabulary: true
 痺	bei
 碑	bei	87%
 褙	bei
+倍	beir	0%
+倍	beei	0%
 伂	bey
 倍	bey	88%
 備	bey	83%
@@ -7233,6 +7959,7 @@ use_preset_vocabulary: true
 抔	pei
 肧	pei	88%
 衃	pei
+䣙	pei	0%
 醅	pei
 阫	pei
 䯱	pei
@@ -7249,8 +7976,12 @@ use_preset_vocabulary: true
 陪	peir	89%
 俖	peei
 坯	peei
+培	peei	0%
+朏	peei	0%
 琣	peei
+䣙	peei	0%
 佩	pey	88%
+俖	pey	0%
 妃	pey
 孛	pey
 帔	pey
@@ -7269,6 +8000,8 @@ use_preset_vocabulary: true
 邶	pey
 配	pey	89%
 霈	pey
+孛	peiq	0%
+軷	peiq	0%
 媒	mei	85%
 𡴋	mei
 嵋	mei	87%
@@ -7294,12 +8027,14 @@ use_preset_vocabulary: true
 每	meei	88%
 浼	meei
 渼	meei
+䍙	meei	0%
 美	meei	89%
 苺	meei
 鎂	meei
 黣	meei
 𠇱	mey
 妹	mey	89%
+媒	mey	0%
 媚	mey	86%
 寐	mey	87%
 昧	mey	88%
@@ -7310,9 +8045,16 @@ use_preset_vocabulary: true
 眛	mey
 篃	mey
 䉋	mey
+脢	mey	0%
 蝞	mey
+郿	mey	0%
 𩎟	mey
 魅	mey
+𠇱	meiq	0%
+昧	meiq	0%
+瑁	meiq	0%
+䀛	meiq	0%
+𩎟	meiq	0%
 啡	fei
 啡	fei
 奜	fei
@@ -7334,24 +8076,31 @@ use_preset_vocabulary: true
 騛	fei
 厞	feir
 淝	feir
+痱	feir	0%
 肥	feir	89%
 腓	feir
 萉	feir
 𩇯	feir
+餥	feir	0%
 匪	feei	89%
 吠	feei	87%
 悱	feei
 斐	feei
 朏	feei
+杮	feei	0%
 棐	feei
 榧	feei
 篚	feei
 翡	feei	88%
+菲	feei	0%
 蜚	feei
+蜰	feei	0%
+誹	feei	0%
 䨽	feei
 餥	feei
 俷	fey
 剕	fey
+厞	fey	0%
 吠	fey	85%
 屝	fey
 廢	fey	87%
@@ -7365,6 +8114,7 @@ use_preset_vocabulary: true
 炥	fey
 狒	fey
 疿	fey
+痱	fey	0%
 癈	fey
 𥄱	fey
 䆏	fey
@@ -7373,8 +8123,11 @@ use_preset_vocabulary: true
 肺	fey	84%
 芾	fey
 茷	fey
+菲	fey	0%
+蜚	fey	0%
 蟦	fey
 𧕿	fey
+誹	fey	0%
 費	fey	89%
 䠊	fey
 䤵	fey
@@ -7383,6 +8136,7 @@ use_preset_vocabulary: true
 靅	fey
 𪎰	fey
 鼥	fey
+茷	feiq	0%
 微	vei	89%
 溦	vei
 薇	vei	88%
@@ -7405,6 +8159,7 @@ use_preset_vocabulary: true
 倭	uei
 偎	uei
 危	uei
+委	uei	0%
 威	uei	89%
 峗	uei
 椳	uei
@@ -7417,6 +8172,7 @@ use_preset_vocabulary: true
 䋿	uei
 萎	uei	86%
 葳	uei
+蜲	uei	0%
 蝟	uei	85%
 逶	uei
 隈	uei
@@ -7430,6 +8186,7 @@ use_preset_vocabulary: true
 囗	wei
 圍	wei	83%
 壝	wei
+峗	wei	0%
 嵬	wei
 巍	wei
 帷	wei
@@ -7439,14 +8196,20 @@ use_preset_vocabulary: true
 桅	wei	84%
 湋	wei
 濰	wei
+𤀷	wei	0%
 爲	wei	88%
+犩	wei	0%
+瓗	wei	0%
 痿	wei
 維	wei	78%
 薇	wei	76%
+䗽	wei	0%
 𧔥	wei
 謂	wei	86%
 違	wei	81%
+遺	wei	0%
 闈	wei
+隗	wei	0%
 䧦	wei
 韋	wei	82%
 魏	wei
@@ -7457,15 +8220,19 @@ use_preset_vocabulary: true
 偉	woei	89%
 唯	woei	86%
 𠷏	woei
+壝	woei	0%
 委	woei	87%
 寪	woei
 㞇	woei
 尾	woei	85%
+峗	woei	0%
 崣	woei
 嵔	woei
+嵬	woei	0%
 廆	woei
 愇	woei
 暐	woei
+椳	woei	0%
 沇	woei
 洧	woei
 洈	woei
@@ -7480,10 +8247,12 @@ use_preset_vocabulary: true
 𤼒	woei
 硊	woei
 碨	woei
+磈	woei	0%
 䃬	woei
 䍴	woei
 腲	woei
 䓈	woei
+萎	woei	0%
 葦	woei	88%
 蓶	woei
 蔿	woei
@@ -7499,6 +8268,7 @@ use_preset_vocabulary: true
 錗	woei
 鍡	woei
 䦱	woei
+隗	woei	0%
 韙	woei
 韡	woei
 頠	woei
@@ -7510,6 +8280,7 @@ use_preset_vocabulary: true
 僞	wey
 味	wey	70%
 喂	wey
+委	wey	0%
 媦	wey
 尉	wey	75%
 恚	wey
@@ -7521,13 +8292,16 @@ use_preset_vocabulary: true
 𣨙	wey
 渭	wey	83%
 𤀷	wey
+烓	wey	0%
 煟	wey
 熭	wey
 爲	wey	87%
 犚	wey
 𤜂	wey
+犩	wey	0%
 猬	wey
 獩	wey
+瑋	wey	0%
 瓗	wey
 畏	wey	77%
 磈	wey
@@ -7537,12 +8311,14 @@ use_preset_vocabulary: true
 緯	wey	81%
 緭	wey
 罻	wey
+䍴	wey	0%
 胃	wey	85%
 蔚	wey
 薉	wey
 蜼	wey
 蝟	wey	84%
 䗽	wey
+𧔥	wey	0%
 𧕈	wey
 衞	wey	78%
 褽	wey
@@ -7552,14 +8328,17 @@ use_preset_vocabulary: true
 轊	wey
 遺	wey	69%
 鏏	wey
+隈	wey	0%
 霨	wey
 餧	wey
 餵	wey	76%
+骫	wey	0%
 魏	wey	73%
 𩹂	wey
 為	wey	89%
 偽	wey	88%
 衛	wey	79%
+罻	weiq	0%
 堆	duei	89%
 搥	duei
 敦	duei
@@ -7570,8 +8349,15 @@ use_preset_vocabulary: true
 陮	duei
 頧	duei
 䭔	duei
+錞	dwei	0%
+鐓	dwei	0%
+陮	dwei	0%
+㬣	doei	0%
+䇏	doei	0%
 䏨	doei
 錞	doei
+陮	doei	0%
+頧	doei	0%
 兌	duey	88%
 奪	duey
 娧	duey
@@ -7581,15 +8367,18 @@ use_preset_vocabulary: true
 㠚	duey
 憝	duey
 懟	duey
+敦	duey	0%
 㬣	duey
 濧	duey
 瀢	duey
 碓	duey
 祋	duey
 䇏	duey
+䏨	duey	0%
 薱	duey
 轛	duey
 銳	duey
+鐓	duey	0%
 隊	duey	87%
 䨴	duey
 𩊭	duey
@@ -7601,6 +8390,7 @@ use_preset_vocabulary: true
 㷟	tuei
 蓷	tuei
 藬	tuei
+尵	twei	0%
 穨	twei
 蘈	twei
 蹪	twei
@@ -7612,6 +8402,7 @@ use_preset_vocabulary: true
 㾼	toei
 脮	toei
 腿	toei	89%
+僓	tuey	0%
 凷	tuey
 稅	tuey
 退	tuey	89%
@@ -7629,6 +8420,7 @@ use_preset_vocabulary: true
 𤜖	luei
 瓃	luei
 畾	luei
+礧	luei	0%
 絫	luei
 縲	luei
 纍	luei
@@ -7642,6 +8434,7 @@ use_preset_vocabulary: true
 儡	loei	88%
 壘	loei	89%
 𡼊	loei
+樏	loei	0%
 櫑	loei
 漯	loei
 㵽	loei
@@ -7665,10 +8458,12 @@ use_preset_vocabulary: true
 耒	luey
 蘱	luey
 類	luey	89%
+佹	guei	0%
 傀	guei
 圭	guei	87%
 嫢	guei
 嬀	guei
+幗	guei	0%
 摫	guei
 槻	guei
 歸	guei	88%
@@ -7678,6 +8473,7 @@ use_preset_vocabulary: true
 瞡	guei
 硅	guei
 窐	guei
+𦞙	guei	0%
 茥	guei
 𦿡	guei
 規	guei	89%
@@ -7687,7 +8483,10 @@ use_preset_vocabulary: true
 騩	guei
 鮭	guei
 龜	guei	85%
+窐	gwei	0%
+騩	gwei	0%
 佹	goei
+傀	goei	0%
 匭	goei
 厬	goei
 垝	goei
@@ -7704,6 +8503,7 @@ use_preset_vocabulary: true
 蟡	goei
 觤	goei
 詭	goei	86%
+跪	goei	0%
 軌	goei	88%
 䣀	goei
 䤥	goei
@@ -7713,6 +8513,7 @@ use_preset_vocabulary: true
 劊	guey	84%
 劌	guey
 匱	guey
+垝	guey	0%
 幗	guey
 憒	guey
 撅	guey
@@ -7725,6 +8526,7 @@ use_preset_vocabulary: true
 炔	guey
 𤜂	guey
 瑰	guey	85%
+瞡	guey	0%
 筀	guey
 膾	guey
 貴	guey	89%
@@ -7732,11 +8534,14 @@ use_preset_vocabulary: true
 跪	guey	86%
 蹶	guey
 𩌃	guey
+騩	guey	0%
 鱖	guey
 鱠	guey
 䳏	guey
+鱖	gueiq	0%
 刲	kuei
 奎	kuei	85%
+巋	kuei	0%
 悝	kuei
 戣	kuei
 盔	kuei	88%
@@ -7745,15 +8550,20 @@ use_preset_vocabulary: true
 聧	kuei
 蘬	kuei
 虧	kuei	89%
+跬	kuei	0%
 闚	kuei
 𩏣	kuei
+頯	kuei	0%
+馗	kuei	0%
 魁	kuei	86%
 𧃰	kwei
+悝	kwei	0%
 暌	kwei
 楑	kwei
 犪	kwei
 睽	kwei
 葵	kwei	89%
+蘬	kwei	0%
 蝰	kwei
 躨	kwei
 逵	kwei
@@ -7764,13 +8574,18 @@ use_preset_vocabulary: true
 魁	kwei	87%
 夔	kwei	88%
 傀	koei	89%
+巋	koei	0%
+悝	koei	0%
 𢜽	koei
 愧	koei	88%
 磈	koei
+蘬	koei	0%
 跬	koei
 䠑	koei
 頍	koei
+頯	koei	0%
 䫥	koei
+刲	kuey	0%
 喟	kuey
 媿	kuey
 巋	kuey
@@ -7816,6 +8631,7 @@ use_preset_vocabulary: true
 㺔	huei
 睢	huei
 翬	huei
+虺	huei	0%
 詼	huei	87%
 豗	huei
 輝	huei	83%
@@ -7826,12 +8642,15 @@ use_preset_vocabulary: true
 廻	hwei
 徊	hwei	87%
 洄	hwei
+瘣	hwei	0%
 茴	hwei	86%
 蚘	hwei
 蛕	hwei
 蛔	hwei
 囘	hwei	88%
 卉	hoei
+噅	hoei	0%
+孈	hoei	0%
 悔	hoei	88%
 檓	hoei
 毀	hoei	89%
@@ -7839,11 +8658,14 @@ use_preset_vocabulary: true
 烜	hoei
 𤈦	hoei
 燬	hoei
+燹	hoei	0%
+瘣	hoei	0%
 𥍋	hoei
 䃣	hoei
 蘬	hoei
 虫	hoei
 虺	hoei
+螝	hoei	0%
 䛼	hoei
 賄	hoei	87%
 匯	huey	79%
@@ -7851,7 +8673,9 @@ use_preset_vocabulary: true
 𠧩	huey
 喙	huey
 嘒	huey
+噅	huey	0%
 噦	huey
+回	huey	0%
 婎	huey
 嬇	huey
 孈	huey
@@ -7870,6 +8694,8 @@ use_preset_vocabulary: true
 槥	huey
 檜	huey
 𣨶	huey
+毀	huey	0%
+毇	huey	0%
 泋	huey
 𣸎	huey
 潰	huey
@@ -7877,6 +8703,7 @@ use_preset_vocabulary: true
 燹	huey
 璯	huey
 瘣	huey
+𥍋	huey	0%
 禬	huey
 穢	huey	76%
 篲	huey
@@ -7902,6 +8729,7 @@ use_preset_vocabulary: true
 頮	huey
 顪	huey
 餯	huey
+麾	huey	0%
 䵋	huey
 𪔊	huey
 会	huey	89%
@@ -7915,6 +8743,7 @@ use_preset_vocabulary: true
 魋	juei
 鵻	juei
 椎	jwei
+甀	jwei	0%
 墜	juey	88%
 惴	juey
 甀	juey
@@ -7925,9 +8754,12 @@ use_preset_vocabulary: true
 贅	juey	89%
 錣	juey
 𨪗	juey
+綴	jueiq	0%
 吹	chuei	89%
 推	chuei
 炊	chuei	88%
+箠	chuei	0%
+腄	chuei	0%
 倕	chwei
 垂	chwei	87%
 槌	chwei	89%
@@ -7938,8 +8770,13 @@ use_preset_vocabulary: true
 捶	choei
 棰	choei
 箠	choei
+諈	choei	0%
 出	chuey
+吹	chuey	0%
+槌	chuey	0%
+腄	chuey	0%
 諈	chuey
+錘	chuey	0%
 圌	shwei
 脽	shwei
 誰	shwei	89%
@@ -7966,6 +8803,7 @@ use_preset_vocabulary: true
 繠	roei
 蕊	roei	89%
 蘂	roei
+甤	roei	0%
 叡	ruey
 枘	ruey
 汭	ruey
@@ -7976,7 +8814,9 @@ use_preset_vocabulary: true
 蚋	ruey
 蜹	ruey
 銳	ruey	89%
+蜹	rueiq	0%
 嗺	tzuei
+嶉	tzuei	0%
 檇	tzuei
 朘	tzuei
 䘒	tzuei
@@ -7986,8 +8826,10 @@ use_preset_vocabulary: true
 嶉	tzoei
 㭰	tzoei
 觜	tzoei
+嗺	tzuey	0%
 晬	tzuey
 最	tzuey	89%
+檇	tzuey	0%
 琗	tzuey
 綷	tzuey
 罪	tzuey	88%
@@ -8005,6 +8847,8 @@ use_preset_vocabulary: true
 㠑	tsoei
 惢	tsoei
 洒	tsoei
+漼	tsoei	0%
+濢	tsoei	0%
 璀	tsoei
 皠	tsoei
 趡	tsoei
@@ -8012,7 +8856,9 @@ use_preset_vocabulary: true
 倅	tsuey
 啐	tsuey	85%
 㝮	tsuey
+㠑	tsuey	0%
 悴	tsuey	86%
+惢	tsuey	0%
 橇	tsuey
 毳	tsuey
 淬	tsuey
@@ -8033,6 +8879,8 @@ use_preset_vocabulary: true
 賥	tsuey
 踤	tsuey
 顇	tsuey
+橇	tsueiq	0%
+踤	tsueiq	0%
 夊	suei
 奞	suei
 尿	suei	88%
@@ -8059,7 +8907,9 @@ use_preset_vocabulary: true
 𣔾	suey
 檖	suey
 歲	suey	89%
+𣯯	suey	0%
 澻	suey
+瀡	suey	0%
 𤑾	suey
 燧	suey
 璲	suey
@@ -8082,6 +8932,7 @@ use_preset_vocabulary: true
 隧	suey	86%
 髓	suey	85%
 穂	suey	84%
+誶	sueiq	0%
 凹	au	89%
 坳	au	88%
 𤏶	au
@@ -8090,18 +8941,22 @@ use_preset_vocabulary: true
 䥝	au
 夭	ao
 媪	ao
+懊	ao	0%
 燠	ao
 芺	ao
 蝹	ao
 襖	ao	89%
+镺	ao	0%
 墺	aw
 奧	aw	89%
 懊	aw	87%
 拗	aw	86%
 澳	aw	88%
+燠	aw	0%
 䜒	aw
 镺	aw
 隩	aw
+墺	auq	0%
 刨	bau
 勹	bau
 包	bau	89%
@@ -8126,6 +8981,7 @@ use_preset_vocabulary: true
 褓	bao
 飽	bao	87%
 𩢈	bao
+骲	bao	0%
 鴇	bao
 宝	bao	85%
 儤	baw
@@ -8147,11 +9003,16 @@ use_preset_vocabulary: true
 虣	baw
 豹	baw	83%
 趵	baw
+鉋	baw	0%
 雹	baw	87%
 骲	baw
 鮑	baw	88%
 䶂	baw
 䶌	baw
+暴	bauq	0%
+犦	bauq	0%
+骲	bauq	0%
+䶂	bauq	0%
 拋	pau	89%
 泡	pau
 炰	pau
@@ -8173,7 +9034,10 @@ use_preset_vocabulary: true
 颮	paur
 麃	paur
 跑	pao	89%
+鞄	pao	0%
+咆	paw	0%
 奅	paw
+拋	paw	0%
 𣚇	paw
 泡	paw	89%
 炮	paw	87%
@@ -8182,7 +9046,10 @@ use_preset_vocabulary: true
 礮	paw
 𨠖	paw
 靤	paw
+颮	paw	0%
 礟	paw	86%
+鞄	pauq	0%
+颮	pauq	0%
 貓	mhau	88%
 猫	mhau	89%
 喵	mau
@@ -8195,6 +9062,7 @@ use_preset_vocabulary: true
 牦	mau
 犛	mau
 耗	mau
+芼	mau	0%
 茅	mau	88%
 蝥	mau
 貓	mau	85%
@@ -8214,6 +9082,7 @@ use_preset_vocabulary: true
 冒	maw	89%
 媢	maw
 帽	maw	88%
+旄	maw	0%
 𣔺	maw
 瑁	maw
 眊	maw
@@ -8224,18 +9093,23 @@ use_preset_vocabulary: true
 芼	maw
 貌	maw	87%
 𪃑	maw
+媢	mauq	0%
+眊	mauq	0%
 刀	dau	89%
 忉	dau
+禂	dau	0%
 舠	dau
 裯	dau
 魛	dau
 島	daur
+駣	daur	0%
 倒	dao	89%
 島	dao	88%
 㠀	dao
 擣	dao	86%
 禂	dao
 禱	dao	85%
+駣	dao	0%
 搗	dao	87%
 倒	daw	88%
 到	daw	89%
@@ -8243,6 +9117,7 @@ use_preset_vocabulary: true
 彴	daw
 悼	daw	82%
 盜	daw	84%
+禱	daw	0%
 稻	daw	81%
 䆃	daw
 纛	daw
@@ -8274,6 +9149,7 @@ use_preset_vocabulary: true
 匋	taur
 咷	taur
 啕	taur
+幬	taur	0%
 掏	taur	85%
 桃	taur	88%
 檮	taur
@@ -8282,6 +9158,7 @@ use_preset_vocabulary: true
 濤	taur	83%
 燾	taur
 綯	taur
+翿	taur	0%
 萄	taur	87%
 蜪	taur
 裪	taur
@@ -8294,9 +9171,19 @@ use_preset_vocabulary: true
 鼗	taur
 套	tao
 𡘷	tao
+槄	tao	0%
+檮	tao	0%
 討	tao	89%
+咷	taw	0%
 套	taw	89%
+𡘷	taw	0%
+幬	taw	0%
+燾	taw	0%
 翿	taw
+韜	taw	0%
+撓	nhau	0%
+橈	nhau	0%
+獿	nhau	0%
 呶	nau
 峱	nau
 峱	nau
@@ -8313,6 +9200,7 @@ use_preset_vocabulary: true
 惱	nao	88%
 憹	nao
 撓	nao
+橈	nao	0%
 𤝾	nao
 㺁	nao
 㺒	nao
@@ -8322,10 +9210,13 @@ use_preset_vocabulary: true
 鐃	nao
 嫐	nao
 婥	naw
+撓	naw	0%
 橈	naw
 淖	naw
+獳	naw	0%
 𥑩	naw
 硇	naw
+臑	naw	0%
 鬧	naw	89%
 撈	lhau	89%
 勞	lau	89%
@@ -8334,6 +9225,7 @@ use_preset_vocabulary: true
 㟹	lau
 撈	lau	88%
 浶	lau
+澇	lau	0%
 牢	lau	86%
 癆	lau	87%
 簩	lau
@@ -8341,6 +9233,7 @@ use_preset_vocabulary: true
 䜎	lau
 䜮	lau
 䝁	lau
+轑	lau	0%
 醪	lau
 恅	lao
 栳	lao
@@ -8353,8 +9246,10 @@ use_preset_vocabulary: true
 轑	lao
 勞	law	89%
 嫪	law
+潦	law	0%
 澇	law
 烙	law
+簩	law	0%
 咎	gau
 橰	gau
 櫜	gau
@@ -8377,6 +9272,7 @@ use_preset_vocabulary: true
 𣓌	gao
 槀	gao
 槁	gao
+櫜	gao	0%
 皓	gao	88%
 稾	gao
 縞	gao
@@ -8384,9 +9280,12 @@ use_preset_vocabulary: true
 稿	gao	89%
 搞	gao
 告	gaw	89%
+縞	gaw	0%
+膏	gaw	0%
 誥	gaw
 郜	gaw
 鋯	gaw
+郜	gauq	0%
 尻	kau
 拷	kao
 攷	kao	89%
@@ -8431,6 +9330,8 @@ use_preset_vocabulary: true
 蔜	ngaw
 澆	ngaw
 𧇠	ngaw
+鏊	ngaw	0%
+驁	ngaw	0%
 嚆	hau
 找	hau
 蒿	hau	89%
@@ -8452,6 +9353,7 @@ use_preset_vocabulary: true
 好	hao	89%
 滈	hao
 薃	hao
+鄗	hao	0%
 鰝	hao
 号	haw
 夰	haw
@@ -8470,6 +9372,9 @@ use_preset_vocabulary: true
 鄗	haw
 鎬	haw
 顥	haw
+滈	hauq	0%
+鄗	hauq	0%
+鰝	hauq	0%
 抓	jau	87%
 招	jau	89%
 昭	jau	88%
@@ -8479,18 +9384,22 @@ use_preset_vocabulary: true
 𦗔	jau
 釗	jau
 鉊	jau
+劭	jaur	0%
 叉	jao
 抓	jao	87%
 找	jao	89%
+昭	jao	0%
 沼	jao
 炤	jao
 爪	jao	88%
 瑵	jao
+笊	jao	0%
 兆	jaw	86%
 劭	jaw
 召	jaw	89%
 垗	jaw
 肁	jaw
+抓	jaw	0%
 㨄	jaw
 旐	jaw
 棹	jaw
@@ -8509,15 +9418,19 @@ use_preset_vocabulary: true
 趙	jaw	85%
 鮡	jaw
 䡧	jaw
+䡧	jauq	0%
 嘲	chau	86%
 弨	chau
 怊	chau
 抄	chau	88%
+朓	chau	0%
+漅	chau	0%
 訬	chau
 超	chau	87%
 鈔	chau	89%
 䫸	chau
 䰫	chau
+㑿	chaur	0%
 𡏮	chaur
 𡻝	chaur
 巢	chaur	87%
@@ -8531,6 +9444,7 @@ use_preset_vocabulary: true
 鄛	chaur
 䲀	chaur
 鼂	chaur
+㑿	chao	0%
 吵	chao	89%
 炒	chao	88%
 煼	chao
@@ -8538,9 +9452,11 @@ use_preset_vocabulary: true
 麨	chao
 𪍑	chao
 㑿	chaw
+巢	chaw	0%
 晁	chaw
 朓	chaw
 耖	chaw
+訬	chaw	0%
 趠	chaw
 踔	chaw
 鈔	chaw	89%
@@ -8560,9 +9476,12 @@ use_preset_vocabulary: true
 颵	shau
 髾	shau
 鮹	shau
+佋	shaur	0%
 玿	shaur
 韶	shaur	89%
+佋	shao	0%
 少	shao	89%
+捎	shao	0%
 橚	shao
 稍	shao	88%
 紹	shao	87%
@@ -8571,29 +9490,37 @@ use_preset_vocabulary: true
 卲	shaw
 哨	shaw
 少	shaw	89%
+捎	shaw	0%
 𣕇	shaw
+燒	shaw	0%
 睄	shaw
 稍	shaw	87%
 紹	shaw	88%
 䏴	shaw
 邵	shaw
 𨛍	shaw
+嬈	rhau	0%
 嬈	rau
 橈	rau
+㹛	rau	0%
 蕘	rau
 蟯	rau
 襓	rau
 饒	rau	89%
+嬈	rao	0%
 擾	rao	89%
 㹛	rao
 繞	rao	87%
 遶	rao	88%
 繞	raw	89%
+饒	raw	0%
 唣	tzau
 慒	tzau
 㷮	tzau
 糟	tzau	89%
+繰	tzau	0%
 遭	tzau	88%
+慒	tzaur	0%
 蹧	tzaur
 早	tzao	89%
 棗	tzao	88%
@@ -8622,6 +9549,7 @@ use_preset_vocabulary: true
 嶆	tsaur
 曹	tsaur	89%
 槽	tsaur	88%
+漕	tsaur	0%
 艚	tsaur
 螬	tsaur
 慅	tsao
@@ -8633,6 +9561,7 @@ use_preset_vocabulary: true
 騲	tsao
 慥	tsaw
 操	tsaw	89%
+漕	tsaw	0%
 糙	tsaw	88%
 造	tsaw
 鄵	tsaw
@@ -8656,6 +9585,7 @@ use_preset_vocabulary: true
 譟	saw	88%
 佻	iau
 凹	iau	89%
+咬	iau	0%
 喓	iau
 坳	iau	88%
 夭	iau	87%
@@ -8665,6 +9595,7 @@ use_preset_vocabulary: true
 𢆷	iau
 枖	iau
 祅	iau
+窅	iau	0%
 腰	iau	82%
 葽	iau
 䙅	iau
@@ -8672,6 +9603,7 @@ use_preset_vocabulary: true
 訞	iau
 邀	iau	81%
 䫜	iau
+顤	iau	0%
 鴢	iau
 䳩	iau
 么	iau	84%
@@ -8709,6 +9641,8 @@ use_preset_vocabulary: true
 鷂	yau
 偠	yeau
 咬	yeau	89%
+夭	yeau	0%
+宎	yeau	0%
 㝔	yeau
 𢂊	yeau
 拗	yeau
@@ -8720,31 +9654,42 @@ use_preset_vocabulary: true
 䁘	yeau
 窅	yeau
 窈	yeau	87%
+窔	yeau	0%
 舀	yeau
 芺	yeau
+葽	yeau	0%
 騕	yeau
 䯚	yeau
+鴢	yeau	0%
 鷕	yeau
 䴠	yeau
 齩	yeau
 𠹑	yaw
+姚	yaw	0%
+宎	yaw	0%
 拗	yaw	85%
+搖	yaw	0%
 曜	yaw	87%
 樂	yaw
 燿	yaw	86%
 皛	yaw
 𤾫	yaw
+窅	yaw	0%
 窔	yaw
 筄	yaw
 約	yaw
 耀	yaw	88%
 芍	yaw
+葽	yaw	0%
 袎	yaw
 要	yaw	89%
 覞	yaw
 趯	yaw
 靿	yaw
+顤	yaw	0%
+鷂	yaw	0%
 儦	biau
+㟽	biau	0%
 幖	biau
 彪	biau	88%
 摽	biau
@@ -8757,6 +9702,7 @@ use_preset_vocabulary: true
 臕	biau
 蔈	biau
 藨	biau
+褾	biau	0%
 贆	biau
 鑣	biau
 飆	biau
@@ -8765,13 +9711,24 @@ use_preset_vocabulary: true
 麃	biau
 婊	beau
 㟽	beau
+摽	beau	0%
+標	beau	0%
+蔈	beau	0%
 表	beau	89%
 裱	beau
 褾	beau
 諘	beau
 俵	biaw
+摽	biaw	0%
+標	biaw	0%
+蔈	biaw	0%
+裱	biaw	0%
+驫	biauq	0%
+僄	piau	0%
+剽	piau	0%
 嘌	piau
 彯	piau
+慓	piau	0%
 𣞉	piau
 漂	piau	88%
 𤐫	piau
@@ -8783,6 +9740,7 @@ use_preset_vocabulary: true
 嫖	pyau	88%
 瓢	pyau	89%
 薸	pyau
+剽	peau	0%
 慓	peau
 漂	peau	89%
 犥	peau
@@ -8797,12 +9755,17 @@ use_preset_vocabulary: true
 僄	piaw
 剽	piaw
 勡	piaw
+嘌	piaw	0%
 嫖	piaw
+彯	piaw	0%
 殍	piaw
 漂	piaw	88%
 瘭	piaw
+瞟	piaw	0%
 票	piaw	89%
+篻	piaw	0%
 䏇	piaw
+顠	piaw	0%
 驃	piaw
 鰾	piaw
 描	miau	88%
@@ -8821,6 +9784,7 @@ use_preset_vocabulary: true
 𪃐	meau
 妙	miaw	89%
 廟	miaw	88%
+篎	miaw	0%
 䖢	miaw
 凋	diau	87%
 刁	diau	89%
@@ -8838,6 +9802,8 @@ use_preset_vocabulary: true
 𩾗	diau
 鵰	diau
 鼦	diau
+窵	deau	0%
+窱	deau	0%
 𧜣	deau
 吊	diaw	89%
 弔	diaw	88%
@@ -8855,9 +9821,11 @@ use_preset_vocabulary: true
 挑	tiau	89%
 𣂀	tiau
 𣂥	tiau
+朓	tiau	0%
 祧	tiau
 蓧	tiau
 蓨	tiau
+覜	tiau	0%
 跳	tiau
 銚	tiau
 佻	tyau
@@ -8877,10 +9845,15 @@ use_preset_vocabulary: true
 鰷	tyau
 齠	tyau
 条	tyau	89%
+挑	teau	0%
 朓	teau
 眺	teau	89%
+絩	teau	0%
 誂	teau
+趒	teau	0%
 䠷	teau
+嬥	tiaw	0%
+朓	tiaw	0%
 眺	tiaw
 窕	tiaw
 糶	tiaw
@@ -8888,7 +9861,9 @@ use_preset_vocabulary: true
 覜	tiaw
 趒	tiaw
 跳	tiaw	89%
+䠷	tiaw	0%
 頫	tiaw
+嬥	tiauq	0%
 嬲	neau
 佬	liau
 僚	liau	84%
@@ -8913,6 +9888,7 @@ use_preset_vocabulary: true
 燎	liau	85%
 獠	liau
 璙	liau
+瞭	liau	0%
 窌	liau
 簝	liau
 翏	liau
@@ -8928,21 +9904,37 @@ use_preset_vocabulary: true
 飂	liau
 鷯	liau
 了	leau	89%
+僚	leau	0%
 憭	leau
+撩	leau	0%
 燎	leau
 瞭	leau
+簝	leau	0%
 繚	leau
 蓼	leau
 𧘈	leau
 鄝	leau
 釕	leau
 镽	leau
+嘹	liaw	0%
+㙩	liaw	0%
+嫽	liaw	0%
+廖	liaw	0%
 料	liaw	89%
+熮	liaw	0%
+燎	liaw	0%
+獠	liaw	0%
+璙	liaw	0%
 療	liaw	88%
+繚	liaw	0%
 𦌒	liaw
+翏	liaw	0%
 膫	liaw
 蟉	liaw
 遼	liaw
+鐐	liaw	0%
+飂	liaw	0%
+鷯	liaw	0%
 𪖷	liaw
 交	jiau	89%
 僥	jiau
@@ -8963,8 +9955,11 @@ use_preset_vocabulary: true
 艽	jiau
 茭	jiau
 蛟	jiau	87%
+蟜	jiau	0%
 詨	jiau
+蹻	jiau	0%
 轇	jiau
+轎	jiau	0%
 郊	jiau	88%
 鉸	jiau
 驕	jiau	85%
@@ -8972,9 +9967,15 @@ use_preset_vocabulary: true
 𪁉	jiau
 鷮	jiau
 鸄	jiau
+佼	jyau	0%
 轎	jyau
+鸄	jyau	0%
 佼	jeau
+僥	jeau	0%
+嬌	jeau	0%
+徼	jeau	0%
 恔	jeau
+憍	jeau	0%
 撟	jeau
 攪	jeau	89%
 敿	jeau
@@ -8990,11 +9991,13 @@ use_preset_vocabulary: true
 糾	jeau
 絞	jeau
 繳	jeau
+膠	jeau	0%
 蟜	jeau
 䘨	jeau
 譑	jeau
 蹻	jeau
 𨝰	jeau
+鉸	jeau	0%
 餃	jeau	85%
 鱎	jeau
 叫	jiaw	89%
@@ -9002,7 +10005,9 @@ use_preset_vocabulary: true
 噭	jiaw
 嬓	jiaw
 𡦴	jiaw
+徼	jiaw	0%
 挍	jiaw
+撟	jiaw	0%
 教	jiaw	87%
 敫	jiaw
 校	jiaw	86%
@@ -9012,25 +10017,38 @@ use_preset_vocabulary: true
 窌	jiaw
 䆗	jiaw
 窖	jiaw	82%
+膠	jiaw	0%
 覺	jiaw	84%
 訆	jiaw
+詨	jiaw	0%
+譑	jiaw	0%
 譥	jiaw
 較	jiaw	85%
 轎	jiaw	83%
 酵	jiaw	81%
+鉸	jiaw	0%
 𨲭	jiaw
+驕	jiaw	0%
+鸄	jiaw	0%
 呌	jiaw	88%
+獥	jiauq	0%
+蹻	jiauq	0%
+鸄	jiauq	0%
 墝	chiau
 墽	chiau
 屩	chiau
 摮	chiau
 敲	chiau	89%
 橇	chiau
+橋	chiau	0%
 磽	chiau
+翹	chiau	0%
+䚩	chiau	0%
 趫	chiau
 蹺	chiau
 鄗	chiau
 鄡	chiau
+鐈	chiau	0%
 骹	chiau
 僑	chyau	88%
 喬	chyau	89%
@@ -9046,15 +10064,28 @@ use_preset_vocabulary: true
 䚩	chyau
 鐈	chyau
 巧	cheau	89%
+撽	cheau	0%
+磽	cheau	0%
+礉	cheau	0%
+䚩	cheau	0%
 𠿕	chiaw
+墝	chiaw	0%
+墽	chiaw	0%
+巧	chiaw	0%
 撬	chiaw
 𢶡	chiaw
 撽	chiaw
+敲	chiaw	0%
+橋	chiaw	0%
 礉	chiaw
 竅	chiaw	88%
 翹	chiaw	89%
+䚩	chiaw	0%
 趬	chiaw
 躈	chiaw
+骹	chiaw	0%
+屩	chiauq	0%
+嬈	gnhiau	0%
 僥	gniau
 嬲	gniau
 嫋	gneau
@@ -9069,8 +10100,10 @@ use_preset_vocabulary: true
 尿	gniaw	88%
 溺	gniaw	89%
 獟	gniaw
+嫋	gniauq	0%
 呺	shiau
 哮	shiau
+嗃	shiau	0%
 嘐	shiau
 嘄	shiau
 嘵	shiau
@@ -9093,6 +10126,7 @@ use_preset_vocabulary: true
 虓	shiau
 蟂	shiau
 詨	shiau
+驍	shiau	0%
 髇	shiau
 髐	shiau
 鴞	shiau	89%
@@ -9111,22 +10145,28 @@ use_preset_vocabulary: true
 𦺔	shyau
 䬘	shyau
 餚	shyau
+嗃	sheau	0%
 嘵	sheau	88%
 㩭	sheau
 曉	sheau	89%
+膮	sheau	0%
 驍	sheau
 傚	shiaw	87%
 効	shiaw	88%
+哮	shiaw	0%
 嗃	shiaw
 嬈	shiaw
 孝	shiaw	85%
 恔	shiaw
+㩭	shiaw	0%
 效	shiaw	89%
 斆	shiaw
 校	shiaw	86%
 澩	shiaw
 㵿	shiaw
+歊	shiauq	0%
 僬	tziau
+勦	tziau	0%
 噍	tziau
 嶕	tziau
 椒	tziau	86%
@@ -9142,15 +10182,21 @@ use_preset_vocabulary: true
 剿	tzeau
 勦	tzeau	89%
 湫	tzeau
+僬	tziaw	0%
+噍	tziaw	0%
 潐	tziaw
 灂	tziaw
+燋	tziaw	0%
 癄	tziaw
 皭	tziaw
 䂃	tziaw
 醮	tziaw
 釂	tziaw
 䩌	tziaw
+皭	tziauq	0%
+䂃	tziauq	0%
 幧	tsiau
+愀	tsiau	0%
 鍫	tsiau
 顦	tsiau
 憔	tsyau	87%
@@ -9164,6 +10210,7 @@ use_preset_vocabulary: true
 釥	tseau
 俏	tsiaw	89%
 峭	tsiaw
+悄	tsiaw	0%
 㴥	tsiaw
 誚	tsiaw	88%
 趭	tsiaw
@@ -9195,6 +10242,7 @@ use_preset_vocabulary: true
 筱	seau
 篠	seau	88%
 咲	siaw
+哨	siaw	0%
 嘯	siaw	87%
 歗	siaw
 笑	siaw	89%
@@ -9216,17 +10264,26 @@ use_preset_vocabulary: true
 嘔	oou	89%
 塸	oou
 敺	oou
+歐	oou	0%
 毆	oou	88%
+䙔	oou	0%
+漚	ow	0%
 㨐	boou
 抔	pour
 掊	pour
 棓	pour
+瓿	pour	0%
 箁	pour
 䍌	pour
 裒	pour
+䯽	pour	0%
 剖	poou	89%
+掊	poou	0%
+瓿	poou	0%
+䯽	poou	0%
 培	pow
 瓿	pow
+䍌	pow	0%
 䏽	pow
 䯽	pow
 侔	mou
@@ -9260,14 +10317,18 @@ use_preset_vocabulary: true
 戊	mow	86%
 楙	mow
 牡	mow	89%
+瞀	mow	0%
 茂	mow	88%
 䓮	mow
 袤	mow
 貿	mow	87%
 鄮	mow
+𨡭	mow	0%
+瞀	mouq	0%
 不	fou
 垺	fou
 𧉈	fou
+鴀	fou	0%
 浮	four	89%
 烰	four
 粰	four
@@ -9277,6 +10338,7 @@ use_preset_vocabulary: true
 缶	foou
 阜	foou	88%
 鴀	foou
+不	fow	0%
 覆	fow	89%
 兜	dou	89%
 吺	dou
@@ -9302,8 +10364,14 @@ use_preset_vocabulary: true
 鬥	dow	85%
 鬭	dow	84%
 偷	tou	89%
+妵	tou	0%
 媮	tou
+窬	tou	0%
+襡	tou	0%
+鈄	tou	0%
+鋀	tou	0%
 鍮	tou
+黈	tou	0%
 亠	tour
 㓱	tour
 㢏	tour
@@ -9311,18 +10379,25 @@ use_preset_vocabulary: true
 牏	tour
 窬	tour
 緰	tour
+䕆	tour	0%
 褕	tour
 酘	tour
+䤅	tour	0%
 頭	tour	89%
 骰	tour
 妵	toou
 䕆	toou
+襡	toou	0%
 䤅	toou
 鈄	toou
 鋀	toou
 黈	toou
+牏	tow	0%
+窬	tow	0%
 襡	tow
 透	tow	89%
+酘	tow	0%
+䤅	tow	0%
 羺	nou
 鎒	nou
 䨲	nou
@@ -9351,6 +10426,7 @@ use_preset_vocabulary: true
 蔞	lou
 螻	lou
 䝏	lou
+鏤	lou	0%
 鞻	lou
 髏	lou
 䱾	lou
@@ -9359,19 +10435,27 @@ use_preset_vocabulary: true
 漊	loou
 甊	loou
 簍	loou	89%
+蔞	loou	0%
 𨻻	loou
 𪍣	loou
+僂	low	0%
 屚	low
+嶁	low	0%
 漏	low	89%
 𤬏	low
 瘻	low
 𦸢	low
 鏤	low
 陋	low	88%
+鞻	low	0%
 傋	gou
 冓	gou
 勾	gou	89%
+句	gou	0%
+夠	gou	0%
+岣	gou	0%
 拘	gou
+枸	gou	0%
 溝	gou	86%
 篝	gou
 緱	gou
@@ -9383,7 +10467,6 @@ use_preset_vocabulary: true
 韝	gou
 𪓟	gou
 鈎	gou	87%
-句	gou
 榖	gour
 垢	goou	86%
 岣	goou
@@ -9393,6 +10476,7 @@ use_preset_vocabulary: true
 笱	goou
 耉	goou
 苟	goou	88%
+詬	goou	0%
 豿	goou
 鮈	goou
 茍	goou	87%
@@ -9406,20 +10490,24 @@ use_preset_vocabulary: true
 搆	gow
 構	gow	85%
 瞉	gow
+篝	gow	0%
 茩	gow
 𧃛	gow
 覯	gow
 訽	gow
 詬	gow
 購	gow	86%
+軥	gow	0%
 遘	gow
 雊	gow
+韝	gow	0%
 彄	kou
 摳	kou
 眗	kou
 芤	kou
 袧	kou
 口	koou	89%
+叩	koou	0%
 扣	koou
 竘	koou
 釦	koou
@@ -9430,12 +10518,15 @@ use_preset_vocabulary: true
 簆	kow
 蔻	kow
 鷇	kow
+吽	nghou	0%
 吽	ngou
 偶	ngoou	89%
+吽	ngoou	0%
 㼴	ngoou
 耦	ngoou
 腢	ngoou
 藕	ngoou	88%
+偶	ngow	0%
 㗕	hou
 餱	hou	89%
 齁	hou
@@ -9464,14 +10555,19 @@ use_preset_vocabulary: true
 後	how	89%
 怐	how
 𥅠	how
+睺	how	0%
 豞	how
 逅	how
 郈	how
+鄇	how	0%
+鍭	how	0%
 鱟	how
 𪃶	how
+豞	houq	0%
 侜	jou
 周	jou	87%
 㖄	jou
+咮	jou	0%
 𪠾	jou
 喌	jou
 婤	jou
@@ -9503,8 +10599,11 @@ use_preset_vocabulary: true
 黀	jou
 齱	jou
 齺	jou
+媰	jour	0%
+齺	jour	0%
 帚	joou	88%
 扭	joou
+棷	joou	0%
 箒	joou
 肘	joou	89%
 䖞	joou
@@ -9516,9 +10615,11 @@ use_preset_vocabulary: true
 胄	jow	88%
 咒	jow	84%
 咮	jow
+媰	jow	0%
 宙	jow	89%
 怞	jow
 晝	jow	87%
+椆	jow	0%
 甃	jow
 疛	jow
 皺	jow	85%
@@ -9529,9 +10630,11 @@ use_preset_vocabulary: true
 𧛸	jow
 酎	jow
 驟	jow
+齺	jouq	0%
 啁	chou
 妯	chou
 惆	chou	88%
+懤	chou	0%
 抽	chou	89%
 搊	chou
 犨	chou
@@ -9548,6 +10651,7 @@ use_preset_vocabulary: true
 疇	chour
 瘳	chour
 稠	chour
+𥣙	chour	0%
 籌	chour	88%
 紬	chour
 綢	chour	86%
@@ -9566,36 +10670,47 @@ use_preset_vocabulary: true
 𪇘	chour
 讐	chour	82%
 丑	choou	89%
+搊	choou	0%
 杻	choou
 瞅	choou	87%
 𥣙	choou
+篘	choou	0%
+𥻤	choou	0%
 醜	choou	88%
 𩋄	choou
 丑	chow
+懤	chow	0%
 殠	chow
 畜	chow
 簉	chow
 臭	chow	89%
 䔏	chow
 收	shou	89%
+售	shour	0%
 守	shoou	88%
 手	shoou	89%
+狩	shoou	0%
 首	shoou	87%
 受	show	89%
 售	show	86%
 壽	show	87%
 守	show	83%
 授	show	88%
+收	show	0%
 狩	show
 獸	show	84%
 瘦	show	85%
 綬	show
+首	show	0%
+沑	rhou	0%
 揉	rou	88%
 柔	rou	89%
 㽥	rou
 禸	rou
+葇	rou	0%
 蝚	rou
 蹂	rou
+輮	rou	0%
 鞣	rou
 騥	rou
 鰇	rou
@@ -9603,7 +10718,11 @@ use_preset_vocabulary: true
 沑	roou
 葇	roou
 輮	roou
+揉	row	0%
 肉	row	89%
+蹂	row	0%
+輮	row	0%
+鞣	row	0%
 㗙	tzou
 娵	tzou
 掫	tzou
@@ -9612,11 +10731,17 @@ use_preset_vocabulary: true
 諏	tzou
 陬	tzou
 鯫	tzou
+㔌	tzour	0%
+娵	tzoou	0%
+掫	tzoou	0%
 走	tzoou	89%
+鯫	tzoou	0%
 㔌	tzow
 奏	tzow	89%
 族	tzow
 楱	tzow
+緅	tzow	0%
+走	tzow	0%
 䜅	tsou
 趣	tsoou
 楱	tsow
@@ -9627,12 +10752,14 @@ use_preset_vocabulary: true
 輳	tsow
 凑	tsow	89%
 傁	sou
+叟	sou	0%
 廋	sou
 𢯱	sou
 搜	sou	89%
 摗	sou
 𣯜	sou
 涑	sou
+𣸈	sou	0%
 溲	sou
 獀	sou
 䐹	sou
@@ -9650,17 +10777,24 @@ use_preset_vocabulary: true
 𠪇	soou
 叟	soou	89%
 嗾	soou
+廋	soou	0%
+搜	soou	0%
 擻	soou
 𣸈	soou
+獀	soou	0%
 瞍	soou
 籔	soou
 藪	soou
 謏	soou
+醙	soou	0%
+颼	soou	0%
 嗽	sow	88%
+嗾	sow	0%
 廋	sow
 漱	sow	89%
 瘶	sow
 謏	sow
+醙	sow	0%
 優	iou	88%
 呦	iou
 呦	iou
@@ -9669,6 +10803,7 @@ use_preset_vocabulary: true
 幽	iou	87%
 悠	iou	85%
 憂	iou	89%
+懮	iou	0%
 攸	iou	86%
 㱊	iou
 泑	iou
@@ -9681,7 +10816,9 @@ use_preset_vocabulary: true
 鄾	iou
 䱂	iou
 麀	iou
+黝	iou	0%
 冘	you
+卣	you	0%
 𠧴	you
 㘥	you
 尤	you	87%
@@ -9692,7 +10829,9 @@ use_preset_vocabulary: true
 攸	you	82%
 斿	you
 楢	you
+槱	you	0%
 櫾	you
+㰶	you	0%
 沋	you
 油	you	88%
 游	you	84%
@@ -9719,19 +10858,25 @@ use_preset_vocabulary: true
 鼬	you
 卣	yeou
 友	yeou	88%
+呦	yeou	0%
 岰	yeou
+庮	yeou	0%
 懮	yeou
 有	yeou	89%
 栯	yeou
 槱	yeou
 㰶	yeou
+泑	yeou	0%
 牖	yeou
 羑	yeou
 莠	yeou	86%
+蚴	yeou	0%
 誘	yeou
 酉	yeou	87%
 䬀	yeou
+䱂	yeou	0%
 䳑	yeou
+黝	yeou	0%
 佑	yow	86%
 侑	yow
 又	yow	89%
@@ -9739,15 +10884,23 @@ use_preset_vocabulary: true
 囿	yow
 宥	yow	84%
 幼	yow	88%
+有	yow	0%
 柚	yow	85%
+槱	yow	0%
+油	yow	0%
 狖	yow
+猶	yow	0%
 祐	yow
+蚴	yow	0%
 褎	yow
 誘	yow	83%
+輶	yow	0%
 酭	yow
 釉	yow
 鴢	yow
+囿	youq	0%
 滮	pyou
+繆	miou	0%
 繆	miow
 謬	miow	89%
 丟	diou	89%
@@ -9776,8 +10929,12 @@ use_preset_vocabulary: true
 餾	liou
 騮	liou
 鶹	liou
+鷚	liou	0%
+𪕋	liou	0%
 嬼	leou
+懰	leou	0%
 柳	leou	89%
+瀏	leou	0%
 綹	leou
 罶	leou
 蓼	leou
@@ -9788,8 +10945,11 @@ use_preset_vocabulary: true
 塯	liow
 廇	liow
 溜	liow	89%
+留	liow	0%
+瘤	liow	0%
 窌	liow
 霤	liow
+餾	liow	0%
 鷚	liow
 丩	jiou
 勼	jiou
@@ -9802,10 +10962,14 @@ use_preset_vocabulary: true
 鳩	jiou	89%
 久	jeou	88%
 九	jeou	89%
+摎	jeou	0%
+朻	jeou	0%
+灸	jeou	0%
 玖	jeou	87%
 糾	jeou	84%
 赳	jeou
 韭	jeou	86%
+鯦	jeou	0%
 韮	jeou	85%
 匶	jiow
 咎	jiow	84%
@@ -9824,6 +10988,7 @@ use_preset_vocabulary: true
 𦭻	jiow
 莥	jiow
 䓘	jiow
+赳	jiow	0%
 𧾻	jiow
 鯦	jiow
 麔	jiow
@@ -9833,6 +10998,7 @@ use_preset_vocabulary: true
 蚯	chiou	87%
 蟉	chiou
 邱	chiou	88%
+頄	chiou	0%
 龜	chiou
 仇	chyou	85%
 俅	chyou
@@ -9850,6 +11016,7 @@ use_preset_vocabulary: true
 莍	chyou
 虯	chyou
 蛷	chyou
+蟉	chyou	0%
 裘	chyou	87%
 觩	chyou
 訄	chyou
@@ -9862,7 +11029,9 @@ use_preset_vocabulary: true
 叴	chyou
 玘	cheou
 糗	cheou
+蟉	cheou	0%
 叴	chiow
+糗	chiow	0%
 䠗	chiow
 𪖛	chiow
 牛	gniou	89%
@@ -9873,12 +11042,15 @@ use_preset_vocabulary: true
 沑	gneou
 𣲶	gneou
 狃	gneou
+糅	gneou	0%
 紐	gneou	89%
 莥	gneou
 䖡	gneou
 鈕	gneou	87%
+狃	gniow	0%
 糅	gniow
 𪖐	gniow
+沑	gniouq	0%
 休	shiou	89%
 咻	shiou
 庥	shiou
@@ -9925,8 +11097,11 @@ use_preset_vocabulary: true
 遒	tsyou
 酋	tsyou	88%
 湫	tsiow
+篍	tsiow	0%
+趥	tsiow	0%
 鷲	tsiow
 修	siou	89%
+滫	siou	0%
 糔	siou
 羞	siou	87%
 脩	siou	88%
@@ -9936,6 +11111,7 @@ use_preset_vocabulary: true
 苬	syou
 鮂	syou
 滫	seou
+琇	seou	0%
 宿	siow	82%
 岫	siow	87%
 牰	siow
@@ -9957,6 +11133,7 @@ use_preset_vocabulary: true
 盦	an
 菴	an
 諳	an	85%
+闇	an	0%
 鞌	an
 韽	an
 馣	an
@@ -9967,8 +11144,10 @@ use_preset_vocabulary: true
 唵	aan	88%
 揞	aan
 晻	aan
+𤟟	aan	0%
 腤	aan
 闇	aan
+馣	aan	0%
 黤	aan
 黭	aan
 黯	aan
@@ -9984,6 +11163,8 @@ use_preset_vocabulary: true
 洝	ann
 諳	ann	86%
 𧫧	ann
+闇	ann	0%
+韽	ann	0%
 搬	ban	86%
 斑	ban	88%
 斒	ban
@@ -10007,6 +11188,7 @@ use_preset_vocabulary: true
 蝂	baan
 鈑	baan
 鋬	baan
+阪	baan	0%
 䬳	baan
 伴	bann	88%
 半	bann	89%
@@ -10041,10 +11223,14 @@ use_preset_vocabulary: true
 鞶	parn
 𪄀	parn
 坢	paan
+眅	paan	0%
+繁	paan	0%
 伴	pann
 冸	pann
 判	pann	89%
 叛	pann	87%
+坢	pann	0%
+扳	pann	0%
 沜	pann
 泮	pann
 牉	pann
@@ -10057,9 +11243,11 @@ use_preset_vocabulary: true
 悗	man
 慲	man
 曼	man
+漫	man	0%
 獌	man
 瓱	man
 瞞	man	87%
+縵	man	0%
 蔓	man	89%
 蠻	man	86%
 謾	man
@@ -10073,9 +11261,11 @@ use_preset_vocabulary: true
 饅	man	88%
 鬘	man
 鬗	man
+鰻	man	0%
 𪈿	man
 㛧	maan
 庬	maan
+悗	maan	0%
 滿	maan	89%
 矕	maan
 鏋	maan
@@ -10083,21 +11273,31 @@ use_preset_vocabulary: true
 嫚	mann
 幔	mann	87%
 慢	mann	89%
+曼	mann	0%
 槾	mann
 漫	mann	88%
+獌	mann	0%
 縵	mann
+蔓	mann	0%
 蔄	mann
+謾	mann	0%
 䡬	mann
+鄤	mann	0%
+鏝	mann	0%
 𩆓	mann
+鬗	mann	0%
 鰻	mann
 僈	mann	86%
 凡	fan
+反	fan	0%
 墦	fan
 帆	fan	85%
 幡	fan
 𢬵	fan
 旛	fan
 橎	fan
+氾	fan	0%
+汎	fan	0%
 𤃃	fan
 燔	fan
 犿	fan
@@ -10137,9 +11337,12 @@ use_preset_vocabulary: true
 凢	farn	88%
 反	faan	89%
 㽹	faan
+笲	faan	0%
 𪱠	faan
 䡊	faan
 返	faan	88%
+釩	faan	0%
+飯	faan	0%
 嬎	fann
 帆	fann	82%
 梵	fann	84%
@@ -10157,6 +11360,7 @@ use_preset_vocabulary: true
 軓	fann
 軬	fann
 釩	fann
+颿	fann	0%
 飯	fann	89%
 丹	dan	86%
 佔	dan
@@ -10169,6 +11373,7 @@ use_preset_vocabulary: true
 殫	dan
 湛	dan
 甔	dan
+癉	dan	0%
 眈	dan
 簞	dan
 耼	dan
@@ -10185,6 +11390,8 @@ use_preset_vocabulary: true
 担	daan	89%
 旦	daan
 疸	daan
+𤺺	daan	0%
+眈	daan	0%
 紞	daan
 胆	daan	88%
 膽	daan	87%
@@ -10206,8 +11413,11 @@ use_preset_vocabulary: true
 擔	dann	81%
 旦	dann	89%
 淡	dann	84%
+澹	dann	0%
 澶	dann
 狚	dann
+甔	dann	0%
+疸	dann	0%
 癉	dann
 𤺺	dann
 磹	dann
@@ -10220,12 +11430,16 @@ use_preset_vocabulary: true
 鉭	dann
 霮	dann
 鴠	dann
+僤	danq	0%
+狚	danq	0%
+傝	tan	0%
 嘽	tan
 嘾	tan
 坍	tan
 探	tan	89%
 㨏	tan
 攤	tan	86%
+歎	tan	0%
 𣵢	tan
 灘	tan	87%
 痑	tan
@@ -10234,10 +11448,12 @@ use_preset_vocabulary: true
 䑙	tan
 貪	tan	88%
 倓	tarn
+嘾	tarn	0%
 壇	tarn	85%
 壜	tarn
 彈	tarn	83%
 惔	tarn
+撣	tarn	0%
 曇	tarn
 橝	tarn
 檀	tarn	84%
@@ -10261,8 +11477,10 @@ use_preset_vocabulary: true
 驙	tarn
 鷤	tarn
 荨	tarn
+倓	taan	0%
 儃	taan
 啿	taan
+嘽	taan	0%
 嗿	taan
 嚪	taan
 坦	taan	88%
@@ -10270,6 +11488,7 @@ use_preset_vocabulary: true
 忐	taan	86%
 撣	taan
 䏙	taan
+橝	taan	0%
 毯	taan	89%
 潬	taan
 窞	taan
@@ -10277,31 +11496,46 @@ use_preset_vocabulary: true
 𦃖	taan
 菼	taan
 袒	taan	87%
+譚	taan	0%
 賧	taan
 贉	taan
 醓	taan
 黮	taan
 傝	tann
+壇	tann	0%
 憛	tann
 探	tann	89%
 撢	tann
 歎	tann	87%
 㶒	tann
+灘	tann	0%
 炭	tann	88%
 禫	tann
 䊤	tann
+䑙	tann	0%
 䗊	tann
 袒	tann
+贉	tann	0%
+醰	tann	0%
+驔	tann	0%
 嘆	tann	86%
+喃	nhan	0%
+㘝	nhan	0%
+淰	nhan	0%
+𦊔	nhan	0%
+諵	nhan	0%
 南	nan	89%
 喃	nan	88%
 枏	nan
 柟	nan
+湳	nan	0%
 男	nan	85%
+腩	nan	0%
 蝻	nan
 諵	nan	87%
 難	nan	84%
 楠	nan	86%
+喃	naan	0%
 㘝	naan
 囡	naan
 戁	naan
@@ -10313,7 +11547,9 @@ use_preset_vocabulary: true
 妠	nann
 攤	nann
 灘	nann
+諵	nann	0%
 難	nann	89%
+㘝	nanq	0%
 厱	lan
 婪	lan
 嵐	lan
@@ -10357,10 +11593,13 @@ use_preset_vocabulary: true
 嚂	lann
 懢	lann
 濫	lann	88%
+瀾	lann	0%
+灡	lann	0%
 爁	lann
 爛	lann	89%
 糷	lann
 纜	lann	87%
+讕	lann	0%
 乾	gan	82%
 尷	gan
 干	gan	89%
@@ -10386,6 +11625,7 @@ use_preset_vocabulary: true
 橄	gaan	88%
 澉	gaan
 灨	gaan
+皯	gaan	0%
 盰	gaan
 𥕵	gaan
 䃭	gaan
@@ -10399,7 +11639,10 @@ use_preset_vocabulary: true
 幹	gann	89%
 旰	gann
 榦	gann
+淦	gann	0%
+灨	gann	0%
 皯	gann
+盰	gann	0%
 矸	gann
 竷	gann
 紺	gann
@@ -10425,7 +11668,9 @@ use_preset_vocabulary: true
 㙳	kaan
 欿	kaan
 砍	kaan	89%
+衎	kaan	0%
 輡	kaan
+侃	kann	0%
 勘	kann	89%
 嵌	kann	88%
 看	kann	87%
@@ -10442,7 +11687,10 @@ use_preset_vocabulary: true
 岸	ngann	89%
 犴	ngann
 矸	ngann
+豻	ngann	0%
 䮗	ngann
+儑	nganq	0%
+唅	han	0%
 憨	han
 蚶	han
 𧍧	han
@@ -10457,14 +11705,17 @@ use_preset_vocabulary: true
 崡	harn
 㟏	harn
 扞	harn
+汗	harn	0%
 浛	harn
 涵	harn	85%
 瀚	harn
 珩	harn
 琀	harn
+翰	harn	0%
 甝	harn
 蜬	harn
 谽	harn
+豻	harn	0%
 邗	harn
 邯	harn
 酣	harn
@@ -10473,6 +11724,7 @@ use_preset_vocabulary: true
 頷	harn
 𩔞	harn
 馯	harn
+䮧	harn	0%
 厂	haan
 喊	haan	89%
 暵	haan
@@ -10480,21 +11732,28 @@ use_preset_vocabulary: true
 熯	haan
 㺖	haan
 罕	haan	88%
+𧍧	haan	0%
 豃	haan
 闞	haan
+頷	haan	0%
 顑	haan
+𩔞	haan	0%
 鬫	haan
+唅	hann	0%
 垾	hann
 悍	hann	85%
+憨	hann	0%
 憾	hann	83%
 捍	hann
 撼	hann
 旱	hann	86%
+暵	hann	0%
 汗	hann	88%
 涆	hann
 漢	hann	89%
 濫	hann
 犴	hann
+琀	hann	0%
 皔	hann
 罕	hann	87%
 翰	hann	84%
@@ -10509,13 +11768,16 @@ use_preset_vocabulary: true
 豻	hann
 釬	hann
 閈	hann
+闞	hann	0%
 雗	hann
 頜	hann
 顄	hann
+顑	hann	0%
 駻	hann
 䮧	hann
 鳱	hann
 鶾	hann
+鼾	hann	0%
 占	jan	89%
 噡	jan
 旃	jan
@@ -10533,12 +11795,14 @@ use_preset_vocabulary: true
 𧾍	jan
 邅	jan
 霑	jan
+颭	jan	0%
 饘	jan
 驙	jan
 鸇	jan
 𪆻	jan
 毡	jan	87%
 㶣	jarn
+譫	jarn	0%
 展	jaan	89%
 斬	jaan	88%
 琖	jaan
@@ -10548,8 +11812,11 @@ use_preset_vocabulary: true
 襢	jaan
 蹍	jaan
 輾	jaan
+邅	jaan	0%
 醆	jaan
 颭	jaan
+𩥇	jaan	0%
+𪆻	jaan	0%
 𪉜	jaan
 佔	jann	87%
 偡	jann
@@ -10561,16 +11828,26 @@ use_preset_vocabulary: true
 綻	jann	83%
 蘸	jann
 䗃	jann
+襢	jann	0%
+覘	jann	0%
 𧸖	jann
 輚	jann
 轏	jann
+邅	jann	0%
 顫	jann	84%
 𩥇	jann
+𪉜	jann	0%
+譫	janq	0%
+儳	chan	0%
+嘽	chan	0%
+嚵	chan	0%
+幝	chan	0%
 幨	chan
 惉	chan
 攙	chan	89%
 梴	chan
 欃	chan
+燀	chan	0%
 𤎥	chan
 猭	chan
 𥰨	chan
@@ -10589,6 +11866,7 @@ use_preset_vocabulary: true
 毚	charn
 潺	charn
 瀍	charn
+瀺	charn	0%
 烻	charn
 獑	charn
 磛	charn
@@ -10600,16 +11878,24 @@ use_preset_vocabulary: true
 讒	charn
 躔	charn
 酁	charn
+鑱	charn	0%
 饞	charn	88%
 丳	chaan
+僝	chaan	0%
 僤	chaan
 𠐩	chaan
+儳	chaan	0%
 剗	chaan
 剷	chaan	87%
+劖	chaan	0%
 嘽	chaan
+嚵	chaan	0%
 囅	chaan
+孱	chaan	0%
+嵁	chaan	0%
 嵼	chaan
 嶘	chaan
+巉	chaan	0%
 幝	chaan
 懺	chaan	86%
 㯆	chaan
@@ -10617,6 +11903,7 @@ use_preset_vocabulary: true
 灛	chaan
 燀	chaan
 產	chaan	89%
+硟	chaan	0%
 簅	chaan
 繟	chaan
 𦅗	chaan
@@ -10637,11 +11924,22 @@ use_preset_vocabulary: true
 嶄	chann
 懺	chann	89%
 瀺	chann
+猭	chann	0%
 硟	chann
+繟	chann	0%
+纏	chann	0%
+羼	chann	0%
+䑎	chann	0%
+虥	chann	0%
+襜	chann	0%
+讒	chann	0%
 讖	chann
+䤘	chann	0%
+鏟	chann	0%
 鑱	chann
 韂	chann
 刪	shan	87%
+單	shan	0%
 山	shan	89%
 彡	shan
 扇	shan	82%
@@ -10658,6 +11956,7 @@ use_preset_vocabulary: true
 㹪	shan
 㺑	shan
 珊	shan	86%
+疝	shan	0%
 穇	shan
 縿	shan
 羶	shan	83%
@@ -10665,6 +11964,7 @@ use_preset_vocabulary: true
 舢	shan
 芟	shan
 苫	shan
+蟾	shan	0%
 衫	shan	85%
 䘰	shan
 訕	shan
@@ -10675,48 +11975,65 @@ use_preset_vocabulary: true
 儃	sharn
 單	sharn
 嬋	sharn
+㨻	sharn	0%
 禪	sharn	89%
 蟬	sharn	88%
 蟾	sharn
 鋋	sharn
 僤	shaan
+單	shaan	0%
 㚒	shaan
+彡	shaan	0%
 掞	shaan
 㨛	shaan
+摲	shaan	0%
 㨻	shaan
 樿	shaan
 淰	shaan
 㴸	shaan
 潸	shaan	87%
 潬	shaan
+煔	shaan	0%
 煽	shaan
+㺑	shaan	0%
 睒	shaan
 𧀵	shaan
 閃	shaan	89%
 陝	shaan	88%
 善	shann	89%
+單	shann	0%
 墠	shann
 墡	shann
 嬗	shann
 扇	shann	86%
+掞	shann	0%
+摲	shann	0%
 擅	shann	82%
 柵	shann
+樿	shann	0%
 汕	shann
+潸	shann	0%
 煔	shann
 煽	shann	85%
 㹪	shann
 疝	shann	84%
+睒	shann	0%
 禪	shann	83%
 繕	shann
 膳	shann	87%
+苫	shann	0%
 蟺	shann
 謆	shann
 贍	shann
 鄯	shann
+釤	shann	0%
+閃	shann	0%
 饍	shann
 騸	shann
 鱓	shann
 鱔	shann	88%
+㒄	rhan	0%
+㜣	rhan	0%
 𠯍	ran
 然	ran	89%
 燃	ran	88%
@@ -10737,15 +12054,25 @@ use_preset_vocabulary: true
 熯	raan
 苒	raan
 蹨	raan
+㜣	rann	0%
+染	rann	0%
+繎	rann	0%
+蚦	rann	0%
+髥	rann	0%
 咱	tzan
+寁	tzan	0%
 撍	tzan
 簪	tzan	89%
 鐕	tzan
 咱	tzarn	89%
 喒	tzarn	88%
+鏨	tzarn	0%
 偺	tzarn	87%
 喒	tzaan
+囋	tzaan	0%
+㜺	tzaan	0%
 寁	tzaan
+撍	tzaan	0%
 昝	tzaan
 歜	tzaan
 䰖	tzaan
@@ -10754,6 +12081,7 @@ use_preset_vocabulary: true
 㜺	tzann
 拶	tzann
 暫	tzann	89%
+歜	tzann	0%
 瓚	tzann
 篸	tzann
 讃	tzann
@@ -10764,8 +12092,12 @@ use_preset_vocabulary: true
 𩟪	tzann
 贊	tzann	88%
 讚	tzann	87%
+寁	tzanq	0%
+䰖	tzanq	0%
 傪	tsan
 參	tsan	88%
+䎒	tsan	0%
+謲	tsan	0%
 䟃	tsan
 餐	tsan	89%
 驂	tsan
@@ -10779,13 +12111,17 @@ use_preset_vocabulary: true
 慘	tsaan	89%
 憯	tsaan
 朁	tsaan
+䎒	tsaan	0%
 黲	tsaan
+參	tsann	0%
 戔	tsann
 燦	tsann	89%
 璨	tsann
 䃸	tsann
 粲	tsann
 謲	tsann
+參	tsanq	0%
+䟃	tsanq	0%
 三	san	89%
 參	san
 叄	san
@@ -10793,6 +12129,8 @@ use_preset_vocabulary: true
 毿	san
 珊	san	87%
 䈀	san
+糂	san	0%
+糝	san	0%
 𦙱	san
 跚	san
 鬖	san
@@ -10802,20 +12140,26 @@ use_preset_vocabulary: true
 糂	saan
 糝	saan
 繖	saan	87%
+鬖	saan	0%
 三	sann	88%
 散	sann	89%
 饊	sann
+厭	ian	0%
 咽	ian	89%
+埏	ian	0%
 奄	ian	86%
 嫣	ian
 崦	ian
+弇	ian	0%
 殗	ian
 殷	ian
 淹	ian	85%
 湮	ian
+漹	ian	0%
 烟	ian	88%
 焉	ian	83%
 煙	ian	87%
+燕	ian	0%
 𤝱	ian
 猒	ian
 珚	ian
@@ -10828,12 +12172,17 @@ use_preset_vocabulary: true
 𧹬	ian
 鄢	ian
 醃	ian	84%
+閹	ian	0%
 閼	ian
+顑	ian	0%
+䫡	ian	0%
 鹽	ian	82%
+噞	yan	0%
 嚴	yan	86%
 㘖	yan
 壧	yan
 妍	yan
+嬐	yan	0%
 岩	yan	85%
 嵒	yan
 巖	yan
@@ -10846,11 +12195,14 @@ use_preset_vocabulary: true
 漹	yan
 炎	yan	82%
 焉	yan	75%
+焰	yan	0%
+甗	yan	0%
 癌	yan
 塩	yan
 䀽	yan
 研	yan	78%
 碞	yan
+礹	yan	0%
 筵	yan	80%
 䇾	yan
 簷	yan
@@ -10877,13 +12229,18 @@ use_preset_vocabulary: true
 兗	yean
 剡	yean
 匽	yean
+厭	yean	0%
 㕣	yean
 埯	yean
+堰	yean	0%
 奄	yean	84%
 㚧	yean
+嫣	yean	0%
 㜝	yean
 嬐	yean
 嬿	yean
+宴	yean	0%
+崦	yean	0%
 嵃	yean
 嶮	yean
 广	yean
@@ -10897,17 +12254,20 @@ use_preset_vocabulary: true
 棪	yean
 檿	yean
 沇	yean
+淹	yean	0%
 渰	yean
 演	yean	88%
 灩	yean
 焱	yean
 燄	yean
+猒	yean	0%
 𤟇	yean
 㺂	yean
 琰	yean
 甗	yean
 眼	yean	89%
 礹	yean
+䅧	yean	0%
 縯	yean
 罨	yean
 䎦	yean
@@ -10920,12 +12280,14 @@ use_preset_vocabulary: true
 䛇	yean
 䣍	yean
 郾	yean
+鄢	yean	0%
 酀	yean
 酓	yean
 錟	yean
 閹	yean
 隁	yean
 隒	yean
+䫡	yean	0%
 顩	yean
 𩖆	yean
 魘	yean
@@ -10936,30 +12298,46 @@ use_preset_vocabulary: true
 鼴	yean
 𪗙	yean
 齴	yean
+𪙊	yean	0%
 傿	yann
+匽	yann	0%
 厭	yann	83%
 唁	yann
 噞	yann
 嚥	yann	88%
 埏	yann
 堰	yann
+嫣	yann	0%
+嬿	yann	0%
 宴	yann	81%
+嵃	yann	0%
 巘	yann
+延	yann	0%
 彥	yann	85%
 𢜰	yann
 懕	yann
 晏	yann
 曣	yann
+涎	yann	0%
+淹	yann	0%
+漹	yann	0%
+灩	yann	0%
 烻	yann
 焰	yann
 燕	yann	89%
 爓	yann
 𤜵	yann
 𤬝	yann
+甗	yann	0%
 䁙	yann
+研	yann	0%
 硯	yann	80%
+綖	yann	0%
 艷	yann	78%
+莚	yann	0%
 衍	yann	79%
+裺	yann	0%
+褗	yann	0%
 諺	yann	84%
 讌	yann
 讞	yann
@@ -10967,10 +12345,14 @@ use_preset_vocabulary: true
 贗	yann
 趼	yann
 這	yann
+郾	yann	0%
+鄢	yann	0%
+酀	yann	0%
 醼	yann
 釅	yann
 雁	yann	87%
 顑	yann
+䫡	yann	0%
 饜	yann
 騐	yann
 騴	yann
@@ -10981,7 +12363,15 @@ use_preset_vocabulary: true
 鴈	yann	86%
 鴳	yann
 鷃	yann
+鹽	yann	0%
 齞	yann
+淹	yanq	0%
+焱	yanq	0%
+𤝱	yanq	0%
+罨	yanq	0%
+腌	yanq	0%
+讞	yanq	0%
+魘	yanq	0%
 扁	bian	89%
 攽	bian
 猵	bian
@@ -10997,12 +12387,15 @@ use_preset_vocabulary: true
 鞭	bian	85%
 鯿	bian
 鯾	bian
+便	byan	0%
 匾	bean	88%
 惼	bean
 扁	bean	89%
 䁵	bean
 碥	bean
+𥣰	bean	0%
 窆	bean
+編	bean	0%
 褊	bean
 貶	bean
 辡	bean
@@ -11016,6 +12409,8 @@ use_preset_vocabulary: true
 汴	biann
 炞	biann
 㺹	biann
+砭	biann	0%
+窆	biann	0%
 艑	biann
 㝸	biann
 變	biann	88%
@@ -11043,11 +12438,15 @@ use_preset_vocabulary: true
 楩	pyan
 胼	pyan
 𧍲	pyan
+諞	pyan	0%
 蹁	pyan
 駢	pyan
 骿	pyan
+萹	pean	0%
 覑	pean
+諞	pean	0%
 𣎵	piann
+楩	piann	0%
 片	piann	89%
 諞	piann	87%
 騙	piann	88%
@@ -11075,6 +12474,7 @@ use_preset_vocabulary: true
 浼	mean
 湎	mean
 眇	mean
+眠	mean	0%
 緬	mean
 䤄	mean
 鮸	mean
@@ -11094,6 +12494,7 @@ use_preset_vocabulary: true
 敁	dian
 槇	dian
 滇	dian
+痁	dian	0%
 瘨	dian
 癲	dian	87%
 𦕒	dian
@@ -11109,10 +12510,12 @@ use_preset_vocabulary: true
 点	dean
 玷	dean	88%
 琠	dean
+瘨	dean	0%
 碘	dean
 蒧	dean
 蕇	dean
 點	dean	89%
+佃	diann	0%
 墊	diann	88%
 奠	diann	83%
 店	diann	87%
@@ -11121,6 +12524,7 @@ use_preset_vocabulary: true
 𣵦	diann
 淀	diann
 澱	diann
+玷	diann	0%
 甸	diann	84%
 痁	diann
 簟	diann
@@ -11132,6 +12536,8 @@ use_preset_vocabulary: true
 搷	tian
 沾	tian
 添	tian	88%
+滇	tian	0%
+町	tian	0%
 𦧝	tian
 舚	tian
 酟	tian
@@ -11169,9 +12575,15 @@ use_preset_vocabulary: true
 靦	tean
 餂	tean
 䑛	tean	89%
+填	tiann	0%
 忝	tiann	89%
+㮇	tiann	0%
 沴	tiann
+滇	tiann	0%
 瑱	tiann
+舚	tiann	0%
+鈿	tiann	0%
+闐	tiann	0%
 匳	lian
 壣	lian
 奩	lian
@@ -11180,6 +12592,7 @@ use_preset_vocabulary: true
 廉	lian	86%
 怜	lian
 憐	lian	84%
+斂	lian	0%
 蘞	lian
 槤	lian
 濂	lian
@@ -11222,17 +12635,21 @@ use_preset_vocabulary: true
 臉	lean	89%
 襺	lean
 𧸘	lean
+連	lean	0%
 鄻	lean
 醶	lean
 䭑	lean
 僆	liann
+摙	liann	0%
 斂	liann	89%
+蘞	liann	0%
 楝	liann
 殮	liann	88%
 湅	liann
 漣	liann
 瀲	liann
 煉	liann	85%
+稴	liann	0%
 練	liann	84%
 萰	liann
 鍊	liann	87%
@@ -11243,6 +12660,7 @@ use_preset_vocabulary: true
 姦	jian	83%
 幵	jian
 慳	jian
+揵	jian	0%
 㨜	jian
 𢳚	jian
 椷	jian
@@ -11263,8 +12681,10 @@ use_preset_vocabulary: true
 蒹	jian
 蕳	jian
 豜	jian
+趼	jian	0%
 銒	jian
 鋻	jian
+鍵	jian	0%
 鑑	jian
 閒	jian
 間	jian	84%
@@ -11281,6 +12701,7 @@ use_preset_vocabulary: true
 黬	jian
 揵	jyan
 鍵	jyan
+黬	jyan	0%
 儉	jean	80%
 囝	jean
 垷	jean
@@ -11290,26 +12711,34 @@ use_preset_vocabulary: true
 䞿	jean
 𡾰	jean
 𢆚	jean
+建	jean	0%
 弿	jean
 揀	jean	86%
+揵	jean	0%
 撿	jean
 暕	jean
 柬	jean	87%
+楗	jean	0%
 檢	jean	81%
 減	jean	88%
 湕	jean
+犍	jean	0%
 㺝	jean
 瞼	jean
 筧	jean
 簡	jean	85%
 繭	jean	84%
+腱	jean	0%
 臉	jean	79%
 藆	jean
 䙭	jean
 𧟉	jean
 謇	jean
+豜	jean	0%
 趼	jean
 蹇	jean
+銒	jean	0%
+鍵	jean	0%
 鹻	jean
 鹼	jean	83%
 减	jean	89%
@@ -11318,10 +12747,12 @@ use_preset_vocabulary: true
 健	jiann	87%
 儉	jiann	85%
 𠐻	jiann
+兼	jiann	0%
 劍	jiann	83%
 劒	jiann
 壏	jiann
 建	jiann	88%
+揀	jiann	0%
 楗	jiann
 檻	jiann
 毽	jiann
@@ -11329,11 +12760,13 @@ use_preset_vocabulary: true
 監	jiann	81%
 𦅘	jiann
 𦉞	jiann
+腱	jiann	0%
 艦	jiann	79%
 襇	jiann
 見	jiann	89%
 覵	jiann
 諫	jiann	84%
+豜	jiann	0%
 轞	jiann
 𨏊	jiann
 鍵	jiann	86%
@@ -11341,11 +12774,13 @@ use_preset_vocabulary: true
 鑑	jiann	80%
 間	jiann	78%
 鑒	jiann	77%
+鬝	jianq	0%
 厱	chian
 䞿	chian
 岍	chian
 愆	chian
 𢜩	chian
+拑	chian	0%
 掔	chian
 掮	chian
 搴	chian
@@ -11356,6 +12791,7 @@ use_preset_vocabulary: true
 汧	chian
 牽	chian	89%
 縴	chian
+芡	chian	0%
 褰	chian
 諐	chian
 謙	chian	87%
@@ -11376,6 +12812,7 @@ use_preset_vocabulary: true
 鍼	chyan
 雃	chyan
 雂	chyan
+顩	chyan	0%
 騝	chyan
 鰬	chyan
 黔	chyan
@@ -11383,30 +12820,44 @@ use_preset_vocabulary: true
 凵	chean
 嗛	chean
 嵰	chean
+𢜩	chean	0%
 慊	chean
+拑	chean	0%
+搴	chean	0%
 槏	chean
+欦	chean	0%
 歁	chean
 歉	chean	89%
 䇜	chean
 繾	chean
 膁	chean
+芡	chean	0%
 蜸	chean
 遣	chean	88%
+顩	chean	0%
 䭤	chean
 鼸	chean
 俔	chiann
 傔	chiann
+凵	chiann	0%
 拑	chiann
 㪁	chiann
+槏	chiann	0%
 欠	chiann	89%
 歉	chiann	87%
+汧	chiann	0%
+牽	chiann	0%
 𤬯	chiann
 縴	chiann	88%
 芡	chiann
 菣	chiann
 譴	chiann
 遣	chiann	86%
+顅	chiann	0%
+騫	chiann	0%
 拈	gnhian	89%
+碾	gnhian	0%
+輾	gnhian	0%
 年	gnian	89%
 拈	gnian	86%
 秥	gnian
@@ -11424,15 +12875,22 @@ use_preset_vocabulary: true
 榐	gnean
 涊	gnean
 碾	gnean	89%
+𥮘	gnean	0%
 𧹞	gnean
 趁	gnean
 輦	gnean	88%
+輾	gnean	0%
+㚩	gniann	0%
+㜤	gniann	0%
 廿	gniann	88%
 念	gniann	89%
+碾	gniann	0%
 𥮘	gniann
 𦁤	gniann
+輾	gniann	0%
 卄	gniann	87%
 仚	shian
+嗛	shian	0%
 嘕	shian
 忺	shian
 掀	shian	88%
@@ -11454,6 +12912,8 @@ use_preset_vocabulary: true
 慊	shyan
 憪	shyan
 椷	shyan
+㺌	shyan	0%
+獫	shyan	0%
 痃	shyan
 癎	shyan
 瞯	shyan
@@ -11474,19 +12934,27 @@ use_preset_vocabulary: true
 鷴	shyan
 鹹	shyan	88%
 麙	shyan
+鼸	shyan	0%
 啣	shyan	82%
+俔	shean	0%
+嗛	shean	0%
+嘕	shean	0%
 幰	shean
+憪	shean	0%
 憲	shean
 攇	shean
 灦	shean
 㺌	shean
 獫	shean
 玁	shean
+蜆	shean	0%
+䘆	shean	0%
 諗	shean
 䥪	shean
 險	shean	89%
 韅	shean
 顯	shean	88%
+鼸	shean	0%
 俔	shiann
 僴	shiann
 峴	shiann
@@ -11495,6 +12963,7 @@ use_preset_vocabulary: true
 晛	shiann
 槏	shiann
 涀	shiann
+獫	shiann	0%
 獻	shiann	79%
 現	shiann	89%
 㽉	shiann
@@ -11508,6 +12977,7 @@ use_preset_vocabulary: true
 誢	shiann
 豏	shiann	82%
 𧾨	shiann
+軒	shiann	0%
 輤	shiann
 鋧	shiann
 錎	shiann
@@ -11520,7 +12990,9 @@ use_preset_vocabulary: true
 䱤	shiann
 鼸	shiann
 献	shiann	80%
+劗	tzian	0%
 尖	tzian	89%
+帴	tzian	0%
 戔	tzian
 椾	tzian
 𣚙	tzian
@@ -11540,16 +13012,26 @@ use_preset_vocabulary: true
 鑯	tzian
 𨶲	tzian
 韉	tzian
+䭕	tzian	0%
 鬋	tzian
 湔	tzyan
+漸	tzyan	0%
+蔪	tzyan	0%
+諓	tzyan	0%
 劗	tzean
 帴	tzean
 戩	tzean
 揃	tzean
+漸	tzean	0%
+煎	tzean	0%
+籛	tzean	0%
 翦	tzean
+蔪	tzean	0%
 譾	tzean
 踐	tzean	87%
 餞	tzean	88%
+䭕	tzean	0%
+鬋	tzean	0%
 剪	tzean	89%
 俴	tziann
 潛	tziann
@@ -11560,6 +13042,7 @@ use_preset_vocabulary: true
 洊	tziann
 漸	tziann	88%
 濺	tziann	84%
+煎	tziann	0%
 牮	tziann
 𥕌	tziann
 箭	tziann	89%
@@ -11569,26 +13052,33 @@ use_preset_vocabulary: true
 薦	tziann	87%
 螹	tziann
 袸	tziann
+諓	tziann	0%
 賤	tziann	85%
 踐	tziann	82%
 鏩	tziann
 餞	tziann	83%
 䭕	tziann
+鬋	tziann	0%
 魙	tziann
 僭	tziann	86%
+帴	tzianq	0%
 仟	tsian
 僉	tsian	86%
 兛	tsian
 千	tsian	89%
+媊	tsian	0%
 𡤷	tsian
 㡨	tsian
+憸	tsian	0%
 扦	tsian
+槧	tsian	0%
 櫏	tsian
 瓩	tsian
 竏	tsian
 簽	tsian	85%
 籤	tsian
 粁	tsian
+綪	tsian	0%
 芊	tsian
 谸	tsian
 遷	tsian	88%
@@ -11601,20 +13091,27 @@ use_preset_vocabulary: true
 前	tsyan	89%
 媊	tsyan
 灊	tsyan
+䁮	tsyan	0%
 錢	tsyan	88%
 潜	tsyan	87%
 荨	tsyan
+媊	tsean	0%
 憸	tsean
 槧	tsean
 淺	tsean	89%
+鋟	tsean	0%
+錢	tsean	0%
 倩	tsiann
+潛	tsiann	0%
 塹	tsiann
+槧	tsiann	0%
 皘	tsiann
 䁮	tsiann
 箐	tsiann
 綪	tsiann
 茜	tsiann
 蒨	tsiann
+鋟	tsiann	0%
 仙	sian	88%
 僊	sian
 先	sian	89%
@@ -11635,6 +13132,7 @@ use_preset_vocabulary: true
 虃	sian
 褼	sian
 襳	sian
+跣	sian	0%
 蹮	sian
 躚	sian
 銛	sian
@@ -11645,9 +13143,11 @@ use_preset_vocabulary: true
 撏	syan
 涎	syan	89%
 爓	syan
+䌞	syan	0%
 䕭	syan
 尠	sean
 尟	sean
+廯	sean	0%
 毨	sean
 洗	sean
 洒	sean
@@ -11660,8 +13160,12 @@ use_preset_vocabulary: true
 蘚	sean
 跣	sean	86%
 銑	sean	87%
+銛	sean	0%
 鍌	sean
 鮮	sean	88%
+鱻	sean	0%
+先	siann	0%
+尠	siann	0%
 㪇	siann
 綫	siann	88%
 線	siann	89%
@@ -11673,10 +13177,14 @@ use_preset_vocabulary: true
 剜	uan	86%
 婠	uan
 嬽	uan
+宛	uan	0%
 帵	uan
 彎	uan	89%
+梡	uan	0%
+沅	uan	0%
 潫	uan
 灣	uan	88%
+蜿	uan	0%
 䘎	uan
 豌	uan	87%
 丸	wan	87%
@@ -11684,6 +13192,7 @@ use_preset_vocabulary: true
 园	wan
 完	wan	89%
 岏	wan
+忨	wan	0%
 捖	wan
 援	wan
 梡	wan
@@ -11703,13 +13212,17 @@ use_preset_vocabulary: true
 婉	woan
 宛	woan	89%
 挽	woan	86%
+捖	woan	0%
 晚	woan	87%
 晥	woan
+梡	woan	0%
 椀	woan
+沅	woan	0%
 涴	woan
 琬	woan
 畹	woan
 盌	woan
+睕	woan	0%
 碗	woan	88%
 綰	woan
 脕	woan
@@ -11721,13 +13234,20 @@ use_preset_vocabulary: true
 鋄	woan
 魭	woan
 万	wann	86%
+娩	wann	0%
 忨	wann
 𪫻	wann
 惋	wann
 捥	wann
+援	wann	0%
+涴	wann	0%
 玩	wann	88%
+琬	wann	0%
+畹	wann	0%
 睕	wann
+綰	wann	0%
 翫	wann
+脕	wann	0%
 腕	wann	89%
 𦯘	wann
 萬	wann	87%
@@ -11735,15 +13255,20 @@ use_preset_vocabulary: true
 蟃	wann
 輐	wann
 䨲	wann
+魭	wann	0%
 卍	wann	85%
+婠	wanq	0%
+菀	wanq	0%
 剬	duan
 堆	duan
 端	duan	89%
 耑	duan
 褍	duan
 𧤗	duan
+堆	doan	0%
 斷	doan
 短	doan	89%
+堆	duann	0%
 斷	duann	89%
 椴	duann
 段	duann	88%
@@ -11777,12 +13302,15 @@ use_preset_vocabulary: true
 嚾	tuann
 彖	tuann
 褖	tuann
+貒	tuann	0%
 渜	nuan
 堧	noan
 暖	noan	89%
 煖	noan	88%
 餪	noan
 偄	nuann
+堧	nuann	0%
+渜	nuann	0%
 圝	luan
 巒	luan
 欒	luan
@@ -11801,6 +13329,7 @@ use_preset_vocabulary: true
 𠴨	guan
 官	guan	89%
 棺	guan	88%
+涫	guan	0%
 瘝	guan
 綸	guan
 莞	guan
@@ -11811,6 +13340,7 @@ use_preset_vocabulary: true
 悹	goan
 琯	goan
 痯	goan
+盥	goan	0%
 筦	goan
 管	goan	89%
 脘	goan
@@ -11833,6 +13363,8 @@ use_preset_vocabulary: true
 觀	guann	86%
 貫	guann	89%
 鑵	guann
+館	guann	0%
+鰥	guann	0%
 鱹	guann
 鸛	guann
 礶	guann	85%
@@ -11841,9 +13373,11 @@ use_preset_vocabulary: true
 梡	koan
 款	koan	89%
 窾	koan
+䥗	koan	0%
 䥗	kuann
 嚾	huan
 懽	huan
+擐	huan	0%
 歡	huan	89%
 䑏	huan
 讙	huan
@@ -11852,14 +13386,17 @@ use_preset_vocabulary: true
 鸛	huan
 𠟼	hwan
 圜	hwan
+垸	hwan	0%
 寰	hwan
 峘	hwan
 桓	hwan	86%
 澴	hwan
 環	hwan	88%
 瓛	hwan
+䍺	hwan	0%
 荁	hwan
 豩	hwan
+轘	hwan	0%
 還	hwan	89%
 鍰	hwan
 鐶	hwan	87%
@@ -11887,6 +13424,7 @@ use_preset_vocabulary: true
 澣	huann
 煥	huann
 獾	huann
+瓛	huann	0%
 甩	huann
 皖	huann
 睅	huann
@@ -11900,9 +13438,11 @@ use_preset_vocabulary: true
 逭	huann
 剸	juan
 塼	juan
+孨	juan	0%
 專	juan	89%
 甎	juan	88%
 磚	juan	87%
+竱	juan	0%
 篿	juan
 膞	juan
 蟤	juan
@@ -11911,12 +13451,22 @@ use_preset_vocabulary: true
 鄟	juan
 顓	juan
 鱄	juan
+剸	jwan	0%
+𢮨	jwan	0%
+歂	jwan	0%
 遄	jwan
+鄟	jwan	0%
+僎	joan	0%
 孨	joan
+歂	joan	0%
 竱	joan
+膞	joan	0%
 轉	joan	89%
+鄟	joan	0%
+鱄	joan	0%
 傳	juann	88%
 僎	juann
+剸	juann	0%
 囀	juann
 堟	juann
 𢮨	juann
@@ -11950,8 +13500,10 @@ use_preset_vocabulary: true
 𦺲	choan
 𧍒	choan
 串	chuann	89%
+傳	chuann	0%
 僢	chuann
 𣀔	chuann
+穿	chuann	0%
 篡	chuann
 諯	chuann
 踹	chuann
@@ -11965,6 +13517,7 @@ use_preset_vocabulary: true
 壖	ruan
 撋	ruan
 瓀	ruan
+𤲬	ruan	0%
 媆	roan
 㮕	roan
 瑌	roan
@@ -11978,6 +13531,7 @@ use_preset_vocabulary: true
 蠕	roan
 輭	roan	89%
 軟	roan	88%
+𤲬	ruann	0%
 巑	tzuan
 攢	tzuan
 𣀹	tzuan
@@ -11988,15 +13542,23 @@ use_preset_vocabulary: true
 鑽	tzuan	88%
 欑	tzwan
 鄼	tzwan
+欑	tzoan	0%
+䂎	tzoan	0%
 纂	tzoan	88%
 纘	tzoan
 躦	tzoan	89%
+攢	tzuann	0%
 䂎	tzuann
 籫	tzuann
+鄼	tzuann	0%
+鑚	tzuann	0%
 鑽	tzuann	89%
 攛	tsuan
+爨	tsuan	0%
 躥	tsuan
 㦌	tsoan
+㦌	tsuann	0%
+攛	tsuann	0%
 爨	tsuann
 竄	tsuann	89%
 篡	tsuann	88%
@@ -12005,19 +13567,24 @@ use_preset_vocabulary: true
 酸	suan	89%
 匴	soan
 損	soan
+算	soan	0%
 篹	soan
 簨	soan
 䋶	soan
 䐣	soan
+匴	suann	0%
 笇	suann
 筭	suann
 算	suann	89%
+篹	suann	0%
 蒜	suann	87%
 祘	suann	88%
 冤	iuan	89%
+噮	iuan	0%
 㠾	iuan
 弲	iuan
 𢏮	iuan
+怨	iuan	0%
 悁	iuan
 惌	iuan
 淵	iuan	88%
@@ -12065,13 +13632,16 @@ use_preset_vocabulary: true
 邧	yuan
 鄖	yuan
 鉛	yuan	74%
+阮	yuan	0%
 騵	yuan
 鳶	yuan	77%
 鶢	yuan
 黿	yuan	88%
 盶	yeuan
 苑	yeuan
+蜎	yeuan	0%
 遠	yeuan	89%
+邧	yeuan	0%
 阮	yeuan	88%
 噮	yuann
 媛	yuann	86%
@@ -12081,7 +13651,12 @@ use_preset_vocabulary: true
 掾	yuann
 援	yuann	85%
 瑗	yuann
+緣	yuann	0%
+苑	yuann	0%
 謜	yuann
+轅	yuann	0%
+遠	yuann	0%
+鄖	yuann	0%
 院	yuann	88%
 願	yuann	87%
 䬼	yuann
@@ -12091,11 +13666,16 @@ use_preset_vocabulary: true
 臠	leuan
 孌	liuann
 戀	liuann	89%
+攣	liuann	0%
+䜌	liuann	0%
 鱄	liuann
 娟	jiuan	88%
 捐	jiuan	89%
+㪻	jiuan	0%
 涓	jiuan
 焆	jiuan
+狷	jiuan	0%
+睊	jiuan	0%
 䅌	jiuan
 蜎	jiuan
 蠲	jiuan
@@ -12103,14 +13683,20 @@ use_preset_vocabulary: true
 鵑	jiuan	87%
 捐	jyuan
 卷	jeuan	89%
+帣	jeuan	0%
 捲	jeuan	88%
+狷	jeuan	0%
+罥	jeuan	0%
 菤	jeuan
 錈	jeuan
+鞙	jeuan	0%
+韏	jeuan	0%
 倦	jiuann	88%
 卷	jiuann	89%
 婘	jiuann
 帣	jiuann
 悁	jiuann
+捲	jiuann	0%
 㪻	jiuann
 狷	jiuann
 眷	jiuann	87%
@@ -12121,7 +13707,9 @@ use_preset_vocabulary: true
 鄄	jiuann
 韏	jiuann
 圈	chiuan	89%
+弮	chiuan	0%
 棬	chiuan
+虇	chiuan	0%
 卷	chyuan
 埢	chyuan
 婘	chyuan
@@ -12140,19 +13728,24 @@ use_preset_vocabulary: true
 踡	chyuan
 顴	chyuan
 鬈	chyuan
+圈	cheuan	0%
 汱	cheuan
 犬	cheuan	89%
 𤰕	cheuan
 畎	cheuan
 綣	cheuan
 蔨	cheuan
+虇	cheuan	0%
 裷	cheuan
 詃	cheuan
 券	chiuann	89%
 劵	chiuann
 勸	chiuann	88%
 圈	chiuann
+弮	chiuann	0%
+綣	chiuann	0%
 虇	chiuann
+裷	chiuann	0%
 儇	shiuan
 咺	shiuan
 喧	shiuan	89%
@@ -12160,6 +13753,7 @@ use_preset_vocabulary: true
 懁	shiuan
 暄	shiuan
 楥	shiuan
+楦	shiuan	0%
 獧	shiuan
 獯	shiuan
 䁔	shiuan
@@ -12173,17 +13767,27 @@ use_preset_vocabulary: true
 駽	shiuan
 懸	shyuan	88%
 暖	shyuan
+泫	shyuan	0%
 澴	shyuan
 玄	shyuan	89%
+玹	shyuan	0%
+眩	shyuan	0%
 鋗	shyuan
+咺	sheuan	0%
 愃	sheuan
 晅	sheuan
 烜	sheuan
 煖	sheuan
+䁔	sheuan	0%
+蠉	sheuan	0%
 諠	sheuan
+諼	sheuan	0%
+懁	shiuann	0%
+楥	shiuann	0%
 楦	shiuann
 泫	shiuann
 炫	shiuann
+獧	shiuann	0%
 玹	shiuann
 琄	shiuann
 眩	shiuann	89%
@@ -12195,6 +13799,7 @@ use_preset_vocabulary: true
 袨	shiuann
 讂	shiuann
 鉉	shiuann
+駽	shiuann	0%
 朘	tziuan
 鐫	tziuan
 臇	tzeuan
@@ -12217,6 +13822,7 @@ use_preset_vocabulary: true
 輇	tsyuan
 鐉	tsyuan
 縓	tsiuann
+譔	tsiuann	0%
 雋	tsiuann
 亘	siuan
 宣	siuan	89%
@@ -12233,9 +13839,12 @@ use_preset_vocabulary: true
 還	syuan
 𫅈	seuan
 選	seuan	89%
+旋	siuann	0%
+㳬	siuann	0%
 渲	siuann
 繏	siuann
 𦌔	siuann
+選	siuann	0%
 鏇	siuann
 恩	en	89%
 奔	ben	89%
@@ -12249,17 +13858,23 @@ use_preset_vocabulary: true
 笨	been
 苯	been
 体	benn
+奔	benn	0%
 笨	benn	89%
 吩	pen
 噴	pen	89%
 歕	pen
+翉	pen	0%
 𣄏	pern
 湓	pern
 盆	pern	89%
 葐	pern
 翉	peen
+噴	penn	0%
 坌	penn
+歕	penn	0%
+湓	penn	0%
 輽	penn
+樠	mhen	0%
 亹	men
 們	men	89%
 吽	men
@@ -12303,6 +13918,7 @@ use_preset_vocabulary: true
 汾	fern
 濆	fern
 焚	fern	89%
+秎	fern	0%
 羒	fern
 羵	fern
 蕡	fern
@@ -12314,9 +13930,18 @@ use_preset_vocabulary: true
 魵	fern
 黂	fern
 鼖	fern
+鼢	fern	0%
+墳	feen	0%
+弅	feen	0%
 忿	feen
 扮	feen
+濆	feen	0%
 粉	feen	89%
+羵	feen	0%
+膹	feen	0%
+轒	feen	0%
+魵	feen	0%
+鼢	feen	0%
 僨	fenn
 分	fenn	88%
 坋	fenn
@@ -12336,6 +13961,7 @@ use_preset_vocabulary: true
 氽	teen
 根	gen	89%
 跟	gen	88%
+鞎	gern	0%
 䫀	geen
 艮	genn
 茛	genn
@@ -12358,6 +13984,8 @@ use_preset_vocabulary: true
 唇	jen
 㘰	jen
 填	jen
+戡	jen	0%
+抌	jen	0%
 振	jen
 揕	jen
 斟	jen	89%
@@ -12374,19 +14002,24 @@ use_preset_vocabulary: true
 瑊	jen
 㻸	jen
 甄	jen
+畛	jen	0%
+眈	jen	0%
 眞	jen
 䂦	jen
 砧	jen
 碪	jen
 磌	jen
 禛	jen
+稹	jen	0%
 箴	jen
 籈	jen
+縝	jen	0%
 臻	jen	88%
 葴	jen
 蓁	jen
 薽	jen
 袗	jen
+䟴	jen	0%
 轃	jen
 針	jen	84%
 鍼	jen
@@ -12395,6 +14028,7 @@ use_preset_vocabulary: true
 鱵	jen
 𪈁	jen
 真	jen	85%
+磌	jern	0%
 屒	jeen
 戡	jeen
 抌	jeen
@@ -12402,30 +14036,39 @@ use_preset_vocabulary: true
 朕	jeen	89%
 枕	jeen	88%
 槇	jeen
+㱽	jeen	0%
 畛	jeen
 疹	jeen	87%
 眈	jeen
 眕	jeen
+䂦	jeen	0%
 稹	jeen
 紾	jeen
 縝	jeen
+袗	jeen	0%
 𧤛	jeen
 診	jeen	86%
+賑	jeen	0%
 軫	jeen
 䫬	jeen
 駗	jeen
 鬒	jeen
+填	jenn	0%
 帪	jenn
 挋	jenn
 振	jenn	89%
+揕	jenn	0%
 朕	jenn	82%
+枕	jenn	0%
 椹	jenn	88%
 瑱	jenn
+甄	jenn	0%
 瘎	jenn
 䀕	jenn
 眹	jenn
 䅾	jenn
 紖	jenn
+袗	jenn	0%
 診	jenn	87%
 譖	jenn
 賑	jenn	86%
@@ -12438,9 +14081,11 @@ use_preset_vocabulary: true
 鎮	jenn	85%
 參	chen	89%
 嗔	chen
+墋	chen	0%
 岑	chen
 嵾	chen
 棽	chen
+湛	chen	0%
 煅	chen
 琛	chen
 瞋	chen
@@ -12448,8 +14093,11 @@ use_preset_vocabulary: true
 綝	chen
 䐜	chen
 䑣	chen
+趻	chen	0%
 踸	chen
 郴	chen
+鍖	chen	0%
+䰼	chen	0%
 塵	chern	83%
 宸	chern
 岑	chern	89%
@@ -12474,16 +14122,23 @@ use_preset_vocabulary: true
 陳	chern	84%
 𩂢	chern
 霃	chern
+𩒣	chern	0%
 𩻛	chern
 麎	chern
 墋	cheen
+湛	cheen	0%
+疢	cheen	0%
+螴	cheen	0%
 趻	cheen
+踸	cheen	0%
 辴	cheen
 鍖	cheen
 𩒣	cheen
 䰼	cheen
+齔	cheen	0%
 儭	chenn
 櫬	chenn	89%
+沈	chenn	0%
 疢	chenn
 襯	chenn	88%
 趁	chenn	87%
@@ -12493,12 +14148,14 @@ use_preset_vocabulary: true
 伸	shen	89%
 侁	shen
 兟	shen
+滲	shen	0%
 參	shen	88%
 呻	shen	87%
 姺	shen
 娠	shen
 㜪	shen
 峷	shen
+摻	shen	0%
 柛	shen
 森	shen	85%
 槮	shen
@@ -12528,30 +14185,40 @@ use_preset_vocabulary: true
 審	sheen	88%
 抌	sheen
 摻	sheen
+槮	sheen	0%
 沈	sheen	87%
 淰	sheen
 瀋	sheen
 㶒	sheen
 𤘣	sheen
+㾕	sheen	0%
 䀢	sheen
 瞫	sheen
 矧	sheen
+罧	sheen	0%
 訦	sheen
 諗	sheen
 讅	sheen
 滲	shenn
 滲	shenn
+娠	shenn	0%
 慎	shenn	89%
+抌	shenn	0%
 㰮	shenn
+深	shenn	0%
+瀋	shenn	0%
 甚	shenn	88%
 眒	shenn
 祳	shenn
+罧	shenn	0%
 脤	shenn
 腎	shenn	87%
 葚	shenn
 蜃	shenn
 蜄	shenn
+訦	shenn	0%
 黮	shenn
+鵀	rhen	0%
 人	ren	89%
 仁	ren	88%
 任	ren	87%
@@ -12578,7 +14245,10 @@ use_preset_vocabulary: true
 仞	renn
 任	renn	89%
 刃	renn	88%
+壬	renn	0%
 妊	renn	87%
+恁	renn	0%
+棯	renn	0%
 椹	renn	86%
 牣	renn
 絍	renn
@@ -12589,9 +14259,12 @@ use_preset_vocabulary: true
 賃	renn	83%
 軔	renn
 韌	renn
+飪	renn	0%
+鵀	renn	0%
 怎	tzeen	89%
 參	tsen	89%
 𩷒	tsern
+唫	in	0%
 喑	in
 因	in	89%
 堙	in
@@ -12599,6 +14272,7 @@ use_preset_vocabulary: true
 婣	in
 愔	in
 慇	in
+㥯	in	0%
 歅	in
 殷	in	85%
 氤	in
@@ -12639,6 +14313,7 @@ use_preset_vocabulary: true
 沂	yn
 泿	yn
 淫	yn	86%
+潭	yn	0%
 㹜	yn
 狺	yn
 狿	yn
@@ -12658,15 +14333,22 @@ use_preset_vocabulary: true
 鷣	yn
 䴦	yn
 齦	yn
+㒚	yiin	0%
+听	yiin	0%
+喑	yiin	0%
 尹	yiin	87%
 檼	yiin
 檼	yiin
 廴	yiin
 引	yiin	86%
+慇	yiin	0%
 㥯	yiin
 戭	yiin
+檃	yiin	0%
+殷	yiin	0%
 潭	yiin
 濦	yiin
+㶏	yiin	0%
 𤻘	yiin
 癮	yiin
 縯	yiin
@@ -12676,29 +14358,38 @@ use_preset_vocabulary: true
 蚓	yiin	85%
 讔	yiin
 𨏈	yiin
+釿	yiin	0%
 鈏	yiin
 隱	yiin	88%
 飲	yiin	89%
 齗	yiin
 𪙤	yiin
-听	yiin
 㒚	yinn
 印	yinn	87%
 吟	yinn	86%
+唫	yinn	0%
+喑	yinn	0%
 垽	yinn
 廕	yinn
+引	yinn	0%
+憖	yinn	0%
 𣍃	yinn
 檃	yinn
 濥	yinn
+狿	yinn	0%
 窨	yinn
 胤	yinn
 蔭	yinn	88%
 酳	yinn
+鈏	yinn	0%
+陰	yinn	0%
+隱	yinn	0%
 靷	yinn
 䫴	yinn
 飲	yinn	89%
 䭓	yinn
 鮣	yinn
+儐	bin	0%
 彬	bin	86%
 虨	bin
 斌	bin	85%
@@ -12719,6 +14410,7 @@ use_preset_vocabulary: true
 嬪	byn
 稟	biin	89%
 儐	binn
+虨	binn	0%
 擯	binn
 殯	binn	88%
 臏	binn
@@ -12757,14 +14449,17 @@ use_preset_vocabulary: true
 憫	miin	88%
 敃	miin
 敏	miin	87%
+暋	miin	0%
 泯	miin	86%
 湣	miin
 潣	miin
 澠	miin
 𤛎	miin
+笢	miin	0%
 簢	miin
 閔	miin	89%
 鰵	miin
+愍	minn	0%
 您	nin	89%
 嶙	lin
 林	lin	89%
@@ -12774,6 +14469,7 @@ use_preset_vocabulary: true
 獜	lin
 琳	lin
 璘	lin
+甐	lin	0%
 疄	lin
 痳	lin
 瞵	lin
@@ -12791,23 +14487,37 @@ use_preset_vocabulary: true
 霖	lin	87%
 驎	lin
 鱗	lin	82%
+麐	lin	0%
 麟	lin	85%
 𠘡	liin
 吝	liin	88%
+嶙	liin	0%
 廩	liin	89%
 懍	liin
 檁	liin
+燐	liin	0%
+璘	liin	0%
 菻	liin
+轔	liin	0%
 吝	linn	88%
 悋	linn
 橉	linn
+淋	linn	0%
+獜	linn	0%
 甐	linn
+瞵	linn	0%
+粼	linn	0%
+臨	linn	0%
 藺	linn
 賃	linn	89%
+蹸	linn	0%
 躪	linn
+驎	linn	0%
 麐	linn
 今	jin	87%
+墐	jin	0%
 巾	jin	83%
+㧆	jin	0%
 斤	jin	89%
 禁	jin	81%
 筋	jin	84%
@@ -12816,12 +14526,16 @@ use_preset_vocabulary: true
 襟	jin	85%
 觔	jin	88%
 金	jin	82%
+靳	jin	0%
 黅	jin
 廑	jyn
 卺	jiin
+噤	jiin	0%
 槿	jiin
 㱈	jiin
 殣	jiin
+瑾	jiin	0%
+䈽	jiin	0%
 緊	jiin	89%
 謹	jiin	87%
 錦	jiin	88%
@@ -12833,6 +14547,7 @@ use_preset_vocabulary: true
 妗	jinn
 㧆	jinn
 㨷	jinn
+㱈	jinn	0%
 瑾	jinn
 禁	jinn	87%
 𦧈	jinn
@@ -12840,9 +14555,14 @@ use_preset_vocabulary: true
 近	jinn	89%
 靳	jinn
 饉	jinn
+坅	chin	0%
 嶔	chin
 吢	chin
+慬	chin	0%
 欽	chin	89%
+瘽	chin	0%
+𥎊	chin	0%
+䔷	chin	0%
 衾	chin	88%
 顉	chin
 勤	chyn	86%
@@ -12864,12 +14584,18 @@ use_preset_vocabulary: true
 䔷	chyn
 蘄	chyn
 黔	chyn
+凚	chiin	0%
 坅	chiin
+慬	chiin	0%
+瘽	chiin	0%
 螼	chiin
 赾	chiin
+顉	chiin	0%
 顩	chiin
 凚	chinn
+瘽	chinn	0%
 紟	chinn
+螼	chinn	0%
 拰	gniin
 銋	gniin
 廞	shin
@@ -12880,16 +14606,22 @@ use_preset_vocabulary: true
 歆	shin
 炘	shin
 訢	shin
+廞	shiin	0%
 脪	shiin
+掀	shinn	0%
 焮	shinn
 衅	shinn
 釁	shinn	89%
 兓	tzin
 寖	tzin
+𡩻	tzin	0%
 津	tzin	89%
+浸	tzin	0%
 璡	tzin
+㿊	tzin	0%
 祲	tzin
 綅	tzin
+䤐	tzin	0%
 𩀿	tzin
 𩤿	tzin
 儘	tziin	89%
@@ -12908,6 +14640,7 @@ use_preset_vocabulary: true
 瑨	tzinn
 璶	tzinn
 盡	tzinn	89%
+祲	tzinn	0%
 縉	tzinn
 藎	tzinn
 賮	tzinn
@@ -12922,14 +14655,17 @@ use_preset_vocabulary: true
 秦	tsyn	89%
 螓	tsyn
 寝	tsiin
+梫	tsiin	0%
 㾛	tsiin
 寢	tsiin	89%
 沁	tsinn	88%
 親	tsinn	89%
+伈	sin	0%
 心	sin	89%
 新	sin	87%
 莘	sin
 薪	sin	86%
+襑	sin	0%
 辛	sin	88%
 鋅	sin
 尋	syn	89%
@@ -12947,13 +14683,17 @@ use_preset_vocabulary: true
 荨	syn
 伈	siin
 蕈	siin
+襑	siin	0%
 信	sinn	89%
 囟	sinn
 汛	sinn
+蕈	sinn	0%
 訊	sinn	88%
 迅	sinn
+鐔	sinn	0%
 阠	sinn
 㬈	uen
+梱	uen	0%
 溫	uen	89%
 瑥	uen
 瘟	uen	88%
@@ -12981,9 +14721,13 @@ use_preset_vocabulary: true
 笏	woen
 脗	woen
 䐇	woen
+㑮	wenn	0%
 免	wenn
 問	wenn	87%
+抆	wenn	0%
 搵	wenn
+文	wenn	0%
+梱	wenn	0%
 汶	wenn
 璺	wenn
 紊	wenn	89%
@@ -13001,9 +14745,11 @@ use_preset_vocabulary: true
 蹲	duen	87%
 驐	duen
 盾	doen	88%
+蜳	doen	0%
 躉	doen	89%
 噸	duenn
 忳	duenn
+敦	duenn	0%
 燉	duenn
 盾	duenn	87%
 盹	duenn
@@ -13019,6 +14765,7 @@ use_preset_vocabulary: true
 𧑒	tuen
 迍	tuen
 𪏆	tuen
+黗	tuen	0%
 屯	twen	89%
 庉	twen
 忳	twen
@@ -13030,24 +14777,31 @@ use_preset_vocabulary: true
 豚	twen	87%
 軘	twen
 飩	twen	88%
+庉	toen	0%
+純	toen	0%
 黗	toen
 伅	tuenn
 囤	tuenn
 坉	tuenn
 沌	tuenn
 褪	tuenn	89%
+飩	tuenn	0%
 黁	nuen
 㶧	noen
 嫩	nuenn	89%
+㶧	nuenn	0%
+黁	nuenn	0%
 侖	luen	89%
 倫	luen	86%
 圇	luen
 崙	luen	85%
 崘	luen
+惀	luen	0%
 掄	luen
 棆	luen
 淪	luen	87%
 綸	luen
+耣	luen	0%
 䑳	luen
 蜦	luen
 論	luen	84%
@@ -13056,8 +14810,10 @@ use_preset_vocabulary: true
 㤻	loen
 惀	loen
 耣	loen
+淪	luenn	0%
 碖	luenn
 論	luenn	89%
+䃂	guen	0%
 丨	goen
 掍	goen
 滚	goen
@@ -13089,12 +14845,15 @@ use_preset_vocabulary: true
 悃	koen	87%
 捆	koen	88%
 梱	koen
+睔	koen	0%
+睴	koen	0%
 硱	koen
 稇	koen
 綑	koen	89%
 閫	koen
 齫	koen
 困	kuenn	89%
+壼	kuenn	0%
 混	kuenn
 睔	kuenn
 睴	kuenn
@@ -13108,21 +14867,26 @@ use_preset_vocabulary: true
 棔	huen
 殙	huen
 睧	huen
+緷	huen	0%
 葷	huen	85%
 閽	huen	86%
 𨵽	huen
 渾	hwen	89%
+溷	hwen	0%
 緄	hwen
 緷	hwen
 餛	hwen	86%
 魂	hwen	87%
 鼲	hwen
 琿	hwen	88%
+惛	hoen	0%
 混	hoen	89%
 眃	hoen
+緷	hoen	0%
 倱	huenn
 圂	huenn
 婫	huenn
+惛	huenn	0%
 慁	huenn
 混	huenn	89%
 溷	huenn
@@ -13132,15 +14896,21 @@ use_preset_vocabulary: true
 鯶	huenn
 屯	juen	89%
 淳	juen
+準	juen	0%
 肫	juen
 諄	juen	88%
 准	joen	89%
 埻	joen
+淳	joen	0%
 準	joen	88%
+稕	joen	0%
 純	joen
+訰	joen	0%
 隼	joen
 稕	juenn
+純	juenn	0%
 訰	juenn
+諄	juenn	0%
 春	chuen	89%
 杶	chuen
 椿	chuen	88%
@@ -13162,8 +14932,10 @@ use_preset_vocabulary: true
 蠢	choen	89%
 踳	choen
 蒓	shuen
+揗	shwen	0%
 蒓	shwen	89%
 蓴	shwen
+吮	shoen	0%
 吮	shuenn
 揗	shuenn
 楯	shuenn
@@ -13185,6 +14957,7 @@ use_preset_vocabulary: true
 僎	tzuen
 尊	tzuen	89%
 嶟	tzuen
+捘	tzuen	0%
 樽	tzuen	87%
 繜	tzuen
 罇	tzuen
@@ -13194,6 +14967,7 @@ use_preset_vocabulary: true
 僔	tzoen
 𠟃	tzoen
 噂	tzoen
+嶟	tzoen	0%
 撙	tzoen
 䔿	tzoen
 壿	tzuenn
@@ -13225,13 +14999,17 @@ use_preset_vocabulary: true
 芛	soen
 巽	suenn
 潠	suenn
+筍	suenn	0%
 遜	suenn	89%
 奫	iun
 氳	iun	89%
+沄	iun	0%
 涒	iun
+溳	iun	0%
 煴	iun
 熉	iun
 篔	iun
+縜	iun	0%
 縕	iun
 蒀	iun
 蝹	iun
@@ -13257,28 +15035,37 @@ use_preset_vocabulary: true
 芸	yun
 荺	yun
 蕓	yun
+隕	yun	0%
 雲	yun	88%
 允	yeun	89%
 喗	yeun
 夽	yeun
 惲	yeun
+𪝑	yeun	0%
 愪	yeun
+抎	yeun	0%
 暈	yeun
 殞	yeun
+溳	yeun	0%
 狁	yeun
 磒	yeun
+縜	yeun	0%
 蘊	yeun
 𧉃	yeun
+䡝	yeun	0%
+醞	yeun	0%
 鈗	yeun
 隕	yeun
 霣	yeun
 韞	yeun
 馻	yeun
 齳	yeun
+員	yunn	0%
 孕	yunn	84%
 𪝑	yunn
 抎	yunn
 暈	yunn	86%
+煴	yunn	0%
 熨	yunn	82%
 緷	yunn
 蕰	yunn
@@ -13294,14 +15081,20 @@ use_preset_vocabulary: true
 韵	yunn	89%
 慍	yunn	83%
 听	yunn
+煴	yunq	0%
 啍	tiun
 君	jiun	89%
+呁	jiun	0%
 囷	jiun
 均	jiun	88%
+攈	jiun	0%
 桾	jiun
 㽦	jiun
 皸	jiun
 碅	jiun
+箘	jiun	0%
+莙	jiun	0%
+菌	jiun	0%
 蜠	jiun
 袀	jiun
 軍	jiun	86%
@@ -13317,9 +15110,14 @@ use_preset_vocabulary: true
 窘	jeun	89%
 箘	jeun
 䐃	jeun
+莙	jeun	0%
 菌	jeun	88%
+蜠	jeun	0%
+輑	jeun	0%
+麇	jeun	0%
 僒	jiunn
 呁	jiunn
+囷	jiunn	0%
 捃	jiunn
 攈	jiunn
 㻒	jiunn
@@ -13331,6 +15129,7 @@ use_preset_vocabulary: true
 羣	chyun	89%
 裙	chyun	87%
 群	chyun	88%
+𧼐	cheun	0%
 𧼐	chiunn
 勳	shiun	88%
 壎	shiun
@@ -13365,10 +15164,13 @@ use_preset_vocabulary: true
 鵔	tziunn
 𪕞	tziunn
 㕙	tsiun
+㕙	tsiunn	0%
 洵	siun	89%
+眴	siun	0%
 筍	siun	88%
 荀	siun	87%
 詢	siun	86%
+迿	siun	0%
 郇	siun
 峋	syun
 巡	syun	86%
@@ -13377,34 +15179,45 @@ use_preset_vocabulary: true
 恂	syun
 旬	syun	89%
 栒	syun
+殉	syun	0%
 㵌	syun
 珣	syun
 眴	syun
 紃	syun
 馴	syun	85%
 侚	siunn
+徇	siunn	0%
 殉	siunn	89%
+眴	siunn	0%
 迿	siunn
 馴	siunn	88%
 咉	ang
+姎	ang	0%
 骯	ang	89%
+姎	aang	0%
+柍	aang	0%
 泱	aang
+盎	aang	0%
 𨠗	aang
 姎	anq
 柍	anq
+泱	anq	0%
 盎	anq
+𨠗	anq	0%
 醠	anq
 垹	bang
 幫	bang	86%
 彭	bang
 搒	bang
 梆	bang	88%
+蒡	bang	0%
 邦	bang	89%
 鎊	bang
 䩷	bang
 帮	bang	87%
 𢗒	baang
 榜	baang	88%
+甏	baang	0%
 磅	baang	89%
 綁	baang	84%
 蒡	baang
@@ -13423,11 +15236,13 @@ use_preset_vocabulary: true
 胮	pang
 雱	pang
 䨦	pang
+髈	pang	0%
 傍	parng	88%
 彭	parng	82%
 彷	parng	86%
 徬	parng	87%
 房	parng
+㩧	parng	0%
 旁	parng	89%
 膀	parng	85%
 舽	parng
@@ -13437,10 +15252,12 @@ use_preset_vocabulary: true
 㩧	paang
 鎊	paang	89%
 髈	paang
+傍	panq	0%
 徬	panq
 䎧	panq
 肨	panq
 胖	panq	89%
+𠈵	mang	0%
 厖	mang
 哤	mang
 娏	mang
@@ -13472,7 +15289,9 @@ use_preset_vocabulary: true
 𥮎	maang
 莽	maang	89%
 蟒	maang
+𪁪	maang	0%
 㤶	manq
+漭	manq	0%
 匚	fang
 坊	fang	87%
 妨	fang	88%
@@ -13506,6 +15325,8 @@ use_preset_vocabulary: true
 放	fanq	89%
 舫	fanq
 訪	fanq	88%
+邡	fanq	0%
+防	fanq	0%
 檔	dang	88%
 璫	dang
 當	dang	89%
@@ -13514,6 +15335,7 @@ use_preset_vocabulary: true
 蟷	dang
 襠	dang	87%
 鐺	dang
+踼	darng	0%
 党	daang
 愓	daang
 擋	daang	88%
@@ -13525,6 +15347,7 @@ use_preset_vocabulary: true
 黨	daang	89%
 宕	danq	87%
 崵	danq
+愓	danq	0%
 擋	danq	88%
 檔	danq
 潒	danq
@@ -13536,6 +15359,7 @@ use_preset_vocabulary: true
 簜	danq
 蕩	danq	86%
 𦿆	danq
+讜	danq	0%
 踼	danq
 湯	tang	89%
 蕩	tang
@@ -13561,6 +15385,7 @@ use_preset_vocabulary: true
 篖	tarng
 糖	tarng	84%
 膛	tarng
+蕩	tarng	0%
 螗	tarng
 螳	tarng	87%
 逿	tarng
@@ -13572,18 +15397,25 @@ use_preset_vocabulary: true
 偒	taang
 㒉	taang
 儻	taang
+嵣	taang	0%
 帑	taang
 惝	taang
 曭	taang
 淌	taang
 爣	taang
+盪	taang	0%
 矘	taang
 𣎲	taang
 踼	taang
 躺	taang	88%
+儻	tanq	0%
+湯	tanq	0%
 燙	tanq	89%
 盪	tanq
+碭	tanq	0%
+蕩	tanq	0%
 趟	tanq	88%
+逿	tanq	0%
 囊	nang	89%
 囔	nang
 攮	nang
@@ -13592,12 +15424,15 @@ use_preset_vocabulary: true
 𣰶	naang
 瀼	naang
 灢	naang
+灢	nanq	0%
+攮	nangq	0%
 啷	lhang	89%
 嫏	lang
 㝗	lang
 廊	lang	88%
 桹	lang
 榔	lang	84%
+浪	lang	0%
 瀧	lang
 狼	lang	86%
 琅	lang
@@ -13611,17 +15446,22 @@ use_preset_vocabulary: true
 蜋	lang	83%
 郎	lang	89%
 鋃	lang
+閬	lang	0%
 駺	lang
 螂	lang	87%
 悢	laang
 朗	laang	89%
 樃	laang
 烺	laang
+硠	laang	0%
+筤	laang	0%
 閬	laang
 埌	lanq
 浪	lanq	89%
+狼	lanq	0%
 䍚	lanq
 蒗	lanq
+閬	lanq	0%
 亢	gang
 剛	gang	86%
 堈	gang
@@ -13631,7 +15471,9 @@ use_preset_vocabulary: true
 掆	gang
 杠	gang
 犅	gang
+犺	gang	0%
 㼚	gang
+㽘	gang	0%
 矼	gang
 笐	gang
 綱	gang	87%
@@ -13646,14 +15488,19 @@ use_preset_vocabulary: true
 鋼	gang	88%
 阬	gang
 魧	gang
+䴚	gang	0%
 㽘	garng
 𢞡	gaang
 港	gaang	89%
 犺	gaang
+㽘	gaang	0%
 䴚	gaang
+掆	ganq	0%
 槓	ganq
 肛	ganq	88%
 虹	ganq	89%
+鋼	ganq	0%
+伉	kang	0%
 㝩	kang
 康	kang	89%
 慷	kang	87%
@@ -13678,17 +15525,22 @@ use_preset_vocabulary: true
 炕	kanq	89%
 犺	kanq
 砊	kanq
+閌	kanq	0%
 卬	ngang
 㟅	ngang
 昂	ngang	89%
+枊	ngang	0%
 㭿	ngang
 䭹	ngang
+䭹	ngaang	0%
 枊	nganq
 夯	hang
 炕	hang
+蚢	hang	0%
 吭	harng
 杭	harng	89%
 桁	harng
+沆	harng	0%
 笐	harng
 肮	harng
 航	harng	88%
@@ -13699,10 +15551,16 @@ use_preset_vocabulary: true
 降	harng	86%
 頏	harng
 魧	harng
+吭	haang	0%
+沆	haang	0%
 汻	haang
+蚢	haang	0%
+桁	hanq	0%
 沆	hanq
 𦐄	hanq
+蚢	hanq	0%
 項	hanq	89%
+頏	hanq	0%
 傽	jang
 嫜	jang
 張	jang	89%
@@ -13710,11 +15568,13 @@ use_preset_vocabulary: true
 𢕔	jang
 慞	jang
 樟	jang	87%
+漲	jang	0%
 漳	jang
 璋	jang	86%
 章	jang	88%
 粻	jang
 鄣	jang
+障	jang	0%
 餦	jang
 麞	jang
 仉	jaang
@@ -13724,11 +15584,13 @@ use_preset_vocabulary: true
 仗	janq	88%
 嶂	janq
 帳	janq	83%
+張	janq	0%
 杖	janq	87%
 漲	janq	85%
 瘴	janq
 脹	janq	84%
 䛫	janq
+長	janq	0%
 障	janq	82%
 賬	janq	86%
 瘬	janq	81%
@@ -13749,6 +15611,7 @@ use_preset_vocabulary: true
 嫦	charng	87%
 常	charng	89%
 徜	charng
+漴	charng	0%
 腸	charng	85%
 萇	charng
 長	charng	82%
@@ -13764,13 +15627,16 @@ use_preset_vocabulary: true
 𪁺	chaang
 塲	chaang	86%
 倡	chanq	88%
+償	chanq	0%
 唱	chanq	89%
 悵	chanq	86%
+昶	chanq	0%
 暢	chanq	87%
 淌	chanq
 漴	chanq
 瑒	chanq
 畼	chanq
+鋹	chanq	0%
 韔	chanq
 鬯	chanq
 傷	shang	88%
@@ -13786,6 +15652,7 @@ use_preset_vocabulary: true
 觴	shang	87%
 謪	shang
 鬺	shang
+尙	sharng	0%
 裳	sharng	89%
 尚	sharng	88%
 賞	shaang	89%
@@ -13793,6 +15660,7 @@ use_preset_vocabulary: true
 償	shanq	87%
 尙	shanq
 尚	shanq	88%
+蠰	rhang	0%
 儴	rang
 勷	rang
 懹	rang
@@ -13808,11 +15676,16 @@ use_preset_vocabulary: true
 鬤	rang
 嚷	raang	89%
 壤	raang
+攘	raang	0%
+瀼	raang	0%
 𥗝	raang
+禳	raang	0%
+穰	raang	0%
 䑋	raang
 䖆	raang
 蠰	raang
 躟	raang
+䖆	ranq	0%
 讓	ranq	89%
 饟	ranq
 戕	tzang
@@ -13822,6 +15695,7 @@ use_preset_vocabulary: true
 髒	tzang	87%
 駔	tzaang
 驡	tzaang
+髒	tzaang	0%
 奘	tzanq
 奘	tzanq
 臟	tzanq	88%
@@ -13830,15 +15704,20 @@ use_preset_vocabulary: true
 髒	tzanq
 倉	tsang	89%
 傖	tsang
+凔	tsang	0%
 滄	tsang	86%
 艙	tsang	88%
 蒼	tsang	87%
 鶬	tsang
 藏	tsarng	89%
+蒼	tsaang	0%
+倉	tsanq	0%
 凔	tsanq
 愴	tsanq	89%
+藏	tsanq	0%
 喪	sang	88%
 桑	sang	89%
+磉	sang	0%
 顙	sang
 嗓	saang	89%
 磉	saang
@@ -13871,6 +15750,7 @@ use_preset_vocabulary: true
 瘍	yang
 禓	yang	86%
 羊	yang	89%
+蛘	yang	0%
 鍚	yang
 陽	yang	85%
 颺	yang
@@ -13878,22 +15758,30 @@ use_preset_vocabulary: true
 仰	yeang	87%
 佒	yeang
 㔦	yeang
+坱	yeang	0%
 怏	yeang
 懩	yeang
+痒	yeang	0%
 癢	yeang	88%
 蛘	yeang
 詇	yeang
 鞅	yeang
 養	yeang	89%
 駚	yeang
+仰	yanq	0%
 坱	yanq
+怏	yanq	0%
 恙	yanq	87%
 樣	yanq	89%
 漾	yanq	88%
 瀁	yanq
 煬	yanq
+煬	yanq
 㺊	yanq
 羕	yanq
+鞅	yanq	0%
+颺	yanq	0%
+養	yanq	0%
 俍	liang
 凉	liang	89%
 梁	liang	86%
@@ -13919,10 +15807,13 @@ use_preset_vocabulary: true
 魎	leang
 亮	lianq	89%
 倞	lianq
+兩	lianq	0%
 悢	lianq
 晾	lianq
+涼	lianq	0%
 緉	lianq
 諒	lianq	88%
+䣼	lianq	0%
 量	lianq	87%
 僵	jiang	84%
 姜	jiang	88%
@@ -13930,6 +15821,7 @@ use_preset_vocabulary: true
 橿	jiang
 殭	jiang
 江	jiang	89%
+洚	jiang	0%
 瓨	jiang
 畺	jiang
 疆	jiang	86%
@@ -13953,6 +15845,7 @@ use_preset_vocabulary: true
 虹	jianq	86%
 袶	jianq
 降	jianq	88%
+彊	chiang	0%
 慶	chiang
 控	chiang
 椌	chiang
@@ -13966,6 +15859,11 @@ use_preset_vocabulary: true
 彊	chyang
 勥	cheang
 強	cheang	89%
+弶	cheang	0%
+强	cheang	0%
+彊	cheang	0%
+控	cheang	0%
+𥓌	cheang	0%
 繈	cheang
 鏹	cheang
 唴	chianq
@@ -13989,7 +15887,10 @@ use_preset_vocabulary: true
 享	sheang	86%
 向	sheang
 嚮	sheang	88%
+曏	sheang	0%
+缿	sheang	0%
 蠁	sheang
+䦳	sheang	0%
 響	sheang	89%
 饗	sheang	87%
 向	shianq	88%
@@ -14000,14 +15901,17 @@ use_preset_vocabulary: true
 曏	shianq
 珦	shianq
 缿	shianq
+蠁	shianq	0%
 蠰	shianq
 衖	shianq
 䣈	shianq
+鄉	shianq	0%
 䦳	shianq
 項	shianq	85%
 餉	shianq	86%
 饗	shianq	84%
 將	tziang	89%
+槳	tziang	0%
 漿	tziang	88%
 蔣	tziang
 螿	tziang
@@ -14040,6 +15944,8 @@ use_preset_vocabulary: true
 蘠	tsyang
 墻	tsyang	89%
 搶	tseang	89%
+搶	tsianq	0%
+蹡	tsianq	0%
 嗆	tsianq	89%
 廂	siang	86%
 忀	siang
@@ -14060,6 +15966,7 @@ use_preset_vocabulary: true
 翔	syang	87%
 詳	syang	89%
 想	seang	89%
+欀	seang	0%
 潒	seang
 鯗	seang	88%
 像	sianq	88%
@@ -14071,8 +15978,12 @@ use_preset_vocabulary: true
 尢	uang
 尪	uang
 汪	uang	89%
+㳹	uang	0%
+瀇	uang	0%
 亡	wang	88%
 忘	wang	87%
+望	wang	0%
+朢	wang	0%
 王	wang	89%
 莣	wang
 蚟	wang
@@ -14096,6 +16007,8 @@ use_preset_vocabulary: true
 旺	wanq	88%
 望	wanq	89%
 朢	wanq
+汪	wanq	0%
+王	wanq	0%
 迋	wanq
 噥	nuang
 擃	noang
@@ -14114,26 +16027,39 @@ use_preset_vocabulary: true
 廣	goang	89%
 懭	goang
 獷	goang
+迋	goang	0%
 逛	goang
 鄺	goang
+光	guanq	0%
+廣	guanq	0%
+桄	guanq	0%
+獷	guanq	0%
 迋	guanq
 逛	guanq	89%
+俇	kuang	0%
 劻	kuang
 匡	kuang	89%
 恇	kuang
 框	kuang
 洭	kuang
+狂	kuang	0%
 眶	kuang
 筐	kuang	88%
 䯑	kuang
 俇	kwang
 狂	kwang	89%
+俇	koang	0%
+壙	koang	0%
+恇	koang	0%
 懬	koang
 爌	koang
 况	kuanq	87%
 壙	kuanq
+懬	kuanq	0%
 曠	kuanq	88%
 況	kuanq	86%
+爌	kuanq	0%
+狂	kuanq	0%
 眖	kuanq
 矌	kuanq
 礦	kuanq	89%
@@ -14143,6 +16069,7 @@ use_preset_vocabulary: true
 誑	kuanq	85%
 貺	kuanq	84%
 軦	kuanq
+䯑	kuanq	0%
 巟	huang
 㡆	huang
 㡛	huang
@@ -14159,14 +16086,18 @@ use_preset_vocabulary: true
 凰	hwang	85%
 喤	hwang
 崲	hwang
+幌	hwang	0%
 徨	hwang	81%
 惶	hwang	83%
+晃	hwang	0%
+榥	hwang	0%
 櫎	hwang
 湟	hwang
 潢	hwang
 煌	hwang	84%
 璜	hwang
 皇	hwang	86%
+皝	hwang	0%
 磺	hwang	87%
 篁	hwang
 簧	hwang	88%
@@ -14188,13 +16119,20 @@ use_preset_vocabulary: true
 怳	hoang
 恍	hoang	89%
 慌	hoang
+晃	hoang	0%
 𣆖	hoang
 榥	hoang
+櫎	hoang	0%
+滉	hoang	0%
 皝	hoang
 䐠	hoang
+𧧢	hoang	0%
 謊	hoang	88%
 晃	huanq
 滉	huanq
+潢	huanq	0%
+荒	huanq	0%
+蝗	huanq	0%
 妝	juang	87%
 庄	juang
 椿	juang	85%
@@ -14207,18 +16145,22 @@ use_preset_vocabulary: true
 撞	juanq	89%
 狀	juanq	87%
 創	chuang	87%
+愴	chuang	0%
 摐	chuang
 牕	chuang
+㼽	chuang	0%
 瘡	chuang	88%
 窗	chuang	89%
 䎫	chuang
 鬃	chuang
+憧	chwang	0%
 撞	chwang
 床	chwang	89%
 橦	chwang
 淙	chwang
 牀	chwang	88%
 疒	chwang
+艟	chwang	0%
 𠏨	choang
 𠞮	choang
 搶	choang
@@ -14230,10 +16172,14 @@ use_preset_vocabulary: true
 愴	chuanq
 憧	chuanq
 撞	chuanq	88%
+淙	chuanq	0%
 𥈄	chuanq
+䎫	chuanq	0%
 艟	chuanq
+闖	chuangq	0%
 孀	shuang	88%
 𢥠	shuang
+㦼	shuang	0%
 瀧	shuang
 䉶	shuang
 艭	shuang
@@ -14244,25 +16190,34 @@ use_preset_vocabulary: true
 驦	shuang
 鷞	shuang
 双	shuang	86%
+淙	shwang	0%
 塽	shoang
+𢥠	shoang	0%
 爽	shoang	89%
 㼽	shoang
 𦄍	shoang
 騻	shoang
+鷞	shoang	0%
 㦼	shuanq
 淙	shuanq
+霜	shuanq	0%
 哼	eng	89%
 鞥	eng	88%
+鞥	engq	0%
 伻	beng
 傍	beng
 嗙	beng
+堋	beng	0%
 崩	beng	89%
+榜	beng	0%
 祊	beng
 絣	beng
 繃	beng	88%
 䑫	beng
+菶	beng	0%
 閍	beng
 浜	beeng
+絣	beeng	0%
 䋽	beeng
 菶	beeng
 𠊧	benq
@@ -14273,14 +16228,16 @@ use_preset_vocabulary: true
 迸	benq	89%
 𩹁	benq
 乓	peng	88%
+倗	peng	0%
+堋	peng	0%
 姘	peng
 怦	peng
 抨	peng
 洴	peng
 漰	peng
 烹	peng	89%
+皏	peng	0%
 砰	peng
-磞	peng
 軯	peng
 軿	peng
 閛	peng
@@ -14308,17 +16265,26 @@ use_preset_vocabulary: true
 鬅	perng
 䰃	perng
 鵬	perng	87%
+倗	peeng	0%
+漨	peeng	0%
 皏	peeng
 𦺑	peeng
+傰	penq	0%
 掽	penq	89%
 𣟀	penq
+砰	penq	0%
 碰	penq	88%
+磞	penq
+膨	penq	0%
 𨹹	penq
 儚	meng
+懜	meng	0%
+懵	meng	0%
 氓	meng	87%
 甍	meng
 甿	meng
 盟	meng	88%
+𥋝	meng	0%
 𥌯	meng
 罞	meng
 莔	meng
@@ -14331,6 +16297,7 @@ use_preset_vocabulary: true
 𩦺	meng
 𩶶	meng
 鸏	meng
+黽	meng	0%
 鼆	meng
 𡬆	meeng
 猛	meeng	89%
@@ -14344,6 +16311,7 @@ use_preset_vocabulary: true
 孟	menq	89%
 懜	menq
 懵	menq
+鄸	menq	0%
 錳	menq
 霿	menq
 䲛	menq
@@ -14361,6 +16329,7 @@ use_preset_vocabulary: true
 𨝭	ferng
 覂	feeng
 湗	fenq
+麷	fenq	0%
 戥	deng
 㲪	deng
 燈	deng	88%
@@ -14368,6 +16337,7 @@ use_preset_vocabulary: true
 簦	deng
 豋	deng
 䳾	deng
+僜	derng	0%
 瞪	derng
 戥	deeng	88%
 等	deeng	89%
@@ -14399,10 +16369,16 @@ use_preset_vocabulary: true
 鰧	terng
 籐	terng	86%
 𪔶	teeng
+幐	tenq	0%
 能	neng	89%
+䘅	neng	0%
 誙	neng
+能	neeng	0%
 䘅	neeng
-倰	leng
+䘅	nengq	0%
+倰	leng	0%
+倰	leng	0%
+冷	leng	0%
 崚	leng
 攍	leng
 棱	leng
@@ -14410,6 +16386,7 @@ use_preset_vocabulary: true
 稜	leng	89%
 𦼊	leng
 冷	leeng	89%
+倰	lenq
 倰	lenq
 踆	lenq
 庚	geng	89%
@@ -14431,6 +16408,7 @@ use_preset_vocabulary: true
 梗	geeng	89%
 炅	geeng
 綆	geeng
+縆	geeng	0%
 耿	geeng	88%
 郠	geeng
 骾	geeng
@@ -14438,8 +16416,10 @@ use_preset_vocabulary: true
 亘	genq	88%
 亙	genq	87%
 堩	genq
+揯	genq	0%
 更	genq	89%
 絚	genq
+䱭	genq	0%
 坑	keng	89%
 奟	keng
 摼	keng
@@ -14450,6 +16430,7 @@ use_preset_vocabulary: true
 鏗	keng
 阬	keng	88%
 𡷨	kerng
+摼	keeng	0%
 肯	keeng	89%
 亨	heng	89%
 哼	heng	88%
@@ -14462,6 +16443,7 @@ use_preset_vocabulary: true
 橫	herng	89%
 衡	herng	86%
 恒	herng	87%
+橫	henq	0%
 丁	jeng
 佂	jeng
 偵	jeng	83%
@@ -14502,21 +16484,27 @@ use_preset_vocabulary: true
 嵊	jerng
 拯	jeeng	88%
 整	jeeng	89%
+猙	jeeng	0%
 盯	jeeng
 㬹	jeeng
 𨋬	jeeng
 倀	jenq	86%
+偵	jenq	0%
+嵊	jenq	0%
 徎	jenq
 政	jenq	87%
 正	jenq	89%
+烝	jenq	0%
 症	jenq	88%
 䈣	jenq
+脀	jenq	0%
 証	jenq	85%
 諍	jenq
 證	jenq	84%
 鄭	jenq	83%
 凈	cheng
 堘	cheng
+庱	cheng	0%
 掙	cheng
 掁	cheng
 撐	cheng	88%
@@ -14524,6 +16512,8 @@ use_preset_vocabulary: true
 槍	cheng
 橕	cheng
 檉	cheng
+澄	cheng	0%
+㵾	cheng	0%
 琤	cheng
 瞠	cheng
 稱	cheng	89%
@@ -14549,6 +16539,7 @@ use_preset_vocabulary: true
 棖	cherng
 橙	cherng	80%
 浾	cherng
+浧	cherng	0%
 溗	cherng
 澄	cherng	79%
 澂	cherng
@@ -14571,10 +16562,16 @@ use_preset_vocabulary: true
 𢟊	cheeng
 𢜻	cheeng
 浧	cheeng
+澄	cheeng	0%
 㵾	cheeng
+裎	cheeng	0%
 逞	cheeng	89%
 騁	cheeng
+丞	chenq	0%
 乘	chenq	89%
+偁	chenq	0%
+澄	chenq	0%
+㵾	chenq	0%
 牚	chenq
 秤	chenq	87%
 稱	chenq	88%
@@ -14584,6 +16581,7 @@ use_preset_vocabulary: true
 勝	sheng	82%
 升	sheng	83%
 昇	sheng
+㱡	sheng	0%
 𣬺	sheng
 牲	sheng	85%
 生	sheng	87%
@@ -14595,6 +16593,7 @@ use_preset_vocabulary: true
 鼪	sheng
 声	sheng	89%
 憴	sherng
+晟	sherng	0%
 澠	sherng
 繩	sherng	89%
 譝	sherng
@@ -14605,9 +16604,12 @@ use_preset_vocabulary: true
 省	sheeng	89%
 眚	sheeng
 箵	sheeng
+冼	shenq	0%
 剩	shenq	87%
 勝	shenq	89%
 晟	shenq
+㱡	shenq	0%
+生	shenq	0%
 盛	shenq	86%
 聖	shenq	88%
 榺	shenq
@@ -14633,11 +16635,15 @@ use_preset_vocabulary: true
 鄫	tzeng
 騬	tzeng
 驓	tzeng
+驓	tzerng	0%
 㽪	tzeeng
+增	tzenq	0%
 掙	tzenq
 甑	tzenq
+繒	tzenq	0%
 䙢	tzenq
 贈	tzenq	89%
+驓	tzenq	0%
 䰝	tzenq
 𪒟	tzenq
 㣒	tseng
@@ -14645,15 +16651,18 @@ use_preset_vocabulary: true
 嶒	tserng
 曾	tserng	89%
 竲	tserng
+㣒	tsenq	0%
 蹭	tsenq
 僧	seng	89%
 鬙	seng
 嚶	ing
+嫈	ing	0%
 嬰	ing	87%
 應	ing	89%
 攖	ing
 柍	ing
 櫻	ing	86%
+濙	ing	0%
 瀴	ing
 煐	ing
 瑛	ing
@@ -14666,6 +16675,7 @@ use_preset_vocabulary: true
 英	ing	82%
 蘡	ing
 𧕄	ing
+譍	ing	0%
 譻	ing
 霙	ing
 韺	ing
@@ -14683,6 +16693,7 @@ use_preset_vocabulary: true
 滎	yng
 濙	yng
 瀛	yng
+瀴	yng	0%
 熒	yng
 營	yng	83%
 𤟣	yng
@@ -14702,17 +16713,25 @@ use_preset_vocabulary: true
 㯋	yiing
 浧	yiing
 潁	yiing
+濙	yiing	0%
+熒	yiing	0%
 㹙	yiing
 癭	yiing
+䁝	yiing	0%
 穎	yiing	88%
 郢	yiing
+俓	yinq	0%
 媵	yinq
 應	yinq	89%
 映	yinq	87%
+濙	yinq	0%
 瀅	yinq
+瀴	yinq	0%
+瑩	yinq	0%
 硬	yinq	88%
 譍	yinq
 賸	yinq
+迎	yinq	0%
 䵴	yinq
 兵	bing	87%
 冫	bing
@@ -14725,6 +16744,7 @@ use_preset_vocabulary: true
 氷	bing	88%
 箳	bing
 絣	bing
+鞞	bing	0%
 幷	bing	84%
 丙	biing	86%
 倂	biing
@@ -14737,6 +16757,7 @@ use_preset_vocabulary: true
 眪	biing
 秉	biing	85%
 窉	biing
+箳	biing	0%
 蛃	biing
 邴	biing
 鉼	biing
@@ -14747,12 +16768,15 @@ use_preset_vocabulary: true
 幷	biing	88%
 並	binq	85%
 併	binq	86%
+冰	binq	0%
 寎	binq
 屏	binq	87%
 并	binq	89%
+怲	binq	0%
 柄	binq	83%
 病	binq	84%
 竝	binq
+邴	binq	0%
 鮩	binq
 幷	binq	88%
 乒	ping	88%
@@ -14784,9 +16808,15 @@ use_preset_vocabulary: true
 評	pyng	88%
 軿	pyng
 郱	pyng
+屏	piing	0%
+憑	piing	0%
+頩	piing	0%
+俜	pinq	0%
 偋	pinq
+凭	pinq	0%
 娉	pinq	88%
 屏	pinq	86%
+枰	pinq	0%
 䀻	pinq
 砅	pinq
 聘	pinq	89%
@@ -14800,6 +16830,7 @@ use_preset_vocabulary: true
 洺	ming
 溟	ming
 瞑	ming
+䒌	ming	0%
 蓂	ming
 螟	ming
 覭	ming
@@ -14809,6 +16840,7 @@ use_preset_vocabulary: true
 䳟	ming
 冥	miing	88%
 慏	miing
+溟	miing	0%
 皿	miing	89%
 眳	miing
 𥥊	miing
@@ -14816,20 +16848,27 @@ use_preset_vocabulary: true
 酩	miing
 黽	miing
 命	minq	89%
+暝	minq	0%
+瞑	minq	0%
 䒌	minq
 詺	minq
+覭	mingq	0%
 丁	ding	89%
 仃	ding	87%
 叮	ding	88%
 奵	ding
 玎	ding
 疔	ding
+耵	ding	0%
 虰	ding
+訂	ding	0%
 釘	ding	86%
+奵	diing	0%
 打	diing
 濎	diing
 耵	diing
 薡	diing
+訂	diing	0%
 酊	diing
 頂	diing	89%
 鼎	diing	88%
@@ -14860,6 +16899,7 @@ use_preset_vocabulary: true
 婷	tyng
 庭	tyng	86%
 廷	tyng	87%
+梃	tyng	0%
 楟	tyng
 渟	tyng
 㹶	tyng
@@ -14872,14 +16912,24 @@ use_preset_vocabulary: true
 霆	tyng	85%
 鼮	tyng
 侹	tiing
+娗	tiing	0%
 挺	tiing	89%
+梃	tiing	0%
+汀	tiing	0%
 珽	tiing
 町	tiing	87%
 脡	tiing
 艇	tiing	88%
+莛	tiing	0%
+葶	tiing	0%
+蜓	tiing	0%
 鋌	tiing
+霆	tiing	0%
 𩹇	tiing
+侹	tinq	0%
 听	tinq	88%
+庭	tinq	0%
+廷	tinq	0%
 梃	tinq
 涏	tinq
 聽	tinq	89%
@@ -14921,6 +16971,7 @@ use_preset_vocabulary: true
 蛉	ling
 𧕅	ling
 袊	ling
+詅	ling	0%
 跉	ling
 軨	ling
 輘	ling
@@ -14939,12 +16990,19 @@ use_preset_vocabulary: true
 麢	ling
 齡	ling	84%
 嶺	liing	88%
+柃	liing	0%
 泠	liing
+笭	liing	0%
+𦊓	liing	0%
 領	liing	89%
 令	linq	89%
+凌	linq	0%
 另	linq	88%
+㱥	linq	0%
+磷	linq	0%
 竛	linq
 詅	linq
+零	linq	0%
 𩜁	linq
 京	jing	89%
 兢	jing
@@ -14953,22 +17011,29 @@ use_preset_vocabulary: true
 勍	jing
 巠	jing
 桱	jing
+殑	jing	0%
 涇	jing
 矜	jing
 經	jing	88%
 荊	jing	86%
+葝	jing	0%
+頸	jing	0%
 驚	jing	87%
 鵛	jing
 鶁	jing
 麠	jing
 殑	jyng
 𩷏	jyng
+儆	jiing	0%
+剄	jiing	0%
 境	jiing	86%
 憬	jiing
 憼	jiing
 景	jiing	89%
 㯳	jiing
+殑	jiing	0%
 璟	jiing
+璥	jiing	0%
 莖	jiing	87%
 蟼	jiing
 警	jiing	85%
@@ -14978,12 +17043,14 @@ use_preset_vocabulary: true
 勁	jinq	85%
 徑	jinq	84%
 敬	jinq	89%
+殑	jinq	0%
 牼	jinq
 獍	jinq
 璥	jinq
 痙	jinq
 竟	jinq	87%
 競	jinq	86%
+經	jinq	0%
 葝	jinq
 誩	jinq
 逕	jinq	83%
@@ -14991,6 +17058,7 @@ use_preset_vocabulary: true
 陘	jinq
 傾	ching	87%
 卿	ching	89%
+檠	ching	0%
 𨆪	ching
 輕	ching	86%
 鑋	ching
@@ -15003,13 +17071,20 @@ use_preset_vocabulary: true
 傾	chiing	88%
 檾	chiing
 漀	chiing
+綮	chiing	0%
 罄	chiing	87%
 謦	chiing
 頃	chiing	89%
 慶	chinq	89%
+檠	chinq	0%
+漀	chinq	0%
 磬	chinq	87%
 綮	chinq
 罄	chinq	88%
+謦	chinq	0%
+𨆪	chinq	0%
+輕	chinq	0%
+鑋	chinq	0%
 儜	gning
 凝	gning	85%
 嚀	gning
@@ -15029,11 +17104,16 @@ use_preset_vocabulary: true
 檸	gniing
 濘	gniing
 䀴	gniing
+𦗰	gniing	0%
 䔭	gniing
 𩕳	gniing
 佞	gninq
+凝	gninq	0%
 寗	gninq
+濘	gninq	0%
 甯	gninq
+䔭	gninq	0%
+𧕝	gninq	0%
 興	shing	88%
 馨	shing	89%
 侀	shyng
@@ -15056,7 +17136,9 @@ use_preset_vocabulary: true
 陘	shyng
 䪫	shyng
 㓑	shiing
+悻	shiing	0%
 擤	shiing
+䛭	shiing	0%
 䳙	shiing
 倖	shinq	86%
 幸	shinq	87%
@@ -15082,6 +17164,7 @@ use_preset_vocabulary: true
 𪂴	tzing
 鼱	tzing
 井	tziing	89%
+睛	tziing	0%
 𨙷	tziing
 阱	tziing	88%
 凈	tzinq	88%
@@ -15089,11 +17172,13 @@ use_preset_vocabulary: true
 淨	tzinq	87%
 穽	tzinq
 竫	tzinq
+精	tzinq	0%
 靖	tzinq	85%
 靚	tzinq
 靜	tzinq	86%
 净	tzinq	89%
 圊	tsing
+婧	tsing	0%
 淸	tsing
 靑	tsing
 鯖	tsing
@@ -15103,16 +17188,20 @@ use_preset_vocabulary: true
 情	tsyng	89%
 晴	tsyng	88%
 䝼	tsyng
+婧	tsiing	0%
 請	tsiing	89%
 靘	tsiing
 倩	tsinq
 凊	tsinq
 婧	tsinq
 胜	tsinq
+請	tsinq	0%
 㙚	sing
+姓	sing	0%
 惺	sing
 星	sing	89%
 湦	sing
+狌	sing	0%
 猩	sing	86%
 篂	sing
 胜	sing
@@ -15122,26 +17211,34 @@ use_preset_vocabulary: true
 騂	sing
 鯹	sing
 𩛿	syng
+惺	siing	0%
 渻	siing
 省	siing	88%
+篂	siing	0%
 箵	siing
 醒	siing	89%
 姓	sinq	88%
 性	sinq	89%
 狌	sinq
+腥	sinq	0%
+醒	sinq	0%
 塕	ong
 暡	ong
 翁	ong	89%
+蓊	ong	0%
 螉	ong
 郺	ong
+暡	oong	0%
 滃	oong
 蓊	oong
 甕	onq	89%
 𥥈	onq
 玤	bong
 甭	borng	89%
+玤	boong	0%
 琫	boong
 蹦	bonq	89%
+埲	porng	0%
 篷	porng	88%
 芃	porng
 蓬	porng	89%
@@ -15149,7 +17246,9 @@ use_preset_vocabulary: true
 埲	poong
 捧	poong	89%
 熢	poong
+捧	ponq	0%
 冡	mong
+夢	mong	0%
 幪	mong
 懞	mong
 曚	mong
@@ -15166,10 +17265,17 @@ use_preset_vocabulary: true
 雺	mong
 饛	mong
 髳	mong
+幪	moong	0%
+曚	moong	0%
+濛	moong	0%
+蠓	moong	0%
 夢	monq	89%
 㝱	monq
 𢄐	monq
 溕	monq
+瞢	monq	0%
+艨	monq	0%
+雺	monq	0%
 丰	fong	85%
 夆	fong	84%
 妦	fong
@@ -15195,22 +17301,31 @@ use_preset_vocabulary: true
 縫	forng	88%
 蠭	forng
 逢	forng	89%
+唪	foong	0%
 俸	fonq	88%
 唪	fonq
 奉	fonq	89%
+封	fonq	0%
+縫	fonq	0%
+葑	fonq	0%
 諷	fonq	87%
 賵	fonq
 鳳	fonq	86%
 冬	dong	88%
+凍	dong	0%
 東	dong	89%
 涷	dong
 䍶	dong
 苳	dong
 蝀	dong
 鼕	dong	87%
+挏	dorng	0%
+洞	dorng	0%
+胴	dorng	0%
 鼕	dorng
 懂	doong	88%
 𢤦	doong
+挏	doong	0%
 䂢	doong
 箽	doong
 董	doong	89%
@@ -15222,20 +17337,26 @@ use_preset_vocabulary: true
 挏	donq
 棟	donq	86%
 洞	donq	89%
+涷	donq	0%
 眮	donq
 硐	donq
+䍶	donq	0%
 胴	donq
+蝀	donq	0%
 迵	donq
 駉	donq
 侗	tong
 俑	tong
 恫	tong
 炵	tong
+畽	tong	0%
 痌	tong
+罿	tong	0%
 𧳆	tong
 通	tong	89%
 仝	torng	87%
 佟	torng
+侗	torng	0%
 僮	torng	81%
 同	torng	89%
 峒	torng
@@ -15249,6 +17370,7 @@ use_preset_vocabulary: true
 氃	torng
 浵	torng
 潼	torng
+炵	torng	0%
 犝	torng
 獞	torng
 畽	torng
@@ -15270,16 +17392,29 @@ use_preset_vocabulary: true
 䴀	torng
 㒰	torng	88%
 捅	toong
+曈	toong	0%
 桶	toong	89%
 炖	toong
+畽	toong	0%
 統	toong	88%
+酮	toong	0%
+鮦	toong	0%
+侗	tonq	0%
+峒	tonq	0%
 慟	tonq
+炵	tonq	0%
 痛	tonq	89%
+瞳	tonq	0%
+筒	tonq	0%
 統	tonq	87%
+絧	tonq	0%
 衕	tonq	88%
+詷	tonq	0%
+𨑊	nhong	0%
 儂	nong	88%
 噥	nong
 濃	nong	87%
+癑	nong	0%
 穠	nong
 膿	nong	86%
 蕽	nong
@@ -15289,8 +17424,11 @@ use_preset_vocabulary: true
 癑	noong
 繷	noong
 𨑊	noong
+癑	nonq	0%
 鬞	nonq
 齈	nonq
+寵	lhong	0%
+儱	long	0%
 嚨	long	84%
 巃	long
 攏	long	87%
@@ -15328,17 +17466,28 @@ use_preset_vocabulary: true
 儱	loong
 壟	loong	88%
 寵	loong
+巃	loong	0%
 攏	loong	89%
+曨	loong	0%
+籠	loong	0%
+蘢	loong	0%
 隴	loong	87%
+鸗	loong	0%
+龓	loong	0%
 哢	lonq
 弄	lonq	89%
 梇	lonq
+䃧	lonq	0%
+礱	lonq	0%
 衖	lonq	88%
+襱	lonq	0%
 贚	lonq
+躘	lonq	0%
 閧	lonq	87%
 供	gong	82%
 侊	gong
 公	gong	86%
+共	gong	0%
 㓚	gong
 功	gong	87%
 宮	gong	79%
@@ -15349,10 +17498,12 @@ use_preset_vocabulary: true
 杠	gong
 㴦	gong
 玒	gong
+珙	gong	0%
 肱	gong
 蚣	gong	85%
 觥	gong	78%
 躬	gong	83%
+輁	gong	0%
 䢼	gong
 釭	gong
 龔	gong	81%
@@ -15391,9 +17542,17 @@ use_preset_vocabulary: true
 𥥈	kong
 箜	kong
 𥳎	kong
+倥	koong	0%
 孔	koong	89%
 恐	koong	88%
+悾	koong	0%
 𥉁	koong
+空	koong	0%
+𥳎	koong	0%
+倥	konq	0%
+崆	konq	0%
+恐	konq	0%
+悾	konq	0%
 控	konq	88%
 空	konq	89%
 鞚	konq
@@ -15407,6 +17566,7 @@ use_preset_vocabulary: true
 𥕗	hong
 薨	hong
 𦒃	hong
+虹	hong	0%
 訇	hong
 諻	hong
 謍	hong
@@ -15427,6 +17587,7 @@ use_preset_vocabulary: true
 渱	horng
 瑝	horng
 𥐪	horng
+䃔	horng	0%
 竑	horng
 篊	horng
 紅	horng	89%
@@ -15452,15 +17613,22 @@ use_preset_vocabulary: true
 鴻	horng	84%
 黌	horng
 哄	hoong	89%
+嗊	hoong	0%
 澒	hoong
 澋	hoong
+鴻	hoong	0%
 哄	honq	89%
 嗊	honq
 汞	honq	87%
 港	honq
+烘	honq	0%
 䃔	honq
 蕻	honq
+虹	honq	0%
+轟	honq	0%
+𨹁	honq	0%
 鬨	honq	88%
+吽	hongq	0%
 中	jong	89%
 塚	jong
 妐	jong
@@ -15470,6 +17638,7 @@ use_preset_vocabulary: true
 忪	jong
 橦	jong
 盅	jong	87%
+眾	jong	0%
 童	jong
 䈺	jong
 籦	jong
@@ -15482,8 +17651,11 @@ use_preset_vocabulary: true
 鐘	jong	84%
 𩅉	jong
 鼨	jong
+緟	jorng	0%
 冢	joong
 喠	joong
+幒	joong	0%
+湩	joong	0%
 種	joong	89%
 腫	joong	88%
 踵	joong
@@ -15499,6 +17671,8 @@ use_preset_vocabulary: true
 種	jonq	85%
 緟	jonq
 茽	jonq
+衷	jonq	0%
+踵	jonq	0%
 重	jonq	89%
 𩿀	jonq
 衆	jonq	86%
@@ -15523,8 +17697,11 @@ use_preset_vocabulary: true
 䘪	chong
 𧝎	chong
 蹖	chong
+蹱	chong	0%
 䡴	chong
+𨿿	chong	0%
 𪄻	chong
+傭	chorng	0%
 崇	chorng	88%
 幢	chorng
 漴	chorng
@@ -15533,14 +17710,22 @@ use_preset_vocabulary: true
 盅	chorng
 种	chorng
 翀	chorng
+艟	chorng	0%
 蝩	chorng
 蟲	chorng	89%
 蹱	chorng
+䡴	chorng	0%
 重	chorng	87%
+傭	choong	0%
 寵	choong	89%
 衝	choong	88%
+蹱	choong	0%
 𨿿	choong
+幢	chonq	0%
+憃	chonq	0%
 揰	chonq
+艟	chonq	0%
+䡴	chonq	0%
 銃	chonq	89%
 戎	rong	89%
 𢫨	rong
@@ -15556,6 +17741,8 @@ use_preset_vocabulary: true
 髶	rong
 宂	roong
 㲨	roong
+㲨	roong
+茸	roong	0%
 軵	roong
 䩸	ronq
 倧	tzong
@@ -15572,6 +17759,7 @@ use_preset_vocabulary: true
 緵	tzong
 緫	tzong
 縱	tzong	85%
+總	tzong	0%
 翪	tzong
 艐	tzong
 葼	tzong
@@ -15592,20 +17780,29 @@ use_preset_vocabulary: true
 賨	tzorng
 偬	tzoong
 傯	tzoong
+摠	tzoong	0%
 熜	tzoong
 䁓	tzoong
 𥡥	tzoong
+縱	tzoong	0%
 總	tzoong	89%
+翪	tzoong	0%
 蓯	tzoong
 䙕	tzoong
+𨍈	tzoong	0%
+鬷	tzoong	0%
+傯	tzonq	0%
+㚇	tzonq	0%
 從	tzonq	85%
 摠	tzonq
 瘲	tzonq
 粽	tzonq	89%
 糉	tzonq	88%
 綜	tzonq
+緵	tzonq	0%
 縱	tzonq	86%
 䝋	tzonq
+鯼	tzonq	0%
 糭	tzonq	87%
 囱	tsong
 𢊕	tsong
@@ -15632,6 +17829,7 @@ use_preset_vocabulary: true
 𥵫	tsorng
 鏦	tsorng
 𪖁	tsorng
+憁	tsoong	0%
 憁	tsonq
 樬	tsonq
 謥	tsonq
@@ -15658,19 +17856,27 @@ use_preset_vocabulary: true
 聳	soong
 蓯	soong
 駷	soong
+凇	sonq	0%
 宋	sonq	88%
+㪌	sonq	0%
+𣞷	sonq	0%
+𥵅	sonq	0%
 𦯕	sonq
 訟	sonq	87%
 誦	sonq	85%
 送	sonq	89%
 頌	sonq	86%
+鬆	sonq	0%
+蓯	songq	0%
 噰	iong
+壅	iong	0%
 廱	iong
 𢧳	iong
 槦	iong
 滽	iong
 灉	iong
 癰	iong
+禜	iong	0%
 𥧱	iong
 罋	iong
 臃	iong
@@ -15678,6 +17884,7 @@ use_preset_vocabulary: true
 𧝸	iong
 𧴄	iong
 邕	iong
+醟	iong	0%
 雍	iong	89%
 雝	iong
 饔	iong
@@ -15723,10 +17930,14 @@ use_preset_vocabulary: true
 鰫	yong
 鱅	yong
 俑	yeong
+傛	yeong	0%
 勇	yeong	85%
 咏	yeong	86%
+喁	yeong	0%
 𠹍	yeong
 埇	yeong
+壅	yeong	0%
+嵱	yeong	0%
 悀	yeong
 恿	yeong
 惥	yeong
@@ -15739,6 +17950,7 @@ use_preset_vocabulary: true
 涌	yeong
 㴄	yeong
 湧	yeong	84%
+溶	yeong	0%
 𤁽	yeong
 甬	yeong
 筩	yeong
@@ -15749,20 +17961,29 @@ use_preset_vocabulary: true
 咏	yonq	86%
 壅	yonq
 泳	yonq	88%
+灉	yonq	0%
 用	yonq	89%
+禜	yonq	0%
 詠	yonq	87%
+醟	yonq	0%
+鎣	yonq	0%
+雍	yonq	0%
 𩏨	yonq
+傭	yongq	0%
 冂	jiong
 冋	jiong
 坰	jiong
 扃	jiong	89%
 泂	jiong
+絅	jiong	0%
 駉	jiong
 扃	jyong
+冋	jeong	0%
 冏	jeong
 㓏	jeong
 囧	jeong
 扃	jeong	87%
+泂	jeong	0%
 炅	jeong
 炯	jeong	88%
 煚	jeong
@@ -15774,9 +17995,15 @@ use_preset_vocabulary: true
 褧	jeong
 迥	jeong	89%
 扃	jionq	89%
+絅	jionq	0%
 迥	jionq
+䅃	chiong	0%
 穹	chiong	89%
+藭	chiong	0%
+蛬	chiong	0%
+䛪	chiong	0%
 跫	chiong
+䠻	chiong	0%
 銎	chiong
 𠌖	chyong
 匔	chyong
@@ -15800,10 +18027,16 @@ use_preset_vocabulary: true
 蛬	chyong
 蛩	chyong
 邛	chyong
+焪	cheong	0%
+䅃	cheong	0%
+蛬	cheong	0%
+跫	cheong	0%
 㑋	chionq
 焪	chionq
+藭	chionq	0%
 䛪	chionq
 䠻	chionq
+焪	chiongq	0%
 兄	shiong	89%
 兇	shiong	87%
 凶	shiong	88%
@@ -15812,11 +18045,15 @@ use_preset_vocabulary: true
 洶	shiong
 胷	shiong
 胸	shiong	85%
+𦬺	shiong	0%
 訩	shiong
 𧵣	shiong
 熊	shyong	89%
 雄	shyong	88%
+兇	sheong	0%
+洶	sheong	0%
 𦬺	sheong
+詗	sheong	0%
 𧦷	sheong
 卝	shionq
 敻	shionq
@@ -15852,6 +18089,7 @@ use_preset_vocabulary: true
 咡	ell
 弍	ell
 樲	ell
+洱	ell	0%
 珥	ell
 毦	ell
 䎶	ell
