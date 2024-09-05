@@ -4,14 +4,15 @@
 schema:
   schema_id: guoqlo
   name: 老國音 - 國羅
-  version: '2024.08.20'
+  version: '2024.09.05'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
     老國音輸入方案（國語羅馬字形式）
     
-    X鍵 可用於輸入 è（非入聲字可用 E鍵）
-    Z鍵 可用於輸入 tz
+    X鍵 可輸入 è（非入聲字可用 E鍵）
+    Z鍵 可輸入 tz
+    C鍵 可輸入 ch
 
 switches:
   - name: ascii_mode
@@ -62,6 +63,8 @@ speller:
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
     - derive/^tz/z/
+    - derive/^ch/c/
+
 
 translator:
   dictionary: guoqlo

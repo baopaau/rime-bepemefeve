@@ -10,8 +10,9 @@ schema:
   description: |
     老國音輸入方案（國語羅馬字形式，使用注音碼表）
     
-    X鍵 可用於輸入 è（非入聲字可用 E鍵）
-    Z鍵 可用於輸入 tz
+    X鍵 可輸入 è（非入聲字可用 E鍵）
+    Z鍵 可輸入 tz
+    C鍵 可輸入 ch
 
 switches:
   - name: ascii_mode
@@ -53,7 +54,7 @@ speller:
   delimiter: " '"
   algebra:
     - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
-    - xform/(?<=[ㄓㄔㄕㄖㄗㄘㄙ])(?=[ˉˊˇˋ˙])/ㄭ/
+    - xform/(?<=[ㄓㄔㄕㄖㄗㄘㄙ])(?=[ˉˊˇˋ˙]|$)/ㄭ/
     - xlit/ㄅㄆㄇㄈㄪㄉㄊㄋㄌ/bpmfvdtnl/
     - xlit/ㄍㄎㄏ/gkh/
     - xform/ㄫ/ng/
@@ -141,6 +142,7 @@ speller:
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
     - derive/^tz/z/
+    - derive/^ch/c/
 
 translator:
   dictionary: bepemefe
