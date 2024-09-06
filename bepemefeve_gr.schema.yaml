@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: bepemefeve_gr
+  schema_id: &schema_id bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
   version: '2024.09.06b'
   author:
@@ -140,25 +140,28 @@ speller:
     - xform/è/x/
     - derive/^\.//
 
-    - derive/^ch/c/
-    - derive/^tz/z/
-    - derive/^z.*/z/
-    - abbrev/ch.*/c/
-    - abbrev/tz.*/z/
-
-    - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
+    - derive/tz/z/
+    - derive/ch/c/
+    
+    - abbrev/^(ng|gn|ch?|sh|t?z|ts).+$/$1/
     - abbrev/^([iuaoeè]).+$/$1/
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1/
+
+    - derive/^z.*/z/ # tz 簡拼
+    - derive/^z.*/tz/ # tz 簡拼
     
 
 translator:
   dictionary: bepemefeve
+  prism: *schema_id
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/x/è/
 
-  comment_format:
-    - xform/x/è/
+  # comment_format:
+  #   - xform/x/è/
+  #   - xform/(?<!t)z/tz/
+  #   - xform/c(?!h)/ch/
 
 custom_phrase:
   dictionary: ""
