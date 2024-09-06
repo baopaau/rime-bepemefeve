@@ -3,10 +3,10 @@
 #
 # [Bepemefe 老國音 - 注音](https://github.com/baopaau/rime-bepemefe)
 #
-# 鳴謝：
-# - 訸
-# - 神勈橆敵㞢人
-# - Suen Mingtzer
+# 《校》：校改國音字典（民國教育部，第三十八版，1926）
+# 《韻》：國音新詩韻（趙元任，1922）
+# 《學》：學生字典（陸爾奎、方毅，1915，未校改）
+# 《維》：維基學院——老國音審音字庫
 #
 # 字音數據來源：
 # - [電子化《校改國音字典》](https://zhuanlan.zhihu.com/p/22056043)
@@ -15,7 +15,12 @@
 #   - [曹潔萍](https://www.zhihu.com/people/b7e5d56f3544d1510d2d247a6d5f93b1)
 #   - [王子軒](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
 #   - [馬從之](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
-# - [整合《國音新詩韻》字彙](https://zh.wikiversity.org/zh-hant/整合老國音熟字彙)
+# - [電子化《學生字典》](http://fgwang.blogspot.com/2021/07/blog-post_13.html)
+#   - [電脳瓦崗寨](http://wagang.econ.hc.keio.ac.jp/)
+#   - [漢字データベース](http://kanji-database.sourceforge.net/dict/xszd)
+#   - [WFG](http://fgwang.blogspot.com)
+# - [維基學院：整合《國音新詩韻》字彙](https://zh.wikiversity.org/wiki/整合老國音熟字彙)
+# - [維基學院：老國音審音字庫](https://zh.wikiversity.org/wiki/Category:老國音審音)
 # - [校改國音字典整理會](https://zhuanlan.zhihu.com/Jiaoq-gais-guoh-iny-ziq-dians)
 #   - [勝爲士](https://www.zhihu.com/people/ff123b1d3fcdab2a70675df1245a9eeb)
 #   - [HANCVS韓](https://www.zhihu.com/people/7b106d7c1f31a47d8ba6cdbcb0e11316)
@@ -23,8 +28,8 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 
 ---
-name: bepemefe.phrase
-version: "2024.08.20b"
+name: bepemefeve.phrase
+version: "2024.09.06"
 sort: be_weight
 ...
 

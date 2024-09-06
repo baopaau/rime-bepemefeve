@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: bepemefe_guoqlo
-  name: 老國音 - 國羅注音
+  schema_id: bepemefeve_gr
+  name: ㄅㄆㄇㄈㄪ：G.R.
   version: '2024.09.06'
   author:
     - 抱豹 <baopaau@gmail.com>
@@ -154,7 +154,7 @@ speller:
     
 
 translator:
-  dictionary: bepemefe
+  dictionary: bepemefeve
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/x/è/

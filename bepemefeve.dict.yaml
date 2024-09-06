@@ -28,12 +28,12 @@
 # - [胡拼輸入法](https://www.zhihu.com/question/31456983/answer/3418100886)
 
 ---
-name: bepemefe
-version: "2024.09.06"
+name: bepemefeve
+version: "2024.09.06b"
 sort: be_weight
 use_preset_vocabulary: true
 import_tables:
-  - bepemefe.phrase
+  - bepemefeve.phrase
 ...
 
 之	ㄓ	85%		#《韻》字彙《校》照ⁿ齊ʰ平ᵈ支ʸ（子編二頁）《維》老國音審音字庫
