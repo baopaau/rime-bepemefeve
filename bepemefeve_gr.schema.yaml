@@ -157,11 +157,8 @@ translator:
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/x/è/
-
-  # comment_format:
-  #   - xform/x/è/
-  #   - xform/(?<!t)z/tz/
-  #   - xform/c(?!h)/ch/
+    - xform/(?<!t)z/ᵗz/
+    - xform/c(?!h)/cʰ/
 
 custom_phrase:
   dictionary: ""
