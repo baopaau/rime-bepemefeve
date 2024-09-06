@@ -1,0 +1,131 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_iac_lt
+  name: ㄅㄆㄇㄈㄪ：iac轉寫
+  version: '2024.09.06b'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音輸入方案（iac轉寫，使用注音碼表）
+
+    耶箍步<@iacobvs>設計的老國音注音轉寫方案（與注音符號一一對應）
+    
+    以數字鍵7890及字母q標示五聲。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba7890'
+  initials: 'zyxwvutsrqponmlkjihgfedcba'
+  finals: "7890"
+  delimiter: " '"
+  # use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
+    - xform/ㄍ/g/
+    - xform/ㄎ/k/
+    - xform/ㄫ/ng/
+    - xform/ㄏ/h/
+    - xform/ㄐ/j/
+    - xform/ㄑ/q/
+    - xform/ㄬ/nj/
+    - xform/ㄒ/x/
+    - xform/ㄓ/zr/
+    - xform/ㄔ/cr/
+    - xform/ㄕ/sr/
+    - xform/ㄖ/r/
+    - xform/ㄗ/z/
+    - xform/ㄘ/c/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/y/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/eo/
+    - xform/ㄝ/e/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/au/
+    - xform/ㄡ/ou/
+    - xform/ㄢ/an/
+    - xform/ㄣ/en/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/eng/
+    - xform/ㄦ/er/
+    
+    - xlit/ˉˊˇˋ˙/1234q/
+    - xform/·//
+
+    - abbrev/^([a-z]).+$/$1/
+    - xlit/1234/7890/
+    - derive/^([a-z]+)[7890q]$/$1/
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xlit/7890/１２３４/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
