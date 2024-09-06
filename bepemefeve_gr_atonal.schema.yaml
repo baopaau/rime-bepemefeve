@@ -1,0 +1,144 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_gr_atonal 
+  name: ㄅㄆㄇㄈㄪ：G.R.（無聲調）
+  version: '2024.09.06b'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音輸入方案（國語羅馬字形式，使用注音碼表，忽略聲調）
+    
+    X鍵 可輸入 è
+    Z鍵 可輸入 tz
+    C鍵 可輸入 ch
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba'
+  delimiter: " '"
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
+    - xlit/ㄍㄎㄏ/gkh/
+    - xform/ㄫ/ng/
+    - xform/ㄐ/j/
+    - xform/ㄑ/ch/
+    - xform/ㄬ/gn/
+    - xform/ㄒ/sh/
+    - xform/ㄓ/j/
+    - xform/ㄔ/ch/
+    - xform/ㄕ/sh/
+    - xform/ㄖ/r/
+    - xform/ㄗ/tz/
+    - xform/ㄘ/ts/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/iu/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/e/
+    - xform/ㄝ/è/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/au/
+    - xform/ㄡ/ou/
+    - xform/ㄢ/an/
+    - xform/ㄣ/en/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/eng/
+    - xform/ㄦ/el/
+    - xform/ㄭ/y/
+    - xform/(?<=i|u)è/e/
+    - xform/(?!^)ueng/ong/
+    - xform/^ueng/ong/
+    - xform/(iu?)e(ng?)/$1$2/
+    - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙])/$1y$2/
+
+    - xform/[ˉˊˇˋ˙]//
+    - xform/·//
+
+    - xform/è/x/
+
+    - derive/tz/z/
+    - derive/ch/c/
+    
+    - abbrev/^(ng|gn|ch?|sh|t?z|ts).+$/$1/
+    - abbrev/^([iuaoeè]).+$/$1/
+    - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1/
+
+    - derive/^z.*/z/ # tz 簡拼
+    - derive/^z.*/tz/ # tz 簡拼
+    
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/x/è/
+
+  comment_format:
+    - xform/x/è/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
