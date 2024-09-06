@@ -3,8 +3,8 @@
 
 schema:
   schema_id: guoqlo
-  name: 老國音 - 國羅
-  version: '2024.09.05'
+  name: 國語羅馬字（老國音）
+  version: '2024.09.06c'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -13,6 +13,7 @@ schema:
     X鍵 可輸入 è（非入聲字可用 E鍵）
     Z鍵 可輸入 tz
     C鍵 可輸入 ch
+    Q鍵 可輸入 ·（輕音符號）
 
 switches:
   - name: ascii_mode
@@ -64,16 +65,17 @@ speller:
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
     - derive/^tz/z/
     - derive/^ch/c/
+    - xform/^\./q/
 
 
 translator:
   dictionary: guoqlo
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
+    - xform/\<q/·/
     - xform/x/è/
-
-  comment_format:
-    - xform/x/è/
+    - xform/(?<!t)z/ᵗz/
+    - xform/c(?!h)/cʰ/
 
 custom_phrase:
   dictionary: ""

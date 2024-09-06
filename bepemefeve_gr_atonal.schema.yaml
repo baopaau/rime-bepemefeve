@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_gr_atonal 
   name: ㄅㄆㄇㄈㄪ：G.R.（無聲調）
-  version: '2024.09.06b'
+  version: '2024.09.06c'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -13,6 +13,7 @@ schema:
     X鍵 可輸入 è
     Z鍵 可輸入 tz
     C鍵 可輸入 ch
+    Q鍵 可輸入 ·（輕音符號）
 
 switches:
   - name: ascii_mode
@@ -90,10 +91,10 @@ speller:
     - xform/(?!^)ueng/ong/
     - xform/^ueng/ong/
     - xform/(iu?)e(ng?)/$1$2/
-    - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙])/$1y$2/
+    - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙]|$)/$1y$2/
 
     - xform/[ˉˊˇˋ˙]//
-    - xform/·//
+    - derive/·//
 
     - xform/è/x/
 
@@ -106,6 +107,8 @@ speller:
 
     - derive/^z.*/z/ # tz 簡拼
     - derive/^z.*/tz/ # tz 簡拼
+
+    - xform/^·/q/
     
 
 translator:
@@ -113,6 +116,7 @@ translator:
   prism: *schema_id
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
+    - xform/\<q/·/
     - xform/x/è/
     - xform/(?<!t)z/ᵗz/
     - xform/c(?!h)/cʰ/
