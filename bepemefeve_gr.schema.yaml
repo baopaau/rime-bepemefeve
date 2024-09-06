@@ -4,7 +4,7 @@
 schema:
   schema_id: bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
-  version: '2024.09.06'
+  version: '2024.09.06b'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -54,7 +54,6 @@ speller:
   delimiter: " '"
   algebra:
     - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
-    - xform/^([ㄓㄔㄕㄖㄗㄘㄙ])([ˉˊˇˋ˙])$/$1y$2/
     - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
     - xlit/ㄉㄊㄋㄌ/dtnl/
     - xlit/ㄍㄎㄏ/gkh/
@@ -91,6 +90,7 @@ speller:
     - xform/(?!^)ueng/ong/
     - xform/^ueng/ong/
     - xform/(iu?)e(ng?)/$1$2/
+    - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙])/$1y$2/
 
     - xform/(^|·)(ng|gn|m|v|n|l|r)(.*)ˉ/$1$2h$3/
     - xform/ˉ//
@@ -131,8 +131,6 @@ speller:
     - xform/(^|·)u(.+)˙/$1w$2˙/
     - xform/˙/q/
 
-    - xform/[ˊˇˋ˙]//
-
     - xform/·/\./
 
     - derive/è$/e/
@@ -142,15 +140,15 @@ speller:
     - xform/è/x/
     - derive/^\.//
 
+    - derive/^ch/c/
+    - derive/^tz/z/
+    - derive/^z.*/z/
+    - abbrev/ch.*/c/
+    - abbrev/tz.*/z/
+
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
     - abbrev/^([iuaoeè]).+$/$1/
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1/
-    
-    - derive/^ch/c/
-    - derive/^tz/z/
-
-
-    
     
 
 translator:
