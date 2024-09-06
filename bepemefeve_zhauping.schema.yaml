@@ -1,0 +1,144 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_zhauping
+  name: ㄅㄆㄇㄈㄪ：趙拼
+  version: '2024.09.06b'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音趙音拼音方案，使用注音碼表
+
+    勝爲士 設計的老國音拼音方案
+
+    設計主張：容易辨認，使用方便，切合趙元任留聲。以漢語拼音為基礎，拼寫不同的地方，就是新、老國音發音差異的所在。 
+    
+    以數字鍵67890標示五聲（按陰、陽、上、去、入順序）。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba67890'
+  initials: 'zyxwvutsrqponmlkjihgfedcba'
+  finals: "67890"
+  delimiter: " '"
+  # use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
+    - xform/ㄍ/g/
+    - xform/ㄎ/k/
+    - xform/ㄫ/ng/
+    - xform/ㄏ/h/
+    - xform/ㄐ/j/
+    - xform/ㄑ/q/
+    - xform/ㄬ/nj/
+    - xform/ㄒ/x/
+    - xform/ㄓ/zh/
+    - xform/ㄔ/ch/
+    - xform/ㄕ/sh/
+    - xform/ㄖ/r/
+    - xform/ㄗ/z/
+    - xform/ㄘ/c/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/yu/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/eo/
+    - xform/ㄝ/e/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/au/
+    - xform/ㄡ/eu/
+    - xform/ㄢ/an/
+    - xform/ㄣ/en/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/eng/
+    - xform/ㄦ/er/
+    
+    - xlit/ˉˊˇˋ˙/12345/
+    - xform/·//
+
+    - xform/(yu|i|u)e(ng?)/$1$2/
+
+    - xform/^i([aeo])/y$1/
+    - xform/^i/yi/
+    - xform/^u([aeo])/w$1/
+    - xform/^u/wu/
+
+    - xform/^(z|c|s)i([12345]|$)/$1yi$2/
+    - xform/^(zh|ch|sh|r|z|c|s)([12345]|$)/$1i$2/
+    
+
+    - abbrev/^([a-z]).+$/$1/
+    - xlit/12345/67890/
+    - derive/^([a-z]+)[67890]$/$1/
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xlit/67890/１２３４５/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
