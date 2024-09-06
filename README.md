@@ -20,14 +20,17 @@ TODO：未設計
 
 #### 類許氏鍵盤
 TODO：未設計
+
 配方文件名：~~`bepemefeve_hsus.schema.yaml`~~
 
 #### 雙拼
 TODO：未設計
+
 配方文件名：~~`bepemefeve_double.schema.yaml`~~
 
 #### 三拼
 TODO：未設計
+
 配方文件名：~~`bepemefeve_triple.schema.yaml`~~
 
 ### 羅馬拼音形式的輸入方案
@@ -79,6 +82,7 @@ TODO
 
 #### 綺檐淸露：國音用漢語拼音（混合式拼音）
 TODO
+
 詳見 [維基學院：國音用漢語拼音](https://zh.wikiversity.org/wiki/原創老國音拼音方案/國音用漢語拼音)
 
 配方文件名：~~`bepemefeve_huenhoshi.schema.yaml`~~
