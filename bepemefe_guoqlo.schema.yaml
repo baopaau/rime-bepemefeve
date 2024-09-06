@@ -4,7 +4,7 @@
 schema:
   schema_id: bepemefe_guoqlo
   name: 老國音 - 國羅注音
-  version: '2024.08.20b'
+  version: '2024.09.06'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -54,8 +54,9 @@ speller:
   delimiter: " '"
   algebra:
     - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
-    - xform/(?<=[ㄓㄔㄕㄖㄗㄘㄙ])(?=[ˉˊˇˋ˙]|$)/ㄭ/
-    - xlit/ㄅㄆㄇㄈㄪㄉㄊㄋㄌ/bpmfvdtnl/
+    - xform/^([ㄓㄔㄕㄖㄗㄘㄙ])([ˉˊˇˋ˙])$/$1y$2/
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
     - xlit/ㄍㄎㄏ/gkh/
     - xform/ㄫ/ng/
     - xform/ㄐ/j/
@@ -91,10 +92,10 @@ speller:
     - xform/^ueng/ong/
     - xform/(iu?)e(ng?)/$1$2/
 
-    - xform/^(·?(?:ng|gn|m|v|n|l|r))(.*)ˉ/$1h$2/
+    - xform/(^|·)(ng|gn|m|v|n|l|r)(.*)ˉ/$1$2h$3/
     - xform/ˉ//
 
-    - xform/^(·?(?:m|v|n|l|ng|gn|r))(.*)ˊ/$1$2/
+    - xform/(^|·)(m|v|n|l|ng|gn|r)(.*)ˊ/$1$2$3/
     - xform/(?<![aeo])iˊ/yi/
     - xform/i(u?(?:n|ng))ˊ/y$1/
     - xform/i(u?[aoeu])(|i|u|n|ng)ˊ/y$1$2/
@@ -102,35 +103,37 @@ speller:
     - xform/u([aoe])(|i|u|n|ng)ˊ/w$1$2/
     - xform/([aoeèuiy]+)(|n|ng|l)ˊ/$1r$2/
 
-    - xform/^(·?)i(|n|ng)ˇ/$1yi$2ˇ/
-    - xform/^(·?)u(|n|ng)ˇ/$1wu$2ˇ/
-    - xform/^(·?)i(.+)ˇ/$1y$2ˇ/
-    - xform/^(·?)u(.+)ˇ/$1w$2ˇ/
-    - xform/^(·?)y(u?[aou])(|i|u|n|ng)ˇ/$1ye$2$3/
+    - xform/(^|·)i(|n|ng)ˇ/$1yi$2ˇ/
+    - xform/(^|·)u(|n|ng)ˇ/$1wu$2ˇ/
+    - xform/(^|·)i(.+)ˇ/$1y$2ˇ/
+    - xform/(^|·)u(.+)ˇ/$1w$2ˇ/
+    - xform/(^|·)y(u?[aou])(|i|u|n|ng)ˇ/$1ye$2$3/
     - xform/i(u?[aou])(|i|u|n|ng)ˇ/e$1$2/
-    - xform/^(·?)w([aoe])(|i|u|n|ng)ˇ/$1wo$2$3/
+    - xform/(^|·)w([aoe])(|i|u|n|ng)ˇ/$1wo$2$3/
     - xform/u([ae])(|i|u|n|ng)ˇ/o$1$2/
     - xform/(?<=[ao])iˇ/e/
     - xform/(?<=a)uˇ/o/
     - xform/([yw]?)([aoeèuiy])(|i|u|n|ng|l)ˇ/$1$2$2$3/
 
-    - xform/^(·?)i(|n|ng)ˋ/$1yi$2ˋ/
-    - xform/^(·?)u(|n|ng)ˋ/$1wu$2ˋ/
-    - xform/^(·?)i(.+)ˋ/$1y$2ˋ/
-    - xform/^(·?)u(.+)ˋ/$1w$2ˋ/
+    - xform/(^|·)i(|n|ng)ˋ/$1yi$2ˋ/
+    - xform/(^|·)u(|n|ng)ˋ/$1wu$2ˋ/
+    - xform/(^|·)i(.+)ˋ/$1y$2ˋ/
+    - xform/(^|·)u(.+)ˋ/$1w$2ˋ/
     - xform/(?<=[aoe])iˋ/y/
     - xform/(?<=[aoe])uˋ/w/
     - xform/(m|n|l)ˋ/$1$1/
     - xform/ngˋ/nq/
     - xform/ˋ/h/
 
-    - xform/^(·?)i(|n|ng)˙/$1yi$2˙/
-    - xform/^(·?)u(|n|ng)˙/$1wu$2˙/
-    - xform/^(·?)i(.+)˙/$1y$2˙/
-    - xform/^(·?)u(.+)˙/$1w$2˙/
+    - xform/(^|·)i(|n|ng)˙/$1yi$2˙/
+    - xform/(^|·)u(|n|ng)˙/$1wu$2˙/
+    - xform/(^|·)i(.+)˙/$1y$2˙/
+    - xform/(^|·)u(.+)˙/$1w$2˙/
     - xform/˙/q/
 
-    - xform/·/./
+    - xform/[ˊˇˋ˙]//
+
+    - xform/·/\./
 
     - derive/è$/e/
     - derive/èr/er/
@@ -138,11 +141,17 @@ speller:
     - derive/èh/eh/
     - xform/è/x/
     - derive/^\.//
-    - abbrev/^([iuaoeè]).+$/$1/
-    - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
+
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
-    - derive/^tz/z/
+    - abbrev/^([iuaoeè]).+$/$1/
+    - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1/
+    
     - derive/^ch/c/
+    - derive/^tz/z/
+
+
+    
+    
 
 translator:
   dictionary: bepemefe
