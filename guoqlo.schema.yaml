@@ -4,13 +4,13 @@
 schema:
   schema_id: guoqlo
   name: 國語羅馬字（老國音）
-  version: '2024.09.06c'
+  version: '2024.09.07'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
     老國音輸入方案（國語羅馬字形式）
     
-    X鍵 可輸入 è（非入聲字可用 E鍵）
+    X鍵 可輸入 è（非獨用、非入聲字可用 E鍵）
     Z鍵 可輸入 tz
     C鍵 可輸入 ch
     Q鍵 可輸入 ·（輕音符號）
@@ -54,10 +54,10 @@ speller:
   alphabet: 'zyxwvutsrqponmlkjihgfedcba'
   delimiter: " '"
   algebra:
-    - derive/è$/e/
-    - derive/èr/er/
-    - derive/èè/ee/
-    - derive/èh/eh/
+    - derive/(?<=[a-z])è$/e/
+    - derive/(?<=[a-z])èr/er/
+    - derive/(?<=[a-z])èè/ee/
+    - derive/(?<=[a-z])èh/eh/
     - xform/è/x/
     - derive/^\.//
     - abbrev/^([iuaoeè]).+$/$1/
