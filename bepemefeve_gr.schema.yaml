@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
-  version: '2024.09.07'
+  version: '2024.09.07b'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -99,13 +99,15 @@ speller:
     - xform/(^|·)(ng|gn|m|v|n|l|r)(.*)ˉ/$1$2h$3/
     - xform/ˉ//
 
+    - xform/è/x/
+
     - xform/(^|·)(m|v|n|l|ng|gn|r)(.*)ˊ/$1$2$3/
     - xform/(?<![aeo])iˊ/yi/
     - xform/i(u?(?:n|ng))ˊ/y$1/
     - xform/i(u?[aoeu])(|i|u|n|ng)ˊ/y$1$2/
     - xform/(?<![aeo])uˊ/wu/
     - xform/u([aoe])(|i|u|n|ng)ˊ/w$1$2/
-    - xform/([aoeèuiy]+)(|n|ng|l)ˊ/$1r$2/
+    - xform/([aoexuiy]+)(|n|ng|l)ˊ/$1r$2/
 
     - xform/(^|·)i(|n|ng)ˇ/$1yi$2ˇ/
     - xform/(^|·)u(|n|ng)ˇ/$1wu$2ˇ/
@@ -117,7 +119,7 @@ speller:
     - xform/u([ae])(|i|u|n|ng)ˇ/o$1$2/
     - xform/(?<=[ao])iˇ/e/
     - xform/(?<=a)uˇ/o/
-    - xform/([yw]?)([aoeèuiy])(|i|u|n|ng|l)ˇ/$1$2$2$3/
+    - xform/([yw]?)([aoexuiy])(|i|u|n|ng|l)ˇ/$1$2$2$3/
 
     - xform/(^|·)i(|n|ng)ˋ/$1yi$2ˋ/
     - xform/(^|·)u(|n|ng)ˋ/$1wu$2ˋ/
@@ -135,18 +137,19 @@ speller:
     - xform/(^|·)u(.+)˙/$1w$2˙/
     - xform/˙/q/
 
-    - derive/(?<=[a-z])è$/e/
-    - derive/(?<=[a-z])èr/er/
-    - derive/(?<=[a-z])èè/ee/
-    - derive/(?<=[a-z])èh/eh/
-    - xform/è/x/
+    # - xform/x/è/ # 顯示 è
+
+    - derive/(?<=[a-z])x$/e/
+    - derive/(?<=[a-z])xr/er/
+    - derive/(?<=[a-z])xx/ee/
+    - derive/(?<=[a-z])xh/eh/
     
     - derive/tz/z/
     - derive/ch/c/
     
     - abbrev/(^|·)(ng|gn|ch?|sh|t?z|ts).+$/$1$2/
-    - abbrev/(^|·)([iuaoeè]).+$/$1$2/
-    - abbrev/(^|·)([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1$2/
+    - abbrev/(^|·)([iuaoex]).+$/$1$2/
+    - abbrev/(^|·)([bpmfvdtnlgkhjrsyw])[iuaoexy].*$/$1$2/
 
     - derive/(^|·)z.*/$1z/ # tz 簡拼
     - derive/(^|·)z.*/$1tz/ # tz 簡拼
