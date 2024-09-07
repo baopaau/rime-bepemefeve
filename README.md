@@ -81,11 +81,9 @@ TODO
 配方文件名：`bepemefeve_iac_lt.schema.yaml`
 
 #### 綺檐淸露：國音用漢語拼音（混合式拼音）
-TODO
-
 詳見 [維基學院：國音用漢語拼音](https://zh.wikiversity.org/wiki/原創老國音拼音方案/國音用漢語拼音)
 
-配方文件名：~~`bepemefeve_huenhoshi.schema.yaml`~~
+配方文件名：`bepemefeve_huenhoshi.schema.yaml`
 
 #### 水光水：胡拼
 TODO
