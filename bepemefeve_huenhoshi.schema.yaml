@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_huenhoshi
   name: ㄅㄆㄇㄈㄪ：綺檐淸露式
-  version: '2024.09.06b'
+  version: '2024.09.07'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -120,16 +120,13 @@ speller:
     - xlit/12345/67890/
     - derive/^([a-z]+)[67890]$/$1/
 
-    # - xform/\+/\./
-
 translator:
   dictionary: bepemefeve
   prism: *schema_id
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
-    # - xlit/\./\+/
     - xlit/67890/12345/
-    - xform ([aeiou])(ng?|r)([12345]) $1$3$2
+    - xform ([aeiouy])(ng?|r)([12345]) $1$3$2
     - xform ([aeo])([iuo])([12345]) $1$3$2
     - xform a1 ā
     - xform a2 á
