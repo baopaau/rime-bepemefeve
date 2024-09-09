@@ -3,17 +3,22 @@
 
 schema:
   schema_id: &schema_id bepemefeve_gr_atonal 
-  name: ㄅㄆㄇㄈㄪ：G.R.（無聲調）
-  version: '2024.09.06c'
+  name: ㄅㄆㄇㄈㄪ：無調G.R.
+  version: '2024.09.09'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
-    老國音輸入方案（國語羅馬字形式，使用注音碼表，忽略聲調）
-    
-    X鍵 可輸入 è
-    Z鍵 可輸入 tz
-    C鍵 可輸入 ch
-    Q鍵 可輸入 ·（輕音符號）
+    老國音輸入方案（國語羅馬字原型形式，使用注音碼表）
+
+    使用國語羅馬字不表聲調的原型
+    * 濁聲母 (m-, v-, n-, l-, ng-, gn-) 字的原型是陽平，除此以外是陰平
+
+    x鍵 或 E鍵(大寫) 可輸入 è
+    z鍵 可輸入 tz
+    c鍵 可輸入 ch
+    q鍵 可輸入 ·（輕音符號）
+
+    需要時可以在字尾以數字鍵67890標示五聲（按陰、陽、上、去、入順序）
 
 switches:
   - name: ascii_mode
@@ -51,7 +56,9 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: 'zyxwvutsrqponmlkjihgfedcba'
+  alphabet: 'zyxwvutsrqponmlkjihgfedcbaE67890'
+  initials: 'zyxwvutsrqponmlkjihgfedcbaE'
+  finals: "67890"
   delimiter: " '"
   algebra:
     - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
@@ -93,7 +100,7 @@ speller:
     - xform/(iu?)e(ng?)/$1$2/
     - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙]|$)/$1y$2/
 
-    - xform/[ˉˊˇˋ˙]//
+    - xlit/ˉˊˇˋ˙/12345/
     - derive/·//
 
     - xform/è/x/
@@ -101,15 +108,20 @@ speller:
     - derive/tz/z/
     - derive/ch/c/
     
-    - abbrev/^(ng|gn|ch?|sh|t?z|ts).+$/$1/
-    - abbrev/^([iuaoeè]).+$/$1/
-    - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].*$/$1/
+    - abbrev/(^|·)(ng|gn|ch?|sh|t?z|ts).+$/$1$2/
+    - abbrev/(^|·)([iuaoex]).+$/$1$2/
+    - abbrev/(^|·)([bpmfvdtnlgkhjrsyw])[iuaoexy].*$/$1$2/
 
-    - derive/^z.*/z/ # tz 簡拼
-    - derive/^z.*/tz/ # tz 簡拼
+    - xlit/12345/67890/
+    - derive/^([a-z]+)[67890]$/$1/
+
+    - derive/(^|·)z.*/$1z/ # tz 簡拼
+    - derive/(^|·)z.*/$1tz/ # tz 簡拼
 
     - xform/^·/q/
-    
+
+    - derive/x/E/
+
 
 translator:
   dictionary: bepemefeve
@@ -117,9 +129,10 @@ translator:
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/\<q/·/
-    - xform/x/è/
+    - xform/[xE]/è/
     - xform/(?<!t)z/ᵗz/
     - xform/c(?!h)/cʰ/
+    - xlit/67890/陰陽上去入/
 
 custom_phrase:
   dictionary: ""
