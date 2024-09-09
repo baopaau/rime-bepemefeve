@@ -1,0 +1,199 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_5jup_like
+  name: ㄅㄆㄇㄈㄪ：類大千式
+  version: '2024.09.09'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音注音輸入方案，碼表以注音字母記錄
+
+    鍵盤盡量根據1920年的舊注音字母表順序（ㄪ、ㄦ兩母除外）重新排列：
+    1QAZ ㄅㄆㄇㄈ
+    2WSX ㄉㄊㄋㄌ
+    3EDC ㄍㄎㄫㄏ
+    4RFV ㄐㄑㄬㄒ
+    5TGB ㄓㄔㄕㄖ
+    6YHN ㄪㄗㄘㄙ（ㄦ跟ㄖ在各種拼音方案中經常會共用同一個字母R，如此排列後，ㄦ差不多位於ㄖ的正上方）
+    7UJM ㄦㄧㄨㄩ
+    8IK, ㄚㄛㄜㄝ
+    9OL. ㄞㄟㄠㄡ
+    0P;/ ㄢㄣㄤㄥ
+
+    多出來的ㄪ、ㄦ兩母依照「聲韻調分區」原則，排在ㄗ行聲母和介母行的上方
+    ㄍ、ㄎ、ㄐ、ㄑ四母各自向上平移一鍵
+
+    '[-=] 陰陽上去入（按鍵位置如四聲點法）
+    # 陰平聲與輕音共用按鍵`'`，標在字尾爲陰平聲，標在字頭爲輕音
+
+    不同於通常的注音輸入法，本輸入方案以【空格鍵】選詞
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+menu:
+  alternative_select_keys: "ABCDEFGHIJ"
+
+speller:
+  alphabet: "1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]"
+  initials: "1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'"
+  finals: "'[-=]"
+  delimiter: "_"
+  use_space: 
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xform/^·(.*)$/$1·/
+
+    - 'xlit|ㄅㄆㄇㄈㄪㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦ·ˉˊˇˋ˙|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR012345|'
+
+    - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([iuv])/$2$1/
+    - derive/([iuv])([aoeEAIOUMNKGR])/$2$1/
+    - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([aoeEAIOUMNKGR])/$2$1/
+    - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([iuv])/$2$1/
+
+    - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+$/$1/
+    - abbrev/^([A-Za-z]+)\d$/$1/
+    - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+(\d)$/$1$2/
+
+    - xform/^(.*)0/1$1/
+
+    - "xlit|bpmfdtnlgkQhjqJxZCSrVzcsRiuvaoeEAIOUMNKG12345|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|"
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - "xlit|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄪㄗㄘㄙㄦㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥˉˊˇˋ˙|"
+    - xform/(^|_)ˉ/$1·/ # 輕音
+    - "xform/_/ /" # en space
+  comment_format:
+    - "xform/([^ˊˇˋ˙])$/$1 /"
+    - "xform/_/ /" # en space
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  full_shape:
+    " " : { commit: "　" }
+    "<" : { commit: "，" }
+    ">" : { commit: "。" }
+    "?" : [ ？, ／, ÷ ]
+    ":" : [ ：, ； ]
+    "\"" : [ "“", "”", "‘", "’" ]
+    "\\" : [ 、, ＼ ]
+    "|" : [ ·, ｜, "§", "¦" ]
+    "`" : ｀
+    "~" : ～
+    "!" : { commit: ！ }
+    "@" : [ ＠, ☯ ]
+    "#" : [ ＃, ⌘ ]
+    "%" : [ ％, "°", "℃" ]
+    "$" : [ ￥, "$", "€", "£", "¥", "¢", "¤" ]
+    "^" : { commit: …… }
+    "&" : ＆
+    "*" : [ ＊, ·, ・, ×, ※, ❂ ]
+    "(" : （
+    ")" : ）
+    "_" : [ ——, － ]
+    "+" : ＋
+    "=" : ＝
+    "[" : [ 「, 【, 《, 〔, ［ ]
+    "]" : [ 」, 】, 》, 〕, ］ ]
+    "{" : [ 『, 〖, 〈, ｛ ]
+    "}" : [ 』, 〗, 〉, ｝ ]
+  half_shape:
+    "<" : { commit: "，" }
+    ">" : { commit: "。" }
+    "?" : [ ？, ／, "/", ÷ ]
+    ":" : [ ：, ； ]
+    "\"" : [ "“", "”", "‘", "’" ]
+    "\\" : [ 、, "\\", ＼ ]
+    "|" : [ ·, "|", ｜, "§", "¦" ]
+    "`" : "`"
+    "~" : "~"
+    "!" : { commit: ！ }
+    "@" : "@"
+    "#" : "#"
+    "%" : [ "%", ％, "°", "℃" ]
+    "$" : [ ￥, "$", "€", "£", "¥", "¢", "¤" ]
+    "^" : { commit: …… }
+    "&" : "&"
+    "*" : [ "*", ＊, ·, ・, ×, ※, ❂ ]
+    "(" : （
+    ")" : ）
+    "_" : [ ——, －, "-" ]
+    "+" : "+"
+    "=" : "="
+    "[" : [ 「, 【, 《, 〔, ［ ]
+    "]" : [ 」, 】, 》, 〕, ］ ]
+    "{" : [ 『, 〖, 〈, ｛ ]
+    "}" : [ 』, 〗, 〉, ｝ ]
+
+editor:
+  bindings:
+    space: toggle_selection
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: comma, send: comma }      # ㄝ
+    - { when: has_menu, accept: period, send: period }    # ㄡ
+    - { when: has_menu, accept: minus, send: minus }      # 上聲
+    - { when: has_menu, accept: equal, send: equal }      # 去聲
+
+    - { when: has_menu, accept: "]", send: "]" }        # 入聲/輕音
+    - { when: paging, accept: "]", send: Page_Up }        # 上一頁
+    - { when: has_menu, accept: "\\", send: Page_Down }   # 下一頁
+
+recognizer:
+  patterns:
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
