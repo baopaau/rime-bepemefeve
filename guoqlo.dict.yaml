@@ -29,7 +29,7 @@
 
 ---
 name: guoqlo
-version: "2024.09.06c"
+version: "2024.09.09"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -1284,7 +1284,6 @@ use_preset_vocabulary: true
 熚	biq	#*		#《校》準畢．入ᵈ質ʸ（巳編十八頁）
 碧	biq	81%		#《韻》字彙《校》幫ⁿ齊ʰ入ᵈ陌ʸ（午編二十頁）《學》音筆（Pi）入聲
 綼	biq	#*		#《校》準壁．入ᵈ錫ʸ又平支（未編十一頁）
-鼻	biq	78%		#《韻》字彙
 罼	biq	#*		#《校》準畢．入ᵈ質ʸ（未編十六頁）
 駜	biq	#*		#《校》準苾．入ᵈ質ʸ（亥編一頁）
 鴔	biq	#*		#《校》並ⁿ齊ʰ入ᵈ緝ʸ（亥編十二頁）
