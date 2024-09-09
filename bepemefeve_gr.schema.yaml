@@ -4,16 +4,16 @@
 schema:
   schema_id: &schema_id bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
-  version: '2024.09.07b'
+  version: '2024.09.09'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
     老國音輸入方案（國語羅馬字形式，使用注音碼表）
     
-    X鍵 可輸入 è（非獨用、非入聲字可用 E鍵）
-    Z鍵 可輸入 tz
-    C鍵 可輸入 ch
-    Q鍵 可輸入 ·（輕音符號）
+    x鍵 或 E鍵(大寫) 可輸入 è
+    z鍵 可輸入 tz
+    c鍵 可輸入 ch
+    q鍵 可輸入 ·（輕音符號）
 
 switches:
   - name: ascii_mode
@@ -51,7 +51,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: 'zyxwvutsrqponmlkjihgfedcba'
+  alphabet: 'zyxwvutsrqponmlkjihgfedcbaE'
   delimiter: " '"
   algebra:
     - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
@@ -156,13 +156,15 @@ speller:
 
     - xform/^·/q/
 
+    - derive/x/E/
+
 translator:
   dictionary: bepemefeve
   prism: *schema_id
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/\<q/·/
-    - xform/x/è/
+    - xform/[xE]/è/
     - xform/(?<!t)z/ᵗz/
     - xform/c(?!h)/cʰ/
 
