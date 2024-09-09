@@ -10,8 +10,10 @@
 ### 目前支援的輸入方案
 - [注音 大千兼容式](#5jup)
   -  `./bepemefeve_5jup.schema.yaml`
-  - [注音 大千式(改)](#5jup_mod)
+- [注音 大千式改](#5jup_mod)
   -  `./bepemefeve_5jup_mod.schema.yaml`
+- [注音 類大千式](#5jup)
+  -  `./bepemefeve_5jup_like.schema.yaml`
 - [國語羅馬字](#romatzyh)
   - `./bepemefeve_gr.schema.yaml`
   - `./bepemefeve_gr_atonal.schema.yaml`
@@ -31,14 +33,14 @@
 
 <a name="5jup"></a>
 ### 大千兼容式
-不增加按鍵，兼容現有大千式軟鍵盤：
+**不增加按鍵，兼容現有大千式軟鍵盤：**
 - ㄪ：Shift+ㄈ（ㄈ的濁化）
 - ㄬ：Shift+ㄋ（ㄋ的腭化）
 - ㄫ：Shift+ㄇ（用軟腭位置發類似ㄇ的鼻音）
 - 輕聲鍵（數字鍵7）同時兼任入聲鍵：標在字頭爲輕音，標在字尾爲入聲
 
 ![](assets/keyboard-layout-bepemefeve-5jup.png)\
-*「大千兼容式」鍵盤排列（紅色高亮按鍵不同於標準「大千式」）*
+*「大千兼容式」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
 
 配方位置：`./bepemefeve_5jup.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
@@ -47,7 +49,7 @@
 ### 大千式改
 鍵盤排列除了聲調部分以外，跟「大千式」完全一致。
 
-若不考慮聲調部分，可以算作兼容現有大千式軟鍵盤
+**若不考慮聲調部分，兼容現有大千式軟鍵盤**
 
 具體是在「大千式」的基礎上作了以下修改：
 - `3`、`4`、`6`鍵（原`ˇ`上聲、`ˋ`去聲、`ˊ`陽平）用作輸入ㄪ、ㄫ、ㄬ
@@ -55,9 +57,39 @@
 - 輕音現在亦可以標在字頭
 
 ![](assets/keyboard-layout-bepemefeve-5jup-mod.png)\
-*「大千式改」鍵盤排列（紅色高亮按鍵不同於標準「大千式」）*
+*「大千式改」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
 
 配方位置：`./bepemefeve_5jup_mod.schema.yaml`\
+碼表位置：`./bepemefeve.dict.yaml`
+
+<a name="5jup_like"></a>
+### 類大千式
+鍵盤盡量根據1920年的舊注音字母表順序（ㄪ、ㄦ兩母除外）重新排列：
+
+    1QAZ ㄅㄆㄇㄈ
+    2WSX ㄉㄊㄋㄌ
+    3EDC ㄍㄎㄫㄏ
+    4RFV ㄐㄑㄬㄒ
+    5TGB ㄓㄔㄕㄖ
+    6YHN ㄪㄗㄘㄙ
+    7UJM ㄦㄧㄨㄩ /* ㄦ跟ㄖ在各種拼音方案中經常會共用同一個字母R，如此排列後，ㄦ差不多位於ㄖ的正上方）*/
+    8IK, ㄚㄛㄜㄝ
+    9OL. ㄞㄟㄠㄡ
+    0P;/ ㄢㄣㄤㄥ
+    '[-=] 陰陽上去入 /* 按鍵位置如「四聲點聲法」 */
+
+![](assets/keyboard-layout-bepemefeve-5jup-like.png)\
+*「類大千式」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
+
+- 多出來的ㄪ、ㄦ兩母依照「聲韻調分區」原則，排在ㄗ行聲母和介母行的上方
+- ㄍ、ㄎ、ㄐ、ㄑ四母各自向上平移一鍵
+- 陰平聲與輕音共用按鍵`'`，標在字尾爲陰平聲，標在字頭爲輕音
+
+不同於通常的注音輸入法，本輸入方案以【空格鍵】選詞
+
+
+
+配方位置：`./bepemefeve_5jup_like.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 
