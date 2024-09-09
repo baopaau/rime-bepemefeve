@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_5jup_mod
   name: ㄅㄆㄇㄈㄪ：大千式改
-  version: '2024.09.09'
+  version: '2024.09.09b'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -76,11 +76,12 @@ speller:
     - derive/([iuv])([aoeEAIOUMNKGR])/$2$1/
     - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([aoeEAIOUMNKGR])/$2$1/
     - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([iuv])/$2$1/
-    - derive/^(.*)0$/0$1/
 
     - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+$/$1/
     - abbrev/^([A-Za-z]+)\d$/$1/
     - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+(\d)$/$1$2/
+
+    - derive/^(.*)0$/0$1/
 
     - "xlit|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR012345|1qaz32wsxed4crf6v5tgbyhnujm8ik,9ol.0p;/-7 '[]\\|"
 
