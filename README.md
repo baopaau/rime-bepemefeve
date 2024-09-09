@@ -115,14 +115,15 @@
 配方位置：`./bepemefeve_gr.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
-僅用G.R.的基本形式（不帶聲調）\
+**獨立碼表版本：**\
+配方位置：`./guoqlo.schema.yaml`\
+碼表位置：`./guoqlo.dict.yaml`
+
+**忽略聲調拼寫規則的簡易版本：**\
+*＊需要時可以在字尾以數字鍵`6`, `7`, `8`, `9`, `0`標示五聲*\
 配方位置：`./bepemefeve_gr_atonal.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
-注音轉G.R.的拼寫運算比較複雜，爲了減少出問題的可能，另設獨立碼表：
-
-配方位置：`./guoqlo.schema.yaml`\
-碼表位置：`./guoqlo.dict.yaml`
 
 ### 當代原創老國音拼音方案
 -----
