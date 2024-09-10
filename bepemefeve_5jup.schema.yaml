@@ -12,9 +12,8 @@ schema:
 
     不增加按鍵，兼容現有大千式軟鍵盤
 
-    ㄪ：Shift+ㄈ（ㄈ的濁化）
-    ㄬ：Shift+ㄋ（ㄋ的腭化）
-    ㄫ：Shift+ㄇ（用軟腭位置發類似ㄇ的鼻音）
+    ㄪ/ㄫ/ㄬ <-> ㄒ/ㄑ/ㄖ <-> V/F/B鍵
+
     輕聲鍵（數字鍵7）同時兼任入聲鍵：標在字頭爲輕音，標在字尾爲入聲
 
     本方案採用「無模式」設計，以大寫字母鍵或上下方向鍵、回車鍵選詞
@@ -60,8 +59,8 @@ menu:
   alternative_select_keys: "ABCDEFGHIJ"
 
 speller:
-  alphabet: '1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-ZAS 6347'
-  initials: '1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-ZAS7'
+  alphabet: '1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'
+  initials: '1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-7'
   finals: " 6347"
   delimiter: "'"
   use_space: true
@@ -76,14 +75,15 @@ speller:
     - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([aoeEAIOUMNKGR])/$2$1/
     - derive/([bpmfVdtnlgkQhjqJxZCSrzcs])([iuv])/$2$1/
 
-    - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+$/$1/
+    - abbrev/^([bpmfdtnlgkhjqxZCSrzcs]).+$/$1/
     - abbrev/^([A-Za-z]+)\d$/$1/
     - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcs]).+(\d)$/$1$2/
 
     - xform/^(.*)0/5$1/
 
+    - 'xlit|VQJ|xqr|' # ㄪ/ㄫ/ㄬ <-> ㄒ/ㄑ/ㄖ
     - 'xlit|bpmfdtnlgkhjqxZCSrzcsiuvaoeEAIOUMNKGR12345|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347|'
-    - 'xlit|VQJ|ZAS|'
+
 
 translator:
   dictionary: bepemefeve
@@ -91,10 +91,12 @@ translator:
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦ|"
-    - "xlit|ZAS|ㄪㄫㄬ|"
     - "xlit| 6347|ˉˊˇˋ˙|"
     - xform/˙(\S)/·$1/ # 輕音
     - xform/'/ /
+    - xform/ㄒ(?=ㄟ)/ㄪ/
+    - xform/ㄑ(?=ㄨ|ㄚ|ㄛ|ㄜ|ㄝ|ㄞ|ㄟ|ㄠ|ㄡ|ㄢ|ㄣ|ㄤ|ㄥ)/ㄫ/
+    - xform/ㄖ(?=ㄧ|ㄩ)/ㄬ/
   comment_format:
     - "xform/([^ˊˇˋ˙])$/$1 /"
     - xform/'/ /
