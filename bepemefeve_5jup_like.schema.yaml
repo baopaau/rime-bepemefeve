@@ -90,14 +90,14 @@ speller:
 
     - xform/^(.*)0/1$1/
 
-    - "xlit|bpmfdtnlgkQhjqJxZCSrVzcsRiuvaoeEAIOUMNKG12345|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|"
+    - "xlit|bpmfdtnlgkQhjqJxZCSrzcsRiuvVaoeEAIOUMNKG12345|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|"
 
 translator:
   dictionary: bepemefeve
   prism: *schema_id
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
-    - "xlit|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄪㄗㄘㄙㄦㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥˉˊˇˋ˙|"
+    - "xlit|1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik,9ol.0p;/'[-=]|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄗㄘㄙㄦㄧㄨㄩㄪㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥˉˊˇˋ˙|"
     - xform/(^|_)ˉ/$1·/ # 輕音
     - "xform/_/ /" # en space
   comment_format:
