@@ -15,6 +15,8 @@
   -  `./bepemefeve_5jup_mod.schema.yaml`
 - [注音 類大千式](#5jup)
   -  `./bepemefeve_5jup_like.schema.yaml`
+- [注音 倚天兼容式](#eten26ext)
+  -  `./bepemefeve_eten26ext.schema.yaml`
 - [國語羅馬字](#romatzyh)
   - `./bepemefeve_gr.schema.yaml`
   - `./bepemefeve_gr_atonal.schema.yaml`
@@ -91,6 +93,22 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 
+<a name="eten26ext"></a>
+### 倚天兼容式
+基於倚天26鍵修改，在不增加任何按鍵、盡量不影響現有操作習慣的前提下支援老國音使用的舊式注音符號
+
+* ㄪ - ㄔ - Y
+* ㄫ - ㄜ - R
+* ㄬ - ㄞ - I
+* 入聲 - ㄙ - S
+
+![](assets/keyboard-layout-bepemefeve-eten26ext.png)\
+*「倚天兼容式」鍵盤排列（高亮的按鍵不同於標準「倚天26鍵」）*
+
+配方位置：`./bepemefeve_eten26ext.schema.yaml`\
+碼表位置：`./bepemefeve.dict.yaml`
+
+
 ## 羅馬拼音形式的輸入方案
 
 <a name="romatzyh"></a>
@@ -123,7 +141,6 @@
 
 
 ### 當代原創老國音拼音方案
------
 
 <a name="zhauping"></a>
 #### 勝爲士：趙音拼音（趙拼）
