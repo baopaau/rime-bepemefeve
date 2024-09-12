@@ -11,8 +11,6 @@
 ### 目前支援的輸入方案
 - [注音 大千兼容式](#5jup)
   -  `./bepemefeve_5jup.schema.yaml`
-- [注音 大千式改](#5jup_mod)
-  -  `./bepemefeve_5jup_mod.schema.yaml`
 - [注音 類大千式](#5jup)
   -  `./bepemefeve_5jup_like.schema.yaml`
 - [注音 倚天兼容式](#eten26ext)
@@ -46,20 +44,6 @@
 配方位置：`./bepemefeve_5jup.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
-<a name="5jup_mod"></a>
-### 大千式改
-鍵盤排列除了聲調部分，與「大千式」完全一致。
-
-具體是在「大千式」的基礎上作了以下修改：
-- `3`、`4`、`6`鍵（原`ˇ`上聲、`ˋ`去聲、`ˊ`陽平）用作輸入ㄪ、ㄫ、ㄬ
-- `'`、`[`、`]`、`\`用作輸入 陽平、上、去、入 四聲，陰平聲仍用空格鍵
-- 輕音現在亦可以標在字頭
-
-![](assets/keyboard-layout-bepemefeve-5jup-mod.png)\
-*「大千式改」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
-
-配方位置：`./bepemefeve_5jup_mod.schema.yaml`\
-碼表位置：`./bepemefeve.dict.yaml`
 
 <a name="5jup_like"></a>
 ### 類大千式
