@@ -1,0 +1,167 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_eten26ext
+  name: ㄅㄆㄇㄈㄪ：倚天兼容式
+  version: '2024.09.10'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音注音輸入方案，碼表以注音字母記錄
+
+    基於倚天26鍵修改，在不增加任何按鍵、盡量不影響現有操作習慣的前提下支援老國音使用的舊式注音符號
+
+    *ㄪ - ㄔ - Y
+    *ㄫ - ㄜ - R
+    *ㄬ - ㄞ - I
+    *入聲 - ㄙ - S
+
+    本方案採用「無模式」設計，以數字鍵或上下方向鍵、回車鍵選字
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - fluency_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz '
+  finals: ' '
+  delimiter: "'"
+  use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xform/^·(.*)$/$1·/
+    - 'xlit|ㄅㄆㄇㄈㄪㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦ·ˉˊˇˋ˙|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR012345|'
+    - abbrev/^([A-Za-z]+)\d$/$1/
+    - abbrev/^([bfdgkq]).*$/$1/
+    - 'xlit|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR012345|bpmfydtnlvkrhgvicgycjqwsexuaorwiqzpmntlhd fjks|'
+
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/b/ㄅ/
+    - xform/p(?=[exuaorwiqzpmntlh])/ㄆ/
+    - xform/m(?=[exuaorwiqzpmntlh])/ㄇ/
+    - xform/(^|')f/$1ㄈ/
+    - xform/y(?=q)/ㄪ/
+    - xform/(^|')d/$1ㄉ/
+    - xform/t(?=[exuaorwiqzpmntlh])/ㄊ/
+    - xform/n(?=[exuaorwiqzpmntlh])/ㄋ/
+    - xform/l(?=[exuaorwiqzpmntlh])/ㄌ/
+    - xform/v(?=[xaorwiqzpmntlh])/ㄍ/
+    - xform/(^|')k/$1ㄎ/
+    - xform/r(?=[xaorwiqzpmntlh])/ㄫ/
+    - xform/h(?=[xaorwiqzpmntlh])/ㄏ/
+    - xform/g(?=[eu])/ㄐ/
+    - xform/v(?=[eu])/ㄑ/
+    - xform/i(?=[eu])/ㄬ/
+    - xform/c(?=[eu])/ㄒ/
+    - xform/(^|')g/$1ㄓ/
+    - xform/(^|')y/$1ㄔ/
+    - xform/(^|')c/$1ㄕ/
+    - xform/(^|')j/$1ㄖ/
+    - xform/(^|')q(?=[^d fjks'])/$1ㄗ/
+    - xform/(^|')w(?=[^d fjks'])/$1ㄘ/
+    - xform/(^|')s/$1ㄙ/
+    - xform/e/ㄧ/
+    - xform/u/ㄩ/
+    - xform/x/ㄨ/
+    - xform/a/ㄚ/
+    - xform/o/ㄛ/
+    - xform/r/ㄜ/
+    - xform/(?<!^)([^'])w/$1ㄝ/
+    - xform/i/ㄞ/
+    - xform/(?<!^)([^'])q/$1ㄟ/
+    - xform/z/ㄠ/
+    - xform/p/ㄡ/
+    - xform/m/ㄢ/
+    - xform/n/ㄣ/
+    - xform/t/ㄤ/
+    - xform/l/ㄥ/
+    - xform/h/ㄦ/
+    - xform/(?<!^)([^'])d/$1·/
+    - xform/(?<!^)([^']) /$1ˉ/
+    - xform/(?<!^)([^'])f/$1ˊ/
+    - xform/(?<!^)([^'])j/$1ˇ/
+    - xform/(?<!^)([^'])k/$1ˋ/
+    - xform/(?<!^)([^'])s/$1˙/
+    - xform/(?<!^)([^'])([^ ']+)·/$1·$2/
+    - xform/'/ /
+
+    - 'xform|v|ㄍ/ㄑ|' # ㄍ/ㄑ
+    - 'xform|q|ㄗ|' # ㄗ/ㄟ
+    - 'xform|w|ㄘ|' # ㄘ/ㄝ
+    
+  comment_format:
+    - "xform/([^ˊˇˋ˙])$/$1 /"
+    - xform/'/ /
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+editor:
+  bindings:
+    space: toggle_selection
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: comma, send: comma }      # ㄝ
+    - { when: has_menu, accept: period, send: period }    # ㄡ
+    - { when: has_menu, accept: minus, send: minus }      # ㄦ
+    - { when: paging, accept: minus, send: Page_Up }
+    - { when: has_menu, accept: equal, send: Page_Down }
+
+recognizer:
+  patterns:
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
