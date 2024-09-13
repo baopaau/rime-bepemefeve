@@ -11,10 +11,12 @@
 ### 目前支援的輸入方案
 - [注音 大千兼容式](#5jup)
   -  `./bepemefeve_5jup.schema.yaml`
-- [注音 類大千式](#5jup)
+- [注音 類大千式](#5jup_like)
   -  `./bepemefeve_5jup_like.schema.yaml`
 - [注音 倚天兼容式](#eten26ext)
   -  `./bepemefeve_eten26ext.schema.yaml`
+- [注音 許氏鍵盤改](#hsukeymod)
+  -  `./bepemefeve_hsukeymod.schema.yaml`
 - [國語羅馬字](#romatzyh)
   - `./bepemefeve_gr.schema.yaml`
   - `./bepemefeve_gr_atonal.schema.yaml`
@@ -31,6 +33,9 @@
 
 
 ## 基於注音字母的輸入方案
+
+「老國音」需要使用「ㄪ」「ㄫ」「ㄬ」這三個在1932年後被廢棄的聲母，而且多了一個入聲聲調，
+現有的注音鍵盤並不能滿足老國音的錄入需要，因此有了以下的替代排列：
 
 <a name="5jup"></a>
 ### 大千兼容式
@@ -90,6 +95,24 @@
 *「倚天兼容式」鍵盤排列（高亮的按鍵不同於標準「倚天26鍵」）*
 
 配方位置：`./bepemefeve_eten26ext.schema.yaml`\
+碼表位置：`./bepemefeve.dict.yaml`
+
+
+<a name="hsukeymod"></a>
+### 許氏鍵盤改
+基於[許氏鍵盤](https://web.archive.org/web/20070214130835/http://www.iis.sinica.edu.tw/IASL/products/going5/chap-ad.html)修改，在盡量不影響現有操作習慣的前提下支援老國音使用的舊式注音符號
+
+* `U` ㄪ ㄪ通常羅馬化V，而V與U之間關係接近
+* `Q` ㄫ Q的常見發音/k/的位置同ㄫ。在趙元任的羅馬字設計中，ㄫ亦常常轉寫成Q
+* `R` ㄬ ㄬ與ㄖ之間關係接近
+
+用原版許氏鍵盤輸入老國音，ㄓㄝ、ㄔㄝ、ㄕㄝ 會與 ㄐㄧ、ㄑㄧ、ㄒㄧ相混，
+因此**ㄧ和ㄝ不再共用E鍵。ㄝ會移到ㄫ的位置，共用Q鍵。**
+
+![](assets/keyboard-layout-bepemefeve-hsukeymod.png)\
+*「許氏鍵盤改」鍵盤排列（高亮的按鍵不同於標準「許氏鍵盤」）*
+
+配方位置：`./bepemefeve_hsukeymod.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 
