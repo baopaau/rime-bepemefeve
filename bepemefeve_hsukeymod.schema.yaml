@@ -1,0 +1,165 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_hsukeymod
+  name: ㄅㄆㄇㄈㄪ：許氏鍵盤改
+  version: '2024.09.13'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音注音輸入方案，碼表以注音字母記錄
+
+    基於許氏鍵盤修改，在盡量不影響現有操作習慣的前提下支援老國音使用的舊式注音符號
+
+    ㄪ、ㄫ、ㄬ、ㄝ
+    U ㄪ ㄪ通常羅馬化V，而V與U之間關係接近
+    Q ㄫ Q的常見發音/k/的位置同ㄫ。在趙元任的羅馬字設計中，ㄫ亦常常轉寫成Q
+    R ㄬ ㄬ與ㄖ之間關係接近
+
+    用原版許氏鍵盤輸入老國音，ㄓㄝ、ㄔㄝ、ㄕㄝ 會與 ㄐㄧ、ㄑㄧ、ㄒㄧ相混，
+    因此**ㄧ和ㄝ不再共用E鍵**。ㄝ會移到ㄫ的位置，共用Q鍵。
+
+    本方案採用「無模式」設計，以數字鍵或上下方向鍵、回車鍵選字
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - fluency_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz '
+  finals: ' dfjs'
+  delimiter: "'"
+  use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xform/^·(.+[ˉˊˇˋ˙])/$1/
+    - xform/^·(.+)$/$1·/
+    - 'xlit|ㄅㄆㄇㄈㄪㄉㄊㄋㄌㄍㄎㄫㄏㄐㄑㄬㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦ·ˉˊˇˋ˙|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR012345|'
+    - derive/0//
+    - abbrev/^([bpmfVdtnlgkQhjqJxZCSrzcsiuv]).+$/$1/
+    - derive/^([A-Za-z]+)\d$/$1/
+    - 'xlit|bpmfVdtnlgkQhjqJxZCSrzcsiuvaoeEAIOUMNKGR12345|bpmfudtnlgkqhjvrcjvcrzasexuyhgqiawomnkll dfjs|'
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/(^|'| )b/$1ㄅ/
+    - xform/(^|'| )p/$1ㄆ/
+    - xform/(^|'| )m(?=[exuyhgqiawomnkl'])/$1ㄇ/
+    - xform/(^|'| )f/$1ㄈ/
+    - xform/(^|'| )u(?=[exuyhgqiawomnkl'])/$1ㄪ/
+    - xform/(^|'| )d/$1ㄉ/
+    - xform/(^|'| )t/$1ㄊ/
+    - xform/(^|'| )n(?=[exuyhgqiawomnkl'])/$1ㄋ/
+    - xform/(^|'| )l(?=[exuyhgqiawomnkl'])/$1ㄌ/
+    - xform/(^|'| )g(?=[exuyhgqiawomnkl'])/$1ㄍ/
+    - xform/(^|'| )k(?=[exuyhgqiawomnkl'])/$1ㄎ/
+    - xform/(^|'| )q(?=[exuyhgqiawomnkl'])/$1ㄫ/
+    - xform/(^|'| )h(?=[exuyhgqiawomnkl'])/$1ㄏ/
+    - xform/(^|'| )j(?=[eu])/$1ㄐ/
+    - xform/(^|'| )v(?=[eu])/$1ㄑ/
+    - xform/(^|'| )r(?=[eu])/$1ㄬ/
+    - xform/(^|'| )c(?=[eu])/$1ㄒ/
+    - xform/(^|'| )j/$1ㄓ/
+    - xform/(^|'| )v/$1ㄔ/
+    - xform/(^|'| )c/$1ㄕ/
+    - xform/(^|'| )r/$1ㄖ/
+    - xform/(^|'| )z/$1ㄗ/
+    - xform/(^|'| )a/$1ㄘ/
+    - xform/(^|'| )s/$1ㄙ/
+    - xform/e/ㄧ/
+    - xform/x/ㄨ/
+    - xform/u/ㄩ/
+    - xform/y/ㄚ/
+    - xform/h/ㄛ/
+    - xform/g/ㄜ/
+    - xform/q/ㄝ/
+    - xform/i/ㄞ/
+    - xform/(?<!^)([^' ])a/$1ㄟ/
+    - xform/w/ㄠ/
+    - xform/o/ㄡ/
+    - xform/m/ㄢ/
+    - xform/n/ㄣ/
+    - xform/k/ㄤ/
+    - xform/(?<!^)([^' ])l/$1ㄥ/
+    - xform/l/ㄦ/
+    - xform/(?<!^)([^' ]) /$1ˉ/
+    - xform/(?<!^)([^' ])d/$1ˊ/
+    - xform/(?<!^)([^' ])f/$1ˇ/
+    - xform/(?<!^)([^' ])j/$1ˋ/
+    - xform/(?<!^)([^' ])s/$1˙/
+    # - xform/'/ /
+    
+  comment_format:
+    - "xform/([^ˊˇˋ˙])$/$1 /"
+    - xform/'/ /
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+editor:
+  bindings:
+    space: toggle_selection
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: comma, send: comma }      # ㄝ
+    - { when: has_menu, accept: period, send: period }    # ㄡ
+    - { when: has_menu, accept: minus, send: minus }      # ㄦ
+    - { when: paging, accept: minus, send: Page_Up }
+    - { when: has_menu, accept: equal, send: Page_Down }
+
+recognizer:
+  patterns:
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
