@@ -24,7 +24,7 @@
   - `./bepemefeve_tsinglou.schema.yaml`
 - [注音 大千兼容式](#stdext)
   -  `./bepemefeve_stdext.schema.yaml`
-- [注音 順位式](#shuenn wey)
+- [注音 順位式](#shuennwey)
   -  `./bepemefeve_shuennwey.schema.yaml`
 - [注音 倚天兼容式](#eten26ext)
   -  `./bepemefeve_eten26ext.schema.yaml`
