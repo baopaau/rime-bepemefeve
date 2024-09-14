@@ -24,8 +24,8 @@
   - `./bepemefeve_tsinglou.schema.yaml`
 - [注音 大千兼容式](#stdext)
   -  `./bepemefeve_stdext.schema.yaml`
-- [注音 類大千式](#5jup_like)
-  -  `./bepemefeve_5jup_like.schema.yaml`
+- [注音 順位式](#shuenn wey)
+  -  `./bepemefeve_shuennwey.schema.yaml`
 - [注音 倚天兼容式](#eten26ext)
   -  `./bepemefeve_eten26ext.schema.yaml`
 - [注音 許氏鍵盤改](#hsukeymod)
@@ -144,8 +144,8 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 
-<a name="5jup_like"></a>
-### 類大千式
+<a name="shuennwey"></a>
+### 順位式
 鍵盤根據1920年的舊注音字母表順序（ㄪ、ㄦ兩母除外）重新排列：
 
     1QAZ ㄅㄆㄇㄈ
@@ -163,8 +163,8 @@
     '[-=] 陰陽上去入 /* 按鍵位置如「四聲點法」*/
     /* 陰平聲與輕音共用按鍵`'`，標在字尾爲陰平聲，標在字頭爲輕音 */
 
-![](assets/keyboard-layout-bepemefeve-5jup-like.png)\
-*「類大千式」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
+![](assets/keyboard-layout-bepemefeve-shuennwey.png)\
+*「順位式」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
 
 不同於通常的注音輸入法，本輸入方案以【空格鍵】或 `QWERTYUIOP` 選詞，以`]`和`\`鍵換頁，
 而【回車鍵】用於直接輸入拉丁字母、數字等ASCII字符（毋須切換模式）
@@ -172,7 +172,7 @@
 
 
 
-配方位置：`./bepemefeve_5jup_like.schema.yaml`\
+配方位置：`./bepemefeve_shuennwey.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 

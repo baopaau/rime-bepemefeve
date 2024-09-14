@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: &schema_id bepemefeve_5jup_like
-  name: ㄅㄆㄇㄈㄪ：類大千式
+  schema_id: &schema_id bepemefeve_shuennwey
+  name: ㄅㄆㄇㄈㄪ：順位式
   version: '2024.09.12'
   author:
     - 抱豹 <baopaau@gmail.com>
