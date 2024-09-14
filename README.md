@@ -15,15 +15,15 @@
   - `./guoqlo.schema.yaml`
 - [威翟式拼音（Wade–Giles）](#wade)
   - `./bepemefeve_wg.schema.yaml`
-- [趙拼](#zhauping)
+- [勝爲士：趙音拼音](#zhauping)
   - `./bepemefeve_zhauping.schema.yaml`
-- [iac轉寫](#iac)
+- [iacobvs：iac轉寫](#iac)
   - `./bepemefeve_iac_im.schema.yaml`
   - `./bepemefeve_iac_lt.schema.yaml`
-- [國音用漢語拼音](#tsinglou)
+- [綺檐淸露：國音用漢語拼音](#tsinglou)
   - `./bepemefeve_huenhoshi.schema.yaml`
-- [注音 大千兼容式](#5jup)
-  -  `./bepemefeve_5jup.schema.yaml`
+- [注音 大千兼容式](#stdext)
+  -  `./bepemefeve_stdext.schema.yaml`
 - [注音 類大千式](#5jup_like)
   -  `./bepemefeve_5jup_like.schema.yaml`
 - [注音 倚天兼容式](#eten26ext)
@@ -131,16 +131,16 @@
 「老國音」需要使用「ㄪ」「ㄫ」「ㄬ」這三個在1932年後被廢棄的聲母，而且多了一個入聲聲調，
 現有的注音鍵盤並不能滿足老國音的錄入需要，因此有了以下的替代排列：
 
-<a name="5jup"></a>
+<a name="stdext"></a>
 ### 大千兼容式
 不增加按鍵，兼容現有大千式軟鍵盤：
 - 合併按鍵：ㄪ/ㄫ/ㄬ <-> ㄒ/ㄑ/ㄖ <-> `V`/`F`/`B`鍵
 - 輕聲鍵（數字鍵7）同時兼任入聲鍵：標在字頭爲輕音，標在字尾爲入聲
 
-![](assets/keyboard-layout-bepemefeve-5jup.png)\
+![](assets/keyboard-layout-bepemefeve-stdext.png)\
 *「大千兼容式」鍵盤排列（高亮的按鍵不同於標準「大千式」）*
 
-配方位置：`./bepemefeve_5jup.schema.yaml`\
+配方位置：`./bepemefeve_stdext.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 
