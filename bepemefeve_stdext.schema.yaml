@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: &schema_id bepemefeve_5jup
+  schema_id: &schema_id bepemefeve_stdext
   name: ㄅㄆㄇㄈㄪ：大千兼容式
   version: '2024.09.09'
   author:
