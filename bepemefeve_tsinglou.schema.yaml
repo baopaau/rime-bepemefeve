@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: &schema_id bepemefeve_huenhoshi
+  schema_id: &schema_id bepemefeve_tsinglou
   name: ㄅㄆㄇㄈㄪ：綺檐淸露式
   version: '2024.09.07'
   author:

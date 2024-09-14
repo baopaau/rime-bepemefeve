@@ -21,7 +21,7 @@
   - `./bepemefeve_iac_im.schema.yaml`
   - `./bepemefeve_iac_lt.schema.yaml`
 - [綺檐淸露：國音用漢語拼音](#tsinglou)
-  - `./bepemefeve_huenhoshi.schema.yaml`
+  - `./bepemefeve_tsinglou.schema.yaml`
 - [注音 大千兼容式](#stdext)
   -  `./bepemefeve_stdext.schema.yaml`
 - [注音 類大千式](#5jup_like)
@@ -122,7 +122,7 @@
 - 分別以數字鍵`6`、`7`、`8`、`9`、`0`輸入聲調：`1`(陰)、`2`(陽)、`3`(上)、`4`(去)、`5`(入)
 - 以 `+`鍵（⇧`=`）輸入 符號`+`（表示輕音）
 
-配方位置：`./bepemefeve_huenhoshi.schema.yaml`\
+配方位置：`./bepemefeve_tsinglou.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 
