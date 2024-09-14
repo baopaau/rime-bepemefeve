@@ -21,6 +21,8 @@
   - `./bepemefeve_gr.schema.yaml`
   - `./bepemefeve_gr_atonal.schema.yaml`
   - `./guoqlo.schema.yaml`
+- [威翟式拼音（Wade–Giles）](#wade)
+  - `./bepemefeve_wg.schema.yaml`
 - [趙拼](#zhauping)
   - `./bepemefeve_zhauping.schema.yaml`
 - [iac轉寫](#iac)
@@ -144,6 +146,21 @@
 **忽略聲調拼寫規則的簡易版本：**\
 *＊需要時可以在字尾以數字鍵`6`, `7`, `8`, `9`, `0`標示五聲*\
 配方位置：`./bepemefeve_gr_atonal.schema.yaml`\
+碼表位置：`./bepemefeve.dict.yaml`
+
+
+<a name="wade"></a>
+### 威翟式拼音（Wade–Giles）
+*別名：威妥瑪拼音、韋翟式拼音、韋傑士羅馬拼音、韋氏拼音*
+
+輸入法說明：
+- `ㄬ`母以 `ʻn` 表示
+- 字母 `ü` 需要以 ⇧`U` 鍵入；其餘的 `ê`、`ŭ` 用基本字母代替，不會混淆
+- 符號 `ʻ` 以 `'` (或 `q` 或 `x`) 鍵入，不可省略
+- 隔音符用 `-`
+- 以數字鍵`6`、`7`、`8`、`9`、`0`輸入聲調：`1`(陰)、`2`(陽)、`3`(上)、`4`(去)、`5`(入)
+
+配方位置：`./bepemefeve_wg.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 

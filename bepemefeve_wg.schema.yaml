@@ -1,0 +1,197 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_wg
+  name: ㄅㄆㄇㄈㄪ：威翟式
+  version: '2024.09.13'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    威翟式拼音（威妥瑪拼音）Wade–Giles 輸入方案，使用注音碼表
+
+    * ㄬ母以 ʻn 表示
+    * 字母 ü 需要以 Shift+U 鍵入；其餘的 ê、ŭ 用基本字母代替，不會混淆
+    * 符號 ʻ 以 ' (或 q 或 x) 鍵入，不可省略
+    * 隔音符用 -
+
+    以數字鍵67890標示五聲（按陰、陽、上、去、入順序）。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaU'67890"
+  initials: "zyxwvutsrqponmlkjihgfedcbaU'"
+  finals: "67890"
+  delimiter: "-"
+  # use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+
+    - xform/ㄧㄡ/iu/
+    - xform/ㄨㄟ/ui/
+    - xform/ㄧㄢ/ien/
+    - xform/ㄧㄣ/in/
+    - xform/ㄩㄣ/ün/
+    - xform/ㄨㄣ/un/
+    - xform/ㄧㄥ/ing/
+    - xform/ㄨㄥ/ung/
+    - xform/ㄩㄥ/iung/
+
+    - xform/ㄅ/p/
+    - xform/ㄆ/p'/
+    - xform/ㄇ/m/
+    - xform/ㄈ/f/
+    - xform/ㄪ/v/
+    - xform/ㄉ/t/
+    - xform/ㄊ/t'/
+    - xform/ㄋ/n/
+    - xform/ㄌ/l/
+    - xform/ㄍ/k/
+    - xform/ㄎ/k'/
+    - xform/ㄫ/ng/
+    - xform/ㄏ/h/
+    - xform/ㄐ/ch/
+    - xform/ㄑ/ch'/
+    - xform/ㄬ/'n/
+    - xform/ㄒ/hs/
+    - xform/ㄓ/ch/
+    - xform/ㄔ/ch'/
+    - xform/ㄕ/sh/
+    - xform/ㄖ/j/
+    - xform/ㄗ/ts/
+    - xform/ㄘ/ts'/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/ü/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/ê/
+    - xform/ㄝ/eh/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/ao/
+    - xform/ㄡ/ou/
+    - xform/ㄢ/an/
+    - xform/ㄣ/ên/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/êng/
+    - xform/ㄦ/êrh/
+    
+    - xform/^·(.*)$/$1·/
+    - xlit/·ˉˊˇˋ˙/012345/
+
+    - xform/^un(?=[012345]|$)/wen/
+    - xform/^ui(?=[012345]|$)/wei/
+    - xform/^i([aeou])/y$1/
+    - xform/^i/yi/
+    - xform/^u([aeo])/w$1/
+    - xform/^u/wu/
+    - xform/^ü/yü/
+    - xform/^(ch'?|sh|j)(?=[012345]|$)/$1ih/
+    - xform/^ts('?)(?=[012345]|$)/tz$1ŭ/
+    - xform/^s(?=[012345]|$)/ssŭ/
+
+    - derive/üeh/ueh/
+    - derive/^yüo/yuo/
+    - derive/^yün/yun/
+    - derive/^yüan/yuan/
+
+    # - derive/p/b/
+    # - derive/t/d/
+    # - derive/k/g/
+    # - derive/^shih/shi/
+    # - derive/^(i|y)eh/$1e/
+
+    - xform/ê/e/
+    - xform/ŭ/u/
+    - xform/ü/U/ # ü 需要以 Shift+U 鍵入
+    - abbrev/^(.).+$/$1/
+    - abbrev/^(ng|'n|ch'?|sh|hs|ts'?|tz'?|er).+$/$1/
+    - xlit/12345/67890/
+    - derive/^([^67890]+)[67890]$/$1/
+    - derive/'/q/
+    - derive/'/x/
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/ueh/üeh/
+    - xform/yuo/yüo/
+    - xform/yun/yün/
+    - xform/yuan/yüan/
+
+    - xform/(^|-)b/$1p/
+    - xform/(^|-)d/$1t/
+    - xform/(^|-)g/$1k/
+
+    - xform/U/ü/
+    - xform/(?<!i)e(?![hi])/ê/
+    - xform/(tz'?|ss)u/$1ŭ/
+    - xlit/67890/¹²³⁴⁵/ # ⁰¹²³⁴⁵
+    - xform/['qx]/ʻ/
+
+  comment_format:
+    - xform/-/ /
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: has_menu, accept: minus, send: minus }  # tone 1
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
