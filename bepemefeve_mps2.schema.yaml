@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_mps2
   name: ㄅㄆㄇㄈㄪ：注音二式
-  version: '2024.09.14'
+  version: '2024.09.15'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -127,6 +127,7 @@ translator:
   spelling_hints: 5  # ～字以內候選標註完整帶調拼音
   preedit_format:
     - xform/\<q/·/
+    - xform/'/-/
     - xform/[xE]/ê/
     - xform/(?<![ts])z/ᵗz/
     - xform/c(?!h)/cʰ/
