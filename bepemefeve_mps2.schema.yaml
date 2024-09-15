@@ -1,0 +1,200 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_mps2
+  name: ㄅㄆㄇㄈㄪ：注音二式
+  version: '2024.09.14'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    老國音輸入方案（注音符號第二式／Mandarin Phonetic Symbols II，使用注音一式碼表）
+
+    x鍵 或 E鍵(大寫) 可輸入 ê
+    c鍵 可輸入 ch
+
+    以數字鍵67890標示五聲（按陰、陽、上、去、入順序）
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcbaE67890'
+  initials: 'zyxwvutsrqponmlkjihgfedcbaE'
+  finals: "67890"
+  delimiter: " '"
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
+    - xlit/ㄍㄎㄏ/gkh/
+    - xform/ㄫ/ng/
+    - xform/ㄐ/j/
+    - xform/ㄑ/ch/
+    - xform/ㄬ/gn/
+    - xform/ㄒ/sh/
+    - xform/ㄓ/j/
+    - xform/ㄔ/ch/
+    - xform/ㄕ/sh/
+    - xform/ㄖ/r/
+    - xform/ㄗ/tz/
+    - xform/ㄘ/ts/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/iu/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/e/
+    - xform/ㄝ/ê/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/au/
+    - xform/ㄡ/ou/
+    - xform/ㄢ/an/
+    - xform/ㄣ/en/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/eng/
+    - xform/ㄦ/er/
+    - xform/(?<=i|u)ê/e/
+    - xform/(?!^)ueng/ung/
+    - xform/^ueng/weng/
+    - xform/(iu?)e(ng?)/$1$2/
+    - xform/(j|ch|sh)([ˉˊˇˋ˙]|$)/$1r$2/
+    - xform/(ts|s)([ˉˊˇˋ˙]|$)/$1z$2/
+
+    - xform/(^|\+)y/$1yu/
+    - xform/(^|\+)i([aeou])/$1y$2/
+    - xform/(^|\+)i/$1yi/
+    - xform/(^|\+)u([aeo])/$1w$2/
+    - xform/(^|\+)u/$1wu/
+
+    - xlit/ˉˊˇˋ˙/12345/
+    - derive/·//
+
+    - xform/ê/x/
+
+    - derive/tz/z/
+    - derive/ch/c/
+    
+    - abbrev/(^|·)(ng|gn|ch?|sh|t?z|ts).+$/$1$2/
+    - abbrev/(^|·)([iuaoex]).+$/$1$2/
+    - abbrev/(^|·)([bpmfvdtnlgkhjrsyw])[iuaoexy].*$/$1$2/
+
+    - xlit/12345/67890/
+    - derive/^([a-z]+)[67890]$/$1/
+
+    - xform/^·/q/
+
+    - derive/x/E/
+
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xform/\<q/·/
+    - xform/[xE]/ê/
+    - xform/(?<![ts])z/ᵗz/
+    - xform/c(?!h)/cʰ/
+    - xlit/67890/12345/
+    - xform ([aeiou])(ng?|r)([12345]) $1$3$2
+    - xform ([aeo])([iuo])([12345]) $1$3$2
+    - xform a1 ā
+    - xform a2 á
+    - xform a3 ǎ
+    - xform a4 à
+    - xform a5 ȧ
+    - xform e1 ē
+    - xform e2 é
+    - xform e3 ě
+    - xform e4 è
+    - xform e5 ė
+    - xform o1 ō
+    - xform o2 ó
+    - xform o3 ǒ
+    - xform o4 ò
+    - xform o5 ȯ
+    - xform i1 ī
+    - xform i2 í
+    - xform i3 ǐ
+    - xform i4 ì
+    - xform i5 ï
+    - xform u1 ū
+    - xform u2 ú
+    - xform u3 ǔ
+    - xform u4 ù
+    - xform u5 u̇
+    - xform ê1 ê̄
+    - xform ê2 ế
+    - xform ê3 ê̌
+    - xform ê4 ề
+    - xform ê5 ê̇
+    - xform r1 r̄
+    - xform r2 ŕ
+    - xform r3 ř
+    - xform r4 r̀
+    - xform r5 ṙ
+    - xform z1 z̄
+    - xform z2 ź
+    - xform z3 ž
+    - xform z4 z̀
+    - xform z5 ż
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
