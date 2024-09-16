@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_wg
   name: ㄅㄆㄇㄈㄪ：威翟式
-  version: '2024.09.13'
+  version: '2024.09.16'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -131,6 +131,7 @@ speller:
     - derive/^yün/yun/
     - derive/^yüan/yuan/
 
+    - derive/'(ni..+)/$1/
     # - derive/p/b/
     # - derive/t/d/
     # - derive/k/g/
