@@ -175,6 +175,8 @@ translator:
     - xform z4 z̀
     - xform z5 ż
 
+    - xlit/12345/ˉˊˇˋ˙/
+
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
