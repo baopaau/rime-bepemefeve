@@ -1,0 +1,195 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: &schema_id bepemefeve_ruenn
+  name: ㄅㄆㄇㄈㄪ：Ruenn式
+  version: '2024.09.17'
+  author:
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    Ruenn式國音拼音方案，使用注音碼表
+
+    Ruenn_L 設計的老國音拼音方案
+
+    以易懂爲原則、根據漢語拼音方案修改定制的拼音方案。
+    - 入聲以 ^ 表示
+    - ㄗㄧ ㄘㄧ ㄙㄧ 定爲 zii cii sii
+    - ㄝ 定爲 ee
+
+    以 Shift+U 輸入 ü
+    
+    以數字鍵67890標示五聲（按陰、陽、上、去、入順序）。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba67890'
+  initials: 'zyxwvutsrqponmlkjihgfedcba'
+  finals: "67890"
+  delimiter: " '"
+  # use_space: true
+  algebra:
+    - xform/^([^·]*[^ˊˇˋ˙])$/$1ˉ/
+
+    - xform/ㄧㄝ/ie/
+    - xform/ㄩㄝ/üe/
+    - xform/ㄧㄡ/iu/
+    - xform/ㄨㄟ/ui/
+    - xform/ㄧㄣ/in/
+    - xform/ㄩㄣ/ün/
+    - xform/ㄨㄣ/un/
+    - xform/ㄧㄥ/ing/
+    - xform/ㄨㄥ/ong/
+    - xform/ㄩㄥ/iong/
+
+    - xlit/ㄅㄆㄇㄈㄪ/bpmfv/
+    - xlit/ㄉㄊㄋㄌ/dtnl/
+    - xform/ㄍ/g/
+    - xform/ㄎ/k/
+    - xform/ㄫ/ng/
+    - xform/ㄏ/h/
+    - xform/ㄐ/j/
+    - xform/ㄑ/q/
+    - xform/ㄬ/nj/
+    - xform/ㄒ/x/
+    - xform/ㄓ/zh/
+    - xform/ㄔ/ch/
+    - xform/ㄕ/sh/
+    - xform/ㄖ/r/
+    - xform/ㄗ/z/
+    - xform/ㄘ/c/
+    - xform/ㄙ/s/
+    - xform/ㄧ/i/
+    - xform/ㄨ/u/
+    - xform/ㄩ/ü/
+    - xform/ㄚ/a/
+    - xform/ㄛ/o/
+    - xform/ㄜ/e/
+    - xform/ㄝ/ee/
+    - xform/ㄞ/ai/
+    - xform/ㄟ/ei/
+    - xform/ㄠ/ao/
+    - xform/ㄡ/ou/
+    - xform/ㄢ/an/
+    - xform/ㄣ/en/
+    - xform/ㄤ/ang/
+    - xform/ㄥ/eng/
+    - xform/ㄦ/er/
+    
+    - xlit/ˉˊˇˋ˙/12345/
+    - xform/·//
+
+    - xform/^un(?=[012345]|$)/wen/
+    - xform/^ui(?=[012345]|$)/wei/
+    - xform/^i([aeou])/y$1/
+    - xform/^i/yi/
+    - xform/^u([aeo])/w$1/
+    - xform/^u/wu/
+    - xform/^ü/yü/
+
+    - xform/^(z|c|s)i([12345]|$)/$1ii$2/
+    - xform/^(zh|ch|sh|r|z|c|s)([12345]|$)/$1i$2/
+    
+    - abbrev/^([a-z]).+$/$1/
+    - xlit/12345/67890/
+    - derive/^([a-z]+)[67890]$/$1/
+
+translator:
+  dictionary: bepemefeve
+  prism: *schema_id
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  preedit_format:
+    - xlit/67890/12345/
+    - xform U ü
+    - xform ([aeiou])(ng?|r)([12345]) $1$3$2
+    - xform ([aeo])([iuo])([12345]) $1$3$2
+    - xform a1 ā
+    - xform a2 á
+    - xform a3 ǎ
+    - xform a4 à
+    - xform a5 â
+    - xform e1 ē
+    - xform e2 é
+    - xform e3 ě
+    - xform e4 è
+    - xform e5 ê
+    - xform o1 ō
+    - xform o2 ó
+    - xform o3 ǒ
+    - xform o4 ò
+    - xform o5 ô
+    - xform i1 ī
+    - xform i2 í
+    - xform i3 ǐ
+    - xform i4 ì
+    - xform i5 î
+    - xform u1 ū
+    - xform u2 ú
+    - xform u3 ǔ
+    - xform u4 ù
+    - xform u5 û
+    - xform ü1 ǖ
+    - xform ü2 ǘ
+    - xform ü3 ǚ
+    - xform ü4 ǜ
+    - xform ü5 ü̂
+
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
+__patch:
+  # 使用八股文語言模型
+  - grammar:/hant?
