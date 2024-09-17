@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_mps2
   name: ㄅㄆㄇㄈㄪ：注音二式
-  version: '2024.09.15'
+  version: '2024.09.17'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -95,11 +95,11 @@ speller:
     - xform/(j|ch|sh)([ˉˊˇˋ˙]|$)/$1r$2/
     - xform/(ts|s)([ˉˊˇˋ˙]|$)/$1z$2/
 
-    - xform/(^|\+)y/$1yu/
-    - xform/(^|\+)i([aeou])/$1y$2/
-    - xform/(^|\+)i/$1yi/
-    - xform/(^|\+)u([aeo])/$1w$2/
-    - xform/(^|\+)u/$1wu/
+    - xform/(^|·)y/$1yu/
+    - xform/(^|·)i([aeou])/$1y$2/
+    - xform/(^|·)i/$1yi/
+    - xform/(^|·)u([aeo])/$1w$2/
+    - xform/(^|·)u/$1wu/
 
     - xlit/ˉˊˇˋ˙/12345/
     - derive/·//
@@ -153,17 +153,17 @@ translator:
     - xform i2 í
     - xform i3 ǐ
     - xform i4 ì
-    - xform i5 ï
+    # - xform i5 i
     - xform u1 ū
     - xform u2 ú
     - xform u3 ǔ
     - xform u4 ù
     - xform u5 u̇
-    - xform ê1 ê̄
-    - xform ê2 ế
-    - xform ê3 ê̌
-    - xform ê4 ề
-    - xform ê5 ê̇
+    # - xform ê1 ê̄
+    # - xform ê2 ế
+    # - xform ê3 ê̌
+    # - xform ê4 ề
+    # - xform ê5 ê̇
     - xform r1 r̄
     - xform r2 ŕ
     - xform r3 ř
