@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_ruenn
   name: ㄅㄆㄇㄈㄪ：Ruenn式
-  version: '2024.09.17'
+  version: '2024.09.19'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -13,9 +13,10 @@ schema:
     Ruenn_L 設計的老國音拼音方案
 
     以易懂爲原則、根據漢語拼音方案修改定制的拼音方案。
-    - 入聲以 ^ 表示
-    - ㄗㄧ ㄘㄧ ㄙㄧ 定爲 zii cii sii
-    - ㄝ 定爲 ee
+    - ㄫ、ㄬ 定爲 ng、nj
+    - 入聲以 ˆ 表示
+    - ㄗㄧ、ㄘㄧ、ㄙㄧ 定爲 zii cii sii
+    - ㄝ 定爲 ee，不用漢語拼音的 ê
 
     以 Shift+U 輸入 ü
     
