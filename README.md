@@ -9,7 +9,7 @@
 
 [「老國音」字音表（bepemefeve.dict.yaml）](bepemefeve.dict.yaml)
 
-[「老國音」注音／各式羅馬拼音對照](all_syllables.md)
+[「老國音」注音／各式羅馬拼音對照](bepemefeve_syllables.md)
 
 
 ### 目前支援的輸入方案
