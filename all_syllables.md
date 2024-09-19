@@ -21,7 +21,7 @@
  | ㄗˇ | tzyy | tzŭ³ | zi3 | z3 | zw上 | zǐ | zǐ | tž | 子仔好姉姊杍胏呰秭籽耔茈虸笫梓啙紫滓訾訿緇鋅飺𠂔𩨱𩶆㧗 |
  | ㄗˋ | tzyh | tzŭ⁴ | zi4 | z4 | zw去 | zì | zì | tz̀ | 字自扻事倳剚恣牸笫眥菑孳椔胔胾孶訿漬骴積𤿙𦎸𧙁𧧕㧗㧘㰣 |
  | ㄗ˙ | tzyq | tzŭ⁵ | zi5 | zq | zwq入 | zi | zî | tż | 唧塉𡅺堲㗱㘉 |
- | ·ㄗˇ | .tzyy | tzŭ³⁰ | zi3 | z3 | zw上 | +zǐ | zǐ | tž | 子 |
+ | ·ㄗˇ | .tzyy | tzŭ⁰ | zi3 | z3 | zw上 | +zǐ | zǐ | tz | 子 |
  | ㄘ | tsy | tzʻŭ¹ | ci1 | c1 | cw陰 | cī | cī | tsz̄ | 伺差茈玼疵嵯胔趑雌縒薋趦𪙉䛋 |
  | ㄘˊ | tsyr | tzʻŭ² | ci2 | c2 | cw陽 | cí | cí | tsź | 祠茨茲瓷祟疵詞慈甆訾辞磁辤餈濨薺辭鶿𧓉𩆂㘂 |
  | ㄘˇ | tsyy | tzʻŭ³ | ci3 | c3 | cw上 | cǐ | cǐ | tsž | 子此佌泚玼疵跐鴜㠿 |
@@ -59,8 +59,8 @@
  | ㄊㄧˇ | tii | tʻi³ | ti3 | ti3 | ti上 | tǐ | tǐ | tǐ | 体洟涕躰醍體 |
  | ㄊㄧˋ | tih | tʻi⁴ | ti4 | ti4 | ti去 | tì | tì | tì | 达弟迨隶剃洟悌涕屜焍珶逮媞揥替睇嵽睼遰慸締緹薙踶醍嚏鬀題鯷𡲕𤴡𧝐𧫚䶑 |
  | ㄊㄧ˙ | tiq | tʻi⁵ | ti5 | tiq | tiq入 | ti | tî | ti˙ | 俶倜剔逖惕逷踢擿鬄籊趯𥉈𩮜 |
- | ㄋㄧˊ | ni | ni² | ni2 | ni2 | ni陽 | ní | ní | ní | 尼泥迡臡 |
- | ㄋㄧˇ | nii | ni³ | ni3 | ni3 | ni上 | nǐ | nǐ | nǐ | 伱你旎嬭薾禰 |
+ | ㄋㄧˊ | ni | ni² | ni2 | ni2 | ni陽 | ní | ní | ní | 泥迡臡 |
+ | ㄋㄧˇ | nii | ni³ | ni3 | ni3 | ni上 | nǐ | nǐ | nǐ | 伱你嬭薾禰 |
  | ㄋㄧˋ | nih | ni⁴ | ni4 | ni4 | ni去 | nì | nì | nì | 泥 |
  | ㄋㄧ˙ | niq | ni⁵ | ni5 | niq | niq入 | ni | nî | ni˙ | 惄愵溺𨽦 |
  | ㄌㄧˊ | li | li² | li2 | li2 | li陽 | lí | lí | lí | 厘哩狸离秜莉梨梩棃犂剺漓甅蜊嫠樆璃竰貍氂漦犛糎蔾褵黎兣縭罹醨藜邌釐離斄瓈麗黧儷攡蘺蠡酈孋黐劙穲籬靂纚驪鱺鸝𠠍𨛫𩧋𩭇㒿㗣䅻䕻 |
@@ -78,11 +78,11 @@
  | ㄑㄧˇ | chii | chʻi³ | qi3 | qi3 | qi上 | qǐ | qǐ | chǐ | 乞己企芑启杞唘豈起啓啔啟跂敧晵棨裿綮𡵆𣏌𥠻𦬊㥓䄫䅲䏿䒻䔇 |
  | ㄑㄧˋ | chih | chʻi⁴ | qi4 | qi4 | qi去 | qì | qì | chì | 乞气企弃汽亟炁契倛栔欬氣蚑唭徛掎跂揭棄碕瘈綦噐憇觭器憩錡騎罊㱦䏿䞚 |
  | ㄑㄧ˙ | chiq | chʻi⁵ | qi5 | qiq | qiq入 | qi | qî | chi˙ | 乞仡吃圪屹忔汔犵迄芞泣疙契郤栔訖釳喫湆蛣詰嘁毄稧𤴸 |
- | ㄬㄧ | gnhi | ʻni¹ | nji1 | nji1 | ni陰 | gnī | njī | gnī | 宜 |
+ | ㄬㄧ | gnhi | ʻni¹ | nji1 | nji1 | ni陰 | gnī | njī | gnī | 呢宜 |
  | ㄬㄧˊ | gni | ʻni² | nji2 | nji2 | ni陽 | gní | njí | gní | 尼伲沂兒呢妮怩柅倪郳埿旎涴猊跜觬輗霓嶷鯢麑轙觺齯𡰱㞾䍲䘽䮘 |
  | ㄬㄧˇ | gnii | ʻni³ | nji3 | nji3 | ni上 | gnǐ | njǐ | gnǐ | 伲抳狔苨昵堄婗旎晲孴鈮暱儗嬟擬薿檷礒𢾿㪒䘦 |
  | ㄬㄧˋ | gnih | ʻni⁴ | nji4 | nji4 | ni去 | gnì | njì | gnì | 帠柅羿倪堄掜孴睨甈觬儗膩薿檷轙 |
- | ㄬㄧ˙ | gniq | ʻni⁵ | nji5 | njiq | niq入 | gni | njî | gni˙ | 尼耴孨衵逆匿嫋孴溺暱縌霓嶷薿觺鷊鑈顳𣘗㥾㵫䘌䵒 |
+ | ㄬㄧ˙ | gniq | ʻni⁵ | nji5 | njiq | niq入 | gni | njî | gni˙ | 尼岌耴孨衵逆匿惄嫋孴溺暱縌霓嶷薿鶃觺鷁鷊鑈顳𣘗㥾㵫䘌䵒 |
  | ·ㄬㄧ | .gni | ʻni⁰ | nji | nji | ni | +gni | nji | gni | 呢ㄬ |
  | ㄒㄧ | shi | hsi¹ | xi1 | xi1 | xi陰 | xī | xī | shī | 矢希俙咦屎唏娭悕莃晞桸欷眭傒睎稀蒵僖榽熙蓰誒豨嘻嬉橀熹禧羲戲謑貕黊餼鵗譆醯嚱巇犧酅騱纗蠵觿鑴𣟵𦋅𨏳𪓷㕧㬢 |
  | ㄒㄧˊ | shyi | hsi² | xi2 | xi2 | xi陽 | xí | xí | shí | 兮奚畦傒徯携擕豀蹊巂雟攜鼷蠵觿鑴驨㕧㜎㩦 |
@@ -373,9 +373,9 @@
  | ㄇㄛˇ | moo | mo³ | mo3 | mo3 | mo上 | mǒ | mǒ | mǒ | 麼嬤懡 |
  | ㄇㄛˋ | moh | mo⁴ | mo4 | mo4 | mo去 | mò | mò | mò | 塺麼摩磨䃺 |
  | ㄇㄛ˙ | moq | mo⁵ | mo5 | moq | moq入 | mȯ | mô | mȯ | 末佅圽沒皃妺帓抹歾歿沫茉昧眜秣莫袜眽鄚嗼寞幕摸漠瑁膜貌靺瘼瞙縸瀎藐邈蟔鏌饃𠇱𤣻𤲰𥬎𧂀𨘷𩎟𩢷㦝䀛䳮 |
+ | ·ㄇㄛ˙ | .moq | mo⁰ | mo5 | moq | moq入 | +mȯ | mô | mo | 末 |
  | ㄈㄛˋ | foh | fo⁴ | fo4 | fo4 | fo去 | fò | fò | fò | 縛 |
  | ㄈㄛ˙ | foq | fo⁵ | fo5 | foq | foq入 | fȯ | fô | fȯ | 茷縛𩅿𩌏 |
- | ·ㄈㄛ˙ | .foq | fo⁵⁰ | fo5 | foq | foq入 | +fȯ | fô | fȯ | 末 |
  | ㄉㄛ | do | to¹ | do1 | do1 | do陰 | dō | dō | dō | 多哆 |
  | ㄉㄛˇ | doo | to³ | do3 | do3 | do上 | dǒ | dǒ | dǒ | 哆柁癉嚲 |
  | ㄉㄛˋ | doh | to⁴ | do4 | do4 | do去 | dò | dò | dò | 柁舵癉 |
@@ -436,7 +436,7 @@
  | ㄐㄧㄛ˙ | jioq | chio⁵ | jio5 | jioq | jioq入 | jiȯ | jiô | jiȯ | 角珏桷梏脚傕搉腳較榷瑴觳覺㕁 |
  | ㄑㄧㄛ˙ | chioq | chʻio⁵ | qio5 | qioq | qioq入 | qiȯ | qiô | chiȯ | 却卻埆愨榷毃確碻㕁 |
  | ㄬㄧㄛˋ | gnioh | ʻnio⁴ | njio4 | njio4 | nio去 | gniò | njiò | gniò | 眲 |
- | ㄬㄧㄛ˙ | gnioq | ʻnio⁵ | njio5 | njioq | nioq入 | gniȯ | njiô | gniȯ | 沑虐眲搦瘧謔 |
+ | ㄬㄧㄛ˙ | gnioq | ʻnio⁵ | njio5 | njioq | nioq入 | gniȯ | njiô | gniȯ | 沑虐衄眲搦瘧謔 |
  | ㄒㄧㄛ˙ | shioq | hsio⁵ | xio5 | xioq | xioq入 | xiȯ | xiô | shiȯ | 确學觳鷽 |
  | ㄗㄧㄛˋ | tzioh | tsio⁴ | zio4 | zio4 | zio去 | ziò | ziò | tziò | 爝 |
  | ㄗㄧㄛ˙ | tzioq | tsio⁵ | zio5 | zioq | zioq入 | ziȯ | ziô | tziȯ | 借爵嚼爝穱㬭 |
@@ -563,7 +563,6 @@
  | ㄉㄧㄝ˙ | dieq | tieh⁵ | die5 | dieq | dieq入 | dieh5 | diê | diė | 凸泆泜苵迭咥垤昳柣胅荎瓞耊窒喋堞惵揲渫絰耋聑蛭詄跌跕軼镻叠牃牒墆嵽慴碟蜨褋艓蝶褶諜蹀螲曡鰈疊㩹㲲䳀䴑 |
  | ㄊㄧㄝˇ | tiee | tʻieh³ | tie3 | tie3 | tie上 | tieh3 | tiě | tiě | 餮 |
  | ㄊㄧㄝ˙ | tieq | tʻieh⁵ | tie5 | tieq | tieq入 | tieh5 | tiê | tiė | 帖怗沾蛈屟臷貼跕鉄僣銕緳餮鐵驖䴴 |
- | ㄋㄧㄝ˙ | nieq | nieh⁵ | nie5 | nieq | nieq入 | nieh5 | niê | niė | 涅 |
  | ㄌㄧㄝ˙ | lieq | lieh⁵ | lie5 | lieq | lieq入 | lieh5 | liê | liė | 列例冽洌茢烈唳捩蛚裂蜐獦颲儠鮤鴷擸獵犣躐鬣𠜺𡂏𤁯㼲䜲 |
  | ·ㄌㄧㄝ | .lie | lieh⁰ | lie | lie | lie | +lieh | lie | lie | 咧 |
  | ㄐㄧㄝ | jie | chieh¹ | jie1 | jie1 | jie陰 | jieh1 | jiē | jiē | 蝔鶛𩘅 |
@@ -577,7 +576,7 @@
  | ㄑㄧㄝ˙ | chieq | chʻieh⁵ | qie5 | qieq | qieq入 | qieh5 | qiê | chiė | 呿怯抾契挈脥愒愜猰蛪慊朅篋藒鍥𧎩㓶㥷 |
  | ㄬㄧㄝˊ | gnie | ʻnieh² | njie2 | njie2 | nie陽 | gnieh2 | njié | gnié | 蜺 |
  | ㄬㄧㄝˋ | gnieh | ʻnieh⁴ | njie4 | njie4 | nie去 | gnieh4 | njiè | gniè | 𪌊 |
- | ㄬㄧㄝ˙ | gnieq | ʻnieh⁵ | njie5 | njieq | nieq入 | gnieh5 | njiê | gniė | 苶捏涅臬埝捻隉喦揑敜湼葉嵲業蜺踂槷篞臲錜癌聶鎳闑孼孽櫱籋蘖囁攝齧糱蠥囓躡鑷钀𡿖𢬴𣀳𪌊󲚢㖏㘝䡾䭃䯀 |
+ | ㄬㄧㄝ˙ | gnieq | ʻnieh⁵ | njie5 | njieq | nieq入 | gnieh5 | njiê | gniė | 囡苶捏涅臬埝捻隉喦揑敜湼葉嵲業蜺踂槷篞臲錜癌聶鎳闑孼孽櫱籋蘖囁攝齧糱糵蠥囓躡鑷讞钀𡿖𢬴𣀳𪌊󲚢㖏㘝䡾䭃䯀 |
  | ㄒㄧㄝ | shie | hsieh¹ | xie1 | xie1 | xie陰 | xieh1 | xiē | shiē | 蝎 |
  | ㄒㄧㄝˊ | shye | hsieh² | xie2 | xie2 | xie陽 | xieh2 | xié | shié | 膎 |
  | ㄒㄧㄝˋ | shieh | hsieh⁴ | xie4 | xie4 | xie去 | xieh4 | xiè | shiè | 絯骱䚸 |
@@ -863,7 +862,6 @@
  | ㄊㄧㄠˊ | tyau | tʻiao² | tiau2 | tiau2 | tiau陽 | tiáo | tiáo | tiáu | 芀条佻岧苕迢朓條桯笤覜蜩銚調鞗髫嬥齠鰷䖺 |
  | ㄊㄧㄠˇ | teau | tʻiao³ | tiau3 | tiau3 | tiau上 | tiǎo | tiǎo | tiǎu | 佻挑朓眺覜誂趒䠷 |
  | ㄊㄧㄠˋ | tiaw | tʻiao⁴ | tiau4 | tiau4 | tiau去 | tiào | tiào | tiàu | 朓眺窕絩覜趒跳頫嬥糶𥽀 |
- | ㄋㄧㄠˇ | neau | niao³ | niau3 | niau3 | niau上 | niǎo | niǎo | niǎu | 嬲 |
  | ㄌㄧㄠˊ | liau | liao² | liau2 | liau2 | liau陽 | liáo | liáo | liáu | 尥佬料窌翏聊僚寥廖憀漻膋嘹嫽寮嶚撩敹潦熮獠遼橑燎璙瞭簝蟟豂轑鐐顟飂鷯𠐋㙩㟹䑠 |
  | ㄌㄧㄠˇ | leau | liao³ | liau3 | liau3 | liau上 | liǎo | liǎo | liǎu | 了釕鄝僚蓼嫽憭燎瞭繚镽𧘈 |
  | ㄌㄧㄠˋ | liaw | liao⁴ | liau4 | liau4 | liau去 | liào | liào | liàu | 尥料翏僚廖嘹嫽撈撩熮獠遼燎璙膫療瞭蟉簝繚鐐飂鷯𦌒𪖷㙩 |
@@ -966,7 +964,6 @@
  | ㄇㄧㄡˊ | miou | miu² | mieu2 | miou2 | miu陽 | mióu | miú | mióu | 繆 |
  | ㄇㄧㄡˋ | miow | miu⁴ | mieu4 | miou4 | miu去 | miòu | miù | miòu | 繆謬 |
  | ㄉㄧㄡ | diou | tiu¹ | dieu1 | diou1 | diu陰 | diōu | diū | diōu | 丟 |
- | ㄋㄧㄡˇ | neou | niu³ | nieu3 | niou3 | niu上 | niǒu | niǔ | niǒu | 扭 |
  | ㄌㄧㄡ | lhiou | liu¹ | lieu1 | liou1 | liu陰 | liōu | liū | liōu | 溜遛 |
  | ㄌㄧㄡˊ | liou | liu² | lieu2 | liou2 | liu陽 | lióu | liú | lióu | 流留琉犂畱硫裗旒遛榴瑠劉瘤橊疁嬼懰瀏鎏鎦餾鏐飀鐂飂騮飅鶹驑鷚𣴑𥹷𪅳𪕋𭄘䚧 |
  | ㄌㄧㄡˇ | leou | liu³ | lieu3 | liou3 | liu上 | liǒu | liǔ | liǒu | 茆柳桺綹蓼蔞罶嬼瀏𩖴𪕋𮊚 |
@@ -1089,8 +1086,6 @@
  | ㄊㄧㄢˊ | tyan | tʻien² | tian2 | tian2 | tian陽 | tién | tián | tián | 田佃沺恬畋盷甜菾湉塡填滇鈿闐顚鷆𦧴𧰊𨌈󰦍 |
  | ㄊㄧㄢˇ | tean | tʻien³ | tian3 | tian3 | tian上 | tiěn | tiǎn | tiǎn | 町忝娗殄舐蚕淟紾琠腆餂覥錪靦㥏㮇䑛 |
  | ㄊㄧㄢˋ | tiann | tʻien⁴ | tian4 | tian4 | tian去 | tièn | tiàn | tiàn | 忝沴塡填滇鈿瑱闐舚 |
- | ㄋㄧㄢˇ | nean | nien³ | nian3 | nian3 | nian上 | niěn | niǎn | niǎn | 碾輾 |
- | ㄋㄧㄢˋ | niann | nien⁴ | nian4 | nian4 | nian去 | nièn | niàn | niàn | 念 |
  | ㄌㄧㄢ | lhian | lien¹ | lian1 | lian1 | lian陰 | liēn | liān | liān | 簾鐮 |
  | ㄌㄧㄢˊ | lian | lien² | lian2 | lian2 | lian陽 | lién | lián | lián | 帘怜苓連廉漣煉蓮零奩槤熑覝匳憐磏稴聫褳濂翴薕薟斂聯謰襝鎌鏈簾蠊壣蘞鬑鐮鰱𢅏𤹨𧐖𪍴󰧿㶌㺦怜 |
  | ㄌㄧㄢˇ | lean | lien³ | lian3 | lian3 | lian上 | liěn | liǎn | liǎn | 僆摙溓璉輦斂臉鄻羷瀲蘞醶襺𠗳𧸘䌞䭑 |
@@ -1104,7 +1099,7 @@
  | ㄑㄧㄢˇ | chean | chʻien³ | qian3 | qian3 | qian上 | qiěn | qiǎn | chiǎn | 凵掮嗛嵰慊歁遣搴槏歉膁蜸繾鼸䇜䭤 |
  | ㄑㄧㄢˋ | chiann | chʻien⁴ | qian4 | qian4 | qian去 | qièn | qiàn | chiàn | 欠汧芡拑欦俔牽菣傔嗛遣歉縴顅譴騫顩𢜩𤬯㪁 |
  | ㄬㄧㄢ | gnhian | ʻnien¹ | njian1 | njian1 | nian陰 | gniēn | njiān | gniān | 拈 |
- | ㄬㄧㄢˊ | gnian | ʻnien² | njian2 | njian2 | nian陽 | gnién | njián | gnián | 年拈秊秥粘碾鮎輾黏䬯䴴 |
+ | ㄬㄧㄢˊ | gnian | ʻnien² | njian2 | njian2 | nian陽 | gnién | njián | gnián | 年拈秊秥粘撚碾鮎輾黏䬯䴴 |
  | ㄬㄧㄢˇ | gnean | ʻnien³ | njian3 | njian3 | nian上 | gniěn | njiǎn | gniǎn | 冂涊趁榐撚碾輦輾攆𧹞㚩㜤 |
  | ㄬㄧㄢˋ | gniann | ʻnien⁴ | njian4 | njian4 | nian去 | gnièn | njiàn | gniàn | 卄廿念碾輾𥮘𦁤 |
  | ㄒㄧㄢ | shian | hsien¹ | xian1 | xian1 | xian陰 | xiēn | xiān | shiān | 仚忺杴祆軒掀訮嘕羴馦鶱㾾 |
@@ -1579,7 +1574,6 @@
  | ㄊㄧㄥˊ | tyng | tʻing² | ting2 | tieng2 | ting陽 | tíng | tíng | tíng | 廷亭娗庭莛梃停婷渟筳葶蜓楟霆聤蝏鼮㹶 |
  | ㄊㄧㄥˇ | tiing | tʻing³ | ting3 | tieng3 | ting上 | tǐng | tǐng | tǐng | 汀町侹挺珽脡艇鋌𩹇 |
  | ㄊㄧㄥˋ | tinq | tʻing⁴ | ting4 | tieng4 | ting去 | tìng | tìng | tìng | 廷听侹娗庭涏莛梃艇葶蜓霆頲聼聽 |
- | ㄋㄧㄥˋ | ninq | ning⁴ | ning4 | nieng4 | ning去 | nìng | nìng | nìng | 佞 |
  | ㄌㄧㄥˊ | ling | ling² | ling2 | lieng2 | ling陽 | líng | líng | líng | 令伶冷灵囹夌岺怜苓昤朎柃玲瓴倰凌秢袊陵淩笭紷羚翎聆舲菱蛉詅跉軨鈴零綾蔆輘駖鴒磷霛霝酃鯪蘦齡櫺醽靈麢𣬹𦉢𦊓𧕅𩵀󶷤󺠿〇㥄㱥令玲零 |
  | ㄌㄧㄥˇ | liing | ling³ | ling3 | lieng3 | ling上 | lǐng | lǐng | lǐng | 冷泠領嶺領 |
  | ㄌㄧㄥˋ | linq | ling⁴ | ling4 | lieng4 | ling去 | lìng | lìng | lìng | 令另伶柃凌竛笭詅零磷𦊓𩜁㱥令 |
@@ -1591,7 +1585,7 @@
  | ㄑㄧㄥˊ | chyng | chʻing² | qing2 | qieng2 | qing陽 | qíng | qíng | chíng | 剠勍擏擎檠鯨黥 |
  | ㄑㄧㄥˇ | chiing | chʻing³ | qing3 | qieng3 | qing上 | qǐng | qǐng | chǐng | 頃傾廎綮漀罄檾謦 |
  | ㄑㄧㄥˋ | chinq | chʻing⁴ | qing4 | qieng4 | qing去 | qìng | qìng | chìng | 綮輕慶檠磬罄謦鑋𨆪 |
- | ㄬㄧㄥˊ | gning | ʻning² | njing2 | njieng2 | ning陽 | gníng | njíng | gníng | 寍甯寧儜凝嚀嬣擰薴檸鬡鸋𦗰𧕝𧭈㲰 |
+ | ㄬㄧㄥˊ | gning | ʻning² | njing2 | njieng2 | ning陽 | gníng | njíng | gníng | 寍甯寧儜凝嚀嬣擰獰薴檸鬡鸋𦗰𧕝𧭈㲰 |
  | ㄬㄧㄥˇ | gniing | ʻning³ | njing3 | njieng3 | ning上 | gnǐng | njǐng | gnǐng | 澝濘檸𩕳䀴䔭 |
  | ㄬㄧㄥˋ | gninq | ʻning⁴ | njing4 | njieng4 | ning去 | gnìng | njìng | gnìng | 佞甯寗凝濘𦗰𧕝 |
  | ㄒㄧㄥ | shing | hsing¹ | xing1 | xieng1 | xing陰 | xīng | xīng | shīng | 興馨 |
@@ -1691,4 +1685,4 @@
  | ㄦˊ | erl | êrh² | er2 | er2 | er陽 | ér | ér | ér | 而兒陑咡洏耏栭胹唲輀髵鮞鴯 |
  | ㄦˇ | eel | êrh³ | er3 | er3 | er上 | ěr | ěr | ěr | 尒耳迩洱珥爾鉺餌駬邇𪕔䋙 |
  | ㄦˋ | ell | êrh⁴ | er4 | er4 | er去 | èr | èr | èr | 二弍佴刵咡洱毦珥衈貳誀鉺餌樲髶䎶 |
- | ·ㄦˊ | .erl | êrh²⁰ | er2 | er2 | er陽 | +ér | ér | ér | 兒 |
+ | ·ㄦˊ | .erl | êrh⁰ | er2 | er2 | er陽 | +ér | ér | er | 兒 |
