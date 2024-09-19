@@ -7,9 +7,9 @@
 
 *注音格式：使用聲調符號表示聲調（不使用四聲點法），在字頭加上`·`表示輕音。可能同時寫出原聲調，例如「子」`·ㄗˇ`*
 
-[帶註釋的字音表（`bepemefeve.dict.yaml`）](bepemefeve.dict.yaml)
+[「老國音」字音表（bepemefeve.dict.yaml）](bepemefeve.dict.yaml)
 
-[注音及各羅馬拼音對照](all_syllables.md)
+[「老國音」注音／各式羅馬拼音對照](all_syllables.md)
 
 
 ### 目前支援的輸入方案
@@ -47,8 +47,6 @@
 <a name="gr"></a>
 ### 國語羅馬字（Gwoyeu Romatzyh）
 *別名：國音字母第二式 (1928~)、譯音符號 (1940~)*
-
-<img src='assets/Gwoin_Tzyhmuu.jpg' width=300>
 
 輸入法說明：
 - 以`x`鍵 或 大寫`E`鍵 輸入`è`（ㄝ）
@@ -130,15 +128,15 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 <a name="ruenn"></a>
-#### Ruenn_L：Ruenn式國音拼音方案
+#### Ruenn式國音拼音方案
 
 提出者：[Ruenn_L（哔哩哔哩）](https://space.bilibili.com/23285950)
 
-以易懂爲原則、根據漢語拼音方案修改定制的拼音方案。
+根據漢語拼音方案修改定制的拼音方案：
 - ㄫ、ㄬ 定爲 `ng`、`nj`
 - 入聲以 `ˆ` 表示
-- ㄗㄧ、ㄘㄧ、ㄙㄧ 定爲 `zii` `cii` `sii`
 - ㄝ 定爲 `ee`，不用漢語拼音的 `ê`
+- ㄗㄧ、ㄘㄧ、ㄙㄧ 定爲 `zii` `cii` `sii`
 
 輸入法說明：
 - 分別以數字鍵`6`、`7`、`8`、`9`、`0`輸入聲調：`ˉ`陰、`ˊ`陽、`ˇ`上、`ˋ`去、`ˆ`入
