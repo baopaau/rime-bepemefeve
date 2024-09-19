@@ -192,33 +192,33 @@
  | ㄙㄨ | su | su¹ | su1 | su1 | su陰 | sū | sū | sū | 胥甦酥穌蘇囌㢝 |
  | ㄙㄨˋ | suh | su⁴ | su4 | su4 | su去 | sù | sù | sù | 泝素傃訴嗉塑愫溯遡愬膆㴑䛾 |
  | ㄙㄨ˙ | suq | su⁵ | su5 | suq | suq入 | su̇ | sû | su̇ | 玊夙肃俗洬涑速宿梀粛粟窣肅嗽愬蓿觫誎遬餗潚橚簌藗續驌鱐鷫𣙙𤡃󵉬㩋㯈䃤䔩 |
- | ㄩ | iu | yü¹ | yu1 | y1 | y陰 | yū | yǖ | yū | 于迂陓紆淤菸毹瘀藇 |
- | ㄩˊ | yu | yü² | yu2 | y2 | y陽 | yú | yǘ | yú | 于予邘伃圩汙迂余吾妤杅玗於盂臾雨俞兪禺竽紆舁娛悇狳唹盓菸萸釪隅雩魚喁喩喻堬嵎愉揄楰渝畬腴萮逾骬愚楡榆歈瑜與艅虞蜍衙漁瘉睮窬箊褕羭蕍蝓諛鋙雓餘懙澞覦踰歟璵螸輿鍝謣醧髃麌旟騟譽齬鸆齵𤚎𦩞𧍪𨵦𪃍瑜󲾎󳂬󶶬󷤈󷱅󺂮󻮗㥚㬰㳛㼶䁩䱷䳜 |
- | ㄩˇ | yeu | yü³ | yu3 | y3 | y上 | yǔ | yǚ | yǔ | 与予宇羽雨俁禹圄祤偊圉庾敔斞萭傴愈楀瑀瘐與嫗瘉語噢窳鋙貐禦癒穥麌蘌齬籞鸒𢮁𧾚𪇬㦛 |
- | ㄩˋ | yuh | yü⁴ | yu4 | y4 | y去 | yù | yǜ | yù | 予吁羽芋雨俞兪禺舁娛悇悆欲淢淤菸隅喩寓御愉揄棜楰渝裕遇飫馭愈瘀與虞衙預嫗瘉緎蓲語噊諛豫鋙澦燠蕷藇覦諭閼歟禦輿礜穥醧髃麌饇譽齬籲𠕦𪋮諭㥚 |
- | ㄩ˙ | yuq | yü⁵ | yu5 | yq | yq | yu̇ | yü̂ | yu̇ | 玉聿谷育郁昱茟峪彧栯浴砡域尉欲淯菀喅棫琙矞粥煜罭蒮鈺僪毓獄蔚蜮噊噢墺慾潏澳熨獝薁遹鋊鳿燠錥閾鴪儥魊繘鵒蘛鐍霱黦驈鬻鱊鷸欝鬱灪𤞞𧑐𪂉䐿䳑 |
+ | ㄩ | iu | yü¹ | yu1 | y1 | y陰 | yū | yū | yū | 于迂陓紆淤菸毹瘀藇 |
+ | ㄩˊ | yu | yü² | yu2 | y2 | y陽 | yú | yú | yú | 于予邘伃圩汙迂余吾妤杅玗於盂臾雨俞兪禺竽紆舁娛悇狳唹盓菸萸釪隅雩魚喁喩喻堬嵎愉揄楰渝畬腴萮逾骬愚楡榆歈瑜與艅虞蜍衙漁瘉睮窬箊褕羭蕍蝓諛鋙雓餘懙澞覦踰歟璵螸輿鍝謣醧髃麌旟騟譽齬鸆齵𤚎𦩞𧍪𨵦𪃍瑜󲾎󳂬󶶬󷤈󷱅󺂮󻮗㥚㬰㳛㼶䁩䱷䳜 |
+ | ㄩˇ | yeu | yü³ | yu3 | y3 | y上 | yǔ | yǔ | yǔ | 与予宇羽雨俁禹圄祤偊圉庾敔斞萭傴愈楀瑀瘐與嫗瘉語噢窳鋙貐禦癒穥麌蘌齬籞鸒𢮁𧾚𪇬㦛 |
+ | ㄩˋ | yuh | yü⁴ | yu4 | y4 | y去 | yù | yù | yù | 予吁羽芋雨俞兪禺舁娛悇悆欲淢淤菸隅喩寓御愉揄棜楰渝裕遇飫馭愈瘀與虞衙預嫗瘉緎蓲語噊諛豫鋙澦燠蕷藇覦諭閼歟禦輿礜穥醧髃麌饇譽齬籲𠕦𪋮諭㥚 |
+ | ㄩ˙ | yuq | yü⁵ | yu5 | yq | yq | yu̇ | yû | yu̇ | 玉聿谷育郁昱茟峪彧栯浴砡域尉欲淯菀喅棫琙矞粥煜罭蒮鈺僪毓獄蔚蜮噊噢墺慾潏澳熨獝薁遹鋊鳿燠錥閾鴪儥魊繘鵒蘛鐍霱黦驈鬻鱊鷸欝鬱灪𤞞𧑐𪂉䐿䳑 |
  | ㄌㄩˊ | liu | lü² | lyu2 | ly2 | ly陽 | lý | lǘ | liú | 婁漊閭慮氀瘻褸櫚藘謱廬臚鷜驢㟺䕡䣚䮉 |
  | ㄌㄩˇ | leu | lü³ | lyu3 | ly3 | ly上 | ly̌ | lǚ | liǔ | 吕呂侶旅梠祣僂屢嶁膂鋁褸儢縷謱穭𥰠𥴧𧃒𭄸㭚 |
  | ㄌㄩˋ | liuh | lü⁴ | lyu4 | ly4 | ly去 | lỳ | lǜ | liù | 婁屢漊鋁慮褸勴濾謱櫖爈鑢𡾅𧓻𧭜 |
  | ㄌㄩ˙ | liuq | lü⁵ | lyu5 | lyq | lyq | lẏ | lü̂ | liu̇ | 律率嵂膟繂壘 |
- | ㄐㄩ | jiu | chü¹ | jyu1 | jy1 | jy陰 | jȳ | jǖ | jiū | 句車居拘枸俱捄痀崌据椐琚跔蜛駒鴝鶋𡨢𣂏 |
- | ㄐㄩˊ | jyu | chü² | jyu2 | jy2 | jy陽 | jý | jǘ | jiú | 侷蚷醵鐻 |
- | ㄐㄩˇ | jeu | chü³ | jyu3 | jy3 | jy上 | jy̌ | jǚ | jiǔ | 怇拒苣弆柜炬枸矩秬莒詎距鄅椇筥蒟虡窶舉踽擧貗簴櫸齲 |
- | ㄐㄩˋ | jiuh | chü⁴ | jyu4 | jy4 | jy去 | jỳ | jǜ | jiù | 巨句拒苣具怐柜歫泃炬枸秬倨痀粔蚷埧惧据詎距椐萭鉅蒟虡裾豦雊駏勮踞駒懅據窶遽鋸屨颶瞿躆醵懼鐻𥉁𧣻㩀㬬䀠䛯䱟 |
- | ㄐㄩ˙ | jiuq | chü⁵ | jyu5 | jyq | jyq | jẏ | jü̂ | jiu̇ | 局匊侷狊屐挶掬梮菊谻郹厥椈湨犑輂跼劇勮踘鋦噱橘檋臄鞠鞫鵴躆醵鶪鼳𠊬𦥑𧍕㑢 |
- | ㄑㄩ | chiu | chʻü¹ | qyu1 | qy1 | qy陰 | qȳ | qǖ | chiū | 佉阹呿斪朐祛胠袪區葋墟嶇摳敺駈魼鮬瞿軀鼩驅鰸𨄅㠊 |
- | ㄑㄩˊ | chyu | chʻü² | qyu2 | qy2 | qy陽 | qý | qǘ | chiú | 句佢劬抾渠絇翑腒蕖磲鴝璩瞿蘧醵戵欋氍籧臞癯衢躣鸜𦼫𪆂䞤 |
- | ㄑㄩˇ | cheu | chʻü³ | qyu3 | qy3 | qy上 | qy̌ | qǚ | chiǔ | 去胠竘詓驅齲 |
- | ㄑㄩˋ | chiuh | chʻü⁴ | qyu4 | qy4 | qy去 | qỳ | qǜ | chiù | 厺去胠絇麮鼁瞿驅㰦 |
- | ㄑㄩ˙ | chiuq | chʻü⁵ | qyu5 | qyq | qyq | qẏ | qü̂ | chiu̇ | 曲屈胠詘闃麯鶌麴䒼䖦䠐 |
+ | ㄐㄩ | jiu | chü¹ | jyu1 | jy1 | jy陰 | jȳ | jū | jiū | 句車居拘枸俱捄痀崌据椐琚跔蜛駒鴝鶋𡨢𣂏 |
+ | ㄐㄩˊ | jyu | chü² | jyu2 | jy2 | jy陽 | jý | jú | jiú | 侷蚷醵鐻 |
+ | ㄐㄩˇ | jeu | chü³ | jyu3 | jy3 | jy上 | jy̌ | jǔ | jiǔ | 怇拒苣弆柜炬枸矩秬莒詎距鄅椇筥蒟虡窶舉踽擧貗簴櫸齲 |
+ | ㄐㄩˋ | jiuh | chü⁴ | jyu4 | jy4 | jy去 | jỳ | jù | jiù | 巨句拒苣具怐柜歫泃炬枸秬倨痀粔蚷埧惧据詎距椐萭鉅蒟虡裾豦雊駏勮踞駒懅據窶遽鋸屨颶瞿躆醵懼鐻𥉁𧣻㩀㬬䀠䛯䱟 |
+ | ㄐㄩ˙ | jiuq | chü⁵ | jyu5 | jyq | jyq | jẏ | jû | jiu̇ | 局匊侷狊屐挶掬梮菊谻郹厥椈湨犑輂跼劇勮踘鋦噱橘檋臄鞠鞫鵴躆醵鶪鼳𠊬𦥑𧍕㑢 |
+ | ㄑㄩ | chiu | chʻü¹ | qyu1 | qy1 | qy陰 | qȳ | qū | chiū | 佉阹呿斪朐祛胠袪區葋墟嶇摳敺駈魼鮬瞿軀鼩驅鰸𨄅㠊 |
+ | ㄑㄩˊ | chyu | chʻü² | qyu2 | qy2 | qy陽 | qý | qú | chiú | 句佢劬抾渠絇翑腒蕖磲鴝璩瞿蘧醵戵欋氍籧臞癯衢躣鸜𦼫𪆂䞤 |
+ | ㄑㄩˇ | cheu | chʻü³ | qyu3 | qy3 | qy上 | qy̌ | qǔ | chiǔ | 去胠竘詓驅齲 |
+ | ㄑㄩˋ | chiuh | chʻü⁴ | qyu4 | qy4 | qy去 | qỳ | qù | chiù | 厺去胠絇麮鼁瞿驅㰦 |
+ | ㄑㄩ˙ | chiuq | chʻü⁵ | qyu5 | qyq | qyq | qẏ | qû | chiu̇ | 曲屈胠詘闃麯鶌麴䒼䖦䠐 |
  | ㄬㄩˊ | gniu | ʻnü² | njyu2 | njy2 | ny陽 | gný | njǘ | gniú | 絮 |
  | ㄬㄩˇ | gneu | ʻnü³ | njyu3 | njy3 | ny上 | gny̌ | njǚ | gniǔ | 女絮 |
  | ㄬㄩˋ | gniuh | ʻnü⁴ | njyu4 | njy4 | ny去 | gnỳ | njǜ | gniù | 女絮 |
  | ㄬㄩ˙ | gniuq | ʻnü⁵ | njyu5 | njyq | nyq | gnẏ | njü̂ | gniu̇ | 恧朒衄󽠶䶊 |
- | ㄒㄩ | shiu | hsü¹ | xyu1 | xy1 | xy陰 | xȳ | xǖ | shiū | 于吁芋旴姁盱昫欨冔訏虚喣虛煦嘔墟蓲噓歔謳魖驉𢖳 |
- | ㄒㄩˇ | sheu | hsü³ | xyu3 | xy3 | xy上 | xy̌ | xǚ | shiǔ | 侐姁咻昫冔栩珝訏許喣煦詡鄦憮膴 |
- | ㄒㄩˋ | shiuh | hsü⁴ | xyu4 | xy4 | xy去 | xỳ | xǜ | shiù | 休吁侐呴姁昫酗煦嘔噓 |
- | ㄒㄩ˙ | shiuq | hsü⁵ | xyu5 | xyq | xyq | xẏ | xü̂ | shiu̇ | 旭侐朐洫砉殈畜勖勗欻慉搐蓄頊盢瞁獝稸瞲㤜㗵㷦䙒䛙 |
+ | ㄒㄩ | shiu | hsü¹ | xyu1 | xy1 | xy陰 | xȳ | xū | shiū | 于吁芋旴姁盱昫欨冔訏虚喣虛煦嘔墟蓲噓歔謳魖驉𢖳 |
+ | ㄒㄩˇ | sheu | hsü³ | xyu3 | xy3 | xy上 | xy̌ | xǔ | shiǔ | 侐姁咻昫冔栩珝訏許喣煦詡鄦憮膴 |
+ | ㄒㄩˋ | shiuh | hsü⁴ | xyu4 | xy4 | xy去 | xỳ | xù | shiù | 休吁侐呴姁昫酗煦嘔噓 |
+ | ㄒㄩ˙ | shiuq | hsü⁵ | xyu5 | xyq | xyq | xẏ | xû | shiu̇ | 旭侐朐洫砉殈畜勖勗欻慉搐蓄頊盢瞁獝稸瞲㤜㗵㷦䙒䛙 |
  | ㄕㄩˇ | sheu | shü³ | shyu3 | sry3 | sry上 | shy̌ | shǚ | shiǔ | 予 |
  | ㄖㄩˋ | riuh | jü⁴ | ryu4 | ry4 | ry去 | rỳ | rǜ | riù | 裕 |
  | ㄗㄩ | tziu | tsü¹ | zyu1 | zy1 | zy陰 | zȳ | zǖ | tziū | 且咀沮狙苴疽砠罝菹蛆趄雎䏣䢸 |
@@ -494,12 +494,12 @@
  | ㄙㄨㄛˇ | suoo | suo³ | suo3 | suo3 | suo上 | suǒ | suǒ | suǒ | 所嗩瑣褨鎖鎻鏁䝪䵀 |
  | ㄙㄨㄛˋ | suoh | suo⁴ | suo4 | suo4 | suo去 | suò | suò | suò | 葰䐝 |
  | ㄙㄨㄛ˙ | suoq | suo⁵ | suo5 | suoq | suoq入 | suȯ | suô | suȯ | 嗦溹誶𠞯𡩡㮦 |
- | ㄩㄛ˙ | yuoq | yüo⁵ | yuo5 | yoq | yoq入 | yuȯ | yüô | yuȯ | 煴箹籰龥鸙𤄶𧕋𩱲䋤䖃 |
+ | ㄩㄛ˙ | yuoq | yüo⁵ | yuo5 | yoq | yoq入 | yuȯ | yuô | yuȯ | 煴箹籰龥鸙𤄶𧕋𩱲䋤䖃 |
  | ㄌㄩㄛ˙ | liuoq | lüo⁵ | lyuo5 | lyoq | lyoq入 | lyȯ | lüô | liuȯ | 𧎾㗉䛚 |
- | ㄐㄩㄛˋ | jiuoh | chüo⁴ | jyuo4 | jyo4 | jyo去 | jyò | jüò | jiuò | 顜 |
- | ㄐㄩㄛ˙ | jiuoq | chüo⁵ | jyuo5 | jyoq | jyoq入 | jyȯ | jüô | jiuȯ | 捔顜矍彏戄攫玃龣蠼貜钁 |
- | ㄑㄩㄛ˙ | chiuoq | chʻüo⁵ | qyuo5 | qyoq | qyoq入 | qyȯ | qüô | chiuȯ | 焪搉礐躩𢖦 |
- | ㄒㄩㄛ˙ | shiuoq | hsüo⁵ | xyuo5 | xyoq | xyoq入 | xyȯ | xüô | shiuȯ | 嶨澩礐觷𧮞 |
+ | ㄐㄩㄛˋ | jiuoh | chüo⁴ | jyuo4 | jyo4 | jyo去 | jyò | juò | jiuò | 顜 |
+ | ㄐㄩㄛ˙ | jiuoq | chüo⁵ | jyuo5 | jyoq | jyoq入 | jyȯ | juô | jiuȯ | 捔顜矍彏戄攫玃龣蠼貜钁 |
+ | ㄑㄩㄛ˙ | chiuoq | chʻüo⁵ | qyuo5 | qyoq | qyoq入 | qyȯ | quô | chiuȯ | 焪搉礐躩𢖦 |
+ | ㄒㄩㄛ˙ | shiuoq | hsüo⁵ | xyuo5 | xyoq | xyoq入 | xyȯ | xuô | shiuȯ | 嶨澩礐觷𧮞 |
  | ㄜˋ | eh | ê⁴ | eo4 | eo4 | e去 | è | è | è | 搤 |
  | ㄜ˙ | eq | ê⁵ | eo5 | eoq | eq入 | ė | ê | ė | 厄戹阨呃扼阸啞軛軶搤搹餩㧖 |
  | ㄅㄜ˙ | beq | pê⁵ | beo5 | beoq | beq入 | bė | bê | bė | 北白百伯廹佰帛迫柏胉栢瓸竡舶粨兡鉑僰擘檗糪蘗㼣 |
@@ -594,18 +594,18 @@
  | ㄙㄧㄝˋ | sieh | sieh⁴ | sie4 | sie4 | sie去 | sieh4 | siè | siè | 灺些卸炧榭謝瀉󿊺㴬 |
  | ㄙㄧㄝ˙ | sieq | sieh⁵ | sie5 | sieq | sieq入 | sieh5 | siê | siė | 泄契洩屑疶紲媟揳渫絏詍僁楔靾屧緤薛辥燮褻齛躠躞𣊓𨇨㣯㳿 |
  | ㄓㄨㄝ˙ | jueq | chueh⁵ | zhue5 | zrueq | zrueq入 | zhueh5 | zhueê | juė | 錣 |
- | ㄩㄝ | iue | yüeh¹ | yue1 | ye1 | ye陰 | yueh1 | yüē | yuē | 𦚢 |
- | ㄩㄝ˙ | yueq | yüeh⁵ | yue5 | yeq | yeq入 | yueh5 | yüê | yuė | 曰月戉刖兌妜抈抉悅軏跀粤越粵鉞閱噦樾𦤙𧊎𧑅䋐 |
+ | ㄩㄝ | iue | yüeh¹ | yue1 | ye1 | ye陰 | yueh1 | yuē | yuē | 𦚢 |
+ | ㄩㄝ˙ | yueq | yüeh⁵ | yue5 | yeq | yeq入 | yueh5 | yuê | yuė | 曰月戉刖兌妜抈抉悅軏跀粤越粵鉞閱噦樾𦤙𧊎𧑅䋐 |
  | ㄌㄩㄝˊ | liue | lüeh² | lyue2 | lye2 | lye陽 | lyeh2 | lüé | liué | 𦣛 |
  | ㄌㄩㄝ˙ | liueq | lüeh⁵ | lyue5 | lyeq | lyeq入 | lyeh5 | lüê | liuė | 劣埒埓捋脟鋝 |
- | ㄐㄩㄝˋ | jiueh | chüeh⁴ | jyue4 | jye4 | jye去 | jyeh4 | jüè | jiuè | 鈌劂 |
- | ㄐㄩㄝ˙ | jiueq | chüeh⁵ | jyue5 | jyeq | jyeq入 | jyeh5 | jüê | jiuė | 亅孒决吷抉決芵屈玦倔蚗崛掘觖訣趹厥鈌窟劂駃噘嶡撅潏獗瘚蕨镼鴂鴃橛橜蟨蟩鵙譎蹶蹷鐍觼鱖鷢𠜾𧱝䀗䘿 |
- | ㄑㄩㄝ | chiue | chʻüeh¹ | qyue1 | qye1 | qye陰 | qyeh1 | qüē | chiuē | 𩨭 |
- | ㄑㄩㄝˊ | chyue | chʻüeh² | qyue2 | qye2 | qye陽 | qyeh2 | qüé | chiué | 瘸 |
- | ㄑㄩㄝ˙ | chiueq | chʻüeh⁵ | qyue5 | qyeq | qyeq入 | qyeh5 | qüê | chiuė | 炔缺蒛闋闕𦁐 |
- | ㄒㄩㄝ | shiue | hsüeh¹ | xyue1 | xye1 | xye陰 | xyeh1 | xüē | shiuē | 靴 |
- | ㄒㄩㄝˋ | shiueh | hsüeh⁴ | xyue4 | xye4 | xye去 | xyeh4 | xüè | shiuè | 靴 |
- | ㄒㄩㄝ˙ | shiueq | hsüeh⁵ | xyue5 | xyeq | xyeq入 | xyeh5 | xüê | shiuė | 穴决血吷泬狘烕瞲鞾𥄎䆷䎀䬂 |
+ | ㄐㄩㄝˋ | jiueh | chüeh⁴ | jyue4 | jye4 | jye去 | jyeh4 | juè | jiuè | 鈌劂 |
+ | ㄐㄩㄝ˙ | jiueq | chüeh⁵ | jyue5 | jyeq | jyeq入 | jyeh5 | juê | jiuė | 亅孒决吷抉決芵屈玦倔蚗崛掘觖訣趹厥鈌窟劂駃噘嶡撅潏獗瘚蕨镼鴂鴃橛橜蟨蟩鵙譎蹶蹷鐍觼鱖鷢𠜾𧱝䀗䘿 |
+ | ㄑㄩㄝ | chiue | chʻüeh¹ | qyue1 | qye1 | qye陰 | qyeh1 | quē | chiuē | 𩨭 |
+ | ㄑㄩㄝˊ | chyue | chʻüeh² | qyue2 | qye2 | qye陽 | qyeh2 | qué | chiué | 瘸 |
+ | ㄑㄩㄝ˙ | chiueq | chʻüeh⁵ | qyue5 | qyeq | qyeq入 | qyeh5 | quê | chiuė | 炔缺蒛闋闕𦁐 |
+ | ㄒㄩㄝ | shiue | hsüeh¹ | xyue1 | xye1 | xye陰 | xyeh1 | xuē | shiuē | 靴 |
+ | ㄒㄩㄝˋ | shiueh | hsüeh⁴ | xyue4 | xye4 | xye去 | xyeh4 | xuè | shiuè | 靴 |
+ | ㄒㄩㄝ˙ | shiueq | hsüeh⁵ | xyue5 | xyeq | xyeq入 | xyeh5 | xuê | shiuė | 穴决血吷泬狘烕瞲鞾𥄎䆷䎀䬂 |
  | ㄗㄩㄝˋ | tziueh | tsüeh⁴ | zyue4 | zye4 | zye去 | zyeh4 | züè | tziuè | 蕝 |
  | ㄗㄩㄝ˙ | tziueq | tsüeh⁵ | zyue5 | zyeq | zyeq入 | zyeh5 | züê | tziuė | 絕絶蕝 |
  | ㄙㄩㄝ˙ | siueq | süeh⁵ | syue5 | syeq | syeq入 | syeh5 | süê | siuė | 雪踅薛鱈㿱 |
@@ -956,10 +956,10 @@
  | ㄙㄡ | sou | sou¹ | seu1 | sou1 | sou陰 | sōu | sōu | sōu | 叟涑傁鄋廋搜溲獀蒐摗螋醙鎪餿颼𣯜𧳶𢯱䐹䱸 |
  | ㄙㄡˇ | soou | sou³ | seu3 | sou3 | sou上 | sǒu | sǒu | sǒu | 叟傁廋搜溲嗾瞍謏擻藪籔𠩹𠪇𣸈 |
  | ㄙㄡˋ | sow | sou⁴ | seu4 | sou4 | sou去 | sòu | sòu | sòu | 廋獀嗽嗾漱瘦瘶謏醙颼 |
- | ㄧㄡ | iou | yu¹ | yeu1 | iou1 | iu陰 | yōu | yū | yōu | 攸呦泑幽峳悠蚴麀滺憂優鄾嚘瀀纋耰𧍘㱊䱂 |
- | ㄧㄡˊ | you | yu² | yeu2 | iou2 | iu陽 | yóu | yú | yóu | 尢冘尤由卣抌攸沋犹怞油肬斿疣庮秞莤蚘郵悠蚰訧逰游猶遊楢猷鈾槱蕕蝣蝤輶鮋繇鯈黝鼬櫾𠧴㘥䍃 |
- | ㄧㄡˇ | yeou | yu³ | yeu3 | iou3 | iu上 | yǒu | yǔ | yǒu | 友右有丣卣酉岰泑羑栯羐莠誘銪槱牖黝懮𪳝㰶䬀䳑 |
- | ㄧㄡˋ | yow | yu⁴ | yeu4 | iou4 | iu去 | yòu | yù | yòu | 又右幼有佑卣侑油泑狖知囿宥柚祐庮蚴猶釉酭褎誘槱輶鴢鼬䱂祐 |
+ | ㄧㄡ | iou | yu¹ | yeu1 | iou1 | iu陰 | yōu | yōu | yōu | 攸呦泑幽峳悠蚴麀滺憂優鄾嚘瀀纋耰𧍘㱊䱂 |
+ | ㄧㄡˊ | you | yu² | yeu2 | iou2 | iu陽 | yóu | yóu | yóu | 尢冘尤由卣抌攸沋犹怞油肬斿疣庮秞莤蚘郵悠蚰訧逰游猶遊楢猷鈾槱蕕蝣蝤輶鮋繇鯈黝鼬櫾𠧴㘥䍃 |
+ | ㄧㄡˇ | yeou | yu³ | yeu3 | iou3 | iu上 | yǒu | yǒu | yǒu | 友右有丣卣酉岰泑羑栯羐莠誘銪槱牖黝懮𪳝㰶䬀䳑 |
+ | ㄧㄡˋ | yow | yu⁴ | yeu4 | iou4 | iu去 | yòu | yòu | yòu | 又右幼有佑卣侑油泑狖知囿宥柚祐庮蚴猶釉酭褎誘槱輶鴢鼬䱂祐 |
  | ㄆㄧㄡˊ | pyou | pʻiu² | pieu2 | piou2 | piu陽 | pióu | piú | pióu | 滮 |
  | ㄇㄧㄡˊ | miou | miu² | mieu2 | miou2 | miu陽 | mióu | miú | mióu | 繆 |
  | ㄇㄧㄡˋ | miow | miu⁴ | mieu4 | miou4 | miu去 | miòu | miù | miòu | 繆謬 |
@@ -1168,25 +1168,25 @@
  | ㄙㄨㄢ | suan | suan¹ | suan1 | suan1 | suan陰 | suān | suān | suān | 狻痠酸 |
  | ㄙㄨㄢˇ | soan | suan³ | suan3 | suan3 | suan上 | suǎn | suǎn | suǎn | 損算匴篹簨䋶䐣 |
  | ㄙㄨㄢˋ | suann | suan⁴ | suan4 | suan4 | suan去 | suàn | suàn | suàn | 祘笇筭蒜算匴 |
- | ㄩㄢ | iuan | yüan¹ | yuan1 | yan1 | yan陰 | yuēn | yüān | yuān | 宛怨冤弲悁眢渊惌淵蜎蜿蜵鴛鵷鼘𢏮㠾㾓 |
- | ㄩㄢˊ | yuan | yüan² | yuan2 | yan2 | yan陽 | yuén | yüán | yuán | 允元邧阮园沅芫杬沿垣洹爰貟原員蚖袁媛援湲猨萲鄖園圓嫄楥源猿鉛榞榬褑鳶緣蝝蝯圜螈黿轅櫞邍騵鶢厵𧔞𧻚 |
- | ㄩㄢˇ | yeuan | yüan³ | yuan3 | yan3 | yan上 | yuěn | yüǎn | yuǎn | 阮苑盶婉蜎遠 |
- | ㄩㄢˋ | yuann | yüan⁴ | yuan4 | yan4 | yan去 | yuèn | yüàn | yuàn | 邧阮抁苑怨院媛掾援鄖瑗畹遠愿緣噮謜轅願䬼 |
+ | ㄩㄢ | iuan | yüan¹ | yuan1 | yan1 | yan陰 | yuēn | yuān | yuān | 宛怨冤弲悁眢渊惌淵蜎蜿蜵鴛鵷鼘𢏮㠾㾓 |
+ | ㄩㄢˊ | yuan | yüan² | yuan2 | yan2 | yan陽 | yuén | yuán | yuán | 允元邧阮园沅芫杬沿垣洹爰貟原員蚖袁媛援湲猨萲鄖園圓嫄楥源猿鉛榞榬褑鳶緣蝝蝯圜螈黿轅櫞邍騵鶢厵𧔞𧻚 |
+ | ㄩㄢˇ | yeuan | yüan³ | yuan3 | yan3 | yan上 | yuěn | yuǎn | yuǎn | 阮苑盶婉蜎遠 |
+ | ㄩㄢˋ | yuann | yüan⁴ | yuan4 | yan4 | yan去 | yuèn | yuàn | yuàn | 邧阮抁苑怨院媛掾援鄖瑗畹遠愿緣噮謜轅願䬼 |
  | ㄌㄩㄢˊ | liuan | lüan² | lyuan2 | lyan2 | lyan陽 | lyén | lüán | liuán | 孌攣𤼙䜌 |
  | ㄌㄩㄢˇ | leuan | lüan³ | lyuan3 | lyan3 | lyan上 | lyěn | lüǎn | liuǎn | 孌臠 |
  | ㄌㄩㄢˋ | liuann | lüan⁴ | lyuan4 | lyan4 | lyan去 | lyèn | lüàn | liuàn | 孌鱄戀攣䜌 |
- | ㄐㄩㄢ | jiuan | chüan¹ | jyuan1 | jyan1 | jyan陰 | jyēn | jüān | jiuān | 娟悁捐涓狷焆睊蜎鞙鵑蠲㪻䅌 |
- | ㄐㄩㄢˊ | jyuan | chüan² | jyuan2 | jyan2 | jyan陽 | jyén | jüán | jiuán | 娟捐 |
- | ㄐㄩㄢˇ | jeuan | chüan³ | jyuan3 | jyan3 | jyan上 | jyěn | jüǎn | jiuǎn | 卷狷圈捲菤罥韏錈 |
- | ㄐㄩㄢˋ | jiuann | chüan⁴ | jyuan4 | jyan4 | jyan去 | jyèn | jüàn | jiuàn | 卷帣倦悁狷圈婘捲眷鄄睊絭罥絹韏獧鞙㪻 |
- | ㄑㄩㄢ | chiuan | chʻüan¹ | qyuan1 | qyan1 | qyan陰 | qyēn | qüān | chiuān | 圈棬 |
- | ㄑㄩㄢˊ | chyuan | chʻüan² | qyuan2 | qyan2 | qyan陽 | qyén | qüán | chiuán | 卷狋弮拳埢婘惓捲犈觠蜷踡鬈巏權虇蠸顴𢑆 |
- | ㄑㄩㄢˇ | cheuan | chʻüan³ | qyuan3 | qyan3 | qyan上 | qyěn | qüǎn | chiuǎn | 犬汱畎埢詃裷綣蔨𤰕 |
- | ㄑㄩㄢˋ | chiuann | chʻüan⁴ | qyuan4 | qyan4 | qyan去 | qyèn | qüàn | chiuàn | 券劵弮圈綣蔨勸虇 |
- | ㄒㄩㄢ | shiuan | hsüan¹ | xyuan1 | xyan1 | xyan陰 | xyēn | xüān | shiuān | 駽咺喧萱暄楥貆儇嬛懁獧諠諼獯翾蘐蠉譞䁔 |
- | ㄒㄩㄢˊ | shyuan | hsüan² | xyuan2 | xyan2 | xyan陽 | xyén | xüán | shiuán | 玄玹眩暖鋗澴懸 |
- | ㄒㄩㄢˇ | sheuan | hsüan³ | xyuan3 | xyan3 | xyan上 | xyěn | xüǎn | shiuǎn | 泫咺晅烜愃煖鉉諠諼繯蠉 |
- | ㄒㄩㄢˋ | shiuann | hsüan⁴ | xyuan4 | xyan4 | xyan去 | xyèn | xüàn | shiuàn | 駽泫咺炫玹晅眩袨琄衒絢楥楦鉉懁獧矎讂贙󰣘䁔 |
+ | ㄐㄩㄢ | jiuan | chüan¹ | jyuan1 | jyan1 | jyan陰 | jyēn | juān | jiuān | 娟悁捐涓狷焆睊蜎鞙鵑蠲㪻䅌 |
+ | ㄐㄩㄢˊ | jyuan | chüan² | jyuan2 | jyan2 | jyan陽 | jyén | juán | jiuán | 娟捐 |
+ | ㄐㄩㄢˇ | jeuan | chüan³ | jyuan3 | jyan3 | jyan上 | jyěn | juǎn | jiuǎn | 卷狷圈捲菤罥韏錈 |
+ | ㄐㄩㄢˋ | jiuann | chüan⁴ | jyuan4 | jyan4 | jyan去 | jyèn | juàn | jiuàn | 卷帣倦悁狷圈婘捲眷鄄睊絭罥絹韏獧鞙㪻 |
+ | ㄑㄩㄢ | chiuan | chʻüan¹ | qyuan1 | qyan1 | qyan陰 | qyēn | quān | chiuān | 圈棬 |
+ | ㄑㄩㄢˊ | chyuan | chʻüan² | qyuan2 | qyan2 | qyan陽 | qyén | quán | chiuán | 卷狋弮拳埢婘惓捲犈觠蜷踡鬈巏權虇蠸顴𢑆 |
+ | ㄑㄩㄢˇ | cheuan | chʻüan³ | qyuan3 | qyan3 | qyan上 | qyěn | quǎn | chiuǎn | 犬汱畎埢詃裷綣蔨𤰕 |
+ | ㄑㄩㄢˋ | chiuann | chʻüan⁴ | qyuan4 | qyan4 | qyan去 | qyèn | quàn | chiuàn | 券劵弮圈綣蔨勸虇 |
+ | ㄒㄩㄢ | shiuan | hsüan¹ | xyuan1 | xyan1 | xyan陰 | xyēn | xuān | shiuān | 駽咺喧萱暄楥貆儇嬛懁獧諠諼獯翾蘐蠉譞䁔 |
+ | ㄒㄩㄢˊ | shyuan | hsüan² | xyuan2 | xyan2 | xyan陽 | xyén | xuán | shiuán | 玄玹眩暖鋗澴懸 |
+ | ㄒㄩㄢˇ | sheuan | hsüan³ | xyuan3 | xyan3 | xyan上 | xyěn | xuǎn | shiuǎn | 泫咺晅烜愃煖鉉諠諼繯蠉 |
+ | ㄒㄩㄢˋ | shiuann | hsüan⁴ | xyuan4 | xyan4 | xyan去 | xyèn | xuàn | shiuàn | 駽泫咺炫玹晅眩袨琄衒絢楥楦鉉懁獧矎讂贙󰣘䁔 |
  | ㄗㄩㄢ | tziuan | tsüan¹ | zyuan1 | zyan1 | zyan陰 | zyēn | züān | tziuān | 朘鐫 |
  | ㄗㄩㄢˇ | tzeuan | tsüan³ | zyuan3 | zyan3 | zyan上 | zyěn | züǎn | tziuǎn | 臇 |
  | ㄘㄩㄢ | tsiuan | tsʻüan¹ | cyuan1 | cyan1 | cyan陰 | cyēn | cüān | tsiuān | 佺拴荃悛痊竣筌詮銓駩譔 |
@@ -1336,20 +1336,20 @@
  | ㄙㄨㄣ | suen | sun¹ | sun1 | suen1 | sun陰 | suēn | sūn | suēn | 孫湌飧猻蓀飱薞𧎤 |
  | ㄙㄨㄣˇ | soen | sun³ | sun3 | suen3 | sun上 | suěn | sǔn | suěn | 芛笋隼筍損榫 |
  | ㄙㄨㄣˋ | suenn | sun⁴ | sun4 | suen4 | sun去 | suèn | sùn | suèn | 芛孫巽筍遜噀潠 |
- | ㄩㄣ | iun | yün¹ | yun1 | yen1 | yn陰 | yūn | yün1 | yūn | 涒蒀煴筠氳熉奫蝹篔縕馧贇䡝 |
- | ㄩㄣˊ | yun | yün² | yun2 | yen2 | yn陽 | yún | yün2 | yún | 云勻妘沄芸玧畇貟員紜耘耺荺鄖隕雲溳筠澐蕓橒篔縜 |
- | ㄩㄣˇ | yeun | yün³ | yun3 | yen3 | yn上 | yǔn | yün3 | yǔn | 允尹夽狁員喗惲鈗隕愪暈殞馻磒縕醞霣韞蘊齳𠃔𧉃𪝑 |
- | ㄩㄣˋ | yunn | yün⁴ | yun4 | yen4 | yn去 | yùn | yün4 | yùn | 孕抎員鄆愠運隕慍暈溳煴韵馻熨緷蕰縜醞餫韗蘊韻𪝑䚋䡝䩵 |
+ | ㄩㄣ | iun | yün¹ | yun1 | yen1 | yn陰 | yūn | yūn | yūn | 涒蒀煴筠氳熉奫蝹篔縕馧贇䡝 |
+ | ㄩㄣˊ | yun | yün² | yun2 | yen2 | yn陽 | yún | yún | yún | 云勻妘沄芸玧畇貟員紜耘耺荺鄖隕雲溳筠澐蕓橒篔縜 |
+ | ㄩㄣˇ | yeun | yün³ | yun3 | yen3 | yn上 | yǔn | yǔn | yǔn | 允尹夽狁員喗惲鈗隕愪暈殞馻磒縕醞霣韞蘊齳𠃔𧉃𪝑 |
+ | ㄩㄣˋ | yunn | yün⁴ | yun4 | yen4 | yn去 | yùn | yùn | yùn | 孕抎員鄆愠運隕慍暈溳煴韵馻熨緷蕰縜醞餫韗蘊韻𪝑䚋䡝䩵 |
  | ㄊㄩㄣ | tiun | tʻün¹ | tyun1 | tyen1 | tyn陰 | tȳn | tün1 | tiūn | 啍 |
- | ㄐㄩㄣ | jiun | chün¹ | jyun1 | jyen1 | jyn陰 | jȳn | jün1 | jiūn | 君均囷袀軍宭桾菌鈞碅皸蜠輑頵麇龜麕㽦 |
- | ㄐㄩㄣˊ | jyun | chün² | jyun2 | jyen2 | jyn陽 | jýn | jün2 | jiún | 峮莙箘 |
- | ㄐㄩㄣˇ | jeun | chün³ | jyun3 | jyen3 | jyn上 | jy̌n | jün3 | jiǔn | 囷菌窘稛僒箘輑麇攟䐃 |
- | ㄐㄩㄣˋ | jiunn | chün⁴ | jyun4 | jyen4 | jyn去 | jỳn | jün4 | jiùn | 呁囷郡捃莙菌窘僒箘蜠攈攗㻒 |
- | ㄑㄩㄣˊ | chyun | chʻün² | qyun2 | qyen2 | qyn陽 | qýn | qün2 | chiún | 宭帬裙羣群 |
- | ㄑㄩㄣˇ | cheun | chʻün³ | qyun3 | qyen3 | qyn上 | qy̌n | qün3 | chiǔn | 𧼐 |
- | ㄑㄩㄣˋ | chiunn | chʻün⁴ | qyun4 | qyen4 | qyn去 | qỳn | qün4 | chiùn | 𧼐 |
- | ㄒㄩㄣ | shiun | hsün¹ | xyun1 | xyen1 | xyn陰 | xȳn | xün1 | shiūn | 焄勛葷煇熏勳壎薰曛燻臐纁醺𡎖 |
- | ㄒㄩㄣˋ | shiunn | hsün⁴ | xyun4 | xyen4 | xyn去 | xỳn | xün4 | shiùn | 訓焌 |
+ | ㄐㄩㄣ | jiun | chün¹ | jyun1 | jyen1 | jyn陰 | jȳn | jūn | jiūn | 君均囷袀軍宭桾菌鈞碅皸蜠輑頵麇龜麕㽦 |
+ | ㄐㄩㄣˊ | jyun | chün² | jyun2 | jyen2 | jyn陽 | jýn | jún | jiún | 峮莙箘 |
+ | ㄐㄩㄣˇ | jeun | chün³ | jyun3 | jyen3 | jyn上 | jy̌n | jǔn | jiǔn | 囷菌窘稛僒箘輑麇攟䐃 |
+ | ㄐㄩㄣˋ | jiunn | chün⁴ | jyun4 | jyen4 | jyn去 | jỳn | jùn | jiùn | 呁囷郡捃莙菌窘僒箘蜠攈攗㻒 |
+ | ㄑㄩㄣˊ | chyun | chʻün² | qyun2 | qyen2 | qyn陽 | qýn | qún | chiún | 宭帬裙羣群 |
+ | ㄑㄩㄣˇ | cheun | chʻün³ | qyun3 | qyen3 | qyn上 | qy̌n | qǔn | chiǔn | 𧼐 |
+ | ㄑㄩㄣˋ | chiunn | chʻün⁴ | qyun4 | qyen4 | qyn去 | qỳn | qùn | chiùn | 𧼐 |
+ | ㄒㄩㄣ | shiun | hsün¹ | xyun1 | xyen1 | xyn陰 | xȳn | xūn | shiūn | 焄勛葷煇熏勳壎薰曛燻臐纁醺𡎖 |
+ | ㄒㄩㄣˋ | shiunn | hsün⁴ | xyun4 | xyen4 | xyn去 | xỳn | xùn | shiùn | 訓焌 |
  | ㄗㄩㄣ | tziun | tsün¹ | zyun1 | zyen1 | zyn陰 | zȳn | zün1 | tziūn | 逡竣踆 |
  | ㄗㄩㄣˋ | tziunn | tsün⁴ | zyun4 | zyen4 | zyn去 | zỳn | zün4 | tziùn | 俊峻浚晙梭畯睃葰儁餕濬駿鵔𪕞㑺 |
  | ㄘㄩㄣ | tsiun | tsʻün¹ | cyun1 | cyen1 | cyn陰 | cȳn | cün1 | tsiūn | 㕙 |
