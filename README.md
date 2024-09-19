@@ -7,6 +7,10 @@
 
 *注音格式：使用聲調符號表示聲調（不使用四聲點法），在字頭加上`·`表示輕音。可能同時寫出原聲調，例如「子」`·ㄗˇ`*
 
+[帶註釋的字音表（`bepemefeve.dict.yaml`）](bepemefeve.dict.yaml)
+
+[注音及各羅馬拼音對照](all_syllables.md)
+
 
 ### 目前支援的輸入方案
 - [國語羅馬字](#gr)
@@ -20,6 +24,8 @@
   - `./bepemefeve_iac_im.schema.yaml`
   - `./bepemefeve_iac_lt.schema.yaml`
 - [綺檐淸露：國音用漢語拼音](#tsinglou)
+  - `./bepemefeve_tsinglou.schema.yaml`
+- [Ruenn_L：Ruenn式國音拼音方案](#ruenn)
   - `./bepemefeve_tsinglou.schema.yaml`
 - [國語羅馬字（忽略聲調）](#gr_atonal)
   - `./bepemefeve_gr_atonal.schema.yaml`
@@ -121,6 +127,24 @@
 - 以 `+`鍵（⇧`=`）輸入 符號`+`（表示輕音）
 
 配方位置：`./bepemefeve_tsinglou.schema.yaml`\
+碼表位置：`./bepemefeve.dict.yaml`
+
+<a name="ruenn"></a>
+#### Ruenn_L：Ruenn式國音拼音方案
+
+提出者：[Ruenn_L（哔哩哔哩）](https://space.bilibili.com/23285950)
+
+以易懂爲原則、根據漢語拼音方案修改定制的拼音方案。
+- ㄫ、ㄬ 定爲 `ng`、`nj`
+- 入聲以 `ˆ` 表示
+- ㄗㄧ、ㄘㄧ、ㄙㄧ 定爲 `zii` `cii` `sii`
+- ㄝ 定爲 `ee`，不用漢語拼音的 `ê`
+
+輸入法說明：
+- 分別以數字鍵`6`、`7`、`8`、`9`、`0`輸入聲調：`ˉ`陰、`ˊ`陽、`ˇ`上、`ˋ`去、`ˆ`入
+- 以 大寫`U`鍵 輸入 `ü`
+
+配方位置：`./bepemefeve_ruenn.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
 
 
