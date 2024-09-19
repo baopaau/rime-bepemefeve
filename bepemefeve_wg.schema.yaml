@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_wg
   name: ㄅㄆㄇㄈㄪ：威翟式
-  version: '2024.09.16'
+  version: '2024.09.19'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -114,6 +114,7 @@ speller:
     
     - xform/^·(.*)$/$1·/
     - xlit/·ˉˊˇˋ˙/012345/
+    - xform/[1-5]0$/0/
 
     - xform/^un(?=[012345]|$)/wen/
     - xform/^ui(?=[012345]|$)/wei/
