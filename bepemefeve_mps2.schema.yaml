@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_mps2
   name: ㄅㄆㄇㄈㄪ：注音二式
-  version: '2024.09.17'
+  version: '2024.09.20'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -132,49 +132,6 @@ translator:
     - xform/(?<![ts])z/ᵗz/
     - xform/c(?!h)/cʰ/
     - xlit/67890/12345/
-    - xform ([aeiou])(ng?|r)([12345]) $1$3$2
-    - xform ([aeo])([iuo])([12345]) $1$3$2
-    - xform a1 ā
-    - xform a2 á
-    - xform a3 ǎ
-    - xform a4 à
-    - xform a5 ȧ
-    - xform e1 ē
-    - xform e2 é
-    - xform e3 ě
-    - xform e4 è
-    - xform e5 ė
-    - xform o1 ō
-    - xform o2 ó
-    - xform o3 ǒ
-    - xform o4 ò
-    - xform o5 ȯ
-    - xform i1 ī
-    - xform i2 í
-    - xform i3 ǐ
-    - xform i4 ì
-    # - xform i5 i
-    - xform u1 ū
-    - xform u2 ú
-    - xform u3 ǔ
-    - xform u4 ù
-    - xform u5 u̇
-    # - xform ê1 ê̄
-    # - xform ê2 ế
-    # - xform ê3 ê̌
-    # - xform ê4 ề
-    # - xform ê5 ê̇
-    - xform r1 r̄
-    - xform r2 ŕ
-    - xform r3 ř
-    - xform r4 r̀
-    - xform r5 ṙ
-    - xform z1 z̄
-    - xform z2 ź
-    - xform z3 ž
-    - xform z4 z̀
-    - xform z5 ż
-
     - xlit/12345/ˉˊˇˋ˙/
 
 custom_phrase:
