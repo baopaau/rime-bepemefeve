@@ -21,7 +21,7 @@
  | ㄗˇ | tzyy | tzŭ³ | tz3 | zi3 | zǐ | z3 (zw3) | zǐ | 子仔好姉姊杍胏呰秭籽耔茈虸笫梓啙紫滓訾訿緇鋅飺𠂔𩨱𩶆㧗 |
  | ㄗˋ | tzyh | tzŭ⁴ | tz4 | zi4 | zì | z4 (zw4) | zì | 字自扻事倳剚恣牸笫眥菑孳椔胔胾孶訿漬骴積𤿙𦎸𧙁𧧕㧗㧘㰣 |
  | ㄗ˙ | tzyq | tzŭ⁵ | tz5 | zi5 | zi | zq (zwq) | zî | 唧塉𡅺堲㗱㘉 |
- | ·ㄗˇ | .tzyy (tz) | tzŭ⁰ | tz | zi3 | +zǐ | z3 (zw3) | zǐ | 子 |
+ | ·ㄗˇ | .tzyy (tz) | tzŭ⁰ | tz | zi3 | +zǐ | z3 (zw3) | zi | 子 |
  | ㄘ | tsy | tzʻŭ¹ | tsz1 | ci1 | cī | c1 (cw1) | cī | 伺差茈玼疵嵯胔趑雌縒薋趦𪙉䛋 |
  | ㄘˊ | tsyr | tzʻŭ² | tsz2 | ci2 | cí | c2 (cw2) | cí | 祠茨茲瓷祟疵詞慈甆訾辞磁辤餈濨薺辭鶿𧓉𩆂㘂 |
  | ㄘˇ | tsyy | tzʻŭ³ | tsz3 | ci3 | cǐ | c3 (cw3) | cǐ | 子此佌泚玼疵跐鴜㠿 |
@@ -362,7 +362,7 @@
  | ㄇㄛˇ | moo | mo³ | mo3 | mo3 | mǒ | mo3 | mǒ | 麼嬤懡 |
  | ㄇㄛˋ | moh | mo⁴ | mo4 | mo4 | mò | mo4 | mò | 塺麼摩磨䃺 |
  | ㄇㄛ˙ | moq | mo⁵ | mo5 | mo5 | mȯ | moq | mô | 末佅圽沒皃妺帓抹歾歿沫茉昧眜秣莫袜眽鄚嗼寞幕摸漠瑁膜貌靺瘼瞙縸瀎藐邈蟔鏌饃𠇱𤣻𤲰𥬎𧂀𨘷𩎟𩢷㦝䀛䳮 |
- | ·ㄇㄛ˙ | .moq | mo⁰ | mo | mo5 | +mȯ | moq | mô | 末 |
+ | ·ㄇㄛ˙ | .moq | mo⁰ | mo | mo5 | +mȯ | moq | mo | 末 |
  | ㄈㄛˋ | foh | fo⁴ | fo4 | fo4 | fò | fo4 | fò | 縛 |
  | ㄈㄛ˙ | foq | fo⁵ | fo5 | fo5 | fȯ | foq | fô | 茷縛𩅿𩌏 |
  | ㄉㄛ | do | to¹ | do1 | do1 | dō | do1 | dō | 多哆 |
@@ -1655,4 +1655,4 @@
  | ㄦˊ | erl | êrh² | er2 | er2 | ér | er2 | ér | 而兒陑咡洏耏栭胹唲輀髵鮞鴯 |
  | ㄦˇ | eel | êrh³ | er3 | er3 | ěr | er3 | ěr | 尒耳迩洱珥爾鉺餌駬邇𪕔䋙 |
  | ㄦˋ | ell | êrh⁴ | er4 | er4 | èr | er4 | èr | 二弍佴刵咡洱毦珥衈貳誀鉺餌樲髶䎶 |
- | ·ㄦˊ | .erl | êrh⁰ | er | er2 | +ér | er2 | ér | 兒 |
+ | ·ㄦˊ | .erl | êrh⁰ | er | er2 | +ér | er2 | er | 兒 |
