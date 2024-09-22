@@ -39,7 +39,7 @@
  | ㄅㄧ | bi | pi¹ | bi1 | bi1 | bī | bi1 | bī | 芘卑俾悂狴庳梐萆悲椑蓖裨箄箆蔽豍篦螕錍鎞𦱔𨻼㡙 |
  | ㄅㄧˊ | byi | pi² | bi2 | bi2 | bí | bi2 | bí | 沘綼 |
  | ㄅㄧˇ | bii | pi³ | bi3 | bi3 | bǐ | bi3 | bǐ | 匕比夶朼佊否妣沘彼柀疪秕陛俾粃啚埤婢梐鄙骳貏髀𢔌𦸣󷟇㠲㪏䃾 |
- | ㄅㄧˋ | bih | pi⁴ | bi4 | bi4 | bì | bi4 | bì | 比自佊坒庇沘芘邲枇泌畀畁柲毖祔祕陛俾狴秘婢庳敝閇閉備跛彃痹痺蜌辟閟幣弊彆獙箄蔽鞁骳鼻幤獘髲嬖憊瞥薜避斃臂蹕髀鄨襣鷩𤹝𦌠𦸣㘩㵒㵨䀣䃾䠋䪐 |
+ | ㄅㄧˋ | bih | pi⁴ | bi4 | bi4 | bì | bi4 | bì | 比自佊坒庇沘芘邲枇泌畀畁苤柲毖祔祕陛俾狴秘婢庳敝閇閉備跛彃痹痺蜌辟閟幣弊彆獙箄蔽鞁骳鼻幤獘髲嬖憊瞥薜避斃臂蹕髀鄨襣鷩𤹝𦌠𦸣㘩㵒㵨䀣䃾䠋䪐 |
  | ㄅㄧ˙ | biq | pi⁵ | bi5 | bi5 | bi | biq | bî | 仏比必佖佛吡坒芘邲咇怭泌苾柲珌畢笔荸偪敝萆閇閉堛幅弻弼愎湢筆覕逼嗶彃楅滭煏腷蓽辟鉍飶幣熚碧綼蔽幤罼駜鴔壁擗篳縪薜觱踾避鮅鵖擘斃甓蹕璧鄨饆繴襞韠躃躄闢鷝鷩鼊𣝍𥻅𧫤𨌥𨚍㓖㧙㮿 |
  | ㄆㄧ | pi | pʻi¹ | pi1 | pi1 | pī | pi1 | pī | 丕伾批邳陂呸岯怌披狉狓砒秠紕被旇翍耚詖豾釽鈹鉟磇髬錍魾羆𠜱𧧺㮰㱟䲹 |
  | ㄆㄧˊ | pyi | pʻi² | pi2 | pi2 | pí | pi2 | pí | 皮仳阰枇毗毘疲笓蚍郫陴啤埤崥琵脾鈚裨膍蜱罷魮篦貔藣犤鼙𦳈㯅㼰 |
@@ -103,8 +103,6 @@
  | ㄙㄧˇ | sii | si³ | si3 | syi3 | siǐ | si3 | siǐ | 枲洗徙葈葸屣蓰諰壐蹝璽躧 |
  | ㄙㄧˋ | sih | si⁴ | si4 | syi4 | siì | si4 | siì | 氥細壻婿聟 |
  | ㄙㄧ˙ | siq | si⁵ | si5 | syi5 | sii | siq | siî | 夕卌圾汐昔析矽穸怸席息悉惜晢淅習菥晰晳皙腊舃舄鄎僁媳蒠蓆裼嶍慴熄緆蜥槢潟澙瘜膝窸臈褶錫隰磶蟋謵鎴鏭霫飁騽襲鰼𢕬𢘻𥱵𪅽㫺 |
- | ㄨㄧ | ui | wei¹ | wui1 | wui1 | wuī | ui1 | wēi | 衤 |
- | ㄨㄧˋ | wih | wei⁴ | wui4 | wui4 | wuì | ui4 | wèi | 衤 |
  | ㄨ | u | wu¹ | wu1 | wu1 | wū | u1 | wū | 于圬汙汚污扵杇於洿烏莁悪窏惡鄔嗚摀僫歍瑦鴮鎢惡 |
  | ㄨˊ | wu | wu² | wu2 | wu2 | wú | u2 | wú | 亡亾无毋吳吴吾呉巫郚唔峿洖浯梧無虞蜈誣廡憮蕪璑瞴鼯󰊚㻍䍢䓊 |
  | ㄨˇ | wuu | wu³ | wu3 | wu3 | wǔ | u3 | wǔ | 五午仵伍忤迕拊旿武玝侮啎娬捬珷鄔隖嵨碔隝瑦舞嫵廡憮撫潕鋘儛橆甒膴瞴蘁鵡𢜮㐅㦍 |
@@ -120,7 +118,6 @@
  | ㄆㄨˇ | puu | pʻu³ | pu3 | pu3 | pǔ | pu3 | pǔ | 圃浦普溥蔀諩譜鐠䲕 |
  | ㄆㄨˋ | puh | pʻu⁴ | pu4 | pu4 | pù | pu4 | pù | 圃圑酺舖舗鋪 |
  | ㄆㄨ˙ | puq | pʻu⁵ | pu5 | pu5 | pu̇ | puq | pû | 仆攴扑菩蒪僕墣幞撲暴瀑曝轐醭鏷𢷏暴 |
- | ㄇㄨ | mhu | mu¹ | mu1 | mu1 | mū | mu1 | mū | 拊 |
  | ㄇㄨˊ | mu | mu² | mu2 | mu2 | mú | mu2 | mú | 奴母拊嫫摸摹模膜撫謨譕 |
  | ㄇㄨˇ | muu | mu³ | mu3 | mu3 | mǔ | mu3 | mǔ | 母姆拇姥畆畒畝畞畮媽鉧𤱔𧬏䥈䳇 |
  | ㄇㄨˋ | muh | mu⁴ | mu4 | mu4 | mù | mu4 | mù | 姆莫募墓慔楘蓩慕暮䥈 |
@@ -155,7 +152,7 @@
  | ㄎㄨˋ | kuh | kʻu⁴ | ku4 | ku4 | kù | ku4 | kù | 苦绔庫胯袴絝綯褲骻 |
  | ㄎㄨ˙ | kuq | kʻu⁵ | ku5 | ku5 | ku̇ | kuq | kû | 泏矻俈哭捁堀硞窟酷嚳𩑡𩨳㲉㵠䍍 |
  | ㄫㄨ˙ | nguq | ngu⁵ | ngu5 | ngu5 | ngu̇ | nguq | ngû | 𤛹 |
- | ㄏㄨ | hu | hu¹ | hu1 | hu1 | hū | hu1 | hū | 乎虍呼虖軤嘑滹幠戯撫魱戱膴戲謼 |
+ | ㄏㄨ | hu | hu¹ | hu1 | hu1 | hū | hu1 | hū | 乎虍呼拊虖軤嘑滹幠戯撫魱戱膴戲謼 |
  | ㄏㄨˊ | hwu | hu² | hu2 | hu2 | hú | hu2 | hú | 乎呼弧狐胡壷瓠虖壺湖猢葫楜瑚箶糊蝴衚醐餬謼鬍鶘鶦𤬄𧍵㗅 |
  | ㄏㄨˇ | huu | hu³ | hu3 | hu3 | hǔ | hu3 | hǔ | 乕岵怙虎扈楛琥虝鄠滬滸󸻬 |
  | ㄏㄨˋ | huh | hu⁴ | hu4 | hu4 | hù | hu4 | hù | 互戶戸冱芐沍沪呼岵怙戽昈枑祚获婟扈瓠楛雇鄠僱嘑嫭滬戯鳸戱擭濩膴戲檴簄雘穫謼護韄頀鱯𡻮𣶉𤬄䨼 |
@@ -218,9 +215,7 @@
  | ㄒㄩˇ | sheu | hsü³ | shiu3 | xyu3 | xy̌ | xy3 | xǔ | 侐姁咻昫冔栩珝訏許喣煦詡鄦憮膴 |
  | ㄒㄩˋ | shiuh | hsü⁴ | shiu4 | xyu4 | xỳ | xy4 | xù | 休吁侐呴姁昫酗煦嘔慪噓龥籲 |
  | ㄒㄩ˙ | shiuq | hsü⁵ | shiu5 | xyu5 | xẏ | xyq | xû | 旭旮旯侐朐洫砉胊殈畜勖勗朂欻慉搐蓄頊盢瞁獝稸瞲㤜㗵㷦䙒䛙 |
- | ㄕㄩˇ | sheu | shü³ | shiu3 | shyu3 | shy̌ | sry3 | shǚ | 豫 |
  | ㄗㄩ | tziu | tsü¹ | tziu1 | zyu1 | zȳ | zy1 | zǖ | 且咀岨沮狙苴疽砠罝菹蛆趄觜雎嘴䏣䢸 |
- | ㄗㄩˊ | tzyu | tsü² | tziu2 | zyu2 | zý | zy2 | zǘ | 嘴 |
  | ㄗㄩˇ | tzeu | tsü³ | tziu3 | zyu3 | zy̌ | zy3 | zǚ | 咀沮苴疽嘴𤿚 |
  | ㄗㄩˋ | tziuh | tsü⁴ | tziu4 | zyu4 | zỳ | zy4 | zǜ | 足怚沮狙苴冣埾耝聚蜡䏣 |
  | ㄘㄩ | tsiu | tsʻü¹ | tsiu1 | cyu1 | cȳ | cy1 | cǖ | 取蛆趋趍趣趨鯫騶 |
@@ -308,6 +303,7 @@
  | ㄧㄚˇ | yea | ya³ | ya3 | ya3 | yǎ | ia3 | yǎ | 匹疋厊亜庌亞疨唖啞婭雅瘂 |
  | ㄧㄚˋ | yah | ya⁴ | ya4 | ya4 | yà | ia4 | yà | 襾西覀亜庌迓亞枒砑唖啞婭訝御復氬閕輅覆齖 |
  | ㄧㄚ˙ | yaq | ya⁵ | ya5 | ya5 | yȧ | iaq | yâ | 圠凹圧阿押軋浥淹揠焱腌圔罨閘厭碣輵鴨壓魘讞𡇼𤝱𨂁䆘䝟䦪 |
+ | ㄅㄧㄚ˙ | biaq | pia⁵ | bia5 | bia5 | biȧ | biaq | biâ | 驫 |
  | ㄊㄧㄚ˙ | tiaq | tʻia⁵ | tia5 | tia5 | tiȧ | tiaq | tiâ | 嬥 |
  | ㄌㄧㄚˇ | lea | lia³ | lia3 | lia3 | liǎ | lia3 | liǎ | 倆𢎏 |
  | ㄐㄧㄚ | jia | chia¹ | jia1 | jia1 | jiā | jia1 | jiā | 加伽宊佳咖茄迦枷珈家痂笳耞袈傢猳葭跏幏犌嘉瘕豭鴐鎵麚𧉪𧛣 |
@@ -315,7 +311,7 @@
  | ㄐㄧㄚˋ | jiah | chia⁴ | jia4 | jia4 | jià | jia4 | jià | 仮价価叚架假斝嫁幏賈榢瘕價稼駕 |
  | ㄐㄧㄚ˙ | jiaq | chia⁵ | jia5 | jia5 | jiȧ | jiaq | jiâ | 介甲圿夾扴岬押俠尜柙砎胛郟陜陝恝浹戛梜硈秸袷戞揳猰筴鉀閘嘎稭鞂擖頡頬獥頰鴶鵊蹺蹻鬝鸄𥑐𪈙 |
  | ㄑㄧㄚ | chia | chʻia¹ | chia1 | qia1 | qiā | qia1 | qiā | 㤉䶗 |
- | ㄑㄧㄚˊ | chya | chʻia² | chia2 | qia2 | qiá | qia2 | qiá | 茄 |
+ | ㄑㄧㄚˊ | chya | chʻia² | chia2 | qia2 | qiá | qia2 | qiá | 伽茄 |
  | ㄑㄧㄚˇ | chea | chʻia³ | chia3 | qia3 | qiǎ | qia3 | qiǎ | 卡 |
  | ㄑㄧㄚ˙ | chiaq | chʻia⁵ | chia5 | qia5 | qiȧ | qiaq | qiâ | 帢恰掐袷屩蹺𥴭㓤 |
  | ㄬㄧㄚ˙ | gniaq | ʻnia⁵ | gnia5 | njia5 | gniȧ | njiaq (niaq) | njiâ | 痆袅嫋裊嬝𧬬䎎 |
@@ -425,7 +421,7 @@
  | ㄧㄛ | io | yo¹ | yo1 | yo1 | yō | io1 | yō | 喲 |
  | ㄧㄛˋ | yoh | yo⁴ | yo4 | yo4 | yò | io4 | yò | 瀹 |
  | ㄧㄛ˙ | yoq | yo⁵ | yo5 | yo5 | yȯ | ioq | yô | 礿岳囿約唷唹喲葯敫楽樂薬嶽龠藥瀹蘥爚禴趯躍籥鑰鸑樂 |
- | ㄌㄧㄛˋ | lioh | lio⁴ | lio4 | lio4 | liò | lio4 | liò | 掠 |
+ | ㄇㄧㄛ˙ | mioq | mio⁵ | mio5 | mio5 | miȯ | mioq | miô | 覭 |
  | ㄌㄧㄛ˙ | lioq | lio⁵ | lio5 | lio5 | liȯ | lioq | liô | 掠略畧㗉掠 |
  | ㄐㄧㄛ˙ | jioq | chio⁵ | jio5 | jio5 | jiȯ | jioq | jiô | 甪角珏斍桷梏脚傕覚搉腳較榷瑴觳覺㕁 |
  | ㄑㄧㄛ˙ | chioq | chʻio⁵ | chio5 | qio5 | qiȯ | qioq | qiô | 却卻埆悫愨榷毃慤確碻㕁 |
@@ -541,7 +537,6 @@
  | ㄧㄝˇ | yee | yeh³ | ye3 | ye3 | yeh3 | ie3 | yě | 也冶虵埜野擪 |
  | ㄧㄝˋ | yeh | yeh⁴ | ye4 | ye4 | yeh4 | ie4 | yè | 也夜亱射鵺䠶 |
  | ㄧㄝ˙ | yeq | yeh⁵ | ye5 | ye5 | yeh5 | ieq | yê | 咽頁偞焆殗葉暍楪業厭曄燁噎曅鄴嶪嶫謁閼嚈鍱擪爗饁蠮靨𠉪𣩫𤾼𩸆䊦䌜䧨葉咽 |
- | ㄅㄧㄝˋ | bieh | pieh⁴ | bie4 | bie4 | bieh4 | bie4 | biè | 苤 |
  | ㄅㄧㄝ˙ | bieq | pieh⁵ | bie5 | bie5 | bieh5 | bieq | biê | 別苤苾莂撇馝憋瞥襒蟞蹩癟鱉鷩鼈虌龞𧧸㢼㧙㿜䘷䳤 |
  | ㄆㄧㄝˇ | piee | pʻieh³ | pie3 | pie3 | pieh3 | pie3 | piě | 丿 |
  | ㄆㄧㄝ˙ | pieq | pʻieh⁵ | pie5 | pie5 | pieh5 | pieq | piê | 丿姂苤嫳撇撆瞥蟞䠥 |
@@ -769,7 +764,7 @@
  | ㄆㄠˊ | paur | pʻao² | pau2 | pau2 | páo | pau2 | páo | 刨咆庖炮炰瓟砲袍匏掊跑鉋鞄颮麃謈𨛬 |
  | ㄆㄠˇ | pao | pʻao³ | pau3 | pau3 | pǎo | pau3 | pǎo | 跑 |
  | ㄆㄠˋ | paw | pʻao⁴ | pau4 | pau4 | pào | pau4 | pào | 拋咆奅泡炮炰疱皰砲靤鞄颮礟礮𣚇𨠖 |
- | ㄇㄠ | mhau | mao¹ | mau1 | mau1 | māo | mau1 | māo | 猫貓 |
+ | ㄇㄠ | mhau | mao¹ | mau1 | mau1 | māo | mau1 | māo | 喵猫貓 |
  | ㄇㄠˊ | mau | mao² | mau2 | mau2 | máo | mau2 | máo | 毛杔芼泖牦茅秏旄耗喵媌猫軞酕堥髦氂犛蝥貓錨蟊𣹪䭷 |
  | ㄇㄠˇ | mao | mao³ | mau3 | mau3 | mǎo | mau3 | mǎo | 冃夭卯夘峁戼殀泖茅茆昴媢䒢 |
  | ㄇㄠˋ | maw | mao⁴ | mau4 | mau4 | mào | mau4 | mào | 冃皃芼冐冒眊秏旄耄耗媢帽毷瑁貌貎𣔺𪃑䋃䑵䒢 |
@@ -1200,9 +1195,7 @@
  | ㄈㄣˊ | fern | fên² | fen2 | fen2 | fén | fen2 | fén | 坆坟妢弅汾朌枌秎羒蚡棼焚賁頒墳幩濆蕡魵燔鼢羵鼖豶轒黂 |
  | ㄈㄣˇ | feen | fên³ | fen3 | fen3 | fěn | fen3 | fěn | 扮忿粉憤鼢 |
  | ㄈㄣˋ | fenn | fên⁴ | fen4 | fen4 | fèn | fen4 | fèn | 分份坋坌弅抃忿拚秎彬僨墳憤濆魵奮膹餴糞鼢羵轒瀵𤘝㿎 |
- | ㄊㄣ | ten | tʻên¹ | ten1 | ten1 | tēn | ten1 | tēn | 女 |
- | ㄊㄣˊ | tern | tʻên² | ten2 | ten2 | tén | ten2 | tén | 女 |
- | ㄊㄣˇ | teen | tʻên³ | ten3 | ten3 | těn | ten3 | těn | 尿脲尿 |
+ | ㄊㄣ | ten | tʻên¹ | ten1 | ten1 | tēn | ten1 | tēn | 女女 |
  | ㄍㄣ | gen | kên¹ | gen1 | gen1 | gēn | gen1 | gēn | 夲根跟 |
  | ㄍㄣˇ | geen | kên³ | gen3 | gen3 | gěn | gen3 | gěn | 䫀 |
  | ㄍㄣˋ | genn | kên⁴ | gen4 | gen4 | gèn | gen4 | gèn | 艮茛鞎 |
@@ -1280,7 +1273,7 @@
  | ㄉㄨㄣˋ | duenn | tun⁴ | duen4 | dun4 | duèn | duen4 (dun4) | dùn | 忳盹盾敦遁鈍頓蜳遯噸燉 |
  | ㄊㄨㄣ | tuen | tʻun¹ | tuen1 | tun1 | tuēn | tuen1 (tun1) | tūn | 吞呑迍窀涒焞暾𧑒𪏆 |
  | ㄊㄨㄣˊ | twen | tʻun² | tuen2 | tun2 | tuén | tuen2 (tun2) | tún | 屯囤庉忳芚純啍豘豚軘敦飩燉臀 |
- | ㄊㄨㄣˇ | toen | tʻun³ | tuen3 | tun3 | tuěn | tuen3 (tun3) | tǔn | 氽黗 |
+ | ㄊㄨㄣˇ | toen | tʻun³ | tuen3 | tun3 | tuěn | tuen3 (tun3) | tǔn | 氽尿脲黗尿 |
  | ㄊㄨㄣˋ | tuenn | tʻun⁴ | tuen4 | tun4 | tuèn | tuen4 (tun4) | tùn | 伅囤坉庉沌純飩褪 |
  | ㄋㄨㄣˊ | nuen | nun² | nuen2 | nun2 | nuén | nuen2 (nun2) | nún | 黁 |
  | ㄋㄨㄣˇ | noen | nun³ | nuen3 | nun3 | nuěn | nuen3 (nun3) | nǔn | 㶧 |
@@ -1337,13 +1330,16 @@
  | ㄑㄩㄣˋ | chiunn | chʻün⁴ | chiun4 | qyun4 | qỳn | qyen4 (qyn4) | qùn | 𧼐 |
  | ㄒㄩㄣ | shiun | hsün¹ | shiun1 | xyun1 | xȳn | xyen1 (xyn1) | xūn | 坃焄勛葷塤煇熏勲勳薫壎薰曛燻臐壦纁醺𡎖 |
  | ㄒㄩㄣˋ | shiunn | hsün⁴ | shiun4 | xyun4 | xỳn | xyen4 (xyn4) | xùn | 訓焌馴 |
- | ㄗㄩㄣ | tziun | tsün¹ | tziun1 | zyun1 | zȳn | zyen1 (zyn1) | zün1 | 逡竣踆蹲 |
+ | ㄗㄩㄣ | tziun | tsün¹ | tziun1 | zyun1 | zȳn | zyen1 (zyn1) | zün1 | 逡踆蹲 |
  | ㄗㄩㄣˋ | tziunn | tsün⁴ | tziun4 | zyun4 | zỳn | zyen4 (zyn4) | zün4 | 俊峻浚晙梭畯睃葰儁餕濬駿鵔𪕞㑺㕙 |
- | ㄘㄩㄣ | tsiun | tsʻün¹ | tsiun1 | cyun1 | cȳn | cyen1 (cyn1) | cün1 | 㕙 |
+ | ㄘㄩㄣ | tsiun | tsʻün¹ | tsiun1 | cyun1 | cȳn | cyen1 (cyn1) | cün1 | 竣㕙 |
+ | ㄘㄩㄣˊ | tsyun | tsʻün² | tsiun2 | cyun2 | cýn | cyen2 (cyn2) | cün2 | 㕙 |
+ | ㄘㄩㄣˋ | tsiunn | tsʻün⁴ | tsiun4 | cyun4 | cỳn | cyen4 (cyn4) | cün4 | 㕙 |
  | ㄙㄩㄣ | siun | sün¹ | siun1 | syun1 | sȳn | syen1 (syn1) | sün1 | 郇洵荀迿笋筍詢 |
  | ㄙㄩㄣˊ | syun | sün² | siun2 | syun2 | sýn | syen2 (syn2) | sün2 | 廵巡旬峋徇恂狥紃悛栒殉珣眴循遁馴㵌 |
  | ㄙㄩㄣˋ | siunn | sün⁴ | siun4 | syun4 | sỳn | syen4 (syn4) | sün4 | 侚徇狥迿殉訓眴馴 |
  | ㄤ | ang | ang¹ | ang1 | ang1 | āng | ang1 | āng | 咉姎腌骯 |
+ | ㄤˊ | arng | ang² | ang2 | ang2 | áng | ang2 | áng | 姎 |
  | ㄤˇ | aang | ang³ | ang3 | ang3 | ǎng | ang3 | ǎng | 咉姎泱盎𨠗 |
  | ㄤˋ | anq | ang⁴ | ang4 | ang4 | àng | ang4 | àng | 姎柍盎醠 |
  | ㄅㄤ | bang | pang¹ | bang1 | bang1 | bāng | bang1 | bāng | 邦垹帮泵旁梆邫幇彭搒蒡幚幫鎊󰭞䩷 |
