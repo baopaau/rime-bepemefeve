@@ -80,7 +80,7 @@
 
 
 <a name="mps2"></a>
-#### 國語注音符號第二式
+### 國語注音符號第二式
 *英文：Mandarin Phonetic Symbols II (MPS II)*
 
 拼音方案詳見 [國語注音符號第二式 介紹](https://language.moe.gov.tw/001/Upload/files/site_content/M0001/er/cmain.htm)
