@@ -1414,7 +1414,7 @@
  | ㄧㄤˊ | yang | yang² | yang2 | yang2 | yáng | iang2 | yáng | 卬卭羊阦阳佯徉昜洋烊痒陽崵愓揚晹蛘敭暘楊煬瑒禓瘍鍚颺鰑㦹 |
  | ㄧㄤˇ | yeang | yang³ | yang3 | yang3 | yǎng | iang3 | yǎng | 仰佒坱怏氧痒蛘詇様鞅養樣駚懩癢㔦 |
  | ㄧㄤˋ | yanq | yang⁴ | yang4 | yang4 | yàng | iang4 | yàng | 仰坱怏恙烊痒羕蛘煬様漾鞅養樣瀁颺𣻌㺊 |
- | ㄅㄧㄤˊ | byang | piang² | biang2 | biang2 | biáng | biang2 | biáng | 𰻞 |
+ | ㄅㄧㄤˊ | byang | piang² | biang2 | biang2 | biáng | biang2 | biáng | 𰻝𰻞 |
  | ㄌㄧㄤˊ | liang | liang² | liang2 | liang2 | liáng | liang2 | liáng | 良亮俍凉梁涼椋渿量粮粱踉樑諒輬糧𩗬䣼鿄亮凉梁良量 |
  | ㄌㄧㄤˇ | leang | liang³ | liang3 | liang3 | liǎng | liang3 | liǎng | 両两兩倆掚裲輌緉蜽輛魎兩 |
  | ㄌㄧㄤˋ | lianq | liang⁴ | liang4 | liang4 | liàng | liang4 | liàng | 両两兩亮倞凉哴悢掠涼喨晾量緉踉諒䣼掠亮兩凉量 |

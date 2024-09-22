@@ -29,7 +29,7 @@
 
 ---
 name: guoqlo
-version: "2024.09.21b"
+version: "2024.09.22"
 sort: be_weight
 use_preset_vocabulary: true
 ...
@@ -19871,6 +19871,7 @@ use_preset_vocabulary: true
 颺	yanq	10%		#《校》喻ⁿ齊ʰ平陽又去ᵈ漾ʸ（戌編二十頁）《學》音陽（Yang）平聲亦讀去聲義同
 𣻌	yanq	0%		#《學》俗漾字
 㺊	yanq	#*		#《校》準恙．去ᵈ漾ʸ（巳編二十四頁）
+𰻝	byang	0%		#《＊》𰻞的簡化字
 𰻞	byang	#*		#《＊》𰻞𰻞麪（一種陝西麪食）
 良	liang	84%		#《韻》字彙《校》來ⁿ齊ʰ平ᵈ陽ʸ（未編二十八頁）《學》離陽切（Liang）平聲
 亮	liang	#*		#《維》老國音審音字庫
