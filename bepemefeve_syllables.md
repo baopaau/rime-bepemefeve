@@ -1,5 +1,6 @@
  | <div style="width:50px">注音</div> | <div style="width:60px">G.R.</div> | <div style="width:50px">W.G.</div> | <div style="width:50px">MPS II</div> | <div style="width:50px">趙拼</div> | <div style="width:50px">混合式</div> | <div style="width:50px">Ruenn</div> | <div style="width:120px">iac轉寫</div> | <div style="width:1600px">同音字</div> |
  | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+ | ·ㄏㄫ | .hng | hng⁰ | hng | hng | +hng | hng | hng | 哼 |
  | ㄓ | jy | chih¹ | jr1 | zhi1 | zhī | zhī | zr1 (zrw1) | 之支止氏卮只芝巵枝知肢郅栀祖秖胑胝衹衼脂硃跂搘榰蜘鳷觶鼅㩼 |
  | ㄓˊ | jyr | chih² | jr2 | zhi2 | zhí | zhí | zr2 (zrw2) | 荎 |
  | ㄓˇ | jyy | chih³ | jr3 | zhi3 | zhǐ | zhǐ | zr3 (zrw3) | 夂子止只氐旨阯厎址帋扺沚芷坻抵祉咫指枳洔砋栺疻砥紙畤訨趾傂軹黹滍徴徵𣲵𪑜㨖䋾䳅 |
@@ -15,6 +16,7 @@
  | ㄕˇ | shyy | shih³ | shr3 | shi3 | shǐ | shǐ | sr3 (srw3) | 史市矢乨弛亊豕事使始兘屎恃施狧畤痑笶駛諟矖纚𡰯𣐈䑛視 |
  | ㄕˋ | shyh | shih⁴ | shr4 | shi4 | shì | shì | sr4 (srw4) | 士氏礻世丗仕市示似卋亊叓事使侍呩始柹沶恃施是昰枾柿眂栜眎眡舐逝視豉媞貰勢嗜弒筮蒔試鈰舓褆誓僿駛噬澨諟諡遾謚鍦簭矋矖襹𢗗𢨪𤜣𥫴𧳅𨸝𩰢𱍐󰖂㒾㡜㳏䑛䟡 |
  | ㄕ˙ | shyq | shih⁵ | shr5 | shi5 | shi | shî | srq (srwq) | 十饣什失石妁式瓧竍実籵飠兙室拭拾祏食宲射栻液釈寔湿溼睗軾飾實碩蝕適奭餙餝檡濕螫鼫識襫釋𡣪𥼶𧄹𧊖𩋡䁺䄷䠶䦹拾什 |
+ | ·ㄕˋ | .shyh (sh) | shih⁰ | shr | shi4 | +shì | shi | sr4 (srw4) | 是 |
  | ㄖ˙ | ryq | jih⁵ | r5 | ri5 | ri | rî | rq (rwq) | 日氜釰臸鈤馹 |
  | ㄗ | tzy | tzŭ¹ | tz1 | zi1 | zī | zī | z1 (zw1) | 仔吱孜甾茊兹咨姿耔茲玆淄菑谘嗞孳嵫椔滋粢鄑孶訾貲資緇賫輜鼒澬諮錙髭鎡頿蟕鯔鶅齍鰦齎𧕓𨝳𪗋䆅䖪 |
  | ㄗˊ | tzyr | tzŭ² | tz2 | zi2 | zí | zí | z2 (zw2) | 訿骴 |
@@ -103,6 +105,7 @@
  | ㄙㄧˇ | sii | si³ | si3 | syi3 | siǐ | siǐ | si3 | 枲洗徙葈葸屣蓰諰壐蹝璽躧 |
  | ㄙㄧˋ | sih | si⁴ | si4 | syi4 | siì | siì | si4 | 氥細壻婿聟 |
  | ㄙㄧ˙ | siq | si⁵ | si5 | syi5 | sii | siî | siq | 夕卌圾汐昔析矽穸怸席息悉惜晢淅習菥晰晳皙腊舃舄鄎僁媳蒠蓆裼嶍慴熄緆蜥槢潟澙瘜膝窸臈褶錫隰磶蟋謵鎴鏭霫飁騽襲鰼𢕬𢘻𥱵𪅽㫺 |
+ | ·ㄧ˙ | .yiq | yi⁰ | yi | yi5 | +yi | yi | iq | 一 |
  | ㄨ | u | wu¹ | wu1 | wu1 | wū | wū | u1 | 于圬汙汚污扵杇於洿烏莁悪窏惡鄔嗚摀僫歍瑦鴮鎢惡 |
  | ㄨˊ | wu | wu² | wu2 | wu2 | wú | wú | u2 | 亡亾无毋吳吴吾呉巫郚唔峿洖浯梧無虞蜈誣廡憮蕪璑瞴鼯󰊚㻍䍢䓊 |
  | ㄨˇ | wuu | wu³ | wu3 | wu3 | wǔ | wǔ | u3 | 五午仵伍忤迕拊旿武玝侮啎娬捬珷鄔隖嵨碔隝瑦舞嫵廡憮撫潕鋘儛橆甒膴瞴蘁鵡𢜮㐅㦍 |
@@ -235,6 +238,7 @@
  | ㄅㄚˋ | bah | pa⁴ | ba4 | ba4 | bà | bà | ba4 | 叭厾伯弝把杷爸垻罢耙靶罷覇霸壩灞欛𥝧󷆏 |
  | ㄅㄚ˙ | baq | pa⁵ | ba5 | ba5 | bȧ | bâ | baq | 八叭扒犮朳抜芘坺妭拔茇胈荅捌畗畣菝答跋鈸瘩蔽颰馛骲魃暴犦㭭䪁䶂暴 |
  | ·ㄅㄚ | .ba | pa⁰ | ba | ba | +ba | ba | ba | 吧 |
+ | ·ㄅㄚˋ | .bah | pa⁰ | ba | ba4 | +bà | ba | ba4 | 罷 |
  | ㄆㄚ | pa | pʻa¹ | pa1 | pa1 | pā | pā | pa1 | 巴乓芭趴笆 |
  | ㄆㄚˊ | par | pʻa² | pa2 | pa2 | pá | pá | pa2 | 扒爬趴跁琶 |
  | ㄆㄚˋ | pah | pʻa⁴ | pa4 | pa4 | pà | pà | pa4 | 帊帕怕跁 |
@@ -384,6 +388,7 @@
  | ㄌㄛˇ | loo | lo³ | lo3 | lo3 | lǒ | lǒ | lo3 | 㔏 |
  | ㄌㄛˋ | loh | lo⁴ | lo4 | lo4 | lò | lò | lo4 | 砢邏邏 |
  | ㄌㄛ˙ | loq | lo⁵ | lo5 | lo5 | lȯ | lô | loq | 艻玏泊泺咯洛洜烙珞硌袼笿絡落楽詻酪馲犖雒樂錴駱鮥鵅濼礐躒鰳𤻲𥖪𩊚𪇱樂洛烙珞落酪駱 |
+ | ·ㄌㄛ˙ | .loq | lo⁰ | lo | lo5 | +lȯ | lo | loq | 咯 |
  | ㄍㄛ | go | ko¹ | go1 | go1 | gō | gō | go1 | 戈过牁牱哥舸菏過滒歌鴚擱謌㢦䔅 |
  | ㄍㄛˇ | goo | ko³ | go3 | go3 | gǒ | gǒ | go3 | 哿笴舸𥰮 |
  | ㄍㄛˋ | goh | ko⁴ | go4 | go4 | gò | gò | go4 | 个個笴菏箇 |
@@ -402,6 +407,7 @@
  | ㄏㄛˋ | hoh | ho⁴ | ho4 | ho4 | hò | hò | ho4 | 何诃呵咊和凅荷涸訶賀嗬龢𧬂 |
  | ㄏㄛ˙ | hoq | ho⁵ | ho5 | ho5 | hȯ | hô | hoq | 合匌郃垎挌曷狢盇郝凅害格欱盍隺涸盒喝嵑愒豞嗃嗑廅暍毼蒚貉阖熇褐閤蝎頜螛壑藃謞轄闔鞨蠚鶡皬矐鶴齃𠗂𢅰𣣹𦞦𩌊㧁䚂䢔 |
  | ㄓㄛ˙ | joq | cho⁵ | jo5 | zho5 | zhȯ | zhô | zroq | 勺妁芍灼拓矺斫籷桌烵酌啄着著斮棹焯摭箸礋襗繳蠌鸅齺拓著 |
+ | ·ㄓㄛ˙ | .joq | cho⁰ | jo | zho5 | +zhȯ | zho | zroq | 着著 |
  | ㄔㄛ | cho | chʻo¹ | cho1 | cho1 | chō | chō | cro1 | 婼 |
  | ㄔㄛ˙ | choq | chʻo⁵ | cho5 | cho5 | chȯ | chô | croq | 辶辵婥婼逴綽踔戳繛䞣 |
  | ㄕㄛ˙ | shoq | sho⁵ | sho5 | sho5 | shȯ | shô | sroq | 勺汋芍杓栜索鈒摵爍譅飋鑠𡩡𢱢𤁧索 |
@@ -501,6 +507,7 @@
  | ㄊㄜ˙ | teq | tʻê⁵ | te5 | teo5 | tė | tê | teoq (teq) | 忑忒特貣慝鋱螣蟘 |
  | ㄌㄜ˙ | leq | lê⁵ | le5 | leo5 | lė | lê | leoq (leq) | 仂阞扐朸肋泐勒働鰳勒肋 |
  | ·ㄌㄜ | .le (l) | lê⁰ | le | leo | +le | le | leo (le) | 了了 |
+ | ·ㄌㄜ˙ | .leq | lê⁰ | le | leo5 | +lė | le | leoq (leq) | 勒ㄌ |
  | ㄍㄜ˙ | geq | kê⁵ | ge5 | geo5 | gė | gê | geoq (geq) | 肐疙挌虼革核格胳鬲裓隔嗝滆搿槅膈骼鎘覈𢯹 |
  | ·ㄍㄜ | .ge (g) | kê⁰ | ge | geo | +ge | ge | geo (ge) | 个個箇 |
  | ㄎㄜ˙ | keq | kʻê⁵ | ke5 | keo5 | kė | kê | keoq (keq) | 可克刻剋咯咳客恪尅氪喀揢詻磕 |
@@ -514,7 +521,9 @@
  | ㄕㄜ˙ | sheq | shê⁵ | she5 | sheo5 | shė | shê | sreoq (sreq) | 什虱渋瑟翜歰蜶槭澁蝨濇澀璱蟀瀒譅㒊什 |
  | ㄗㄜ˙ | tzeq | tsê⁵ | tze5 | zeo5 | zė | zê | zeoq (zeq) | 仄咋昃則柞荝窄側唶戝笮蚱責萴債賊嘖幘簀蠈鰂鱡㳁 |
  | ㄘㄜ˙ | tseq | tsʻê⁵ | tse5 | ceo5 | cė | cê | ceoq (ceq) | 冊册厕栅畟厠廁惻測策筞筴墄𠕋𡍫 |
+ | ·ㄘㄜˋ | .tseh (ts) | tsʻê⁰ | tse | ceo4 | +cè | ce | ceo4 (ce4) | 啐 |
  | ㄙㄜ˙ | seq | sê⁵ | se5 | seo5 | sė | sê | seoq (seq) | 色渋訴嗇塞寨愬銫澁嬙濇薔澀瀒穡轖㥶塞 |
+ | ·ㄜ˙ | .eq | ê⁰ | e | eo5 | +ė | e | eoq (eq) | 呃 |
  | ㄓㄝ | jè | cheh¹ | jê1 | zhe1 | zheh1 | zheē | zre1 | 遮 |
  | ㄓㄝˇ | jèè | cheh³ | jê3 | zhe3 | zheh3 | zheě | zre3 | 者堵褚赭者 |
  | ㄓㄝˋ | jèh | cheh⁴ | jê4 | zhe4 | zheh4 | zheè | zre4 | 这炙柘這蔗蟅鷓齰䗪炙 |
@@ -594,7 +603,7 @@
  | ㄒㄩㄝ˙ | shiueq | hsüeh⁵ | shiue5 | xyue5 | xyeh5 | xuê | xyeq | 穴决血吷泬狘烕瞲鞾𥄎䆷䎀䬂 |
  | ㄗㄩㄝ˙ | tziueq | tsüeh⁵ | tziue5 | zyue5 | zyeh5 | züê | zyeq | 绝絕絶蕝 |
  | ㄙㄩㄝ˙ | siueq | süeh⁵ | siue5 | syue5 | syeh5 | süê | syeq | 雪踅薛鱈㿱 |
- | ·ㄝ | .è | eh⁰ | ê | e | +eh | ee | e | 欸誒ㄝ |
+ | ·ㄝ | .è | eh⁰ | ê | e | +eh | ee | e | 欸ㄝ |
  | ㄞ | ai | ai¹ | ai1 | ai1 | āi | āi | ai1 | 哎哀诶唉埃挨唲欸誒噯㶼 |
  | ㄞˇ | ae | ai³ | ai3 | ai3 | ǎi | ǎi | ai3 | 乃佁毐廼诶迺唉挨欸矮叆誒躷靉 |
  | ㄞˋ | ay | ai⁴ | ai4 | ai4 | ài | ài | ai4 | 乃廼诶唉欸喝隘嗄嗌愛叆誒僾噫壒嬡濭薆曖餲瞹馤藹靄靉𣋞𥴨㤅 |
@@ -631,6 +640,7 @@
  | ㄏㄞˊ | hair | hai² | hai2 | hai2 | hái | hái | hai2 | 还咳孩頦骸諧還龤 |
  | ㄏㄞˇ | hae | hai³ | hai3 | hai3 | hǎi | hǎi | hai3 | 亥劾害海頦醢 |
  | ㄏㄞˋ | hay | hai⁴ | hai4 | hai4 | hài | hài | hai4 | 亥妎侅劾害氦噧頦駭𥩲𦤬㤥㱾 |
+ | ·ㄏㄞˋ | .hay | hai⁰ | hai | hai4 | +hài | hai | hai4 | 咳唉 |
  | ㄓㄞ | jai | chai¹ | jai1 | zhai1 | zhāi | zhāi | zrai1 | 齐亝斋斎齊嚌齋 |
  | ㄓㄞˋ | jay | chai⁴ | jai4 | zhai4 | zhài | zhài | zrai4 | 砦祭媞債寨瘵 |
  | ㄔㄞ | chai | chʻai¹ | chai1 | chai1 | chāi | chāi | crai1 | 叉差釵靫麡𨌅 |
@@ -680,6 +690,7 @@
  | ㄕㄨㄞ | shuai | shuai¹ | shuai1 | shuai1 | shuāi | shuāi | sruai1 | 衰摔榱𤸬䪎 |
  | ㄕㄨㄞˇ | shoai | shuai³ | shuai3 | shuai3 | shuǎi | shuǎi | sruai3 | 甩摔 |
  | ㄕㄨㄞˋ | shuay | shuai⁴ | shuai4 | shuai4 | shuài | shuài | sruai4 | 帥率卛率 |
+ | ·ㄞˋ | .ay | ai⁰ | ai | ai4 | +ài | ai | ai4 | 曖 |
  | ㄅㄟ | bei | pei¹ | bei1 | bei1 | bēi | bēi | bei1 | 芘卑杯盃庳桮萆悲痺碑蔽褙𥓓 |
  | ㄅㄟˊ | beir | pei² | bei2 | bei2 | béi | béi | bei2 | 倍 |
  | ㄅㄟˋ | bey | pei⁴ | bei4 | bei4 | bèi | bèi | bei4 | 北伂貝佩斾背俻倍垻悖旆狽被偝偹婢梖備僃焙絥軰蓓蛽犕褙骳輩鋇髲憊糒奰鞴韛贔壩𣖾𤅹𤰈𩇯糒㔨㷶㿙䰽北 |
@@ -753,6 +764,8 @@
  | ㄙㄨㄟˊ | swei | sui² | suei2 | suei2 | suéi | suí | suei2 (sui2) | 陏隋随遀隨 |
  | ㄙㄨㄟˇ | soei | sui³ | suei3 | suei3 | suěi | suǐ | suei3 (sui3) | 竦嶲膸瀡巂髄髓靃𤡪𧆑䭉 |
  | ㄙㄨㄟˋ | suey | sui⁴ | suei4 | suei4 | suèi | suì | suei4 (sui4) | 亗岁砕神彗嵗遁遂歲歳碎隧澻穂誶檖燧璲膸瀡穗穟篲襚邃繐繸髄譢鐩髓𣄚𣔾𤑾𥕸𦸏㸂䜐神 |
+ | ·ㄨㄟˊ | .wei | wei⁰ | wei | wei2 | +wéi | wei | uei2 (ui2) | 唯 |
+ | ·ㄟ | .ei | ei⁰ | ei | ei | +ei | ei | ei | 誒ㄟ |
  | ㄠ | au | ao¹ | au1 | au1 | āo | āo | au1 | 凹坳爊鏖𤏶㘭䥝 |
  | ㄠˇ | ao | ao³ | au3 | au3 | ǎo | ǎo | au3 | 夭灹芺殀袄媪媼懊蝹燠襖 |
  | ㄠˋ | aw | ao⁴ | au4 | au4 | ào | ào | au4 | 圫抝灹拗镺奧隩墺懊澳燠䜒 |
@@ -1179,6 +1192,7 @@
  | ㄙㄩㄢˊ | syuan | süan² | siuan2 | syuan2 | syén | süán | syan2 | 还旋琁漩璇還璿㘣㳬䗠 |
  | ㄙㄩㄢˇ | seuan | süan³ | siuan3 | syuan3 | syěn | süǎn | syan3 | 撰選𫅈 |
  | ㄙㄩㄢˋ | siuann | süan⁴ | siuan4 | syuan4 | syèn | süàn | syan4 | 旋渲選繏鏇𦌔㳬 |
+ | ·ㄢˊ | .arn | an⁰ | an | an2 | +án | an | an2 | 唵 |
  | ㄣ | en | ên¹ | en1 | en1 | ēn | ēn | en1 | 恩摁 |
  | ㄅㄣ | ben | pên¹ | ben1 | ben1 | bēn | bēn | ben1 | 奔逩犇賁䴅 |
  | ㄅㄣˇ | been | pên³ | ben3 | ben3 | běn | běn | ben3 | 夲本苯畚笨楍𤲙㡷 |
@@ -1511,6 +1525,7 @@
  | ㄏㄥˊ | herng | hêng² | heng2 | heng2 | héng | héng | heng2 | 姮恆恒桁航嫦橫衡𢖍 |
  | ㄏㄥˇ | heeng | hêng³ | heng3 | heng3 | hěng | hěng | heng3 | 幸倖 |
  | ㄏㄥˋ | henq | hêng⁴ | heng4 | heng4 | hèng | hèng | heng4 | 橫 |
+ | ·ㄏㄥ | .heng | hêng⁰ | heng | heng | +heng | heng | heng | 亨 |
  | ㄓㄥ | jeng | chêng¹ | jeng1 | zheng1 | zhēng | zhēng | zreng1 | 丁正争玎佂征怔爭貞烝眐脀偵崢猙傖幀湞遉徰楨睜禎蒸鉦徴箏綪錚徵趟鬇鴊竲癥𦙫𦱊䆸䇰䋊䋫䱢 |
  | ㄓㄥˊ | jerng | chêng² | jeng2 | zheng2 | zhéng | zhéng | zreng2 | 傖嵊 |
  | ㄓㄥˇ | jeeng | chêng³ | jeng3 | zheng3 | zhěng | zhěng | zreng3 | 抍盯拯猙踭愸整𨋬㬹 |
