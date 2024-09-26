@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
-  version: '2024.09.09'
+  version: '2024.09.26'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -92,8 +92,13 @@ speller:
     - xform/^ueng/ong/
     - xform/(iu?)e(ng?)/$1$2/
     - xform/(j|ch|sh|r|tz|ts|s)([ˉˊˇˋ˙]|$)/$1y$2/
-
-    - derive/·(.*)[ˉˊˇˋ˙]/·$1/
+    
+    - derive/^·(.*)ˉ/Q$1/
+    - derive/^·(.*)ˊ/Q$1/
+    - derive/^·(.*)ˇ/Q$1/
+    - derive/^·(.*)ˋ/Q$1/
+    - derive/^·(.*)˙/Q$1/
+    - xform/^Q/·/
     - derive/·//
 
     - xform/(^|·)(ng|gn|m|v|n|l|r)(.*)ˉ/$1$2h$3/
@@ -137,8 +142,6 @@ speller:
     - xform/(^|·)u(.+)˙/$1w$2˙/
     - xform/˙/q/
 
-    # - xform/x/è/ # 顯示 è
-
     - derive/(?<=[a-z])x$/e/
     - derive/(?<=[a-z])xr/er/
     - derive/(?<=[a-z])xx/ee/
@@ -150,6 +153,7 @@ speller:
     - abbrev/(^|·)(ng|gn|ch?|sh|t?z|ts).+$/$1$2/
     - abbrev/(^|·)([iuaoex]).+$/$1$2/
     - abbrev/(^|·)([bpmfvdtnlgkhjrsyw])[iuaoexy].*$/$1$2/
+    - abbrev/(^|·)([a-z])[^z].*$/$1$2/
 
     - derive/(^|·)z.*/$1z/ # tz 簡拼
     - derive/(^|·)z.*/$1tz/ # tz 簡拼
