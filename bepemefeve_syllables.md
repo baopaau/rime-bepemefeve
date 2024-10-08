@@ -1,7 +1,7 @@
  | <div style="width:50px">注音</div> | <div style="width:60px">G.R.</div> | <div style="width:50px">W.G.</div> | <div style="width:50px">MPS II</div> | <div style="width:50px">趙拼</div> | <div style="width:50px">混合式</div> | <div style="width:50px">Ruenn</div> | <div style="width:120px">iac轉寫</div> | <div style="width:1600px">同音字</div> |
  | :- | :- | :- | :- | :- | :- | :- | :- | :- |
  | ·ㄏㄫ | .hng | hng⁰ | hng | hng | +hng | hng | hng | 哼 |
- | ·ㄫˋ | .nq | ng⁰ | ng | ng4 | +ng4 | ng | ng4 | 嗯 |
+ | ㄫˋ | nq | ng⁴ | ng4 | ng4 | ng4 | ng4 | ng4 | 哼嗯 |
  | ㄓ | jy | chih¹ | jr1 | zhi1 | zhī | zhī | zr1 (zrw1) | 𠨬㞢之支止氏𠮡卮只氐示企劧𠔇𠰅𤽁厎吱坁岐巵㲍呮坻扺枝歧汥汦知𢎈𤔈𤰭𥝮㽻咫抧枳枾栀泜疧眂祇秖𢻈𤝹𤱌𥎵𥸳𥾣𦙁𦙠𦨟㩼㸟䀀䉻扅栺珇疻砥祖祗秪紙翄肢芝芪蚔衹衼𦐖𧙋𧣀𧹛𨈛𨑤𨙸𨟾䡋梔眵硃組胑胝跂軝𢻏𨈪䛊䟡䧴媞絑脂臸軹𥁼𥇭𦯫𩉬䓋寘睛郅𢻚𧌔𧱒𨌌㴯䓜䓡搘榰禔箐精緇聙蜘逗靻馶𣻒𦳏𦴀𩨵㯄䝷䣽䲬駔鳷𨕕𪀍䔃蒩蓍𧐉𩓨鮢鮨鴲鴸𨢮𦽘𪂅觶鵸𢹍鼅鼱躓𩍲䵹 |
  | ㄓˊ | jyr | chih² | jr2 | zhi2 | zhí | zhí | zr2 (zrw2) | 荎 |
  | ㄓˇ | jyy | chih³ | jr3 | zhi3 | zhǐ | zhǐ | zr3 (zrw3) | 夂子止氏只氐㕄㫑旨𡉬𡉳𡉶𢇨𣃘厎址坁坘帋希豸𡊆𡊇𡛜𢇹𢪔𣥉坻弤忯扺杫汦沚祁𣲵𤝬𤴹𥐺咫峙抧抵拞枳泜牴砋祉𡌞䇛䟖俿恀恉指栺洔疻砥秪紙耆芷衰𡍓𢽃𢽗𤶓䖪畤茋蚳訨趾𢛍𦮈傂堤淽脂荎觝軧軹阯黹𦀦䛗莉詣阺雉𢾫𤸓𥔊𩑾㨖㮹䅩墀徴滍菧𧛢𧡎𩊝䋾徵腣𣚠𧩼䳅鴙䐱𧝉鵗𧸅遲𨬚𪑜䌤癥𩁌藢𣠝𨟃𧹀 |
@@ -440,7 +440,7 @@
  | ㄊㄨㄛˊ | two | tʻuo² | tuo2 | tuo2 | tuó | tuó | tuo2 | 㐌𢪎㸰㸱沱沲𣴾𤬾堶迱靴𤭨碢橢踻鼧騨鞾驒𧕦 |
  | ㄊㄨㄛˇ | tuoo | tʻuo³ | tuo3 | tuo3 | tuǒ | tuǒ | tuo3 | 𡛎妥垛柁㟎𤬾𤱧唯袉媠惢𣷿㨊䅜惰楕綏𨁡𨹃陏𦝦𩊜墮嶞鋖𤡪𤹢𨲉撱橢貐𤢍隋隓鵎䠤軃鬌𨼰𤼒䲊 |
  | ㄊㄨㄛˋ | tuoh | tʻuo⁴ | tuo4 | tuo4 | tuò | tuò | tuo4 | 佗拕沱沲毤唾媠涶𣮲毻陏䙃嫷𧜲隋𥳔𧝍𩅡䲊 |
- | ㄊㄨㄛ˙ | tuoq | tʻuo⁵ | tuo5 | tuo5 | tuȯ | tuô | tuoq | 矺侻沰庹挩袥税飥脫脱魠魄𨂫籜驝 |
+ | ㄊㄨㄛ˙ | tuoq | tʻuo⁵ | tuo5 | tuo5 | tuȯ | tuô | tuoq | 矺㽷侻帥沰𥥇哾帨啐庹挩涗袥𠭥稅税飥脫脱蛻裞𢄢魠魄𨂫䬽贅籜驝䭨説 |
  | ㄋㄨㄛˊ | nuo | nuo² | nuo2 | nuo2 | nuó | nuó | nuo2 | 挪挼捼𠑍𢅼獿 |
  | ㄋㄨㄛˇ | nuoo | nuo³ | nuo3 | nuo3 | nuǒ | nuǒ | nuo3 | 𢫷 |
  | ㄋㄨㄛˋ | nuoh | nuo⁴ | nuo4 | nuo4 | nuò | nuò | nuo4 | 堧粫愞𤲬稬需懦糥穤糯 |
@@ -492,7 +492,7 @@
  | ·ㄉㄜ | .de (d) | tê⁰ | de | deo | +de | de | deo (de) | 地底的得 |
  | ㄊㄜ˙ | teq | tʻê⁵ | te5 | teo5 | tė | tê | teoq (teq) | 式忑忒𠈸𢘋𧈩𧈺特貣匿蚮𠌗𤙰㥂㧹棏犆貸脦𣘱慝鋱𧎢𧎬𧏪樴螣鴏𥊸謋𦗟職蟘謬𢤃𥌩 |
  | ㄌㄜ˙ | leq | lê⁵ | le5 | leo5 | lė | lê | leoq (leq) | 㔹仂屴忇扐朸氻玏竻肋艻𧲡泐阞勒𤟓働鳨𤨕𦟯𩩸鰳勒肋 |
- | ·ㄌㄜ | .le (l) | lê⁰ | le | leo | +le | le | leo (le) | 了𣎸䄦𧘈䑠釕𩵌𪌀僚𢄺漻憭撩瞭繆蓼繚鄝𤁸𤑗𨝷𨣀轑爒了 |
+ | ·ㄌㄜ | .le (l) | lê⁰ | le | leo | +le | le | leo (le) | 了了 |
  | ·ㄌㄜ˙ | .leq | lê⁰ | le | leo5 | +lė | le | leoq (leq) | 勒ㄌ |
  | ㄍㄜ˙ | geq | kê⁵ | ge5 | geo5 | gė | gê | geoq (geq) | 疙𦘸肐虼革𦙊挌核格鬲𦛃㗆胳蛒𢯹㮝嗝裓𢧧𤗦搹搿槅滆𥉅𦑜𦝣䃒䐙䛩𢡍𦶎膈諽骼䨣鎘隔䩹覈𥵰𨼥𧈑𩹺䪂𨏴 |
  | ·ㄍㄜ | .ge (g) | kê⁰ | ge | geo | +ge | ge | geo (ge) | 个個箇 |
@@ -699,7 +699,7 @@
  | ㄊㄨㄟ | tuei | tʻui¹ | tuei1 | tuei1 | tuēi | tuī | tuei1 (tui1) | 𤙵推焞𨋱煺綏㞜㷟僓脽𤍐𨌴尵𩓬蓷𩪀鐏藬讉 |
  | ㄊㄨㄟˊ | twei | tʻui² | tuei2 | tuei2 | tuéi | tuí | tuei2 (tui2) | 弚㢂𢈹㢈𢉭䀃𤸉僓𢊮𢟴𨓾墤尵𡑸𤗴橔頹頽颓㿉䫋謉謘𧝋䨨魋𡓤穨蹪隤騩𩘺㿗藬饋蘈𨇚𨘿𨽟𨽠𧮓 |
  | ㄊㄨㄟˇ | toei | tʻui³ | tuei3 | tuei3 | tuěi | tuǐ | tuei3 (tui3) | 俀㞂㟎㱣聉脮僓㾼腿骽 |
- | ㄊㄨㄟˋ | tuey | tʻui⁴ | tuei4 | tuei4 | tuèi | tuì | tuei4 (tui4) | 凷㽷帥怢𢓴𥥇㞂哾帨𡯵啐挩涗𠭥㥆稅税𦜄塊蛻蜕裞退𢄢𨓤僓𢠮㾼䬽𥲣𩳕嚃贅𩄮䭨説 |
+ | ㄊㄨㄟˋ | tuey | tʻui⁴ | tuei4 | tuei4 | tuèi | tuì | tuei4 (tui4) | 凷怢𢓴㞂𡯵㥆稅税𦜄塊蜕退𨓤僓𢠮㾼𥲣𩳕嚃𩄮 |
  | ㄋㄨㄟˇ | noei | nui³ | nuei3 | nuei3 | nuěi | nuǐ | nuei3 (nui3) | 娞㱣浽㼏涹脮腇𩃃𩗔餒餧鮾鯘 |
  | ㄋㄨㄟˋ | nuey | nui⁴ | nuei4 | nuei4 | nuèi | nuì | nuei4 (nui4) | 內㐻𢁩𦔹氞袂背𩬀 |
  | ㄌㄨㄟˊ | luei | lui² | luei2 | luei2 | luéi | luí | luei2 (lui2) | 耒𠫯垒婁累䒹猚絫䣂雷𩂩嫘𡼊𤡂樏畾瘣頛𢴱𤛡𤮉𤳏𦶖瘰盧錑𣀀𤮎㔣㵢儡檑縲𤮚𦅍壘礌蕌䍣攂櫑羸𡈶𤳴𥃇瓃礧𤳻𦌵𧞭㠥纍罍藟蠝鐳𡰟𨞽轠鑘靁𡤯𡿔𤼘𩼊蘲𣡧𤜖𦣉𧄿𩴻㶟䌴欙𤫤𤫥𥍔鸓𤮸纝虆鼺𪈦𮊵雷 |
@@ -835,7 +835,7 @@
  | ㄊㄧㄠˇ | teau | tʻiao³ | tiau3 | tiau3 | tiǎo | tiǎo | tiau3 | 佻挑朓眺粜䠷覜誂趒𧨙𥧽𥨑糶 |
  | ㄊㄧㄠˋ | tiaw | tʻiao⁴ | tiau4 | tiau4 | tiào | tiào | tiau4 | 咷𤕷㸠挑朓𤱩䂪啁眺窕粜㨄掉絩脁超𥺋䠷稠覜誂趒跳𠻩趙銚窱趠踔頫鋽𢖈嬥皢磽𥽀䊮䥵糶 |
  | ㄌㄧㄠˊ | liau | liao² | liau2 | liau2 | liáo | liáo | liau2 | 了尥尦𧘈㡻䑠佬抓炓泡狍𤵠𥸾䉼料瓟窌𤉞翏聊𩖝跑𤊽𦕵勠𠨥𡳇㟹䜮僚寥嵺廖鞄颮𢄷𢄺𣘪𣼢㙩㺒嘹嫽寮嶚嶛憀戮摎摷敹樂漻熮𡽐𢿞𣩢憭撩暸橑潦澆澇燎獠瘳窷膋𠐋𡽦𥛰𥲊𦗖䝀璙療癆瞭竂繆蟉𦌒𦪕㵳䢧屪廫簝繚膫蟟蟧謧豂賿蹘鄝𤁸𤢸䜍䝤轑遼𣟆𤻲𩘷䨅鐐镽顟飂𥨽𩕐𩙂䩍飉髎𧂏𩪚𩯊𩴤鑑鷚鷯𪖷了僚寮燎遼 |
- | ㄌㄧㄠˇ | leau | liao³ | liau3 | liau3 | liǎo | liǎo | liau3 | 了𧘈釕僚嫽敹憭撩暸燎𦄗璙瞭蓼繚鄝镽䩍了僚燎蓼 |
+ | ㄌㄧㄠˇ | leau | liao³ | liau3 | liau3 | liǎo | liǎo | liau3 | 了𣎸䄦𧘈䑠釕𩵌𪌀僚𢄺嫽敹漻憭撩暸燎𦄗璙瞭繆蓼繚鄝𤁸𤑗𨝷𨣀轑爒镽䩍了僚燎蓼 |
  | ㄌㄧㄠˋ | liaw | liao⁴ | liau4 | liau4 | liào | liào | liau4 | 尥尦炓料聊𤊽廖㙩嘹嫽樂熮撈燎獠璙療蟉𦌒簝繚膫𤑗遼鏐爒鐐𩕐鷯𪖷燎遼 |
  | ㄐㄧㄠ | jiau | chiao¹ | jiau1 | jiau1 | jiāo | jiāo | jiau1 | 㕥交𡥈𡥉𥃪𠩏佼艽芁咬咻韭𢼫𧺜挍校洨𢻍𤫷敎教梟珓𡟠𥹜䍊䙼喬椒窖絞胶茭蛟𢔹𩉤𩎔𩾒𩾓䢒嗃敫詨較郊𣺳𥦿𩾣僥嘄嘐嵺斠榷誨酵鉸𡑛𣻏𩎦𩾾𩿋儌嬌徺摎漖稾餃𢅎𢿣徼憍憢撟澆骹𡽟𦸹𪁉憿激獥矯穚膠鄗鮫鵁簥蕎蟜轇遯𦽨㶀𡦱䮦孂覺𪄘鷍齩䉰驍驕鱎鷮鸄 |
  | ㄐㄧㄠˊ | jyau | chiao² | jiau2 | jiau2 | jiáo | jiáo | jiau2 | 佼脚嶠腳𣦜𥰹𨃧𨎄蹺蹻轎䉰 |
@@ -1655,4 +1655,3 @@
  | ㄦˇ | eel | êrh³ | er3 | er3 | ěr | ěr | er3 | 𡭗尒尓尔耳刵㛅咡𣧹栮毦洱䎶珥眲𧊗㢽䋙䏪聏衈迩䣵𩚪爾鉺𢀪𦖢餌駬嬭𦗼𪕔薾邇𩱓 |
  | ㄦˋ | ell | êrh⁴ | er4 | er4 | èr | èr | er4 | 二弍佴刵咡耏毦洱䎶珥貮𨳙衈貳贰𢎐誀鉺𢄽餌𢴧𩛣樲髶膩 |
  | ·ㄦˊ | .erl | êrh⁰ | er | er2 | +ér | er | er2 | 兒 |
- | tuoq 他括切，音脫。 | tuoq 他括切，音脫。 | tuoq¹ 他括切，音脫。¹ | tuoq1 他括切，音脫。1 | tuoq1 他括切，音脫。1 | tuoq1 他括切，音脫。1 | tuoq1 他括切，音脫。1 | tuoq1 他括切，音脫。1 | 稅 |
