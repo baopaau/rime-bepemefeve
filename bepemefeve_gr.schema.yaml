@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id bepemefeve_gr
   name: ㄅㄆㄇㄈㄪ：G.R.
-  version: '2024.09.26'
+  version: '2024.10.09'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -99,7 +99,7 @@ speller:
     - derive/^·(.*)ˋ/Q$1/
     - derive/^·(.*)˙/Q$1/
     - xform/^Q/·/
-    - derive/·//
+    - derive/·(?=.*[aoeèuiy]+.*)//
 
     - xform/(^|·)(ng|gn|m|v|n|l|r)(.*)ˉ/$1$2h$3/
     - xform/ˉ//
@@ -132,7 +132,7 @@ speller:
     - xform/(^|·)u(.+)ˋ/$1w$2ˋ/
     - xform/(?<=[aoe])iˋ/y/
     - xform/(?<=[aoe])uˋ/w/
-    - xform/(m|n|l)ˋ/$1$1/
+    - xform/(n|l)ˋ/$1$1/
     - xform/ngˋ/nq/
     - xform/ˋ/h/
 

@@ -4,7 +4,7 @@
 schema:
   schema_id: guoqlo
   name: 國語羅馬字（老國音）
-  version: '2024.09.07'
+  version: '2024.10.09'
   author:
     - 抱豹 <baopaau@gmail.com>
   description: |
@@ -59,7 +59,7 @@ speller:
     - derive/(?<=[a-z])èè/ee/
     - derive/(?<=[a-z])èh/eh/
     - xform/è/x/
-    - derive/^\.//
+    - derive/^\.(?=.*[aoeèuiy]+.*)//
     - abbrev/^([iuaoeè]).+$/$1/
     - abbrev/^([bpmfvdtnlgkhjrsyw])[iuaoeèy].+$/$1/
     - abbrev/^(ng|gn|ch|sh|tz|ts).+$/$1/
