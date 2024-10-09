@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# [ㄅㄆㄇㄈㄪ bepemefeve 老國國羅字音表](https://github.com/baopaau/rime-bepemefe)
+# [ㄅㄆㄇㄈㄪ bepemefeve 老國音字音表（國語羅馬字版）](https://github.com/baopaau/rime-bepemefe)
 #
 # 《校》：校改國音字典（民國教育部，第三十八版，1926）
 # 《韻》：國音新詩韻（趙元任，1922）
@@ -31,9 +31,11 @@
 
 ---
 name: guoqlo
-version: "{version}"
+version: "2024.10.09b"
 sort: be_weight
 use_preset_vocabulary: true
+import_tables:
+  - guoqlo.phrase
 ...
 
 噷	.hm	#*		#《＊》國音常用字彙〈附錄三〉感嘆詞，表鄙斥。

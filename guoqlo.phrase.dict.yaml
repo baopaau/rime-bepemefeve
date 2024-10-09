@@ -1,0 +1,4258 @@
+
+# Rime dictionary
+# encoding: utf-8
+#
+# [ㄅㄆㄇㄈㄪ bepemefeve 老國音字音表（國語羅馬字版）](https://github.com/baopaau/rime-bepemefe)
+#
+# 《校》：校改國音字典（民國教育部，第三十八版，1926）
+# 《韻》：國音新詩韻（趙元任，1922）
+# 《學》：學生字典（陸爾奎、方毅，1915，未校改）
+# 《維》：維基學院——老國音審音字庫
+# 《廣》：廣韻（澤存堂本）
+# 《康》：康熙字典
+#
+# 字音數據來源：
+# - [電子化《校改國音字典》](https://zhuanlan.zhihu.com/p/22056043)
+#   - [iacobvstsok（耶箍步）](https://www.zhihu.com/people/0ff167dfc98216d1064c3abd28d3d999)
+#   - [李鶱棹](https://www.zhihu.com/people/3de247f4d4bb222ccfbfb48a76b36aea)
+#   - [曹潔萍](https://www.zhihu.com/people/b7e5d56f3544d1510d2d247a6d5f93b1)
+#   - [王子軒](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+#   - [馬從之](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+# - [電子化《學生字典》](http://fgwang.blogspot.com/2021/07/blog-post_13.html)
+#   - [電脳瓦崗寨](http://wagang.econ.hc.keio.ac.jp/)
+#   - [漢字データベース](http://kanji-database.sourceforge.net/dict/xszd)
+#   - [WFG](http://fgwang.blogspot.com)
+# - [維基學院：整合《國音新詩韻》字彙](https://zh.wikiversity.org/wiki/整合老國音熟字彙)
+# - [維基學院：老國音審音字庫](https://zh.wikiversity.org/wiki/Category:老國音審音)
+# - [校改國音字典整理會](https://zhuanlan.zhihu.com/Jiaoq-gais-guoh-iny-ziq-dians)
+#   - [勝爲士](https://www.zhihu.com/people/ff123b1d3fcdab2a70675df1245a9eeb)
+#   - [HANCVS韓](https://www.zhihu.com/people/7b106d7c1f31a47d8ba6cdbcb0e11316)
+# - [qieyun-data](https://github.com/nk2028/tshet-uinh-data)
+# - [康熙字典 Kangxi Dictionary TXT](https://github.com/7468696e6b/kangxiDictText)
+#
+# 詞庫數據來源
+# - [趙元任 國語留聲片課本](https://upload.wikimedia.org/wikipedia/commons/c/c0/NLC416-07jh011263-4826_%E5%9C%8B%E8%AA%9E%E7%95%99%E8%81%B2%E7%89%87%E8%AA%B2%E6%9C%AC.pdf)
+# - [RIME 地球拼音](https://github.com/rime/rime-terra-pinyin)
+#
+---
+name: guoqlo.phrase
+version: "2024.10.09b"
+sort: be_weight
+...
+三個	san goh	100%
+三思	sann sy	100%
+上聲	shaang sheng	100%
+下降	shiah jianq	100%
+不勝	buq sheng	100%
+不禁	buq jin	100%
+个子	goh .tzyy	100%
+中國	jong guoq	100%
+中彈	jonq dann	100%
+中的	jong diq	100%
+乘車	cherng chè	100%
+乾坤	chyan kuen	100%
+乾溼	gan shyq	100%
+乾濕	gan shyq	100%
+了結	leau jieq	100%
+互相	huh siang	100%
+五更	wuu geng	100%
+交卷	jiau jiuann	100%
+今朝	jin jau	100%
+令狐	ling hwu	100%
+令聞	linq wenn	100%
+任務	renn wuh	100%
+任姓	ren sinq	100%
+任性	renn sinq	100%
+似乎	syh hwu	100%
+似的	shyh .de	100%
+似的	shyh .diq	100%
+伽倻	jia ie	100%
+伽倻琴	jia ie chyn	100%
+伽藍	chya lan	100%
+住宿	juh suq	100%
+何處	hor chuh	100%
+作坊	tzoq farng	100%
+使令	shyy linq	100%
+侍從	shyh tzonq	100%
+供奉	gonq fonq	100%
+供給	gong .jiq	100%
+供給	gong jiq	100%
+便宜	pyan .yi	100%
+便當	biann .danq	100%
+便當	biann dang	100%
+個子	goh .tzyy	100%
+倒下	dao shiah	100%
+倒反	daw faan	100%
+倒置	daw jyh	100%
+倔強	jiueq jianq	100%
+倚靠	yii kaw	100%
+倡優	chang iou	100%
+倡導	chanq daw	100%
+假期	jiah .chyi	100%
+假期	jiah chyi	100%
+傳記	juann jih	100%
+傳遞	chwan dih	100%
+償還	charng hwan	100%
+公頃	gong chiing	100%
+冠蓋	guann gay	100%
+冠軍	guann jiun	100%
+冥冥	miing miing	100%
+冥界	ming jiay	100%
+剛纔	gang tsair	100%
+創傷	chuang shang	100%
+創造	chuanq tzaw	100%
+勉強	mean cheang	100%
+勝利	shenq lih	100%
+勞動	lau donq	100%
+勞軍	law jiun	100%
+勢殺	shyh shay	100%
+區域	chiu yuq	100%
+區姓	ou sinq	100%
+千載難逢	tsian tzae nan forng	100%
+占卜	jan buq	100%
+卷冊	jeuan tseq	100%
+卷子	jiuann .tzyy	100%
+卷起袖子	jeuan .chii siow .tzy	100%
+去了	chiuh .le	100%
+參差	chen tsy	100%
+參差	tsen tsy	100%
+參禪	tsan sharn	100%
+參與	tsan yuh	100%
+參茸	shen rong	100%
+參預	tsan yuh	100%
+反省	faan siing	100%
+反覆	faan fuq	100%
+句讀	jiuh dow	100%
+可惡	koo wuh	100%
+吟哦	yn ngo	100%
+吟誦	yinn sonq	100%
+呢喃	.gni .nan	100%
+呵斥	ho chyq	100%
+呻吟	shen yn	100%
+命中	minq jonq	100%
+咯咯	goq goq	100%
+咽喉	ian hour	100%
+品行	piin shinq	100%
+哄騙	hoong piann	100%
+哈欠	ha chiann	100%
+哈氣	ha chih	100%
+哼哼	heng heng	100%
+哽咽	geeng yeq	100%
+唯一	woei yiq	100%
+商賈	shang guu	100%
+喪事	sanq shyh	100%
+喪失	sanq shyq	100%
+單于	sharn yu	100%
+單獨	dan duq	100%
+嗟夫	tzie fwu	100%
+嘔吐	oou tuh	100%
+回轉	hwei joan	100%
+國王	guoq wang	100%
+坊巷	fang shianq	100%
+堵塞	duu seq	100%
+塞住	seq juh	100%
+塞外	say way	100%
+多少	do shao	100%
+大人	dah ren	100%
+大夫	day .fu	100%
+大夫	day fu	100%
+大小	dah seau	100%
+天台山	tian tai shan	100%
+太守	tay show	100%
+夫人	fu .ren	100%
+夫妻	fu tsi	100%
+奇怪	chyi guay	100%
+奇數	ji shuh	100%
+好人	hao ren	100%
+好呢	hao .gni	100%
+好學	hao shioq	100%
+好惡	haw wuh	100%
+好歹	hao dae	100%
+姓區	sinq ou	100%
+子孫	tzyy suen	100%
+子彈	tzyh dann	100%
+孔子	koong tzyy	100%
+學校	shioq shiaw	100%
+守衛	shoou wey	100%
+容易	yong yih	100%
+宿舍	suq shèh	100%
+射覆	shèh fow	100%
+將來	tziang lai	100%
+將官	tzianq guan	100%
+將帥	tzianq shuay	100%
+將要	tziang yaw	100%
+將進酒	tsiang tzinn tzeou	100%
+尉遲	yuq chyr	100%
+少尉	shaw wey	100%
+少年	shaw gnian	100%
+尚且	shanq tsiee	100%
+尚書郎	sharng shu lang	100%
+尿尿	gniaw suei	100%
+屏蔽	pyng bih	100%
+屏除	biing chwu	100%
+屬文	juq wen	100%
+屬於	shuq yu	100%
+屯兵	twen bing	100%
+屯邅	juen jan	100%
+山崎	shan chyi	100%
+崎嶇	chi chiu	100%
+巨擘	jiuh boq	100%
+差人	chai ren	100%
+帆布	farn buh	100%
+幺麼	iau moo	100%
+店鋪	diann puh	100%
+度量	duh liang	100%
+強大	chyang dah	100%
+強弱	chyang roq	100%
+強迫	cheang peq	100%
+彈子	dann .tzyy	100%
+彈指	tarn jyy	100%
+彈琴	tarn chyn	100%
+彭彭	parng parng	100%
+彷彿	faang fuq	100%
+彷徨	parng hwang	100%
+得當	deq danq	100%
+從來	tsorng lai	100%
+從堂	tzonq tarng	100%
+從容	tsong yong	100%
+從此	tsorng tsyy	100%
+復辟	fuq biq	100%
+徵兵	jeng bing	100%
+快樂	kuay loq	100%
+患難	huann nann	100%
+惟一	wei yiq	100%
+惡人	oq ren	100%
+惡漢	oq hann	100%
+愉快	yu kuay	100%
+應對	yinq duey	100%
+應用	yinq yonq	100%
+應當	ing dang	100%
+應該	ing gai	100%
+房間	farng jian	100%
+扁圓	bean yuan	100%
+扁擔	bean dann	100%
+扁舟	pian jou	100%
+扇子	shann .tzyy	100%
+扇風	shan fong	100%
+把住	baa juh	100%
+把子	bah .tzy	100%
+把子	bah .tzyy	100%
+把握	baa woq	100%
+揣測	choai tseq	100%
+揣著	chuai .joq	100%
+援引	yuan yiin	100%
+摔倒	shuai dao	100%
+摟住	loou juh	100%
+摟起來	lhou chii lai	100%
+撒尿	saq gniaw	100%
+操持	tsau chyr	100%
+操練	tsau liann	100%
+操行	tsaw shinq	100%
+擔任	dan renn	100%
+擔心	dan sin	100%
+擔負	dann fuh	100%
+擘一塊	bai .yiq kuay	100%
+收藏	shou tsarng	100%
+放縱	fanq tzonq	100%
+救援	jiow yuann	100%
+教書	jiau shu	100%
+教訓	jiaw .shiunn	100%
+教訓	jiaw shiunn	100%
+散膏	saan gau	100%
+散開	sann kai	100%
+數數然	shuoq shuoq ran	100%
+數日	shuh ryq	100%
+數清	shuu tsing	100%
+數目	shuh muq	100%
+數量	shuh lianq	100%
+新聞	sin wen	100%
+新鮮	sin .sian	100%
+施設	shy shèq	100%
+旅行	leu shyng	100%
+易換	yiq huann	100%
+星宿	sing siow	100%
+更加	genq jia	100%
+更好	genq hao	100%
+更易	geng yiq	100%
+曾參	tzeng shen	100%
+曾經	tserng jing	100%
+會計	kuay jih	100%
+會議	huey yih	100%
+有爲	yeou wei	100%
+有空	yeou konq	100%
+朕兆	jeen jaw	100%
+朝代	chaur day	100%
+朝拜	chaur bay	100%
+期月	ji yueq	100%
+期限	chyi shiann	100%
+校對	jiaw duey	100%
+校正	jiaw jenq	100%
+校長	shiaw jaang	100%
+桌子	juoq .tzy	100%
+樂天	loq tian	100%
+樂府	yoq fuu	100%
+橫縱	herng tzong	100%
+正月	jeng yueq	100%
+正邪	jenq sye	100%
+殺人	shaq ren	100%
+水溜	shoei liow	100%
+沒有	meq yeou	100%
+沒過	moq guoh	100%
+洋行	yang harng	100%
+流轉	liou juann	100%
+海人生若菌	hae ren sheng roq jiunn	100%
+混淆	huenn yau	100%
+混蛋	hwen dann	100%
+測量	tseq liang	100%
+溜冰	lhiou bing	100%
+漂亮	piaw lianq	100%
+漂流	piau liou	100%
+漂白	peau beq	100%
+漸漸	tziann .tziann	100%
+潸然	shaan ran	100%
+潸然淚下	shaan ran luey shiah	100%
+澄清	denq tsing	100%
+澄澈	cherng chèq	100%
+濺水	tziann shoei	100%
+炸藥	jah yoq	100%
+炸魚	jaq yu	100%
+為何	wey hor	100%
+為善	wei shann	100%
+烤肉	kao ruq	100%
+焉哉	yan tzai	100%
+焉有	ian yeou	100%
+無盡藏	wu tzinn tzanq	100%
+無聲無臭	wu sheng wu shiow	100%
+熨斗	yunn doou	100%
+爆肚	baw duu	100%
+爪子	joa tzyy	100%
+爪牙	jao ya	100%
+爲何	wey hor	100%
+猜度	tsai doq	100%
+率先	shuoq sian	100%
+甚好	shenn hao	100%
+甚麼	sher .mo	100%
+畜牧	shiuq muq	100%
+當中	dang jong	100%
+盛世	shenq shyh	100%
+盛開	shenq kai	100%
+盛飯	cherng fann	100%
+相同	siang torng	100%
+相夫	sianq fu	100%
+相差	siang cha	100%
+相愛	sianq ay	100%
+相機	sianq ji	100%
+相稱	siang chenq	100%
+相面	sianq miann	100%
+省市	sheeng shyh	100%
+看守	kan shoou	100%
+看見	kann jiann	100%
+真假	jen jea	100%
+着急	joq jiq	100%
+睡覺	shuey jiaw	100%
+知覺	jy jioq	100%
+石磨	shyq moh	100%
+研磨	yan mo	100%
+磨盤	moh parn	100%
+禁止	jinn jyy	100%
+禪讓	shann ranq	100%
+種花	jonq hua	100%
+種菜	jonq tsay	100%
+種類	joong luey	100%
+稱呼	cheng hu	100%
+空虛	kong shiu	100%
+空閒	konq shyan	100%
+空間	kong jian	100%
+筆畫	biq huoq	100%
+等衰	deeng tsuei	100%
+給我	geei ngoo	100%
+縱囚	tzonq syou	100%
+縱橫	tzong herng	100%
+繪畫	huey huah	100%
+繫扣	jih kow	100%
+纏繞	charn raw	100%
+美麗	meei lih	100%
+老少	lao shaw	100%
+聞望	wenn wanq	100%
+聯繫	lian shih	100%
+聲調	sheng diaw	100%
+聽說	ting shuoq	100%
+肉膜	ruq moq	100%
+肚子	duh .tzyy	100%
+胖子	panq .tzyy	100%
+膏散	gau saan	100%
+膜拜	mu bay	100%
+臭味	chow vey	100%
+與事	yuh shyh	100%
+與國	yeu guoq	100%
+興亡	shing wang	100%
+興盛	shing shenq	100%
+興致	shinq jyh	100%
+荷花	hor hua	100%
+藏匿	tsarng gniq	100%
+處世	chuu shyh	100%
+處所	chuh suoo	100%
+號啼	haur tyi	100%
+號數	haw shuh	100%
+號碼	haw maa	100%
+行操	shinq tsaw	100%
+行業	harng yeq	100%
+行路	shyng luh	100%
+衝擊	chong jiq	100%
+衝蓯	choong soong	100%
+衣冠	i guan	100%
+衰落	shuai loq	100%
+西學東漸	sy shioq dong tzian	100%
+西藏	si tzanq	100%
+要去	yaw chiuh	100%
+要塞	yaw say	100%
+要求	iau chyou	100%
+見實	shiann shyq	100%
+親人	tsin ren	100%
+親家	tsinn .jia	100%
+親戚	tsin .tsiq	100%
+覺悟	jioq wuh	100%
+觀看	guan kann	100%
+解散	jiee sann	100%
+評議	pyng yih	100%
+調和	tyau hor	100%
+調飢	jou ji	100%
+談吐	tarn tuu	100%
+論語	luen yeu	100%
+論說	luenn shuoq	100%
+論述	luenn shuq	100%
+讀書	duq shu	100%
+負荷	fuh hoh	100%
+賈姓	jea sinq	100%
+賞聲	shaang sheng	100%
+起哄	chii honq	100%
+起鬨	chii honq	100%
+趴去	par chiuh	100%
+趴著不動	pa .jeq .buq donq	100%
+車乘	chè chenq	100%
+車子	chè tzyy	100%
+車馬	jiu maa	100%
+轉圈	juann chiuan	100%
+轉運	joan yunn	100%
+辟謠	piq yau	100%
+速率	suq liuq	100%
+造作	tzaw tzoq	100%
+造次	tsau tsyh	100%
+造詣	tsaw yih	100%
+遇難	yuh nann	100%
+運載	yunn tzay	100%
+道觀	daw guann	100%
+遣車	chiann chè	100%
+遣送	chean sonq	100%
+遺產	yi chaan	100%
+遺留	wey liou	100%
+還有	hair yeou	100%
+還有	hwan yeou	100%
+還鄉	hwan shiang	100%
+重疊	chorng dieq	100%
+重複	chorng fuq	100%
+重量	jonq lianq	100%
+量大	lianq dah	100%
+量米	liang mii	100%
+金鎊	jin baang	100%
+釘上	dinq shanq	100%
+釘子	ding .tzy	100%
+釘子	ding .tzyy	100%
+鋪張	pu jang	100%
+鋪設	pu shèq	100%
+錯誤	tsoh wuh	100%
+錯雜	tsoq tzaq	100%
+鎊地	paang dih	100%
+鐵騎	tieq jih	100%
+鑽洞	tzuan donq	100%
+鑽石	tzuann shyq	100%
+長幼	jaang yow	100%
+長短	charng doan	100%
+阿三	a san	100%
+阿呀	.a .ia	100%
+阿房宮	o parng gong	100%
+降下	jianq shiah	100%
+降伏	shyang fuq	100%
+降服	shyang fuq	100%
+陳勝王	chern shenq wanq	100%
+離間	li jiann	100%
+難易	nan yih	100%
+難過	nan guoh	100%
+雲行雨施	yun shyng yeu shyh	100%
+需要	siu yaw	100%
+音樂	in yoq	100%
+音調	in diaw	100%
+頃斜	ching sye	100%
+頗少	poo shao	100%
+風殺	fong shay	100%
+飲水	yiin shoei	100%
+飲馬	yinn maa	100%
+饕餮	tau tieq	100%
+騎馬	chyi maa	100%
+高个屁	gau .ge pih	100%
+高個屁	gau .ge pih	100%
+高句麗	gau gou li	100%
+髣髴	faang fuq	100%
+鮮有	sean yeou	100%
+鴿子	goq .tzyy	100%
+㶁㶁	guoq guoq
+䀇子	guu .tzyy
+丁丁	jeng jeng
+丕績	pi tziq
+世仇	shyh chour
+世叔	shyh shuq
+世故	shyh guh
+丟丟抹抹	diou diou moq moq
+丟抹	diou moq
+丟撇	diou pieq
+丟面子	diou miann .tzyy
+串子	chuann .tzyy
+丹心碧血	dan sin biq shiueq
+丹穴	dan shiueq
+丹荑	dan tyi
+丹闕	dan chiueq
+主子	juu .tzyy
+主脈	juu meq
+主調	juu diaw
+主辱臣死	juu ruq chern syy
+乍得	jah deq
+乍得湖	jah deq hwu
+乍熟	jah shuq
+乏地	faq dih
+互調	huh diaw
+井地	tziing dih
+井幹	tziing harn
+井榦	tziing harn
+亟亟	jiq jiq
+亟需	jiq siu
+交代	jiau day
+交子	jiau .tzyy
+交情	jiau tsyng
+交通卡	jiau tong kaa
+交響曲	jiau sheang chiuq
+亭子	tyng .tzyy
+仇仇	chyou chyou
+仇家	chour jia
+仇敵	chour diq
+仇者快	chour jèè kuay
+仇視	chour shyh
+仇隙	chour shiq
+仙露明珠	sian luh ming ju
+代脈	day meq
+伐交	faq jiau
+伐善	faq shann
+伐子都	faq tzyy du
+伐木	faq muq
+伐柯	faq ko
+伐檀	faq tarn
+伐罪	faq tzuey
+伐薪	faq sin
+伐謀	faq mou
+伐鼓	faq guu
+伕子	fu .tzyy
+低地	di dih
+低地國	di dih guoq
+低徊	di hwei
+低落	di loq
+低血糖	di shiueq tarng
+低調	di diaw
+住地	juh dih
+住紮	juh jaq
+余余	syu syu
+佛剎	fuq chaq
+佛地	fuq dih
+佛曲	fuq chiuq
+佛頭着糞	fuq tour joq fenn
+便便	pyan pyan
+便嬛	pyan shiuan
+促脈	tsuq meq
+俚曲	lii chiuq
+保不住	bao .buq juh
+保叔塔	bao shuq taq
+保息	bao siq
+保持聯繫	bao chyr lian shih
+俠侍	jiaq shyh
+信子	sinn .tzyy
+信息	sinn siq
+修築	siou juq
+個子	goh .tzyy
+倏地	shuq dih
+倏忽	shuq huq
+倔頭倔腦	jiueq tour jiueq nao
+倫匹	luen piq
+偏廈	pian shah
+偏裨	pian pyi
+停停	tyng tyng
+停息	tyng siq
+偲偲	sy sy
+偷薄	tou boq
+傑克遜	jieq keq suenn
+傑弗遜	jieq fuq suenn
+傘降	saan jianq
+催熟	tsuei shuq
+傻勁	shaa jinq
+傻子	shaa .tzyy
+傻孩子	shaa hair .tzyy
+傻小子	shaa seau .tzyy
+傾家	kuang jia
+僮僕	torng puq
+僮僮	torng torng
+僮手指千	torng shoou jyy tsian
+儃佪	charn hwei
+儇薄	shiuan boq
+儒艮	ru genn
+儘子	tziin .tzyy
+儘快	tziin kuay
+儘自	tziin tzyh
+儲蓄	chwu shiuq
+儲蓄券	chwu shiuq chiuann
+儲蓄存款	chwu shiuq tswen koan
+充血	chong shiueq
+克勒	keq leq
+克勒特	keq leq teq
+克卜勒	keq buq leq
+克絲鉗子	keq sy chyan .tzyy
+免帖	mean tieq
+兒寬	gni kuan
+兔子	tuh .tzyy
+兔崽子	tuh tzae .tzyy
+兔羔子	tuh gau .tzyy
+兔起鶻落	tuh chii huaq loq
+兜兜答答	dou dou daq daq
+兜子	dou .tzyy
+兜底	dou dii
+兜答	dou daq
+入地	ruq dih
+入覲	ruq jinn
+全國各地	tsyuan guoq goq dih
+全局模塊	tsyuan jiuq mu kuay
+全帖	tsyuan tieq
+全斗煥	tsyuan doou huann
+全熟	tsyuan shuq
+全盛	tsyuan shenq
+全都	tsyuan du
+六十調	luq shyq diaw
+六合	luq hoq
+六帖	luq tieq
+六脈	luq meq
+冊子	tseq .tzyy
+凋落	diau loq
+凱子	kae .tzyy
+凸版	tuq baan
+凸狀	tuq juanq
+凸起	tuq chii
+凸透鏡	tuq tow jinq
+凸面鏡	tuq miann jinq
+凸顯	tuq shean
+刀刀見血	dau dau jiann shiueq
+刀割針扎	dau goq jen jaq
+刀子	dau .tzyy
+刀子心	dau .tzyy sin
+刀身	dau shen
+刀鋸	dau jiuh
+刀頭舔血	dau tour tean shiueq
+刁天撅地	diau tian jiueq dih
+刁天決地	diau tian jiueq dih
+刊落	kan loq
+初露	chu luh
+判酩酊	pann miing diing
+別勁	bieq jinq
+別子	bieq .tzyy
+別子	bieq tzyy
+別着急	bieq joq jiq
+別調	bieq diaw
+刨根	paur gen
+刨根究底	paur gen jiow dii
+刨蹴	paur tsuq
+利子	lih .tzyy
+利得	lih deq
+利息	lih siq
+利潤所得	lih ruenn suoo deq
+利落	lih loq
+刮刮卡	guaq guaq kaa
+刮喇	guaq laq
+刮地器	guaq dih chih
+刮地皮	guaq dih pyi
+刮子	guaq .tzyy
+刮着	guaq joq
+刮鬍子	guaq hwu .tzyy
+刷刷	shuaq shuaq
+刷卡	shuaq kaa
+刷子	shuaq .tzyy
+刷恥	shuaq chyy
+刷扮	shuaq bann
+刷括	shuaq guaq
+刷新	shuaq sin
+刷磅	shuaq baang
+券帖	chiuann tieq
+刻薄	keq boq
+刻鵠	keq huq
+剃髮	tih faq
+剋落	keq loq
+前仇	tsyan chour
+前奏曲	tsyan tzow chiuq
+前邊	tsyan bian
+剎住	shaq juh
+剎帝利	chaq dih lih
+剎時	chaq shyr
+剎車	shaq chè
+剎車燈	shaq chè deng
+剔子	tiq .tzyy
+剝落	boq loq
+剪伐	tzean faq
+剪子	tzean .tzyy
+剪子股	tzean .tzyy guu
+剪着	tzean joq
+剪髮	tzean faq
+割地	goq dih
+割地賠款	goq dih peir koan
+割着	goq joq
+割腸子	goq charng .tzyy
+割靴子	goq shiue .tzyy
+劄子	jaq .tzyy
+劈刀	piq dau
+劈初頭	piq chu tour
+劈劈	piq piq
+劈劈啪啪	piq piq paq paq
+劈啪	piq paq
+劈山	piq shan
+劈手	piq shoou
+劈擊	piq jiq
+劈理	piq lii
+劈着	piq joq
+劈胸	piq shiong
+劈腿	piq toei
+劈臉	piq lean
+劈開	piq kai
+劈面	piq miann
+劈頭	piq tour
+劈頭劈臉	piq tour piq lean
+劈頭子	piq tour .tzyy
+力拓	liq toq
+力拚	liq pan
+力盛	liq shenq
+加勁	jia jinq
+加息	jia siq
+加的斯	jia diq sy
+加里波的	jia lii bo diq
+劣怯	liueq chieq
+勁力	jinq liq
+勁卒	jinq tzuq
+勁士	jinq shyh
+勁峭	jinq tsiaw
+勁弩	jinq nuu
+勁急	jinq jiq
+勁捷	jinq tzieq
+勁敵	jinq diq
+勁秋	jinq tsiou
+勁翮	jinq heq
+勁草	jinq tsao
+勁頭	jinq tour
+勃喇喇	boq laq laq
+勃固山脈	boq guh shan meq
+勃露斯	boq luh sy
+勒交	leq jiau
+勒住	leq juh
+勒停	leq tyng
+勒子	leq .tzyy
+勒斃	leq bih
+勒斯波斯	leq sy bo sy
+勒死	leq syy
+勒狀	leq juanq
+勒石	leq shyq
+勒緊	leq jiin
+勒緊褲帶	leq jiin kuh day
+勒脖子	leq boq .tzyy
+勒詐	leq jah
+勒迫	leq peq
+勒逼	leq biq
+勒開	leq kai
+勛績	shiun tziq
+勺子	shoq .tzyy
+勾串	gou chuann
+勾勒	gou leq
+勾喚	gou huann
+勾尺	gou chyq
+勾帳	gou janq
+勾幹	gou gann
+勾情	gou tsyng
+勾手	gou shoou
+勾抹	gou moq
+勾拽	gou juay
+勾捉	gou juoq
+勾提	gou tyi
+勾攝	gou shèq
+勾死鬼	gou syy goei
+勾決	gou jiueq
+勾稽	gou ji
+勾股形	gou guu shyng
+勾臉	gou lean
+勾臉譜	gou lean puu
+勾芡	gou chiann
+勾起	gou chii
+勾軍	gou jiun
+勾追	gou juei
+勾通	gou tong
+勾銷	gou siau
+勾頭	gou tour
+勾魂	gou hwen
+勾魂攝魄	gou hwen shèq peq
+包子	bau .tzyy
+包彈	bau tarn
+包扎	bau tzaq
+包漿	bau tziang
+包米棒子	bau mii banq .tzyy
+匏繫	paur shih
+匣子	shiaq .tzyy
+匹似	piq syh
+匹似閑	piq syh shyan
+匹儔	piq chour
+匹敵	piq diq
+匹禽	piq chyn
+匹練	piq liann
+匹面	piq miann
+匹頭	piq tour
+匾扎	bean jaq
+十七帖	shyq tsiq tieq
+十地	shyq dih
+十鼠同穴	shyq shuu torng shiueq
+千乘	tsian shenq
+千卡	tsian kaa
+千山山脈	tsian shan shan meq
+升調	sheng diaw
+升降	sheng jianq
+升降機	sheng jianq ji
+升降舵	sheng jianq doh
+卒乘	tzuq shenq
+卒子	tzuq .tzyy
+協奏曲	shieq tzow chiuq
+協緝	shieq tsiq
+協調	shieq tyau
+博得	boq deq
+卜宅	buq jeq
+卜築	buq juq
+卡倫	kaa luen
+卡利卡特	kaa lih kaa teq
+卡利撒	kaa lih saq
+卡塔赫納	kaa taq heq naq
+卡子	chea .tzyy
+卡尺	kaa chyq
+卡帶	kaa day
+卡座	kaa tzuoh
+卡斯翠	kaa sy tsuey
+卡死	kaa syy
+卡特	kaa teq
+卡納塔克邦	kaa naq taq keq bang
+卡脖子	chea boq .tzyy
+卡車	kaa chè
+卡農	kaa nong
+卡通	kaa tong
+卡達	kaa daq
+卡鉗	kaa chyan
+卯勁	mao jinq
+卯是卯	mao .shyh mao
+即時即地	tziq shyr tziq dih
+厹矛	chyou mou
+叔世	shuq shyh
+叔姪	shuq jyq
+叔婆	shuq por
+叔子	shuq .tzyy
+叔季	shuq jih
+叔祖	shuq tzuu
+叨在知己	tau tzay jy jii
+叨沓	tau taq
+叨貼	tau tieq
+叨賴	tau lay
+叨陪	tau peir
+叨餂	tau tean
+召棠	shaw tarng
+召陵	shaw ling
+叮叮噹噹	ding ding dang dang
+叮噹	ding dang
+叱喝	chyq hoq
+史乘	shyy shenq
+吃子	jiq .tzyy
+各個	goq .ge
+各個擊破	goq .ge jiq poh
+各地	goq dih
+各自	goq tzyh
+合不着	hoq .buq joq
+合刻	hoq keq
+合子	hoq .tzyy
+合子	hoq tzyy
+合子餅	hoq .tzyy biing
+合家子	hoq jia .tzyy
+合擊	hoq jiq
+同仇	torng chour
+同州梆子	torng jou bang .tzyy
+同志天地	torng jyh tian dih
+同校	torng shiaw
+同穴	torng shiueq
+同調	torng diaw
+君子報仇	jiun tzyy baw chour
+吡吡	biq biq
+否剝	pii boq
+否德	pii deq
+否滯	pii jyh
+吧吧	ba ba
+吧托	ba toq
+吧檯	ba tair
+含息	harn siq
+含情脈脈	harn tsyng meq meq
+含括	harn guaq
+含齒戴髮	harn chyy day faq
+吭吭	kang kang
+吭氣	kang chih
+吱吱	jy jy
+吱吱咯咯	jy jy goq goq
+吱吱嘎嘎	tzy tzy gaq gaq
+吷氣	shiueq chih
+吸着	shiq joq
+吸血	shiq shiueq
+吸血鬼	shiq shiueq goei
+呀呷	shia shiaq
+呆僗	dai lau
+呆呆掙掙	dai dai jenq jenq
+呆子	dai .tzyy
+呆掙	dai jenq
+呆答孩	dai daq hair
+呆答答	dai daq daq
+周召	jou shaw
+呫呫	chèq chèq
+呫噸	jen duenn
+呫嚅	chèq ru
+呫囁	chèq jèq
+咕嘟	gu du
+咕嚷	gu raang
+咖哩	ka .li
+咚咚	dong dong
+咧子	lieq .tzyy
+咯吱	goq jy
+咯咯	goq goq
+咯噔	goq deng
+咯噹	goq dang
+咯血	loq shiueq
+咯血	keq shiueq
+品竹彈絲	piin juq tarn sy
+品竹調弦	piin juq tyau shyan
+品竹調絲	piin juq tyau sy
+品調	piin diaw
+哤聒	mang guaq
+哥子	go .tzyy
+哭調	kuq diaw
+唄讚	bay tzann
+唆調	suo tyau
+唐卡	tarng kaa
+唐氏綜合症	tarng shyh tzonq hoq jenq
+唐突	tarng tuq
+唼唼	shaq shaq
+唼喋	shaq jah
+唼氣	shaq chih
+唼血	shaq shiueq
+唿喇	huq laq
+唿喇喇	huq laq laq
+商調	shang diaw
+商賈	shang guu
+商都	shang du
+啑喋	shaq jah
+啜茗	chuay miing
+啪啦	paq .la
+啪嗒	paq daq
+啷鐺	lhang dang
+啼天哭地	tyi tian kuq dih
+喀喀	keq keq
+喀喇崑崙山	keq laq kuen luen shan
+喀喇崑崙山脈	keq laq kuen luen shan meq
+喀喇沁	keq laq tsinn
+喀喇沁旗	keq laq tsinn chyi
+喀斯特地形	keq sy teq dih shyng
+喀血	keq shiueq
+喀麥隆	keq meq long
+善賈	shann guu
+喇合	laq hoq
+喘息	choan siq
+喙子	huey .tzyy
+喙息	huey siq
+喝住	hoq juh
+喝囉	hoq lo
+喝彩	hoq tsae
+喝掇	hoq duoq
+喫不住	chyq .buq juh
+喫不開	chyq .buq kai
+喫勁	chyq jinq
+喫地面	chyq dih miann
+喫排落	chyq pair loq
+喫食	chyq shyq
+嗎呢	mah .gni
+嗑嗑	hoq hoq
+嗔喝	chen hoq
+嗣息	syh siq
+嗣適	syh diq
+嘀嗒	diq daq
+嘁哩喀喳	chiq .li keq cha
+嘁嘁喳喳	chiq chiq cha cha
+嘉柏隆里	jia beq long lii
+嘎吱	gaq jy
+嘎啦	gaq .la
+嘎嘎	gaq gaq
+嘎調	gaq diaw
+嘓都嘓都	guoq du guoq du
+嘩啦	hua .la
+嘩喇喇	hua laq laq
+嘩嘩	hua hua
+嘬嘬	chuay chuay
+嘮嘮	lau lau
+嘮扯	lau chèè
+嘲謔	chau gnioq
+噌吰	cheng horng
+噏呷	shiq shiaq
+噙齒戴髮	chyn chyy day faq
+噶倫	goq luen
+噶喇	goq laq
+噹啷落地	dang lhang loq dih
+嚇得發抖	shiah deq faq doou
+嚷劈	raang piq
+嚷嚷	raang raang
+囀喉	juann hour
+囉唆	lo suo
+囉唕	lo tzaw
+囉囌	lo su
+囚繫	tsyou shih
+囤子	doen .tzyy
+固執己見	guh jyq jii jiann
+國民所得	guoq min suoo deq
+國脈	guoq meq
+國都	guoq du
+國際獅子會	guoq tzih shy .tzyy huey
+圖形加速卡	twu shyng jia suq kaa
+圖形卡	twu shyng kaa
+在昔	tzay siq
+在罈子胡同	tzay tarn .tzyy hwu torng
+地主	dih juu
+地主國	dih juu guoq
+地主階級	dih juu jiai jiq
+地保	dih bao
+地價	dih jiah
+地利	dih lih
+地力	dih liq
+地勤	dih chyn
+地匣	dih shiaq
+地史	dih shyy
+地圖	dih twu
+地圖冊	dih twu tseq
+地址	dih jyy
+地坼天崩	dih cheq tian beng
+地基	dih ji
+地堡	dih bao
+地塊	dih kuay
+地宮	dih gong
+地層	dih tserng
+地層學	dih tserng shioq
+地岬	dih jiaq
+地峽	dih shiaq
+地師	dih shy
+地帶	dih day
+地底	dih dii
+地府	dih fuu
+地形	dih shyng
+地形圖	dih shyng twu
+地心	dih sin
+地心吸力	dih sin shiq liq
+地志	dih jyh
+地擲球	dih jyq chyou
+地板	dih baan
+地核	dih heq
+地棍	dih guenn
+地權	dih chyuan
+地步	dih buh
+地段	dih duann
+地殼	dih koq
+地毯	dih taan
+地氈	dih jan
+地溝	dih gou
+地滑	dih huaq
+地熱	dih rèq
+地熱發電廠	dih rèq faq diann chaang
+地熱電站	dih rèq diann jann
+地爐	dih lu
+地牛翻身	dih gniou fan shen
+地球	dih chyou
+地球史	dih chyou shyy
+地球日	dih chyou ryq
+地球村	dih chyou tsuen
+地理	dih lii
+地理學	dih lii shioq
+地理學家	dih lii shioq jia
+地理師	dih lii shy
+地理鬼	dih lii goei
+地產	dih chaan
+地癖	dih piq
+地皮	dih pyi
+地目	dih muq
+地着	dih joq
+地磅	dih baang
+地磚	dih juan
+地祇	dih chyi
+地籍	dih tziq
+地籍圖	dih tziq twu
+地籟	dih lay
+地級	dih jiq
+地線	dih siann
+地脈	dih meq
+地蠟	dih laq
+地表	dih beau
+地表水	dih beau shoei
+地誌	dih jyh
+地軸	dih juq
+地速	dih suq
+地里	dih lii
+地鐵	dih tieq
+地鐵站	dih tieq jann
+地陷	dih shiann
+地靈	dih ling
+地靈靈	dih ling ling
+地面	dih miann
+地面層	dih miann tserng
+地面水	dih miann shoei
+地面灌溉	dih miann guann gay
+地頭	dih tour
+地頭鬼	dih tour goei
+坍落	tan loq
+坑埋	keng mai
+坑子	keng .tzyy
+坦露	taan luh
+坼副	cheq piq
+垂死掙扎	chwei syy jenq jaq
+垂落	chwei loq
+垂露	chwei luh
+垂髮	chwei faq
+垡子	faq .tzyy
+埋情	mai tsyng
+埋根	mai gen
+埋線	mai siann
+埋設	mai shèq
+埋輪	mai luen
+埋頭	mai tour
+埋骨	mai guq
+城闕	cherng chiueq
+埔心	buh sin
+埔里	buh lii
+執伐	jyq faq
+執着	jyq joq
+基地	ji dih
+基調	ji diaw
+堂子	tarng .tzyy
+堂帖	tarng tieq
+堅勁	jian jinq
+堋的	perng diq
+報仇	baw chour
+報仇雪恥	baw chour siueq chyy
+報子	baw .tzyy
+報帖	baw tieq
+報答	baw daq
+塔剎	taq chaq
+塔扎	taq tzaq
+塗刷	twu shuaq
+塗地	twu dih
+塗抹	twu moq
+塗抹詩書	twu moq shy shu
+塗漿檯	twu tziang tair
+塵剎	chern chaq
+塵露	chern luh
+墟落	shiu loq
+墾地	keen dih
+壁落	biq loq
+士子	shyh .tzyy
+士子	shyh tzyy
+壯盛	juanq shenq
+壯起膽子	juanq chii daan .tzyy
+壺漿	hwu tziang
+壺穴	hwu shiueq
+夙仇	suq chour
+夙昔	suq siq
+多個	do .ge
+多得	do deq
+多普勒	do puu leq
+多模	do mu
+多模塊	do mu kuay
+多目的	do muq diq
+多站地址	do jann dih jyy
+多財善賈	do tsair shann guu
+多重	do chorng
+多重國籍	do chorng guoq tziq
+多露	do luh
+天地	tian dih
+天地會	tian dih huey
+天地頭	tian dih tour
+天地鬼神	tian dih goei shern
+天姥山	tian muu shan
+天官賜福	tian guan syh fuq
+天愁地慘	tian chour dih tsaan
+天昏地慘	tian huen dih tsaan
+天昏地黑	tian huen dih heq
+天災地孽	tian tzai dih gnieq
+天真地秀	tian jen dih siow
+天知地知	tian jy dih jy
+天窄地狹	tian jeq dih shiaq
+天都	tian du
+天闕	tian chiueq
+奇日	ji ryq
+奇蹄目	ji tyi muq
+奮擊	fenn jiq
+奶子	nae .tzyy
+奶昔	nae siq
+妃匹	pey piq
+妃子	fei .tzyy
+妃子	fei tzyy
+妗子	jinn .tzyy
+妙曲	miaw chiuq
+妥帖	tuoo tieq
+妮子	gni .tzyy
+妹子	mey .tzyy
+姑娘	gu gniang
+姑子	gu .tzyy
+姑息	gu siq
+姪子	jyq .tzyy
+娘老子	gniang lao .tzyy
+娩息	mean siq
+婆娘子	por gniang .tzyy
+婆子	por .tzyy
+婆家	por jia
+婊子	beau .tzyy
+婊子送客	beau .tzyy sonq keq
+嫂子	sao .tzyy
+嫏嬛	lang hwan
+嫏嬛福地	lang hwan fuq dih
+嫺淑	shyan shuq
+嫺熟	shyan shuq
+嬛嬛	chyong chyong
+嬛嬛	shiuan shiuan
+嬸子	sheen .tzyy
+子埝	tzyy gnieq
+子息	tzyy siq
+子模型	tzyy mu shyng
+子都	tzyy du
+孔穴	koong shiueq
+字帖	tzyh tieq
+字模	tzyh mu
+字調	tzyh diaw
+存儲卡	tswen chwu kaa
+孛孛	bey bey
+孛老	bey lao
+孜孜矻矻	tzy tzy kuq kuq
+孝弟	shiaw tih
+孝弟力田	shiaw tih liq tyan
+孤寂	gu tziq
+孤調調	gu diaw diaw
+孤露	gu luh
+孩子	hair .tzyy
+孩子們	hair .tzyy .men
+孩子家	hair .tzyy jia
+孩子氣	hair .tzyy chih
+孩子頭	hair .tzyy tour
+學校	shioq shiaw
+學究	shioq jiow
+學籍卡	shioq tziq kaa
+學習	shioq siq
+學習曲線	shioq siq chiuq siann
+宅券	jeq chiuann
+宅地	jeq dih
+宅基	jeq ji
+宅子	jeq .tzyy
+宅心	jeq sin
+宏儒碩學	horng ru shyq shioq
+宏碩	horng shyq
+宓妃	fuq fei
+宓羲	fuq shi
+官刻本	guan keq been
+官報私仇	guan baw sy chour
+官帖	guan tieq
+官息	guan siq
+官星透露	guan sing tow luh
+官校	guan shiaw
+客氣	keq chih
+宣騰	siuan terng
+宮調	gong diaw
+宮闕	gong chiueq
+家乘	jia shenq
+家僮	jia torng
+家叔	jia shuq
+家子	jia .tzyy
+寂寂	tziq tziq
+密地	miq dih
+密密匝匝	miq miq tzaq tzaq
+密密層層	miq miq tserng tserng
+密密扎扎	miq miq jaq jaq
+密密麻麻	miq miq ma ma
+密斯忒	miq sy teq
+密昔斯	miq siq sy
+密碼子	miq maa .tzyy
+寒傖	harn tsang
+寒怯	harn chieq
+寒瘧	harn gnioq
+寒粟子	harn suq .tzyy
+寒薄	harn boq
+寒露	harn luh
+寒顫	harn jann
+察子	chaq .tzyy
+寡鵠	goa huq
+寢息	tsiin siq
+實在	shyq tzay
+實地	shyq dih
+實績	shyq tziq
+實落	shyq loq
+寨子	jay .tzyy
+寬綽	kuan choq
+寶剎	bao chaq
+寶地	bao dih
+寶坻	bao dii
+寶惜	bao siq
+寶鈿	bao diann
+寸地尺天	tsuenn dih chyq tian
+寸子	tsuenn .tzyy
+寸脈	tsuenn meq
+將將	tsiang tsiang
+專利地圖	juan lih dih twu
+專校	juan shiaw
+尋仇	syn chour
+尋根究底	syn gen jiow dii
+尋的	syn diq
+尋究	syn jiow
+對不住	duey .buq juh
+對不起	duey .buq chii
+對勁	duey jinq
+對地	duey dih
+對子	duey .tzyy
+對子	duey tzyy
+對牛彈琴	duey gniou tarn chyn
+對答	duey daq
+對調	duey diaw
+對頭	duey tour
+小乘	seau shenq
+小冊子	seau tseq .tzyy
+小叔	seau shuq
+小天地	seau tian dih
+小妮子	seau gni .tzyy
+小姑子	seau gu .tzyy
+小子	seau .tzyy
+小子	seau tzyy
+小孩子家	seau hair .tzyy jia
+小家子氣	seau jia .tzyy chih
+小小子	seau seau .tzyy
+小廉曲謹	seau lian chiuq jiin
+小弁	seau parn
+小插曲	seau chaq chiuq
+小斧劈	seau fuu piq
+小日子	seau ryq .tzyy
+小曲	seau chiuq
+小校	seau shiaw
+小楷	seau kae
+小段子	seau duann .tzyy
+小猴子	seau hour .tzyy
+小碟子	seau dieq .tzyy
+小築	seau juq
+小紅	seau gong
+小調	seau diaw
+小蹄子	seau tyi .tzyy
+小車子	seau chè .tzyy
+尖子	tzian .tzyy
+尖扎	tzian jaq
+就地	tziow dih
+就得	tziow deq
+尷尬	gan gah
+尺子	chyq .tzyy
+尺寸	chyq tsuenn
+尺脈	chyq meq
+局地	jiuq dih
+局子	jiuq .tzyy
+局子	jiuq tzyy
+屍山血海	shy shan shiueq hae
+展掙	jaan jenq
+展露	jaan luh
+屜子	tih .tzyy
+層子	tserng .tzyy
+履薄	lii boq
+屬地	shuq dih
+屯剝	juen boq
+屯否	juen pii
+屯子	twen .tzyy
+屯紮	twen jaq
+屯落	twen loq
+山地	shan dih
+山地同胞	shan dih torng bau
+山地山胞	shan dih shan bau
+山子	shan .tzyy
+山子	shan tzyy
+山崗	shan gang
+山崩地坼	shan beng dih cheq
+山崩地陷	shan beng dih shiann
+山巒重疊	shan luan chorng dieq
+山東梆子	shan dong bang .tzyy
+山砠	shan tziu
+山脈	shan meq
+岔子	chah .tzyy
+岔曲	chah chiuq
+岔調	chah diaw
+岡底斯山脈	gang dii sy shan meq
+峭薄	tsiaw boq
+崁頂	kann diing
+崑崙山脈	kuen luen shan meq
+崑曲	kuen chiuq
+崒嵂	tzuq liuq
+崗子	gang .tzyy
+崩落	beng loq
+崩阤	beng jyh
+崽子	tzae .tzyy
+崽子	tzae tzyy
+嵂崒	liuq tzuq
+巡緝	syun tsiq
+工倕	gong chwei
+工地	gong dih
+工地秀	gong dih siow
+工尺	gong chyq
+工尺譜	gong chyq puu
+工拙	gong juoq
+工楷	gong kae
+工模	gong mu
+巨闕	jiuh chiueq
+巷子	shianq .tzyy
+巷弄	shianq lonq
+希特勒	shi teq leq
+帖子	tieq .tzyy
+帖子詞	tieq .tzyy tsyr
+帖學	tieq shioq
+帖帖	tieq tieq
+帖息	tieq siq
+帖括	tieq guaq
+帘子	lian .tzyy
+帝都	dih du
+帝闕	dih chiueq
+師傅	shy fuh
+師叔	shy shuq
+席勒	siq leq
+席地	siq dih
+席子	siq .tzyy
+席面	siq miann
+帳主子	janq juu .tzyy
+帳子	janq .tzyy
+帳棚	janq perng
+帳篷	janq porng
+帶勁	day jinq
+帶子	day .tzyy
+帶孩子	day hair .tzyy
+帶水帶漿	day shoei day tziang
+帶調	day diaw
+帶身子	day shen .tzyy
+帶鋸機	day jiuh ji
+帶露	day luh
+常模	charng mu
+常熟	charng shuq
+帽兜子	maw dou .tzyy
+帽子	maw .tzyy
+幛子	janq .tzyy
+幫子	bang .tzyy
+幫帖	bang tieq
+幸得	shinq deq
+幹勁	gann jinq
+幹嗎	gann mah
+幹嘛	gann ma
+幹渠	gann chyu
+底子	dii .tzyy
+庖子	paur .tzyy
+店子	diann .tzyy
+店都知	diann du jy
+庚帖	geng tieq
+府宅	fuu jeq
+庥息	shiou siq
+座子	tzuoh .tzyy
+座落	tzuoh loq
+庫勒山	kuh leq shan
+庫模塊	kuh mu kuay
+廓落	kuoq loq
+廚子	chwu .tzyy
+廝勾	sy gou
+廝抹	sy moq
+廝熟	sy shuq
+廝落	sy loq
+廠子	chaang .tzyy
+廧崒	tsyang tzuq
+弗里德里希	fuq lii deq lii shi
+弦子	shyan .tzyy
+弦子	shyan tzyy
+弱怯怯	roq chieq chieq
+弱息	roq siq
+弱脈	roq meq
+彈剝	tarn boq
+彈力	tarn liq
+彈包	tarn bau
+彈奏	tarn tzow
+彈子	tarn .tzyy
+彈弄	tarn lonq
+彈指	tarn jyy
+彈掙	tarn jenq
+彈棋	tarn chyi
+彈治	tarn jyh
+彈球	tarn chyou
+彈琴	tarn chyn
+彈簧	tarn hwang
+彈簧刀	tarn hwang dau
+彈簧牀	tarn hwang chwang
+彈絲品竹	tarn sy piin juq
+彈腿	tarn toei
+彈詞	tarn tsyr
+彈針	tarn jen
+彈駁	tarn boq
+彩調	tsae diaw
+彪個子	biau goh .tzyy
+彪子	biau .tzyy
+彰露	jang luh
+彷似	faang syh
+彷彿	faang fuq
+彷徨	parng hwang
+彼得	bii deq
+彼得前書	bii deq tsyan shu
+彼得堡	bii deq bao
+征伐	jeng faq
+徒裼	twu siq
+得主	deq juu
+得似	deq syh
+得克薩斯	deq keq saq sy
+得克薩斯州	deq keq saq sy jou
+得利	deq lih
+得力	deq liq
+得勁	deq jinq
+得實	deq shyq
+得寵	deq choong
+得寸則寸	deq tsuenn tzeq tsuenn
+得寸即寸	deq tsuenn tziq tsuenn
+得尺則尺	deq chyq tzeq chyq
+得尺即尺	deq chyq tziq chyq
+得尺得寸	deq chyq deq tsuenn
+得幸	deq shinq
+得得	deq deq
+得志	deq jyh
+得悉	deq siq
+得所	deq suoo
+得手	deq shoou
+得時	deq shyr
+得果	deq guoo
+得榮	deq yng
+得民	deq min
+得理	deq lii
+得着	deq joq
+得知	deq jy
+得神	deq shern
+得票	deq piaw
+得竅	deq chiaw
+得罪	deq tzuey
+得臉	deq lean
+得色	deq seq
+得證	deq jenq
+得逞	deq cheeng
+得閒	deq shyan
+得雄	deq shyong
+得雋	deq tzeuan
+得體	deq tii
+循規蹈矩	syun guei daw jeu
+德勒茲	deq leq tzy
+德蕾莎	deq loei sha
+德都	deq du
+徽調	huei diaw
+心勁	sin jinq
+心地	sin dih
+心寒膽落	sin harn daan loq
+心得	sin deq
+心怯	sin chieq
+心曲	sin chiuq
+心驚膽懾	sin jing daan jèq
+心驚膽落	sin jing daan loq
+心驚膽顫	sin jing daan jann
+必得	biq deq
+忌妒	jih duh
+忒忒	teq teq
+志在必得	jyh tzay biq deq
+忙活	mang huoq
+快雪時晴帖	kuay siueq shyr tsyng tieq
+忳忳	twen twen
+忽的	huq diq
+忽起忽落	huq chii huq loq
+怎麽	tzeen .ma
+怓怓	nau nau
+怔忡	jeng chong
+怔忪	jeng jong
+怔怔	jeng jeng
+急剎車	jiq shaq chè
+急聒	jiq guaq
+怪着	guay joq
+怪腔怪調	guay chiang guay diaw
+怯子	chieq .tzyy
+怯弱	chieq roq
+怯怯	chieq chieq
+怯怯羞羞	chieq chieq siou siou
+怯懦	chieq nuoh
+怯死	chieq syy
+怯牀	chieq chwang
+怯症	chieq jenq
+怯陣	chieq jenn
+恢恑	huei goei
+恥辱	chyy ruq
+恭楷	gong kae
+恭賀新禧	gong hoh sin shi
+息交	siq jiau
+息喘	siq choan
+息徒	siq twu
+息心	siq sin
+息息	siq siq
+息款	siq koan
+息氣	siq chih
+息燈	siq deng
+息耗	siq haw
+息肩	siq jian
+息胞	siq bau
+息訟	siq sonq
+息詞	siq tsyr
+悚息	soong siq
+悵惜	chanq siq
+情形	tsyng shyng
+情怯	tsyng chieq
+情熟	tsyng shuq
+情調	tsyng diaw
+惑突	huoq tuq
+惕息	tiq siq
+惜別	siq bieq
+惜別會	siq bieq huey
+惜力	siq liq
+惜字	siq tzyh
+惜孤念寡	siq gu gniann goa
+惜福	siq fuq
+惜身	siq shen
+惠子	huey .tzyy
+惠子	huey tzyy
+惠斯勒	huey sy leq
+惠斯特	huey sy teq
+惠賜	huey syh
+想不透	seang .buq tow
+想不通	seang .buq tong
+想不開	seang .buq kai
+愆忒	chian teq
+愓愓	shang shang
+愷弟	kae tih
+愷撒	kae saq
+慈姑	tsyr gu
+態子	tay .tzyy
+慘礉	tsaan heq
+慣熟	guann shuq
+慣落	guann loq
+慧寂	huey tziq
+慴息	jèq siq
+憩息	chih siq
+懋績	mow tziq
+懼怯	jiuh chieq
+懾息	jèq siq
+懾慴	jèq jèq
+戇小子	juanq seau .tzyy
+戰地	jann dih
+戰天鬥地	jann tian dow dih
+戰績	jann tziq
+戳子	choq .tzyy
+戴天履地	day tian lii dih
+戴帽子	day maw .tzyy
+戴綠帽子	day luq maw .tzyy
+戴頂子	day diing .tzyy
+戴髮含齒	day faq harn chyy
+房卡	farng kaa
+房地	farng dih
+房地產	farng dih chaan
+房子	farng .tzyy
+房帖	farng tieq
+所在地	suoo tzay dih
+所得	suoo deq
+所着	suoo joq
+所見即所得	suoo jiann tziq suoo deq
+手剎車	shoou shaq chè
+手帖	shoou tieq
+手弓鋸	shoou gong jiuh
+手彈	shoou tarn
+手扒雞	shoou par ji
+手擊子	shoou jiq .tzyy
+手板子	shoou baan .tzyy
+手模	shoou mu
+手起刀落	shoou chii dau loq
+才調	tsair diaw
+扎住	jaq juh
+扎啤	jaq pyi
+扎心	jaq sin
+扎手	jaq shoou
+扎扎	jaq jaq
+扎括	jaq guaq
+扎掂	jaq dian
+扎撒	jaq saq
+扎根	jaq gen
+扎槍	jaq tsiang
+扎款	jaq koan
+扎猛子	jaq meeng .tzyy
+扎筏子	jaq faq .tzyy
+扎罰子	jaq faq .tzyy
+扎草	jaq tsao
+扎針	jaq jen
+扒城	par cherng
+扒手	par shoou
+扒推	par tuei
+扒灰	par huei
+扒糕	par gau
+托勒密	toq leq miq
+托地	toq dih
+托子	toq .tzyy
+托熟	toq shuq
+托葷鹹食	toq huen shyan shyq
+扛鼎	gang diing
+扛鼎士	gang diing shyh
+扦子	tsian .tzyy
+扦子手	tsian .tzyy shoou
+扭勁	gneou jinq
+扭捏	gneou gnieq
+扭曲	gneou chiuq
+扯撮	chèè tsuoq
+扯臊	chèè sau
+扳價	ban jiah
+扳壺	ban hwu
+扳子	ban .tzyy
+扳岔子	ban chah .tzyy
+扳手	ban shoou
+扳扯	ban chèè
+扳指	ban jyy
+扳本	ban been
+扳機	ban ji
+扳罾	ban tzeng
+扳翻	ban fan
+扳鉗	ban chyan
+找不着	jao .buq joq
+找岔子	jao chah .tzyy
+找着	jao joq
+找面子	jao miann .tzyy
+承露	cherng luh
+抉擿	jiueq tiq
+抉瑕擿釁	jiueq shya tiq shinn
+投地	tour dih
+投子	tour .tzyy
+投擲	tour jyq
+抖落	doou loq
+抵得	dii deq
+抵瑕蹈隙	dii shya daw shiq
+抹丟	moq diou
+抹刀	moq dau
+抹子	moq .tzyy
+抹抹丟丟	moq moq diou diou
+抹拭	moq shyq
+抹搭	moq daq
+抹撻	moq taq
+抹胸	moq shiong
+抹脖子	moq boq .tzyy
+抹腹	moq fuq
+抹臉	moq lean
+抹貼	moq tieq
+抹蹌	moq tsiang
+抹面	moq miann
+抹黑	moq heq
+抿子	min .tzyy
+抿髮	min faq
+拂士	biq shyh
+拂落	fuq loq
+拈掇	dian duoq
+拍子	peq .tzyy
+拍惜	peq siq
+拍拍	peq peq
+拐子	goai .tzyy
+拐子臉	goai .tzyy lean
+拐子頭	goai .tzyy tour
+拐裨子	goai pyi tzyy
+拓地	toq dih
+拓寬	toq kuan
+拓展	toq jaan
+拓本	toq been
+拓落	toq loq
+拓邊	toq bian
+拓銷	toq siau
+拙劣	juoq liueq
+拙實	juoq shyq
+拙澀	juoq seq
+拙目	juoq muq
+拙荊	juoq jing
+拙見	juoq jiann
+拚卻	pan chioq
+拚捨	pan shèè
+拚棄	pan chih
+拚死	pan syy
+拚死喫河豚	pan syy chyq hor twen
+拚財	pan tsair
+拚貼	pan tieq
+拚鬥	pan dow
+招子	jau .tzyy
+招帖	jau tieq
+括刷	guaq shuaq
+括地皮	guaq dih pyi
+括帖	guaq tieq
+括弧	guaq hwu
+括搭	guaq daq
+括髮	guaq faq
+拭子	shyq .tzyy
+拭抹	shyq moq
+拽扎	juay jaq
+拽步	juay buh
+挃挃	jyq jyq
+指模	jyy mu
+挼挲	nuo so
+挾制	shieq jyh
+挾嫌	shieq shyan
+挾山超海	shieq shan chau hae
+挾帶	shieq day
+挾持	shieq chyr
+挾持僱主	shieq chyr guh juu
+挾擊	shieq jiq
+挾書律	shieq shu liuq
+挾纊	shieq kuanq
+挾貴	shieq guey
+捉脈	juoq meq
+捉顫	juoq jann
+捉髮	juoq faq
+捏弄	gnieq lonq
+捕緝	buh tsiq
+捭闔	bae hoq
+捵練	chern liann
+捵麪	chern miann
+捶子	choei .tzyy
+捻合	gnieq hoq
+捻塑	gnieq suh
+捻子	gnieq .tzyy
+捻熄	gnieq siq
+捽扯	tzuq chèè
+捽脫	tzuq tuoq
+掄掄掐掐	luen luen chiaq chiaq
+掄材	luen tsair
+掇肩	duoq jian
+掇送	duoq sonq
+掌不住	jaang .buq juh
+掌不起	jaang .buq chii
+掌狀脈	jaang juanq meq
+排子	pair .tzyy
+排子車	pair .tzyy chè
+排擊	pair jiq
+排水渠	pair shoei chyu
+排突	pair tuq
+掘子軍	jiueq .tzyy jiun
+掘穴	jiueq shiueq
+掙扎	jenq jaq
+掙臉	jenq lean
+掙開	jenq kai
+採擷	tsae jieq
+採蓮曲	tsae lian chiuq
+推子	tuei .tzyy
+推桿	tuei gan
+推究	tuei jiow
+推調	tuei tyau
+推轂	tuei guq
+掬水	jiuq shoei
+提掇	tyi duoq
+提款卡	tyi koan kaa
+提調	tyi diaw
+插子	chaq .tzyy
+插扛子	chaq gang .tzyy
+插曲	chaq chiuq
+插火坑	chaq huoo keng
+揖揖	tziq tziq
+換帖	huann tieq
+換血	huann shiueq
+揩抹	kai moq
+揪捽	tziou tzuq
+揪腸子	tziou charng .tzyy
+搊彈詞	chou tarn tsyr
+搊撮	chou tsuoq
+搗子	dao .tzyy
+搗騰	dao terng
+搗鼓	dao guu
+搞不懂	gao .buq doong
+搨子	taq .tzyy
+搬子	ban .tzyy
+搬調	ban tyau
+搭克露	daq keq luh
+搭子	daq .tzyy
+搭搭撒撒	daq daq saq saq
+搭撒	daq saq
+搭漿	daq tziang
+搭褳	daq lian
+搭調	daq diaw
+摘山煮海	tiq shan juu hae
+摘帽子	jeq maw .tzyy
+摳扒	kou par
+摺子	jèq .tzyy
+摻合	chen hoq
+摻水	chen shoei
+摻袂	chen mih
+摻雜	chen tzaq
+撅撒	jiueq saq
+撇撒	pieq saq
+撇棄	pieq chih
+撇火石	pieq huoo shyq
+撇脫	pieq tuoq
+撇賴	pieq lay
+撇開	pieq kai
+撒克遜	saq keq suenn
+撒刁	saq diau
+撒帳	saq janq
+撒手	saq shoou
+撒手塵寰	saq shoou chern hwan
+撒手鐗	saq shoou jiann
+撒手鐧	saq shoou jiann
+撒村	saq tsuen
+撒歡	saq huan
+撒氣	saq chih
+撒滯殢	saq jyh tih
+撒潑	saq poq
+撒督	saq duq
+撒線	saq siann
+撒腿	saq toei
+撒落	saq loq
+撒謊	saq hoang
+撒賴	saq lay
+撒開	saq kai
+撞擊	juanq jiq
+撞跌	juanq dieq
+撞頭搕腦	juanq tour koq nao
+撢子	daan .tzyy
+撤抹	chèq moq
+撮合	tsuoq hoq
+撻伐	taq faq
+擇不開	jeq .buq kai
+擇席	jeq siq
+擇日子	jeq ryq .tzyy
+擇菜	jeq tsay
+擊劍	jiq jiann
+擊掌	jiq jaang
+擊敗	jiq bay
+擊斃	jiq bih
+擊柝	jiq toq
+擊毬	jiq chyou
+擊發	jiq faq
+擊破	jiq poh
+擊碎唾壺	jiq suey tuoh hwu
+擊缶	jiq foou
+擊落	jiq loq
+擊賞	jiq shaang
+擊退	jiq tuey
+擊鐘陳鼎	jiq jong chern diing
+擊鐘鼎食	jiq jong diing shyq
+擊鞠	jiq jiuq
+擊鼓	jiq guu
+擊鼓罵曹	jiq guu mah tsaur
+擡帖	tair tieq
+擦面子	tsaq miann .tzyy
+擲刀對泣	jyq dau duey chiq
+擲地	jyq dih
+擲果	jyq guoo
+擲瓶	jyq pyng
+擲石子	jyq shyq tzyy
+擲筊	jyq jeau
+擲級承矛	jyq jiq cherng mou
+擲骰子	jyq tour .tzyy
+擲鼠忌器	jyq shuu jih chih
+擺子	bae .tzyy
+擺子	bae tzyy
+擺落	bae loq
+擺露	bae luh
+擻火	soou huoo
+攉煤機	huoq mei ji
+攔擊	lan jiq
+攪撒	jeau saq
+改天換地	gae tian huann dih
+改抹	gae moq
+改轍	gae chèq
+故地	guh dih
+故都	guh du
+敕勒	chyq leq
+敕勒歌	chyq leq go
+敕賜	chyq syh
+敗績	bay tziq
+敗落	bay loq
+敗血症	bay shiueq jenq
+敗露	bay luh
+整個	jeeng .ge
+整個地球	jeeng goh dih chyou
+整地	jeeng dih
+整治	jeeng jyh
+整臉子	jeeng lean .tzyy
+敵地	diq dih
+數罟	tsuq guu
+斗儲	doou chwu
+斗子	doou .tzyy
+斗杓	doou biau
+斗杓東指	doou biau dong jyy
+斗渠	doou chyu
+斟愖	jen chern
+斧子	fuu .tzyy
+斫地	joq dih
+斫畬	joq shè
+新埔	sin buh
+新天地	sin tian dih
+新娘子	sin gniang .tzyy
+新晃	sin huanq
+新禧	sin shi
+新血輪	sin shiueq luen
+新都	sin du
+新靚	sin tzinq
+旗子	chyi .tzyy
+既得	jih deq
+既得權	jih deq chyuan
+日喀則	ryq keq tzeq
+日子	ryq .tzyy
+日子	ryq tzyy
+日本鬼子	ryq been goei .tzyy
+日盛	ryq shenq
+日落	ryq loq
+早起	tzao chii
+昇降	sheng jianq
+昇降機	sheng jianq ji
+明晃晃	ming huanq huanq
+明珠彈雀	ming ju tarn tsioq
+明盛	ming shenq
+明調	ming diaw
+明降	ming jianq
+昏天黑地	huen tian heq dih
+昏撒	huen saq
+昏瞶	huen kuey
+昏鏡重明	huen jinq chorng ming
+昔日	siq ryq
+昔昔	siq siq
+昔時	siq shyr
+星子	sing .tzyy
+星子	sing tzyy
+星星	sing sing
+星降	sing jianq
+時氣	shyr chih
+時調	shyr diaw
+晃腦	huanq nao
+晨露	chern luh
+普寂	puu tziq
+普通利息	puu tong lih siq
+普通地圖	puu tong dih twu
+普降	puu jianq
+智調	jyh diaw
+暇日	shiah ryq
+暇食	shiah shyq
+暖色調	noan seq diaw
+暖調	noan diaw
+暴師	puq shy
+暴桑	puq sang
+暴露	puq luh
+暴面	puq miann
+暴骨	puq guq
+曛黑	shiun heq
+曝露	puq luh
+曩昔	naang siq
+曲別針	chiuq bieq jen
+曲匝	chiuq tzaq
+曲周	chiuq jou
+曲士	chiuq shyh
+曲子	chiuq .tzyy
+曲尺	chiuq chyq
+曲局	chiuq jiuq
+曲庇	chiuq bih
+曲律	chiuq liuq
+曲房	chiuq farng
+曲棍	chiuq guenn
+曲棍球	chiuq guenn chyou
+曲球	chiuq chyou
+曲瓊	chiuq chyong
+曲目	chiuq muq
+曲線	chiuq siann
+曲線圖	chiuq siann twu
+曲線擬合	chiuq siann gnii hoq
+曲線板	chiuq siann baan
+曲致	chiuq jyh
+曲薄	chiuq boq
+曲蟮	chiuq shann
+曲調	chiuq diaw
+曲謹	chiuq jiin
+曲譜	chiuq puu
+曲躬躬	chiuq gong gong
+曲軸	chiuq juq
+曲阻	chiuq tzuu
+曲霉	chiuq mei
+曲靖	chiuq tzinq
+曲面	chiuq miann
+曲體	chiuq tii
+書僮	shu torng
+書呆子	shu dai .tzyy
+書子	shu .tzyy
+書底子	shu dii .tzyy
+書記	shu jih
+曾子	tzeng tzyy
+曾孝谷	tzeng shiaw guq
+曾皙	tzeng siq
+曾祖	tzeng tzuu
+曾都	tzeng du
+曾鞏	tzeng goong
+會子	huey .tzyy
+會子	huey tzyy
+會撮	kuay tzuey
+會稽	kuay ji
+朏朒	feei gniuq
+木伐	muq faq
+木刻	muq keq
+木子	muq .tzyy
+木木樗樗	muq muq shu shu
+木柈子	muq parn .tzyy
+木模	muq mu
+木漿	muq tziang
+木落	muq loq
+木鋸	muq jiuh
+木骨都束	muq guq du shuq
+本地	been dih
+本地貨	been dih huoh
+本子	been .tzyy
+本寂	been tziq
+本底子	been dii .tzyy
+本息	been siq
+札子	jaq .tzyy
+札抹	jaq moq
+朱子	ju .tzyy
+朱提	ju tyi
+朱淑真	ju shuq jen
+朹子	chyou .tzyy
+李叔同	lii shuq torng
+李子	lii .tzyy
+李隆基	lii long ji
+杏子	shinq .tzyy
+杏脯	shinq fuu
+村子	tsuen .tzyy
+村學究	tsuen shioq jiow
+村校	tsuen shiaw
+村落	tsuen loq
+杓子	shoq .tzyy
+束髮	shuq faq
+杭子	harng .tzyy
+杯子	bei .tzyy
+杯杓	bei shoq
+杯筊	bei jeau
+杯茗	bei miing
+東家	dong jia
+東柏林	dong beq lin
+東莞	dong guan
+東邊	dong bian
+東都	dong du
+板刷	baan shuaq
+板子	baan .tzyy
+板築	baan juq
+枓栱	juu goong
+林卡	lin kaa
+林地	lin dih
+林子	lin .tzyy
+林薄	lin boq
+果勁	guoo jinq
+果子	guoo .tzyy
+果子露	guoo .tzyy luh
+果熟自落	guoo shuq tzyh loq
+果脯	guoo fuu
+枝子	jy .tzyy
+枝指	chyi jyy
+枯寂	ku tziq
+枹木	bau muq
+柏克	beq keq
+柏克郡	beq keq jiunn
+柏卡里	beq kaa lii
+柏子	beq .tzyy
+柏府	beq fuu
+柏木	beq muq
+柏林	beq lin
+柏林牆	beq lin tsyang
+柏梁詩	beq liang shy
+柏梁體	beq liang tii
+柏特斯加登	beq teq sy jia deng
+柏青哥	beq tsing go
+柑子	gan .tzyy
+柔情脈脈	rou tsyng meq meq
+柔荑	rou tyi
+柞水	jeq shoei
+查果	ja guoo
+查梨	ja li
+柬帖	jean tieq
+柵子	jaq .tzyy
+柿子	shyh .tzyy
+栀子	jy tzyy
+栖息	si siq
+栖栖	si si
+栖身	si shen
+校刊	shiaw kan
+校地	shiaw dih
+校址	shiaw jyy
+校官	shiaw guan
+校工	shiaw gong
+校徽	shiaw huei
+校旗	shiaw chyi
+校歌	shiaw go
+校規	shiaw guei
+校隊	shiaw duey
+校際	shiaw tzih
+核子	heq .tzyy
+核子	heq tzyy
+核模型	heq mu shyng
+核證模型	heq jenq mu shyng
+根刷	gen shuaq
+根子	gen .tzyy
+根據地	gen jiuh dih
+根究	gen jiow
+桂宮柏寢	guey gong beq tsiin
+桂漿	guey tziang
+框圖	kuang twu
+框子	kuang .tzyy
+桑落	sang loq
+桮杓	bei shoq
+桶子	toong .tzyy
+桿子	gan .tzyy
+梁子	liang .tzyy
+梁楷	liang kae
+梆子	bang .tzyy
+梆子腔	bang .tzyy chiang
+梆子腔	bang tzyy chiang
+梔子	jy .tzyy
+梨子	li .tzyy
+械繫	shiay shih
+梳子	shu .tzyy
+棃子	li .tzyy
+棄擲	chih jyq
+棉都	mian du
+棍子	guenn .tzyy
+棒喝	banq hoq
+棒子	banq .tzyy
+棒子手	banq .tzyy shoou
+棒子麪	banq .tzyy miann
+棒球卡	banq chyou kaa
+棕繃	tzong beng
+棗子	tzao .tzyy
+棚子	perng .tzyy
+棲息	tsi siq
+棲息地	tsi siq dih
+棲霞	tsi shya
+棽棽	shen shen
+椽子	chwan .tzyy
+椿萱	chuen shiuan
+椿齡	chuen ling
+楔子	sieq .tzyy
+楦子	shiuann .tzyy
+楮鏹	chuu cheang
+楷則	kae tzeq
+楷字	kae tzyh
+楷書	kae shu
+楷模	kae mu
+楷體	kae tii
+概括	gay guaq
+榛子	jen .tzyy
+榧子	feei .tzyy
+榫子	soen .tzyy
+榮辱	yng ruq
+槅子	geq .tzyy
+槍手	tsiang shoou
+槍擊	tsiang jiq
+槍桿子	tsiang gan .tzyy
+槭木	tsuq muq
+槭糖漿	tsuq tarng tziang
+槽子	tsaur .tzyy
+樀樀	diq diq
+樁子	juang .tzyy
+樗材	shu tsair
+樗蒲	shu pwu
+樛曲	jiou chiuq
+樝子	ja .tzyy
+模似	mu syh
+模傚	mu shiaw
+模型	mu shyng
+模型飛機	mu shyng fei ji
+模塊	mu kuay
+模塊板	mu kuay baan
+模子	mu .tzyy
+模形	mu shyng
+模態	mu tay
+模態理則學	mu tay lii tzeq shioq
+模擬	mu gnii
+模擬器	mu gnii chih
+模擬投票	mu gnii tour piaw
+模擬考試	mu gnii kao shyh
+模效	mu shiaw
+模書	mu shu
+模本	mu been
+模板工	mu baan gong
+模楷	mu kae
+模特	mu teq
+模表	mu beau
+模黏	mu gnian
+橘子	jiuq .tzyy
+橘子汁	jiuq .tzyy jyq
+橙子	cherng .tzyy
+機子	ji .tzyy
+機括	ji guaq
+檉柏	cheng beq
+檢括	jean guaq
+檯子	tair .tzyy
+檳城	bin cherng
+檳子	bin .tzyy
+檵木	jih muq
+櫃子	guey .tzyy
+櫃身子	guey shen .tzyy
+櫳子	long .tzyy
+權軸	chyuan juq
+欣欣自得	shin shin tzyh deq
+欺天誑地	chi tian kuanq dih
+欺矇	chi mong
+欻吸	huq shiq
+欽賜	chin syh
+款子	koan .tzyy
+款曲	koan chiuq
+款識	koan jyh
+歌子	go .tzyy
+歌曲	go chiuq
+歌調	go diaw
+此地	tsyy dih
+此時此地	tsyy shyr tsyy dih
+此起彼落	tsyy chii bii loq
+步伐	buh faq
+步子	buh .tzyy
+步擊	buh jiq
+步砌	buh tsih
+步調	buh diaw
+死同穴	syy torng shiueq
+死地	syy dih
+死寂	syy tziq
+死心搭地	syy sin daq dih
+歿地	moq dih
+殲擊機	tzian jiq ji
+段子	duann .tzyy
+段落	duann loq
+殼子	koq .tzyy
+殼果	koq guoo
+殿屎	diann shi
+毫子	haur .tzyy
+毫髮	haur faq
+毯子	taan .tzyy
+氈子	jan .tzyy
+氍毹	chyu shu
+民埝	min gnieq
+民調	min diaw
+氣包子	chih bau .tzyy
+氣息	chih siq
+氣盛	chih shenq
+氣脈	chih meq
+氣褥子	chih ruq .tzyy
+氣騰騰	chih terng terng
+氮血症	dann shiueq jenq
+水刷石	shoei shuaq shyq
+水曲	shoei chiuq
+水獺	shoei taq
+水皮子	shoei pyi .tzyy
+水脈	shoei meq
+水落	shoei loq
+水都	shoei du
+求得	chyou deq
+汊子	chah .tzyy
+江湖	jiang hwu
+江湖騙子	jiang hwu piann .tzyy
+江都	jiang du
+汴堤	biann tyi
+汸汸	pang pang
+決堤	jiueq tyi
+決撒	jiueq saq
+沈括	sheen guaq
+沉不住氣	chern .buq juh chih
+沉寂	chern tziq
+沉着	chern joq
+沉着痛快	chern joq tonq kuay
+沉脈	chern meq
+沉落	chern loq
+沉降	chern jianq
+河堤	hor tyi
+河東獅子	hor dong shy .tzyy
+河汊子	hor chah .tzyy
+河渠	hor chyu
+河隄	hor tyi
+治績	jyh tziq
+治際	jyh tzih
+沾粘	jan gnian
+沾辱	jan ruq
+泄勁	sieq jinq
+泄露	sieq luh
+泄露天機	sieq luh tian ji
+泜泜	chyh chyh
+波斯地毯	bo sy dih taan
+波髮藻	bo faq tzao
+洸洸	guang guang
+洸洸	hoang hoang
+活儲	huoq chwu
+活喇喇	huoq laq laq
+活埋	huoq mai
+活局子	huoq jiuq .tzyy
+活潑	huoq poq
+活着	huoq joq
+活血	huoq shiueq
+海倫凱勒	hae luen kae leq
+海凸	hae tuq
+海地	hae dih
+海地斯	hae dih sy
+海堤	hae tyi
+海子	hae .tzyy
+海曲	hae chiuq
+海獺	hae taq
+海綿刷	hae mian shuaq
+海苔	hae tair
+海蜇	hae jèq
+海蜇皮	hae jèq pyi
+海螵蛸	hae piau siau
+海軍基地	hae jiun ji dih
+海都	hae du
+涿郡	juoq jiunn
+涿鹿	juoq luq
+涿鹿山	juoq luq shan
+淑世	shuq shyh
+淑善君子	shuq shann jiun tzyy
+淑均	shuq jiun
+淑德	shuq deq
+淑慎	shuq shenn
+淑景	shuq jiing
+淑氣	shuq chih
+淑清	shuq tsing
+淒薄	tsi boq
+淳熙閣帖	chwen shi goq tieq
+淺子	tsean .tzyy
+淺薄	tsean boq
+淺露	tsean luh
+清績	tsing tziq
+清都	tsing du
+減煠	jean jaq
+渠們	chyu .men
+渠儂	chyu nong
+渠水	chyu shoei
+渠江	chyu jiang
+渠渠	chyu chyu
+渠溝	chyu gou
+渠輩	chyu bey
+測地線	tseq dih siann
+港都	gaang du
+渹湱	hong huoq
+湊膽子	tsow daan .tzyy
+湖泊	hwu boq
+湖泊	hwu peq
+湯湯	shang shang
+溝渠	gou chyu
+溼地	shyq dih
+溼答答	shyq daq daq
+滑喇	huaq laq
+滑熟	huaq shuq
+滑稽	guq ji
+滑落	huaq loq
+滴修都速	diq siou du suq
+滴子	diq .tzyy
+滴滴答答	diq diq daq daq
+滴答	diq daq
+滴羞跌屑	diq siou dieq sieq
+滴落	diq loq
+滴血	diq shiueq
+滾地球	goen dih chyou
+滾子	goen .tzyy
+滾子軸承	goen .tzyy juq cherng
+滾落	goen loq
+滾調	goen diaw
+漿子	tziang .tzyy
+漿果	tziang guoo
+漿細胞	tziang sih bau
+潑潑撒撒	poq poq saq saq
+潝潝	shiq shiq
+潞涿君	luh juoq jiun
+澀脈	seq meq
+澆薄	jiau boq
+濃抹	nong moq
+濆薄	pen boq
+濇脈	seq meq
+瀧岡	shuang gang
+瀧水	shuang shoei
+灌渠	guann chyu
+灌溉渠	guann gay chyu
+灌漿	guann tziang
+灌腸	guann charng
+火匣子	huoo shiaq .tzyy
+火囤	huoo doen
+火捻子	huoo gnieq .tzyy
+火摺子	huoo jèq .tzyy
+火楣子	huoo mei .tzyy
+火煤子	huoo mei .tzyy
+火筷子	huoo kuay .tzyy
+火食	huoo shyq
+灰姑娘	huei gu gniang
+灰漿	huei tziang
+炊熟	chuei shuq
+炒地皮	chao dih pyi
+炒菜	chao tsay
+炒麪塊子	chao miann kuay .tzyy
+烹調	peng tyau
+烹調術	peng tyau shuq
+煤搭	mei daq
+煤砟子	mei jah .tzyy
+煤都	mei du
+煤黑子	mei heq .tzyy
+煮熟	juu shuq
+熄火	siq huoo
+熄燈	siq deng
+熟地	shuq dih
+熟嫺	shuq shyan
+熟字	shuq tzyh
+熟客	shuq keq
+熟悉	shuq siq
+熟慣	shuq guann
+熟手	shuq shoou
+熟會	shuq huey
+熟水	shuq shoei
+熟滑	shuq huaq
+熟皮	shuq pyi
+熟睡	shuq shuey
+熟知	shuq jy
+熟石灰	shuq shyq huei
+熟稔	shuq reen
+熟絲	shuq sy
+熟練	shuq liann
+熟習	shuq siq
+熟菜	shuq tsay
+熟落	shuq loq
+熟視	shuq shyh
+熟貨	shuq huoh
+熟銅	shuq torng
+熟鐵	shuq tieq
+熟閑	shuq shyan
+熟食	shuq shyq
+熱地	rèq dih
+熱血	rèq shiueq
+熱騰騰	rèq terng terng
+燈芯	deng sin
+爇櫬	rèq chenn
+爐子	lu .tzyy
+爬山調	par shan diaw
+爵仇	tzioq chour
+爽快	shoang kuay
+牀子	chwang .tzyy
+版刻	baan keq
+版築	baan juq
+牓子	baang .tzyy
+牓帖	baang tieq
+牛勁	gniou jinq
+牛犢子	gniou duq .tzyy
+牛筋牛降	gniou jin gniou jianq
+牛蹄子	gniou tyi .tzyy
+特地	teq dih
+特調	teq tyau
+犢子	duq .tzyy
+狀子	juanq .tzyy
+狐埋狐搰	hwu mai hwu huaq
+狐臊	hwu sau
+狗腿子	goou toei .tzyy
+狗追耗子	goou juei haw .tzyy
+狧糠及米	taq kang jiq mii
+猛個勁	meeng goh jinq
+猛勁	meeng jinq
+猛子	meeng .tzyy
+猛着祖鞭	meeng joq tzuu bian
+猛跌	meeng dieq
+猜不透	tsai .buq tow
+猜調	tsai diaw
+猝地	tsuq dih
+猴子	hour .tzyy
+猴子屁股	hour .tzyy pih guu
+猴孩子	hour hair .tzyy
+猴崽子	hour tzae .tzyy
+猾猾突突	huaq huaq tuq tuq
+猾賊	huaq tzeq
+獃子	dai .tzyy
+獃根子	dai gen .tzyy
+獅子	shy .tzyy
+獅子山	shy .tzyy shan
+獅子山	shy tzyy shan
+獅子座	shy .tzyy tzuoh
+獅子會	shy .tzyy huey
+獅子狗	shy .tzyy goou
+獅子頭	shy .tzyy tour
+獐子	jang .tzyy
+獨曲	duq chiuq
+獺祭	taq tzih
+玍雜子	ga tzaq .tzyy
+玻色子	bo seq .tzyy
+珠子	ju .tzyy
+珠宮貝闕	ju gong bey chiueq
+球僮	chyou torng
+理得辭順	lii deq tsyr shuenn
+理髮	lii faq
+理髮匠	lii faq tzianq
+理髮師	lii faq shy
+理髮師傅	lii faq shy fuh
+理髮店	lii faq diann
+理髮廳	lii faq ting
+理鬍子	lii hwu .tzyy
+瑪曲	maa chiuq
+瑯嬛記	lang hwan jih
+璚枝	chyong jy
+璚漿	chyong tziang
+瓊漿	chyong tziang
+瓤子	rang .tzyy
+瓴甋	ling diq
+瓶子	pyng .tzyy
+瓶落水	pyng loq shoei
+瓷刻	tsyr keq
+甜根子草	tyan gen .tzyy tsao
+產地	chaan dih
+產地證	chaan dih jenq
+甩臉子	shoai lean .tzyy
+甩髮	shoai faq
+田地	tyan dih
+甸甸	tyan tyan
+略地	lioq dih
+畬民	shè min
+畬田	shè tyan
+疊矩重規	dieq jeu chorng guei
+疙顫顫	geq jann jann
+疹子	jeen .tzyy
+痃癖	shyan piq
+痘子	dow .tzyy
+痛喝	tonq hoq
+痛快	tonq kuay
+痛惜	tonq siq
+痛擊	tonq jiq
+痧子	sha .tzyy
+痴叔	chy shuq
+痴子	chy .tzyy
+痴掙	chy jenq
+瘊子	hour .tzyy
+瘋子	fong .tzyy
+瘠薄	tziq boq
+瘦子	show .tzyy
+瘦括括	show guaq guaq
+瘸子	chyue .tzyy
+癤子	tzieq .tzyy
+癱子	tan .tzyy
+登答	deng daq
+發匱	faq guey
+發卡	faq kaa
+發帖	faq tieq
+發怔	faq jeng
+發息	faq siq
+發摃	faq gang
+發擺子	faq bae .tzyy
+發擿	faq tiq
+發祥地	faq syang dih
+發草帖	faq tsao tieq
+發落	faq loq
+發諢子	faq huenn .tzyy
+發露	faq luh
+發顫	faq jann
+的信	diq sinn
+的士	diq shyh
+的實	diq shyq
+的是	diq shyh
+的款	diq koan
+的決	diq jiueq
+的的	diq diq
+的的喀喀湖	diq diq keq keq hwu
+的知	diq jy
+的確	diq chioq
+的耗	diq haw
+的見	diq jiann
+的黎波里	diq li bo lii
+皇儲	hwang chwu
+皇叔	hwang shuq
+皇都	hwang du
+皮子	pyi .tzyy
+皮孩子	pyi hair .tzyy
+皮桶子	pyi toong .tzyy
+皺褶	jow jèq
+盅子	jong .tzyy
+盒子	hoq .tzyy
+盒子會	hoq .tzyy huey
+盒子菜	hoq .tzyy tsay
+盛世	shenq shyh
+盛典	shenq dean
+盛唐	shenq tarng
+盛器	cherng chih
+盛妝	shenq juang
+盛季	shenq jih
+盛德	shenq deq
+盛情	shenq tsyng
+盛景	shenq jiing
+盛暑	shenq shuu
+盛暑祁寒	shenq shuu chyi harn
+盛會	shenq huey
+盛氣	shenq chih
+盛況	shenq kuanq
+盛產	shenq chaan
+盛舉	shenq jeu
+盛讚	shenq tzann
+盛開	shenq kai
+盛飾	shenq shyq
+盜伐	daw faq
+目擊	muq jiq
+目擊者	muq jiq jèè
+目的	muq diq
+目的地	muq diq dih
+省勁	sheeng jinq
+省會	sheeng huey
+眸子	mou .tzyy
+着力	joq liq
+着即	joq tziq
+着地	joq dih
+着實	joq shyq
+着己	joq jii
+着志	joq jyh
+着忙	joq mang
+着急	joq jiq
+着想	joq seang
+着手	joq shoou
+着棋	joq chyi
+着水	joq shoei
+着火	joq huoo
+着牀	joq chwang
+着糞佛頭	joq fenn fuq tour
+着緊	joq jiin
+着色	joq seq
+着落	joq loq
+着身	joq shen
+着迷	joq mi
+着邊	joq bian
+着魔	joq mo
+睡不着	shuey .buq joq
+睡着	shuey joq
+睡虎地秦簡	shuey huu dih tsyn jean
+睡虎子	shuey huu .tzyy
+督緝	duq tsiq
+睿知	ruey jy
+瞅不得	choou .buq deq
+瞅不見	choou .buq jiann
+瞅不起	choou .buq chii
+瞎子	shiaq .tzyy
+瞎子起房子	shiaq .tzyy chii farng .tzyy
+瞎扯臊	shiaq chèè sau
+瞎攪	shiaq gao
+瞤息	shuenn siq
+瞥地	pieq dih
+瞳矇	torng mong
+瞶瞶	kuey kuey
+瞽闍	guu shy
+矇住	mong juh
+矇昧	mong mey
+矇牛	mong gniou
+矇着	mong joq
+矇矇	mong mong
+矇矇黑	mong mong heq
+矇矓	mong long
+矇聵	mong kuey
+矇騙	mong piann
+矬子	tsuo .tzyy
+石勒	shyq leq
+石榴	shyq liou
+石渠	shyq chyu
+石渠閣	shyq chyu goq
+石獅子	shyq shy .tzyy
+石鼓	shyq guu
+矻矻	kuq kuq
+砂子	sha .tzyy
+砂模	sha mu
+砂漿	sha tziang
+砌末	tsih .moq
+砍伐	kaan faq
+砍着	kaan joq
+砟子	jah .tzyy
+砢磣	ko cheen
+砣子	ta .tzyy
+破的	poh diq
+破罐子	poh guann .tzyy
+破落	poh loq
+破鏡重合	poh jinq chorng hoq
+破頭楔	poh tour sieq
+破體字	poh tii tzyh
+破麥破梨	poh meq poh li
+碎聒	suey guaq
+碟子	dieq .tzyy
+碧落	biq loq
+碰勁	penq jinq
+碰着	penq joq
+碼子	maa .tzyy
+磚頭	juan tour
+礌石	luei shyq
+礦脈	kuanq meq
+示寂	shyh tziq
+社會調適	shèh huey tyau shyq
+祇是	jy shyh
+神曲	shern chiuq
+神甫	shern fuu
+神色自得	shern seq tzyh deq
+票子	piaw .tzyy
+票販子	piaw fann .tzyy
+禊帖	shih tieq
+福地	fuq dih
+福氣	fuq chih
+福薄	fuq boq
+禪寂	charn tziq
+禽息鳥視	chyn siq gneau shyh
+禾菽	hor shuq
+禿子	tuq .tzyy
+禿髮	tuq faq
+禿髮症	tuq faq jenq
+秀才	siow tsair
+秀氣	siow chih
+秀髮	siow faq
+私仇	sy chour
+私地	sy dih
+私曲	sy chiuq
+私淑	sy shuq
+私窠子	sy ko .tzyy
+秋熟	tsiou shuq
+秋髮	tsiou faq
+秕子	bii .tzyy
+秦叔寶	tsyn shuq bao
+秦檜	tsyn huey
+秦都	tsyn du
+稀薄	shi boq
+程子	cherng .tzyy
+稗子	bay .tzyy
+稚拙	jyh juoq
+稽固	ji guh
+稽察	ji chaq
+稽核	ji heq
+稽滯	ji jyh
+稽程	ji cherng
+稽考	ji kao
+稽覈	ji heq
+稿子	gao .tzyy
+穄子	tzih .tzyy
+穗子	suey .tzyy
+穴脈	shiueq meq
+穴見	shiueq jiann
+穴見小儒	shiueq jiann seau ru
+穴隙	shiueq shiq
+究心	jiow sin
+究治	jiow jyh
+究理	jiow lii
+究究	jiow jiow
+突地	tuq dih
+突擊	tuq jiq
+突火	tuq huoo
+突發	tuq faq
+突破	tuq poh
+突禿	tuq tuq
+突突	tuq tuq
+突襲	tuq siq
+突起	tuq chii
+突顯	tuq shean
+窒息	jyq siq
+窗子	chuang .tzyy
+窗子	chuang tzyy
+窗櫺子	chuang ling .tzyy
+窗欞子	chuang ling .tzyy
+窟宅	kuq jeq
+窟穴	kuq shiueq
+窠子	ko .tzyy
+窣地	suq dih
+窮小子	chyong seau .tzyy
+窮日子	chyong ryq .tzyy
+窮根究底	chyong gen jiow dii
+窮棒子	chyong banq .tzyy
+窮究	chyong jiow
+窮髮	chyong faq
+竈地	tzaw dih
+竈突	tzaw tuq
+立喫地陷	liq chyq dih shiann
+立地	liq dih
+立地書廚	liq dih shu chwu
+立帳子	liq janq .tzyy
+立扎	liq jaq
+立掙	liq jenq
+立突	liq tuq
+立體地圖	liq tii dih twu
+端子	duan .tzyy
+端的	duan diq
+端詳	duan syang
+竹刻	juq keq
+竹子	juq .tzyy
+竹排	juq pair
+笛子	diq .tzyy
+笞辱	chy ruq
+笠子	liq .tzyy
+等地	deeng dih
+等子	deeng .tzyy
+筊杯	jeau bei
+筋脈	jin meq
+筏子	faq .tzyy
+筐子	kuang .tzyy
+筑波	juq bo
+答信	daq sinn
+答對	daq duey
+答席	daq siq
+答理	daq lii
+答答	daq daq
+答腔	daq chiang
+答記	daq jih
+答詞	daq tsyr
+答詢	daq siun
+答謝	daq sieh
+策勒	tseq leq
+筢子	par .tzyy
+筷子	kuay .tzyy
+箍子	gu .tzyy
+箑脯	shaq fuu
+箔子	boq .tzyy
+箱子	siang .tzyy
+篇幅	pian fuq
+築堤	juq tyi
+築底巷	juq dii shianq
+篦子	bi .tzyy
+篼子	dou .tzyy
+簌地	suq dih
+簞食	dan syh
+簞食壺漿	dan syh hwu tziang
+簡子	jean .tzyy
+簡子	jean tzyy
+簡帖	jean tieq
+簡括	jean guaq
+簡稽	jean ji
+簽子	tsian .tzyy
+簽帳卡	tsian janq kaa
+籌子	chour .tzyy
+籬落	li loq
+籮筐	lo kuang
+籮簡	lo jean
+米勒	mii leq
+米漿	mii tziang
+米突	mii tuq
+米苔目	mii tair muq
+粘滑	gnian huaq
+粘滯	gnian jyh
+粘皮帶骨	gnian pyi day guq
+粘皮着骨	gnian pyi joq guq
+粘着	gnian joq
+粘稠	gnian chour
+粘米	gnian mii
+粘粘	gnian gnian
+粘補	gnian buu
+粥粥	juq juq
+粱菽	liang shuq
+粳米	geng mii
+粽子	tzonq .tzyy
+糖漿	tarng tziang
+糞箕子	fenn ji .tzyy
+糧食	liang shyq
+糰子	twan .tzyy
+紐卡素	gneou kaa suh
+紐子	gneou .tzyy
+紐捽	gneou tzuq
+純嘏	chwen guu
+純所得	chwen suoo deq
+純熟	chwen shuq
+素髮	suh faq
+紡績	faang tziq
+紡績井臼	faang tziq tziing jiow
+紡績器	faang tziq chih
+紫葛	tzyy goq
+紫闕	tzyy chiueq
+紮實	jaq shyq
+紮寨	jaq jay
+紮詐	jaq jah
+細曲	sih chiuq
+細調	sih diaw
+終曲	jong chiuq
+終究	jong jiow
+終軍棄繻	jong jiun chih ru
+絆跌	bann dieq
+絲柏	sy beq
+絲髮	sy faq
+絳帖	jianq tieq
+絳闕	jianq chiueq
+綁紮	baang tzaq
+綜合	tzonq hoq
+綜合報導	tzonq hoq baw daw
+綜合存款	tzonq hoq tswen koan
+綜括	tzonq guaq
+綜核	tzonq heq
+綜理	tzonq lii
+綜述	tzonq shuq
+綠卡	luq kaa
+綠地	luq dih
+綠帽子	luq maw .tzyy
+綠苔	luq tair
+綠髮	luq faq
+綸巾	guan jin
+綻露	jann luh
+綽子	choq .tzyy
+綽楔	choq sieq
+綿力薄材	mian liq boq tsair
+綿子	mian .tzyy
+綿薄	mian boq
+緊繃	jiin beng
+緊繃繃	jiin beng beng
+線鋸	siann jiuh
+線鋸機	siann jiuh ji
+緝捉	tsiq juoq
+緝捕	tziq buh
+緝捕	tsiq buh
+緝熙	tsiq shi
+緝理	tsiq lii
+緝私	tziq sy
+緝私	tsiq sy
+緝穆	tsiq muq
+緝緝	tsiq tsiq
+緬靦	mean tean
+練家子	liann jia .tzyy
+練習曲	liann siq chiuq
+縐褶	jow jèq
+縰履	shyy lii
+縰縰	shyy shyy
+績學	tziq shioq
+績效	tziq shiaw
+繁盛	farn shenq
+繁露	farn luh
+繃價	beng jiah
+繃子	beng .tzyy
+繃帶	beng day
+繃弓	beng gong
+繃拽	beng juay
+繃牀	beng chwang
+繃瓷	beng tsyr
+繃簧	beng hwang
+繃緊	beng jiin
+繃線	beng siann
+繃繃拽拽	beng beng juay juay
+繃臉	beng lean
+繃針	beng jen
+繩子	sherng .tzyy
+繫世	shih shyh
+繫住	shih juh
+繫囚	shih tsyou
+繫念	shih gniann
+繫泊	jih boq
+繫船樁	shih chwan juang
+繫趾	shih jyy
+繫辭	shih tsyr
+繭子	jean .tzyy
+纔子	tsair .tzyy
+缸子	gang .tzyy
+缽子	boq .tzyy
+罈子	tarn .tzyy
+罐子	guann .tzyy
+罵罵咧咧	mah mah lieq lieq
+罵罵括括	mah mah guaq guaq
+羈勒	ji leq
+羓子	ba .tzyy
+羔子	gau .tzyy
+羞怯	siou chieq
+羞怯怯	siou chieq chieq
+羞答答	siou daq daq
+羞辱	siou ruq
+羣落	chyun loq
+翎子	ling .tzyy
+習熟	siq shuq
+翕呷	shiq shiaq
+翛翛	siau siau
+翠鈿	tsuey diann
+翬翟	huei diq
+翻刻	fan keq
+翻刻本	fan keq been
+翻地	fan dih
+翻調	fan diaw
+老叔	lao shuq
+老姥	lao muu
+老娘	lao gniang
+老婆	lao por
+老婆子	lao por .tzyy
+老子	lao .tzyy
+老子	lao tzyy
+老實	lao shyq
+老底子	lao dii .tzyy
+老拙	lao juoq
+老撾	lao jua
+老是	lao .shyh
+老是	lao shyh
+老梆子	lao bang .tzyy
+老臊胡	lao sau hwu
+老落	lao loq
+老調	lao diaw
+老調重彈	lao diaw chorng tarn
+老面子	lao miann .tzyy
+老頭子	lao tour .tzyy
+考究	kao jiow
+考績	kao tziq
+考績黜陟	kao tziq chuq jyq
+耆儒碩德	chyi ru shyq deq
+耆儒碩老	chyi ru shyq lao
+耆碩	chyi shyq
+耍子	shoa .tzyy
+耍家子	shoa jia .tzyy
+耍獅子	shoa shy .tzyy
+耍耗子	shoa haw .tzyy
+耍臉子	shoa lean .tzyy
+耕地	geng dih
+耗子	haw .tzyy
+耙地	bah dih
+聒天	guaq tian
+聒子	guaq .tzyy
+聒氣	guaq chih
+聒聒	guaq guaq
+聒躁	guaq tzaw
+聖地	shenq dih
+聖彼得	shenq bii deq
+聖彼得堡	shenq bii deq bao
+聖餅子	shenq biing .tzyy
+聯彈	lian tarn
+聯繫	lian shih
+肋筋	leq jin
+肋骨	leq guq
+肘子	joou .tzyy
+肝火盛	gan huoo shenq
+肝腦塗地	gan nao twu dih
+肝膽塗地	gan daan twu dih
+肝鬲	gan geq
+股子	guu .tzyy
+股子	guu tzyy
+股息	guu siq
+股息股利	guu siq guu lih
+肥盛	feir shenq
+肥碩	feir shyq
+胎子	tai .tzyy
+胎息	tai siq
+胎髮	tai faq
+胞漿	bau tziang
+胡同	hwu torng
+胡塗	hwu twu
+胡天胡地	hwu tian hwu dih
+胡子	hwu .tzyy
+胡掄	hwu luen
+胡攪	hwu gao
+胡攪	hwu jeau
+胡琴	hwu chyn
+胡突	hwu tuq
+脆薄	tsuey boq
+脈息	meq siq
+脈波體	meq bo tii
+脈理	meq lii
+脈石	meq shyq
+脈脈	meq meq
+脈膊	meq boq
+脈訣	meq jiueq
+脈輪	meq luen
+脖子	boq .tzyy
+脩脯	siou fuu
+脫帽露頂	tuoq maw luh diing
+脫殼	tuoq koq
+脫落	tuoq loq
+脫髮	tuoq faq
+脯資	fuu tzy
+脯醢	fuu hae
+脺臟	tsuey tzanq
+腔子	chiang .tzyy
+腔調	chiang diaw
+腦子	nao .tzyy
+腦杓	nao shoq
+腦杓子	nao shoq .tzyy
+腦殼	nao koq
+腦漿	nao tziang
+腮幫子	sai bang .tzyy
+腸子	charng .tzyy
+腹便便	fuq pyan pyan
+腹地	fuq dih
+腿子	toei .tzyy
+膩子	gnih .tzyy
+膽子	daan .tzyy
+膽怯	daan chieq
+膽懾	daan jèq
+膽落	daan loq
+膽顫心寒	daan jann sin harn
+膽顫心驚	daan jann sin jing
+膽驚心顫	daan jing sin jann
+膿血	nong shiueq
+膿血債	nong shiueq jay
+臉子	lean .tzyy
+臉皮薄	lean pyi boq
+臉薄	lean boq
+臊子	sau .tzyy
+臊根	sau gen
+臊氣	sau chih
+臊皮	sau pyi
+臊羯奴	sau jieq nu
+臧否	tzang pii
+自個	tzyh goh
+自各	tzyh goq
+自在	tzyh tzay
+自得	tzyh deq
+自敘帖	tzyh siuh tieq
+臷國	jyq guoq
+般桓	parn hwan
+般涉調	parn shèq diaw
+般礴	parn boq
+舳艫	juq lu
+舳艫千里	juq lu tsian lii
+船殼	chwan koq
+色調	seq diaw
+芟落	shan loq
+芯子	sin .tzyy
+苔砌	tair tsih
+苔蘚	tair sean
+苕子	tyau .tzyy
+苕果	tyau guoo
+苕苕	tyau tyau
+苜蓿	muq suq
+苞子	bau .tzyy
+苞米棒子	bau mii banq .tzyy
+苟得	goou deq
+茄克	jia keq
+茄克衫	jia keq shan
+茆店	mao diann
+茈胡	chair hwu
+茙菽	rong shuq
+茬地	chyr dih
+茬子	chyr .tzyy
+茳芏	jiang tuu
+草地	tsao dih
+草爬子	tsao par .tzyy
+草甸子	tsao diann .tzyy
+草頭露	tsao tour luh
+荑手纖纖	tyi shoou sian sian
+荸薺	biq tsyr
+莎草	suo tsao
+莎車	sha chè
+莎雞	sha ji
+莖幹	jiing gann
+莘莘	shen shen
+莘莘學子	shen shen shioq tzyy
+菜包子	tsay bau .tzyy
+菜地	tsay dih
+菜殼子	tsay koq .tzyy
+菜盒子	tsay hoq .tzyy
+菜虎子	tsay huu .tzyy
+菜鴿子	tsay goq .tzyy
+菽水	shuq shoei
+菽水承歡	shuq shoei cherng huan
+菽粟	shuq suq
+菽麥	shuq meq
+落俗	loq suq
+落保	loq bao
+落價	loq jiah
+落入	loq ruq
+落地	loq dih
+落地幫	loq dih bang
+落地燈	loq dih deng
+落地窗	loq dih chuang
+落地簽證	loq dih tsian jenq
+落地籤	loq dih tsian
+落基山	loq ji shan
+落塵	loq chern
+落子	loq .tzyy
+落實	loq shyq
+落局	loq jiuq
+落帳	loq janq
+落座	loq tzuoh
+落得	loq deq
+落手	loq shoou
+落托	loq toq
+落拓	loq toq
+落敗	loq bay
+落日	loq ryq
+落暉	loq huei
+落槽	loq tsaur
+落款	loq koan
+落水	loq shoei
+落水狗	loq shoei goou
+落泊	loq boq
+落石	loq shyq
+落磐	loq parn
+落磯山	loq ji shan
+落神	loq shern
+落籍	loq tziq
+落脈	loq meq
+落腮鬍	loq sai hwu
+落膽	loq daan
+落色	loq seq
+落草	loq tsao
+落落	loq loq
+落落寡交	loq loq goa jiau
+落落寡合	loq loq goa hoq
+落落寡歡	loq loq goa huan
+落落穆穆	loq loq muq muq
+落葵	loq kwei
+落薄	loq boq
+落雪	loq siueq
+落體	loq tii
+落髮	loq faq
+落魄	loq peq
+葅醢	tzu hae
+葛仙米	goq sian mii
+葛利納	goq lih naq
+葛天氏	goq tian shyh
+葛巾	goq jin
+葛根	goq gen
+葛洪	goq horng
+葛藤	goq terng
+葛覃	goq tarn
+葡萄	pwu taur
+葡萄糖	pwu taur tarng
+葡萄紫	pwu taur tzyy
+葧薺	boq tsyr
+葷素	huen suh
+葷菜	huen tsay
+葷辛	huen sin
+葷食	huen shyq
+蒲隆地	pwu long dih
+蒲鞭示辱	pwu bian shyh ruq
+蒸氣重整	jeng chih chorng jeeng
+蒸露	jeng luh
+蓄謀	shiuq mou
+蓄髮	shiuq faq
+蓮都	lian du
+蔥鬍子	tsong hwu .tzyy
+薄俗	boq suq
+薄倖	boq shinq
+薄具	boq jiuh
+薄利	boq lih
+薄利多銷	boq lih do siau
+薄劣	boq liueq
+薄地	boq dih
+薄層	boq tserng
+薄幸	boq shinq
+薄幹	boq gann
+薄弱	boq roq
+薄怯	boq chieq
+薄怯怯	boq chieq chieq
+薄情	boq tsyng
+薄情郎	boq tsyng lang
+薄懲	boq cherng
+薄明	boq ming
+薄暮	boq muh
+薄曉	boq sheau
+薄曲	boq chiuq
+薄板	boq baan
+薄殼	boq koq
+薄海	boq hae
+薄海同仇	boq hae torng chour
+薄海歡騰	boq hae huan terng
+薄溼溼	boq shyq shyq
+薄產	boq chaan
+薄田	boq tyan
+薄福	boq fuq
+薄紗	boq sha
+薄耆	boq chyi
+薄胎瓷器	boq tai tsyr chih
+薄脆	boq tsuey
+薄臉	boq lean
+薄落	boq loq
+薄薄	boq boq
+薄薄怯怯	boq boq chieq chieq
+薄藍	boq lan
+薄貼	boq tieq
+薄賤	boq tziann
+薄透鏡	boq tow jinq
+薄酌	boq joq
+薄酬	boq chour
+薄面	boq miann
+薄面含嗔	boq miann harn chen
+薄頭	boq tour
+薄餅	boq biing
+薙髮	tih faq
+薩嘎	saq gaq
+薩斯卡通	saq sy kaa tong
+薯莨	shuh lang
+藍調	lan diaw
+藍鬍子	lan hwu .tzyy
+蘋婆	pyn por
+蘋果	pyn guoo
+蘋果手機	pyn guoo shoou ji
+蘋果核	pyn guoo heq
+蘋果汁	pyn guoo jyq
+蘋果綠	pyn guoo luq
+蘋果臉	pyn guoo lean
+蘋果電腦	pyn guoo diann nao
+蘋果餡餅	pyn guoo shiann biing
+蘚苔	sean tair
+蘮蒘	jih ru
+虎勁	huu jinq
+虎穴	huu shiueq
+虎臉子	huu lean .tzyy
+蚩拙	chy juoq
+蚶子	han .tzyy
+蛐蟮	chiuq shann
+蛤灰	goq huei
+蛤蚧	goq jiay
+蛤蜊	goq li
+蜀素帖	shuq suh tieq
+蜂蜜梳子	fong miq shu .tzyy
+蜜露	miq luh
+蜡祭	jah tzih
+蜷曲	chyuan chiuq
+蝌子	ko .tzyy
+蝍蛆	tziq tziu
+蝍蛆鉗帶	tziq tziu chyan day
+蝕刻	shyq keq
+蝤蛑	tziou mou
+蝨子	sheq .tzyy
+蝲蛄	laq gu
+蝳蝐	duq mey
+蝻子	nan .tzyy
+螇螰	shyi luq
+螲蟷	dieq dang
+螵蛸	piau siau
+蟢子	shii .tzyy
+蠙珠	pyn ju
+蠟查	laq ja
+蠶薄	tsarn boq
+蠷蝚	chyu rou
+血滴子	shiueq diq tzyy
+表叔	beau shuq
+表子	beau .tzyy
+表識	beau jyh
+表露	beau luh
+衫子	shan .tzyy
+衯衯	fen fen
+衲子	naq .tzyy
+衿曲	jin chiuq
+袋子	day .tzyy
+袋子包	day .tzyy bau
+袞闕	goen chiueq
+袴子	kuh .tzyy
+裘葛	chyou goq
+裘褐	chyou hoq
+裙子	chyun .tzyy
+補子	buu .tzyy
+補校	buu shiaw
+補習學校	buu siq shioq shiaw
+補血	buu shiueq
+補闕	buu chiueq
+裨海	pyi hae
+裨販	pyi fann
+裸地	luoo dih
+裸露	luoo luh
+褂子	guah .tzyy
+褐煤	hoq mei
+褐色	hoq seq
+褐藻	hoq tzao
+褐錳礦	hoq menq kuanq
+褐鐵礦	hoq tieq kuanq
+褐飛蝨	hoq fei sheq
+褒彈	bau tarn
+褒貶	bau bean
+褡褳	daq lian
+褥子	ruq .tzyy
+褪色	tuenn seq
+褲子	kuh .tzyy
+褲褶	kuh siq
+褶子	jèq .tzyy
+褶子	siq .tzyy
+褶曲	jèq chiuq
+褶曲山脈	jèq chiuq shan meq
+褶皺	jèq jow
+褶皺山系	jèq jow shan shih
+褶皺山脈	jèq jow shan meq
+褶皺帶	jèq jow day
+褶裙	jèq chyun
+襂纚	shen shyy
+襞褶	biq jèq
+襟曲	jin chiuq
+襠勁	dang jinq
+襲擊	siq jiq
+見不得	jiann .buq deq
+見個情	jiann .ge tsyng
+見地	jiann dih
+見得	jiann deq
+見證	jiann jenq
+規模	guei mu
+規矩	guei jeu
+規重矩疊	guei chorng jeu dieq
+視息	shyh siq
+視窗加速卡	shyh chuang jia suq kaa
+覲見	jinn jiann
+角里	luq lii
+觸突	chuq tuq
+訌阻	horng tzuu
+討伐	tao faq
+討究	tao jiow
+記不住	jih .buq juh
+記仇	jih chour
+記住	jih juh
+許許	huu huu
+詈辱	lih ruq
+詐唬	jah haur
+詘寸信尺	chiuq tsuenn shen chyq
+詞曲	tsyr chiuq
+詞素通達模型	tsyr suh tong daq mu shyng
+詞綜	tsyr tzonq
+詞調	tsyr diaw
+詞通達模型	tsyr tong daq mu shyng
+試帖	shyh tieq
+該着	gai joq
+該究	gai jiow
+詼諧曲	huei shyai chiuq
+誑子	kuanq .tzyy
+誰家	shwei jia
+誰誰	shwei shwei
+調低	tyau di
+調停	tyau tyng
+調停者	tyau tyng jèè
+調價	tyau jiah
+調勤	tyau chyn
+調包	diaw bau
+調協	tyau shieq
+調合	tyau hoq
+調唆	tyau suo
+調喉	diaw hour
+調子	diaw .tzyy
+調幅	tyau fuq
+調幹	diaw gann
+調弦	tyau shyan
+調律	diaw liuq
+調息	tyau siq
+調情	tyau tsyng
+調換	diaw huann
+調攝	tyau shèq
+調整	tyau jeeng
+調書袋	diaw shu day
+調校	diaw shiaw
+調氣	tyau chih
+調治	tyau jyh
+調理	tyau lii
+調皮	tyau pyi
+調皮鬼	tyau pyi goei
+調絲品竹	tyau sy piin juq
+調羹	tyau geng
+調色	tyau seq
+調色板	tyau seq baan
+調薪	tyau sin
+調補	diaw buu
+調製	tyau jyh
+調製波	tyau jyh bo
+調試	tyau shyh
+調調	tyau tyau
+調諧	tyau shyai
+調諧器	tyau shyai chih
+調謊	diaw hoang
+調謔	tyau gnioq
+調貼	tyau tieq
+調資	tyau tzy
+調赴	diaw fuh
+調逗	tyau dow
+調速	tyau suq
+調達	tyau daq
+調適	tyau shyq
+調遷	diaw tsian
+調開	diaw kai
+調降	tyau jianq
+調陣	diaw jenn
+調陣子	diaw jenn .tzyy
+調露	tyau luh
+調頭	diaw tour
+調頭寸	diaw tour tsuenn
+調頻	tyau pyn
+調駐	diaw juh
+調鬼	tyau goei
+調鼎	tyau diing
+諍臣	jenq chern
+諍訟	jenq sonq
+諍諫	jenq jiann
+諔詭	chuq goei
+諫諍	jiann jenq
+謊子	hoang .tzyy
+謔謔	gnioq gnioq
+講究	jeang jiow
+講面子	jeang miann .tzyy
+謝勒	sieh leq
+謝天謝地	sieh tian sieh dih
+謝帖	sieh tieq
+謝脁	sieh tiaw
+謞謞	shiaw shiaw
+謫降	jeq jianq
+譜子	puu .tzyy
+譜曲	puu chiuq
+警官學校	jiing guan shioq shiaw
+警察學校	jiing chaq shioq shiaw
+讘䛟	jèq jiaq
+讚唄	tzann bay
+讚詞	tzann tsyr
+谷地	guq dih
+谷都	guq du
+豈弟	kae tih
+豈弟君子	kae tih jiun tzyy
+豐熟	fong shuq
+豐盛	fong shenq
+豐都	fong du
+豐鎬	fong haw
+豕突	shyy tuq
+豚拍	twen peq
+豪忕	haur tay
+貉子	hoq .tzyy
+貉子	hoq tzyy
+貉絨	hoq rong
+貝克勒	bey keq leq
+貝利卡登	bey lih kaa deng
+貝勒	bey .leq
+貝卡谷地	bey kaa guq dih
+貝子	bey .tzyy
+貝子	bey tzyy
+貝殼	bey koq
+貝殼杉	bey koq shan
+貝闕珠宮	bey chiueq ju gong
+財主	tsair juu
+財會	tsair kuay
+貨販子	huoh fann .tzyy
+販子	fann .tzyy
+貯存	juu tswen
+貯氣槽	juu chih tsaur
+貯水	juu shoei
+貴地	guey dih
+貴降	guey jianq
+貼吧	tieq .ba
+貼息	tieq siq
+貼票卡	tieq piaw kaa
+貼餅子	tieq biing .tzyy
+賀卡	hoh kaa
+賅括	gai guaq
+賈儈	guu kuay
+賈儒商秀	guu ru shang siow
+賈利	guu lih
+賈客	guu keq
+賈胡	guu hwu
+賊虐	tzeq gnioq
+賜卹	syh siuq
+賜履	syh lii
+賜帛	syh beq
+賜死	syh syy
+賜爵	syh tzioq
+賜示	syh shyh
+賜福	syh fuq
+賜紫	syh tzyy
+賞賜	shaang syh
+賞面子	shaang miann .tzyy
+賢淑	shyan shuq
+賤息	tziann siq
+賤降	tziann jianq
+賦得	fuh deq
+賴子	lay .tzyy
+贈答	tzenq daq
+贍表子	shann beau .tzyy
+贓埋	tzang mai
+贔屓	bey shih
+赤地	chyq dih
+赤地千里	chyq dih tsian lii
+赤血丹心	chyq shiueq dan sin
+赤露	chyq luh
+赴曲	fuh chiuq
+赴火蹈刃	fuh huoo daw renn
+赴蹈	fuh daw
+起勁	chii jinq
+起子	chii .tzyy
+起根立地	chii gen liq dih
+起皮子	chii pyi .tzyy
+起落	chii loq
+起降	chii jianq
+趄趄	tziu tziu
+超儲	chau chwu
+超模	chau mu
+超級瑪琍	chau jiq maa li
+趔趄	lieq tziu
+趔趔趄趄	lieq lieq tziu tziu
+趕座子	gaan tzuoh .tzyy
+趕得及	gaan deq jiq
+趯趯	tiq tiq
+跌交	dieq jiau
+跌停板	dieq tyng baan
+跌價	dieq jiah
+跌幅	dieq fuq
+跌破	dieq poh
+跌落	dieq loq
+跌跌撞撞	dieq dieq juanq juanq
+跌跌蹌蹌	dieq dieq tsiang tsiang
+跟前	gen tsyan
+跴緝	tsae tsiq
+踅子	siueq .tzyy
+踏地	taq dih
+踏地知根	taq dih jy gen
+踏實	taq shyq
+踏猛子	taq meeng .tzyy
+踏踏實實	taq taq shyq shyq
+踏鈸	taq baq
+踢踢躂躂	tiq tiq taq taq
+踢躂	tiq taq
+踢鞠	tiq jiuq
+踱步	doq buh
+踳落	choen loq
+踳駁	choen boq
+蹀踱	dieq doq
+蹄子	tyi .tzyy
+蹈常襲故	daw charng siq guh
+蹈歌	daw go
+蹈海	daw hae
+蹈矩循規	daw jeu syun guei
+蹈襲	daw siq
+蹈襲故常	daw siq guh charng
+蹈規循矩	daw guei syun jeu
+蹈隙	daw shiq
+蹋鞠	taq jiuq
+蹌蹌	tsiang tsiang
+蹦子	bonq .tzyy
+蹦躂	bonq taq
+蹴鞠	tsuq jiuq
+蹶子	jiueq .tzyy
+蹶石伐木	jiueq shyq faq muq
+身子	shen .tzyy
+身子骨	shen .tzyy guq
+躬蹈矢石	gong daw shyy shyq
+車僮	chè torng
+車子	chè .tzyy
+車廠子	chè chaang .tzyy
+車篷子	chè porng .tzyy
+車輪子	chè luen .tzyy
+車轂	chè guq
+車轂擊馳	chè guq jiq chyr
+軋機	jaq ji
+軋製	jaq jyh
+軋輥	jaq goen
+軌模	goei mu
+軌轍	goei chèq
+軍官學校	jiun guan shioq shiaw
+軍帖	jiun tieq
+軍校	jiun shiaw
+軟刀子	roan dau .tzyy
+軟底子	roan dii .tzyy
+軟怯怯	roan chieq chieq
+軟熟	roan shuq
+軫惜	jeen siq
+軸子	juq .tzyy
+軸突	juq tuq
+軸艫千里	juq lu tsian lii
+輝銻礦	huei tyi kuanq
+輥子	goen .tzyy
+輦轂	gnean guq
+輩子	bey .tzyy
+輪子	luen .tzyy
+輪調	luen diaw
+輪轂	luen guq
+轍鮒	chèq fuh
+轡勒	pey leq
+辣子	laq .tzyy
+辣子	laq tzyy
+辣拐子	laq goai .tzyy
+辰勾	chern gou
+辱國	ruq guoq
+辱子	ruq tzyy
+辱抹	ruq moq
+辱罵	ruq mah
+農地	nong dih
+農地改革	nong dih gae geq
+迋迋	guanq guanq
+迫降	peq jianq
+迷惑	mi huoq
+迷颩模登	mi biau mu deng
+追擊	juei jiq
+追究	juei jiow
+追緝	juei tziq
+追緝	juei tsiq
+退怯怯	tuey chieq chieq
+退息	tuey siq
+退落	tuey loq
+逃瘧	taur gnioq
+透露	tow luh
+這個	jèh .ge
+這家子	jèh jia .tzyy
+這會子	jèh huey .tzyy
+這步田地	jèh buh tyan dih
+這的	jèh diq
+這的是	jèh diq shyh
+這程子	jèh cherng .tzyy
+這輩子	jèh bey .tzyy
+這陣子	jèh jenn .tzyy
+通侻	tong tuoq
+通信地址	tong sinn dih jyy
+通天徹地	tong tian chèq dih
+通緝	tong tziq
+通緝	tong tsiq
+逢逢	porng porng
+逼勒	biq leq
+逼綽子	biq choq .tzyy
+遍及	biann jiq
+遍及	pian jiq
+遍地	biann dih
+達卡	daq kaa
+達子	daq .tzyy
+遷調	tsian diaw
+遷都	tsian du
+邊儲	bian chwu
+邊卡	bian chea
+邊地	bian dih
+邊框	bian kuang
+邛崍山脈	chyong lai shan meq
+邳邳	pi pi
+郎個	lang .ge
+郘鐘	leu jong
+都保	du bao
+都坑	du keng
+都城	du cherng
+都子	du tzyy
+都寺	du syh
+都府	du fuu
+都抹	du moq
+都會	du huey
+都柏林	du beq lin
+都督	du duq
+都試	du shyh
+都講	du jeang
+都鄙	du bii
+都靈	du ling
+都頭	du tour
+都鬼	du goei
+鄙薄	bii boq
+鄧拓	denq toq
+鄭國渠	jenq guoq chyu
+酆都	fong du
+酖酖	dan dan
+酢敗	tsuh bay
+酢漿草	tsuh tziang tsao
+酬答	chour daq
+醋勁	tsuh jinq
+醋罈子	tsuh tarn .tzyy
+醋罐子	tsuh guann .tzyy
+里弄	lii lonq
+重世	chorng shyh
+重修	chorng siou
+重合	chorng hoq
+重塑	chorng suh
+重壁	chorng biq
+重奏	chorng tzow
+重婚	chorng huen
+重審	chorng sheen
+重山	chorng shan
+重彈	chorng tarn
+重拍	chorng peq
+重提	chorng tyi
+重插	chorng chaq
+重整	chorng jeeng
+重整旗鼓	chorng jeeng chyi guu
+重新	chorng sin
+重新加熱	chorng sin jia rèq
+重新審視	chorng sin sheen shyh
+重新開機	chorng sin kai ji
+重明	chorng ming
+重根	chorng gen
+重沓	chorng taq
+重熙	chorng shi
+重版	chorng baan
+重瓣	chorng bann
+重疊	chorng dieq
+重睹天日	chorng duu tian ryq
+重瞳	chorng torng
+重碼詞頻	chorng maa tsyr pyn
+重繭	chorng jean
+重考	chorng kao
+重見天日	chorng jiann tian ryq
+重規疊矩	chorng guei dieq jeu
+重規襲矩	chorng guei siq jeu
+重設	chorng shèq
+重蹈	chorng daw
+重迭	chorng dieq
+重述	chorng shuq
+重重	chorng chorng
+重重疊疊	chorng chorng dieq dieq
+重重落落	chorng chorng loq loq
+重開	chorng kai
+重閨	chorng guei
+重關	chorng guan
+重阻	chorng tzuu
+重黎	chorng li
+針線	jen siann
+針針見血	jen jen jiann shiueq
+針黹紡績	jen jyy faang tziq
+釦子	koou .tzyy
+鈞帖	jiun tieq
+鈴鐺	ling dang
+鈿合	diann hoq
+鈿尺	diann chyq
+鈿帶	diann day
+鈿朵	diann duoo
+鈿盒	diann hoq
+鈿箏	diann jeng
+鈿粟	diann suq
+鈿車	diann chè
+鉗子	chyan .tzyy
+鉤勒	gou leq
+鉤子	gou .tzyy
+鉤稽	gou ji
+銃子	chonq .tzyy
+銅匠	torng tzianq
+銅模	torng mu
+銅筋鐵肋	torng jin tieq leq
+銅臭	torng shiow
+銅落	torng loq
+銅鈸	torng baq
+銗筩	shiang torng
+銚子	diaw .tzyy
+銷子	siau .tzyy
+鋃鐺	lang dang
+鋒鏑	fong diq
+鋦子	jiuq .tzyy
+鋸子	jiuh .tzyy
+鋸屑	jiuh sieq
+鋸工	jiuh gong
+鋸木	jiuh muq
+鋸木廠	jiuh muq chaang
+鋸棕櫚	jiuh tzong liu
+鋸牀	jiuh chwang
+鋸琴	jiuh chyn
+鋸蜂	jiuh fong
+鋸開	jiuh kai
+鋸鮫	jiuh jiau
+鋸齒	jiuh chyy
+鋸齒形	jiuh chyy shyng
+鋸齒草	jiuh chyy tsao
+錐子	juei .tzyy
+鍊子	liann .tzyy
+鎬鎬	haw haw
+鏑鋒	diq fong
+鏜孔	tang koong
+鏜牀	tang chwang
+鏡子	jinq .tzyy
+鏡框	jinq kuang
+鏹水	cheang shoei
+鐘鼎款識	jong diing koan jyh
+鐵桿	tieq gan
+鐵殼船	tieq koq chwan
+鐵漿	tieq tziang
+鐵落	tieq loq
+鐵都	tieq du
+鐺鐺	dang dang
+鐺鐺車	dang dang chè
+鐺頭	cheng tour
+鑷子	gnieq .tzyy
+鑹子	tsuann .tzyy
+開地	kai dih
+開堂歃血	kai tarng shaq shiueq
+開天闢地	kai tian piq dih
+開拓	kai toq
+開拓者	kai toq jèè
+開普勒	kai puu leq
+開發	kai faq
+開矇	kai mong
+開落	kai loq
+開葷	kai huen
+開通	kai tong
+開都河	kai du hor
+閒地	shyan dih
+閒晃	shyan huanq
+閒步	shyan buh
+閒氣	shyan chih
+閒聒七	shyan guaq tsiq
+閣子	goq .tzyy
+閣落	goq loq
+閤家	hoq jia
+閤家歡	hoq jia huan
+闃寂	chiuq tziq
+闍棃	shy li
+闍黎	shy li
+闕乏	chiueq faq
+闕字	chiueq tzyh
+闕里	chiueq lii
+關係調	guan shih diaw
+關子	guan .tzyy
+關東都督府	guan dong du duq fuu
+關脈	guan meq
+闞闞	kann kann
+闢地	piq dih
+闢地開天	piq dih kai tian
+闢築	piq juq
+阻擊	tzuu jiq
+陌地	meq dih
+降世	jianq shyh
+降乩	jianq ji
+降低	jianq di
+降價	jianq jiah
+降冪	jianq miq
+降升調	jianq sheng diaw
+降塵	jianq chern
+降席	jianq siq
+降幅	jianq fuq
+降志辱身	jianq jyh ruq shen
+降息	jianq siq
+降情	jianq tsyng
+降旨	jianq jyy
+降水	jianq shoei
+降火	jianq huoo
+降災	jianq tzai
+降祉	jianq jyy
+降神	jianq shern
+降祥	jianq syang
+降福	jianq fuq
+降級	jianq jiq
+降罪	jianq tzuey
+降落	jianq loq
+降落傘	jianq loq saan
+降薪	jianq sin
+降血鈣素	jianq shiueq gay suh
+降調	jianq diaw
+降階	jianq jiai
+陟罰臧否	jyq faq tzang pii
+陟降	jyq jianq
+陣地	jenn dih
+陣子	jenn .tzyy
+陪客	peir keq
+陪都	peir du
+陬落	tzou loq
+陳設	chern shèq
+陳露	chern luh
+陳鼎擊鐘	chern diing jiq jong
+陵苕	ling tyau
+陷落	shiann loq
+陷落帶	shiann loq day
+隆河谷地	long hor guq dih
+隆盛	long shenq
+階地	jiai dih
+隙地	shiq dih
+隨地	swei dih
+隨時隨地	swei shyr swei dih
+隨珠彈雀	swei ju tarn tsioq
+隳突	huei tuq
+雀子	tsioq .tzyy
+雀息	tsioq siq
+雄勁	shyong jinq
+雋品	tzeuan piin
+雋妙	tzeuan miaw
+雋敏	tzeuan miin
+雋材	tzeuan tsair
+雋爽	tzeuan shoang
+雙城子	shuang cherng .tzyy
+雙曲	shuang chiuq
+雙曲線	shuang chiuq siann
+雙柏	shuang beq
+雙調	shuang diaw
+雙身子	shuang shen .tzyy
+雙重	shuang chorng
+雙重國籍	shuang chorng guoq tziq
+雜糅	tzaq rou
+雞子	ji .tzyy
+雞子	ji tzyy
+雞樅	ji tzong
+雞肋	ji leq
+雞血石	ji shiueq shyq
+雞鞠	ji jiuq
+雪地	siueq dih
+雪山獅子	siueq shan shy .tzyy
+雪山獅子旗	siueq shan shy .tzyy chyi
+雪茄	siueq jia
+電匣子	diann shiaq .tzyy
+電子賀卡	diann tzyy hoh kaa
+電擊	diann jiq
+電鋸	diann jiuh
+需才孔亟	siu tsair koong jiq
+露井	luh tziing
+露地	luh dih
+露堂	luh tarng
+露天	luh tian
+露天礦	luh tian kuanq
+露底	luh dii
+露形	luh shyng
+露怯	luh chieq
+露板	luh baan
+露水	luh shoei
+露珠	luh ju
+露臉	luh lean
+露草	luh tsao
+露葵	luh kwei
+露車	luh chè
+露鋒	luh fong
+露電	luh diann
+露面	luh miann
+露韓	luh harn
+露餡	luh shiann
+露骨	luh guq
+露體	luh tii
+露齒	luh chyy
+霸突	bah tuq
+靈渠	ling chyu
+靈雀寺	ling tsioq syh
+青苔	tsing tair
+青葙子	tsing siang .tzyy
+青蘋	tsing pyn
+青衫子	tsing shan .tzyy
+青貯塔	tsing juu taq
+青青	tzing tzing
+青青	tsing tsing
+靚妝	tzinq juang
+面子	miann .tzyy
+面熟	miann shuq
+面皮薄	miann pyi boq
+面般	miann parn
+靦臉	tean lean
+靦面	tean miann
+靴子	shiue .tzyy
+鞔鼓	man guu
+鞠子	jiuq tzyy
+鞠躬	jiuq gong
+鞭子	bian .tzyy
+韁繩	jiang sherng
+韃子	daq .tzyy
+韓棒子	harn banq .tzyy
+頂呱呱	diing gu gu
+頂天履地	diing tian lii dih
+頂天立地	diing tian liq dih
+頂子	diing .tzyy
+頂子牀	diing .tzyy chwang
+頂括括	diing guaq guaq
+順子	shuenn .tzyy
+頭匹	tour piq
+頭子	tour .tzyy
+頭肘子	tour joou .tzyy
+頭頭	tour tour
+頭髮	tour faq
+頭髮殼子	tour faq koq .tzyy
+頭髮菜	tour faq tsay
+頹落	twei loq
+頻頻貶降	pyn pyn bean jianq
+顓頊	juan shiuq
+顫慄	jann liq
+顫抖	jann doou
+顫抖抖	jann doou doou
+顯卡	shean kaa
+顯示卡	shean shyh kaa
+顯露	shean luh
+飛地	fei dih
+飛子	fei .tzyy
+飛帖	fei tieq
+飛熟	fei shuq
+飛紮	fei jaq
+飛薄	fei boq
+飛鵠	fei huq
+食地	shyq dih
+餅子	biing .tzyy
+餅鐺	biing cheng
+餒怯	noei chieq
+餜子	guoo .tzyy
+餡子	shiann .tzyy
+饅頭	man tour
+馱子	dah .tzyy
+馳突	chyr tuq
+駁子	boq .tzyy
+駁殼槍	boq koq tsiang
+駁落	boq loq
+駁面子	boq miann .tzyy
+駃騠	jiueq tyi
+駉駉	jiong jiong
+駐地	juh dih
+駐泊地	juh boq dih
+駐紮	juh jaq
+駔子	tsu .tzyy
+駝子	tor .tzyy
+駝色	tor seq
+駢枝	pyan chyi
+騙子	piann .tzyy
+驚天地	jing tian dih
+驟降	jow jianq
+驟降	tzour jianq
+骨力	guq liq
+骨嘟	guq du
+骨子	guq .tzyy
+骨血	guq shiueq
+骨都	guq du
+骨都都	guq du du
+骰子	tour .tzyy
+髂骨	kah guq
+體惜	tii siq
+體模	tii mu
+體究	tii jiow
+體調	tii diaw
+髮卡	faq chea
+髮型	faq shyng
+髮帶	faq day
+髮指	faq jyy
+髮紗	faq sha
+髮絲	faq sy
+髮菜	faq tsay
+髮蠟	faq laq
+髮際	faq tzih
+髮雕	faq diau
+髮飾	faq shyq
+鬍子	hwu .tzyy
+鬍子工程	hwu .tzyy gong cherng
+鬚子	siu .tzyy
+鬚髮	siu faq
+鬥勁	dow jinq
+鬥地主	dow dih juu
+鬧嚷嚷	naw raang raang
+鬧耗子	naw haw .tzyy
+鬼子	goei .tzyy
+鬼擊	goei jiq
+魂子	hwen .tzyy
+魔怔	mo jeng
+鮭菜	shyai tsay
+鰓鰓	sai sai
+鱣堂	shann tarng
+鳥囀	gneau juann
+鳥面鵠形	gneau miann huq shyng
+鳩形鵠面	jiou shyng huq miann
+鳩拙	jiou juoq
+鳳子	fonq .tzyy
+鳳穴	fonq shiueq
+鳳辣子	fonq laq .tzyy
+鳳闕	fonq chiueq
+鴇子	bao .tzyy
+鴟蹲	chy tswen
+鴿子	goq .tzyy
+鵁鶄	jiau tzing
+鵠侍	huq shyh
+鵠形菜色	huq shyng tsay seq
+鵠的	guq diq
+鵠立	huq liq
+鵠面	huq miann
+鵠面鳥形	huq miann gneau shyng
+鵠面鳩形	huq miann jiou shyng
+鵠髮	huq faq
+鵾雞曲	kuen ji chiuq
+鶻突	huaq tuq
+鶻鳩	guq jiou
+鷲峰山脈	tziow fong shan meq
+鷿鷈	piq ti
+鸕鶿	lu tsyr
+鹼地	jean dih
+鹿柴	luq ja
+鹿死誰手	luq syy shwei shoou
+鹿脯	luq fuu
+麥個子	meq goh .tzyy
+麥卡托	meq kaa toq
+麥子	meq .tzyy
+麩子	fu .tzyy
+麪子	miann .tzyy
+麪漿	miann tziang
+麯塵	chiuq chern
+麯車	chiuq chè
+麻利	ma lih
+麻子	ma .tzyy
+黍子	shuu .tzyy
+黏着	gnian joq
+黏着力	gnian joq liq
+黏答答	gnian daq daq
+黑匣子	heq shiaq .tzyy
+黑帖	heq tieq
+黑房子	heq farng .tzyy
+黑沉沉	heq chern chern
+黑狗子	heq goou .tzyy
+黑盒子	heq hoq .tzyy
+黑瞎子	heq shiaq .tzyy
+黑箱子	heq siang .tzyy
+黑落德	heq loq deq
+黑髮	heq faq
+默識	meq jyh
+黜降	chuq jianq
+黨校	daang shiaw
+鼎盛	diing shenq
+鼓子曲	guu .tzyy chiuq
+鼓子詞	guu .tzyy tsyr
+鼓鈸	guu baq
+鼠得克	shuu deq keq
+鼠麯草	shuu chiuq tsao
+鼷穴	shyi shiueq
+齍盛	tzy cherng
+齒嵴	chyy tziq
+齒擊	chyy jiq
+齒髮	chyy faq
+龕子	kan .tzyy
+龜殼	guei koq
+龜茲	chiou tsyr
