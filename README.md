@@ -1,14 +1,29 @@
 
 # rime-bepemefeve
 
-「老國音」字音表、「老國音」輸入方案整合（使用RIME輸入法引擎）
+「老國音」注音字表兼RIME輸入方案整合
 
-以《校改國音字典》（1926年第三十八版）注音、《國音新詩韻》、《國語留聲片課本》爲準，
-其餘未收錄的字音推導自《學生字典》（校改前，陸爾奎、方毅，1915）、《康熙字典》（包含《廣韻》《集韻》等韻書）
+以《校改國音字典》《國音新詩韻》《國語留聲片課本》爲準，
+其餘字音推導自《學生字典》（校改前）《康熙字典》（包含《廣韻》《集韻》等韻書）
 
-#### 字音表格式
-- 以**聲調符號**表示聲調（`ˉ`陰平、`ˊ`陽平、`ˇ`上聲、`ˋ`去聲、`˙`入聲），不使用四聲點法
-- 在字頭加上`·`表示輕音或無確定聲調的字音
+#### 注音字音表格式
+
+以**聲調符號**表示聲調，不使用四聲點法
+
+##### 具體字符
+
+ | 聲調 | 符號 | 碼位 |
+ | :- | :- | :- |
+ | 陰平聲 | `ˉ` | `U+02C9 MODIFIER LETTER MACRON` |
+ | 陽平聲 | `ˊ` | `U+02CA MODIFIER LETTER ACUTE ACCENT` |
+ | 上聲 | `ˇ` | `U+02C7 CARON` |
+ | 去聲 | `ˋ` | `U+02CB MODIFIER LETTER GRAVE ACCENT` |
+ | 入聲 | `˙` | `U+02D9 DOT ABOVE` |
+ | 輕音/無固定聲調 | `·` | `U+00B7 MIDDLE DOT` |
+
+- 陰平聲`ˉ`實際上不標出
+- 輕音符號`·`需要加在字頭，而非加在字尾
+- 輕音符號使用中點`·`表示，而不使用目前通行的上點`˙`，上點`˙`僅表示入聲
 - 輕音和聲調可能同時標出，例如：子 `·ㄗˇ`
 
 [「老國音」字音表 `bepemefeve.dict.yaml`](bepemefeve.dict.yaml)\
@@ -103,10 +118,9 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 
-### 當代原創老國音拼音方案
-
 <a name="zhauping"></a>
-#### 勝爲士：趙音拼音（趙拼）
+
+### 勝爲士：趙音拼音（趙拼）
 *全稱：老國音趙音拼音*
 
 拼音方案詳見 [維基學院：老國音趙音拼音方案](https://zh.wikiversity.org/wiki/原創老國音拼音方案/老國音趙音拼音方案)
@@ -119,7 +133,8 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 <a name="iac"></a>
-#### iacobvs：iac轉寫
+
+### iacobvs：iac轉寫
 拼音方案詳見：
 * [維基學院：iac轉寫](https://zh.wikiversity.org/wiki/原創老國音拼音方案/iac轉寫)
 * [知乎：iac老國音輸入方案](https://zhuanlan.zhihu.com/p/21674298)
@@ -137,7 +152,8 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 <a name="tsinglou"></a>
-#### 綺檐淸露：國音用漢語拼音
+
+### 綺檐淸露：國音用漢語拼音
 *別名：混合式拼音*
 
 拼音方案詳見 [維基學院：國音用漢語拼音](https://zh.wikiversity.org/wiki/原創老國音拼音方案/國音用漢語拼音)
@@ -150,7 +166,8 @@
 碼表位置：`./bepemefeve.dict.yaml`
 
 <a name="ruenn"></a>
-#### Ruenn式國音拼音方案
+
+### Ruenn式國音拼音方案
 
 提出者：[Ruenn_L（哔哩哔哩）](https://space.bilibili.com/23285950)
 
@@ -248,3 +265,27 @@
 
 配方位置：`./bepemefeve_hsukeymod.schema.yaml`\
 碼表位置：`./bepemefeve.dict.yaml`
+
+## 鳴謝
+
+### 字音/詞庫數據來源
+- [電子化《校改國音字典》](https://zhuanlan.zhihu.com/p/22056043)
+  - [iacobvstsok（耶箍步）](https://www.zhihu.com/people/0ff167dfc98216d1064c3abd28d3d999)
+  - [李鶱棹](https://www.zhihu.com/people/3de247f4d4bb222ccfbfb48a76b36aea)
+  - [曹潔萍](https://www.zhihu.com/people/b7e5d56f3544d1510d2d247a6d5f93b1)
+  - [王子軒](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+  - [馬從之](https://www.zhihu.com/people/7798ab97b6c988c0982bcbde108141cf)
+- [電子化《學生字典》](http://fgwang.blogspot.com/2021/07/blog-post_13.html)
+  - [電脳瓦崗寨](http://wagang.econ.hc.keio.ac.jp/)
+  - [漢字データベース](http://kanji-database.sourceforge.net/dict/xszd)
+  - [WFG](http://fgwang.blogspot.com)
+- [維基學院：整合《國音新詩韻》字彙](https://zh.wikiversity.org/wiki/整合老國音熟字彙)
+- [維基學院：老國音審音字庫](https://zh.wikiversity.org/wiki/Category:老國音審音)
+- [校改國音字典整理會](https://zhuanlan.zhihu.com/Jiaoq-gais-guoh-iny-ziq-dians)
+  - [勝爲士](https://www.zhihu.com/people/ff123b1d3fcdab2a70675df1245a9eeb)
+  - [HANCVS韓](https://www.zhihu.com/people/7b106d7c1f31a47d8ba6cdbcb0e11316)
+- [qieyun-data](https://github.com/nk2028/tshet-uinh-data)
+- [康熙字典 Kangxi Dictionary TXT](https://github.com/7468696e6b/kangxiDictText)
+- [趙元任 國語留聲片課本](https://upload.wikimedia.org/wikipedia/commons/c/c0/NLC416-07jh011263-4826_%E5%9C%8B%E8%AA%9E%E7%95%99%E8%81%B2%E7%89%87%E8%AA%B2%E6%9C%AC.pdf)
+- [RIME 地球拼音](https://github.com/rime/rime-terra-pinyin)
+
