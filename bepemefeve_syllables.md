@@ -903,6 +903,7 @@
  | ㄊㄡˊ | tour | tʻou² | tou2 | teu2 | tóu | tóu | tou2 | 亠投𣪌㓱匬梪酘㢏𠞼牏窬骰𪉘緰褕𩊪䤅頭𡂛𪁞𪎨𡆏 |
  | ㄊㄡˇ | toou | tʻou³ | tou3 | teu3 | tǒu | tǒu | tou3 | 妵𠁁㪗鈄𨥪𨾨飳葔鋀𩶃𩿢𪌘䤅斢黈𨪐䱏䕆𨮃𪏜𪏡蘣 |
  | ㄊㄡˋ | tow | tʻou⁴ | tou4 | teu4 | tòu | tòu | tou4 | 𧺢䟝酘𣓕𣕽綉䞬窬透𨔙䤅襡 |
+ | ·ㄊㄡˊ | .tour | tʻou⁰ | tou | teu2 | +tóu | tou | tou2 | 頭 |
  | ㄋㄡˊ | nou | nou² | nou2 | neu2 | nóu | nóu | nou2 | 𠲴𢉕𦎀㝹𤟦𩓪𦏌鎒𩸐獶羺譨鐞𩍄䨲䰰𧅘 |
  | ㄋㄡˋ | now | nou⁴ | nou4 | neu4 | nòu | nòu | nou4 | 搙槈耨𦔘擩檽譳䰰 |
  | ㄌㄡ | lhou | lou¹ | lou1 | leu1 | lōu | lōu | lou1 | 摟 |
