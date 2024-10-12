@@ -34,7 +34,7 @@
 #
 ---
 name: guoqlo.phrase
-version: "2024.10.11"
+version: "2024.10.12"
 sort: be_weight
 ...
 三個	san goh	100%
@@ -557,6 +557,7 @@ sort: be_weight
 一團和氣	yiq twan hor chih
 一地	yiq dih
 一地胡拿	yiq dih hwu na
+一地裏	yiq dih .li
 一垛	yiq duoh
 一報還一報	yiq baw hwan yiq baw
 一場官司一場火	yiq charng guan sy yiq charng huoo
@@ -564,6 +565,8 @@ sort: be_weight
 一場空	yiq chaang kong
 一場空	yiq charng kong
 一塊石頭拋上天	yiq kuay shyq .tour pau shanq tian
+一塊石頭落了地	yiq kuay shyq .tour loq .le dih
+一塌糊塗	yiq taq hwu .twu
 一塌糊塗	yiq taq hwu twu
 一多對應	yiq do duey yinq
 一夜露水	yiq yeh luh .shoei
@@ -640,6 +643,7 @@ sort: be_weight
 一更	yiq geng
 一會	yiq huey
 一會子	yiq huey .tzyy
+一會家	yiq huey .jia
 一朝	yiq jau
 一朝天子一朝臣	yiq chaur tian tzyy yiq chaur chern
 一朝權在手	yiq jau chyuan tzay shoou
@@ -757,6 +761,7 @@ sort: be_weight
 一般來講	yiq ban lai jeang
 一般原則	yiq ban yuan tzeq
 一般性	yiq ban sinq
+一般見識	yiq ban jiann .shyq
 一般見識	yiq ban jiann shyq
 一般規定	yiq ban guei dinq
 一般說來	yiq ban shuoq lai
@@ -800,12 +805,14 @@ sort: be_weight
 一錢不落虛空地	yiq tsyan buq loq shiu kong dih
 一鍬掘個井	yiq tsiau jiueq .ge tziing
 一長一短	yiq charng yiq doan
+一門心思	yiq men sin .sy
 一闡提	yiq chaan tyi
 一陣子	yiq jenn .tzyy
 一隅之地	yiq yu jy dih
 一霎間	yiq shaq jian
 一面之識	yiq miann jy shyq
 一音教	yiq in jiaw
+一項一項地	yiq shianq yiq shianq .de
 一頭	yiq tour
 一頭霧水	yiq tour wuh shoei
 一飛衝天	yiq fei chong tian
@@ -828,6 +835,7 @@ sort: be_weight
 丁彊	ding chyang
 丁是丁	ding .shyh ding
 丁當	ding danq
+丁零當啷	ding .ling dang lhang
 丁香結	ding shiang jieq
 七上八落	tsiq shanq baq loq
 七了八當	tsiq leau baq danq
@@ -850,6 +858,7 @@ sort: be_weight
 万俟	meq chyi
 丈人	janq .ren
 丈人	janq ren
+丈夫	janq .fu
 丈夫	janq fu
 丈量	janq liang
 三七仔	san tsiq tzyy
@@ -973,12 +982,17 @@ sort: be_weight
 上下班時間	shanq shiah ban shyr jian
 上不了臺面	shanq buq leau tair miann
 上不得臺盤	shanq buq deq tair parn
+上了歲數	shanq .le suey .shu
+上來	shanq .lai
 上供	shanq gonq
 上傳	shanq chwan
 上僂	shanq lou
+上分	shanq .fen
 上剎	shanq chaq
 上勁	shanq jinq
 上半部分	shanq bann buh fenn
+上去	shanq .chiu
+上司	shanq .sy
 上司	shanq sy
 上同調	shanq torng diaw
 上吐下瀉	shanq tuh shiah sieh
@@ -1008,6 +1022,7 @@ sort: be_weight
 上當	shanq danq
 上疏	shanq shuh
 上相	shanq sianq
+上着	shanq .joq
 上着	shanq joq
 上知	shanq jy
 上空	shanq kong
@@ -1032,22 +1047,30 @@ sort: be_weight
 下一個	shiah yiq .ge
 下不了臺	shiah buq leau tair
 下不爲例	shiah buq wei lih
+下來	shiah .lai
 下來	shiah lai
 下劃線	shiah huaq siann
+下功夫	shiah gong .fu
 下勁	shiah jinq
 下半輩子	shiah bann bey .tzyy
+下去	shiah .chiu
 下咽	shiah yeq
 下地	shiah dih
 下地獄	shiah dih yuq
+下場	shiah .chang
 下場	shiah chaang
 下場	shiah charng
 下場白	shiah charng beq
+下場頭	shiah .chang tour
 下大夫	shiah day fu
 下夸克	shiah kua keq
 下子	shiah .tzyy
 下子	shiah tzyy
+下工夫	shiah gong .fu
 下巴	shiah .ba
 下帖子	shiah tieq .tzyy
+下得	shiah .de
+下得去	shiah .de chiuh
 下意識	shiah yih shyq
 下操	shiah tsau
 下旋	shiah syuan
@@ -1066,6 +1089,7 @@ sort: be_weight
 下肚	shiah duh
 下落	shiah loq
 下落不明	shiah loq buq ming
+下處	shiah .chu
 下行	shiah shyng
 下行文	shiah shyng wen
 下行星	shiah shyng sing
@@ -1112,11 +1136,13 @@ sort: be_weight
 不供	buq gonq
 不便	buq biann
 不便宜	buq biann yi
+不便宜	buq pyan .yi
 不便處	buq biann chuh
 不便道	buq biann daw
 不修帷薄	buq siou wei boq
 不值一看	buq jyq yiq kann
 不值天一劃	buq jyq tian yiq huaq
+不值得	buq jyq .de
 不值當	buq jyq dang
 不假外出	buq jiah way chuq
 不停當	buq tyng danq
@@ -1146,6 +1172,7 @@ sort: be_weight
 不分高下	buq fen gau shiah
 不切實際	buq tsieq shyq tzih
 不利落	buq lih loq
+不到得	buq daw .de
 不剌	buq laq
 不剌剌	buq laq laq
 不動聲色	buq donq sheng seq
@@ -1174,7 +1201,9 @@ sort: be_weight
 不和	buq hoh
 不因親	buq in tsin
 不圖打點	buq twu daa .dean
+不在乎	buq tzay .hu
 不在乎	buq tzay hu
+不在了	buq tzay .le
 不在五行中	buq tzay wuu shyng jong
 不在人間	buq tzay ren jian
 不在地主	buq tzay dih juu
@@ -1184,6 +1213,7 @@ sort: be_weight
 不堪負荷	buq kan fuh hoh
 不塞不流	buq seq buq liou
 不外露	buq way luh
+不多工夫	buq do gong .fu
 不大	buq dah
 不大客氣	buq dah keq .chih
 不大離	buq dah li
@@ -1197,6 +1227,7 @@ sort: be_weight
 不如得季布諾	buq ru deq jih buh noq
 不如日進分文	buq ru ryq tzinn fen wen
 不如薄藝隨身	buq ru boq yih swei shen
+不婚媽媽	buq huen mha .ma
 不孕真菌	buq yunn jen jiunn
 不學亡術	buq shioq wu shuq
 不完全給付	buq wan tsyuan jiq fuh
@@ -1213,6 +1244,7 @@ sort: be_weight
 不對稱	buq duey chenq
 不對頭	buq duey tour
 不差	buq cha
+不差什麼	buq cha shern .mo
 不差毫釐	buq cha haur li
 不差毫髮	buq cha haur faq
 不干	buq gan
@@ -1220,6 +1252,7 @@ sort: be_weight
 不干涉	buq gan shèq
 不干涉主義	buq gan shèq juu yih
 不平等待遇	buq pyng deeng day yuh
+不幸的是	buq shinq .de shyh
 不度	buq duh
 不弟	buq tih
 不強	buq chyang
@@ -1256,6 +1289,7 @@ sort: be_weight
 不怕不識貨	buq pah buq shyq huoh
 不怕臊	buq pah sau
 不怯氣	buq chieq chih
+不恁麼	buq renn .mo
 不息	buq siq
 不悶	buq menn
 不惜	buq siq
@@ -1267,8 +1301,10 @@ sort: be_weight
 不戰不和	buq jann buq hor
 不打不成相識	buq daa buq cherng siang shyq
 不打不相識	buq daa buq siang shyq
+不打量	buq daa .liang
 不折不扣	buq jèq buq kow
 不拘細行	buq jiu sih shinq
+不捨得	buq shèè .de
 不探虎穴	buq tann huu shiueq
 不揣	buq choai
 不揣冒昧	buq choai maw mey
@@ -1291,6 +1327,7 @@ sort: be_weight
 不是耍處	buq shyh shoa chuh
 不是處	buq shyh chuh
 不時間	buq shyr jian
+不曉得	buq sheau .de
 不會	buq huey
 不服燒埋	buq fuq shau mai
 不朝	buq chaur
@@ -1305,6 +1342,7 @@ sort: be_weight
 不正當競爭	buq jenq dang jinq jeng
 不正當關係	buq jenq dang guan shih
 不正確	buq jenq chioq
+不正經	buq jenq .jing
 不殺	buq shay
 不毛之地	buq mau jy dih
 不氣干	buq chih gan
@@ -1314,8 +1352,10 @@ sort: be_weight
 不法行爲	buq faq shyng wei
 不消得	buq siau deq
 不淑	buq shuq
+不清楚	buq tsing .chu
 不漸	buq tziann
 不熟	buq shuq
+不爭得	buq jeng .de
 不爲五斗米折腰	buq wey wuu doou mii jèq iau
 不爲人下	buq wei ren shiah
 不爲人知	buq wei ren jy
@@ -1332,6 +1372,7 @@ sort: be_weight
 不甚了了	buq shenn leau leau
 不甫能勾	buq fuu neng gou
 不由分說	buq you fen shuoq
+不由得	buq you .de
 不畏強暴	buq wey chyang baw
 不畏強權	buq wey chyang chyuan
 不畏強禦	buq wey chyang yuh
@@ -1378,6 +1419,7 @@ sort: be_weight
 不省	buq siing
 不省事	buq siing shyh
 不省人事	buq siing ren shyh
+不省得	buq siing .de
 不看僧面看佛面	buq kann seng miann kann fuq miann
 不看金面看佛面	buq kann jin miann kann fuq miann
 不看魚情看水情	buq kann yu tsyng kann shoei tsyng
@@ -1426,6 +1468,7 @@ sort: be_weight
 不立崖岸	buq liq ya ngann
 不答理	buq daq lii
 不答腔	buq daq chiang
+不算什麼	buq suann shern .mo
 不管生癬生瘡	buq goan sheng sean sheng chuang
 不終朝	buq jong jau
 不結匯進口	buq jieq huey tzinn koou
@@ -1439,6 +1482,7 @@ sort: be_weight
 不繆	buq miow
 不繫舟	buq shih jou
 不老長生	buq lao charng sheng
+不肖的東西	buq siaw .de dong .si
 不肯干休	buq keeng gan shiou
 不能勾	buq neng gou
 不能增減一分	buq neng tzeng jean yiq fen
@@ -1475,23 +1519,30 @@ sort: be_weight
 不虛此行	buq shiu tsyy shyng
 不虞匱乏	buq yu kuey faq
 不行	buq shyng
+不行了	buq shyng .le
+不裹頭巾的婆婆	buq guoo tour jin .de por .por
 不要	buq yaw
 不要緊	buq yaw jiin
 不要臉	buq yaw lean
+不要臉的東西	buq yaw lean .de dong .si
 不見	buq jiann
 不見一點蹤影	buq jiann yiq dean tzong yiing
 不見不散	buq jiann buq sann
 不見便	buq jiann biann
 不見天日	buq jiann tian ryq
+不見得	buq jiann .de
 不見棺材不落淚	buq jiann guan tsair buq loq luey
 不見經傳	buq jiann jing juann
 不見識面	buq jiann shyq miann
 不親筆硯	buq tsin biq yann
 不觸目	buq chuq muq
 不言之教	buq yan jy jiaw
+不言語	buq yan .iu
 不計得失	buq jih deq shyq
 不記省	buq jih siing
 不許將軍見太平	buq sheu tziang jiun jiann tay pyng
+不認得	buq renn .de
+不認得字的	buq renn .de tzyh .de
 不誣	buq wu
 不調勻	buq tyau yun
 不調和	buq tyau hor
@@ -1531,6 +1582,7 @@ sort: be_weight
 不足爲據	buq tzuq wei jiuh
 不足爲訓	buq tzuq wei shiunn
 不足爲道	buq tzuq wei daw
+不足的地方	buq tzuq .de dih .fang
 不足輕重	buq tzuq ching jonq
 不辨菽麥	buq biann shuq meq
 不辱	buq ruq
@@ -1538,6 +1590,7 @@ sort: be_weight
 不逮	buq day
 不逮人倫	buq day ren luen
 不逮捕特權	buq day buh teq chyuan
+不道得	buq daw .de
 不適合	buq shyq hoq
 不適當	buq shyq danq
 不避彊禦	buq bih chyang yuh
@@ -1563,6 +1616,7 @@ sort: be_weight
 不露鋒芒	buq luh fong mang
 不露風聲	buq luh fong sheng
 不露馬腳	buq luh maa jioq
+不順溜	buq shuenn .liou
 不顧一切	buq guh yiq tsieq
 不顧曲直	buq guh chiuq jyq
 不顯山不露水	buq shean shan buq luh shoei
@@ -1571,6 +1625,7 @@ sort: be_weight
 不食人間煙火	buq shyq ren jian ian huoo
 不飽和	buq bao hor
 不騰騰	buq terng terng
+不高的東西	buq gau .de dong .si
 不高興	buq gau shinq
 不龜手藥	buq jiun shoou yoq
 不龜藥	buq jiun yoq
@@ -1612,6 +1667,7 @@ sort: be_weight
 丟紙扇	diou jyy shann
 丟面子	diou miann .tzyy
 丟風撒腳	diou fong saq jioq
+並不在乎	binq buq tzay .hu
 並無不當	binq wu buq danq
 並稱	binq cheng
 並興	binq shing
@@ -1828,6 +1884,7 @@ sort: be_weight
 主播	juu boh
 主教	juu jiaw
 主旋律	juu syuan liuq
+主治大夫	juu jyh day .fu
 主法向量	juu faq shianq lianq
 主監	juu jian
 主管教區	juu goan jiaw chiu
@@ -1851,8 +1908,10 @@ sort: be_weight
 乍暖還寒	jah noan hwan harn
 乍熟	jah shuq
 乍看	jah kann
+乍着膽子	jah .joq daan .tzyy
 乏地	faq dih
 乏樣子	faq yanq .tzyy
+乖乖	guai .guai
 乖乖	guai guai
 乖分	guai fen
 乖子	guai .tzyy
@@ -1880,6 +1939,8 @@ sort: be_weight
 乙狀結腸	yiq juanq jieq charng
 乙醯胺吡咯烷酮	yiq shi oq biq loq wan torng
 乜乜踅踅	mieq mieq siueq siueq
+乜斜	mieq .sye
+乜斜眼	mieq .sye yean
 九世之仇	jeou shyh jy chour
 九九重陽	jeou jeou chorng yang
 九分	jeou fen
@@ -1892,6 +1953,7 @@ sort: be_weight
 九更天	jeou geng tian
 九江地區	jeou jiang dih chiu
 九流三教	jeou liou san jiaw
+九牛去得一毛	jeou gniou chiuh .de yiq mau
 九牛拉不轉	jeou gniou lha buq juann
 九聲六調	jeou sheng luq diaw
 九芎	jeou chyong
@@ -1919,6 +1981,7 @@ sort: be_weight
 乾冷	gan leeng
 乾刻版	gan keq baan
 乾剝剝	gan boq boq
+乾吊着下巴	gan diaw .joq shiah .ba
 乾和	gan hor
 乾咳	gan keq
 乾咽	gan yeq
@@ -1993,6 +2056,7 @@ sort: be_weight
 乾癟	gan bieq
 乾癬	gan sean
 乾眼症	gan yean jenq
+乾着	gan .joq
 乾着急	gan joq jiq
 乾瞪眼	gan denq yean
 乾禮	gan lii
@@ -2022,6 +2086,7 @@ sort: be_weight
 乾草	gan tsao
 乾菜	gan tsay
 乾落	gan loq
+乾落得	gan loq .de
 乾薑	gan jiang
 乾薪	gan sin
 乾虔	gan chyan
@@ -2053,12 +2118,14 @@ sort: be_weight
 乾餾	gan liow
 乾麪	gan miann
 亂亂騰騰	luann .luann terng terng
+亂咕攘	luann gu .rang
 亂哄哄	luann honq honq
 亂嚼舌頭	luann tzioq shèq .tour
 亂子	luann .tzyy
 亂岔岔	luann chah .chah
 亂彈	luann tarn
 亂彈琴	luann tarn chyn
+亂得慌	luann .de huang
 亂旋	luann syuan
 亂葬崗	luann tzanq gang
 亂葬崗子	luann tzanq gang .tzyy
@@ -2067,11 +2134,13 @@ sort: be_weight
 亂言片楮	luann yan piann chuu
 亂騰騰	luann terng terng
 亂鬨不過來	luann .honq buq guoh lai
+了不得	leau .buq .de
 了不成	leau .buq cherng
 了不起	leau .buq chii
 了了	leau leau
 了事	leau shyh
 了事環	leau shyh hwan
+了亮	leau .liang
 了債	leau jay
 了劣	leau liueq
 了卻	leau chioq
@@ -2079,6 +2148,8 @@ sort: be_weight
 了如指掌	leau ru jyy jaang
 了局	leau jiuq
 了帳	leau janq
+了得	leau .de
+了得了	leau .de leau
 了悟	leau wuh
 了手	leau shoou
 了收	leau shou
@@ -2116,6 +2187,7 @@ sort: be_weight
 事急且相隨	shyh jiq tsiee siang swei
 事急馬行田	shyh jiq maa shyng tyan
 事業年度	shyh yeq gnian duh
+事物的本質重於外在	shyh wuq .de been jyq chorng yu way tzay
 事畜	shyh shiuq
 事發地點	shyh faq dih dean
 事親至孝	shyh tsin jyh shiaw
@@ -2322,6 +2394,7 @@ sort: be_weight
 人地	ren dih
 人地生疏	ren dih sheng shu
 人地相宜	ren dih siang yi
+人家	ren .jia
 人家	ren jia
 人工血液	ren gong shiueq yiq
 人工閱卷	ren gong yueq jiuann
@@ -2339,10 +2412,12 @@ sort: be_weight
 人文地理學	ren wen dih lii shioq
 人文教育	ren wen jiaw yuq
 人是地行仙	ren shyh dih shyng sian
+人是衣裳	ren shyh i .sharng
 人格分裂	ren geq fen lieq
 人格教育	ren geq jiaw yuq
 人模人樣	ren mu ren yanq
 人模狗樣	ren mu goou yanq
+人樣	ren .iang
 人樣子	ren yanq .tzyy
 人正不怕影子斜	ren jenq buq pah yiing .tzyy sye
 人民共和國	ren min gonq hor guoq
@@ -2352,6 +2427,7 @@ sort: be_weight
 人爲	ren wei
 人爲刀俎	ren wei dau tzuu
 人爲財死	ren wey tsair syy
+人物字號	ren wuq tzyh .hau
 人物闐咽	ren wuq tyan yeq
 人生如朝露	ren sheng ru jau luh
 人生朝露	ren sheng jau luh
@@ -2396,6 +2472,9 @@ sort: be_weight
 人魚小姐	ren yu seau .tziee
 什剎海	shyq chaq hae
 什襲珍藏	shyq siq jen tsarng
+什麼	shern .mo
+什麼地方	shern .mo dih .fang
+什麼時候	shern .mo shyr .how
 仁和	ren hor
 仁和區	ren hor chiu
 仁和縣	ren hor shiann
@@ -2404,6 +2483,7 @@ sort: be_weight
 仁義	ren yih
 仁者樂山	ren jèè yaw shan
 仄行	tzeq shyng
+仆地	puq .de
 仇人	chour ren
 仇人相見	chour ren siang jiann
 仇仇	chyou chyou
@@ -2432,6 +2512,7 @@ sort: be_weight
 仔細	tzyy sih
 仔肩	tzy jian
 仔薑	tzyy jiang
+仔麼	tzae .mo
 仗腰子	janq iau .tzyy
 付之度外	fuh jy duh way
 付之闕如	fuh jy chiueq ru
@@ -2525,6 +2606,7 @@ sort: be_weight
 任脈	renn meq
 任達華	renn daq huah
 任重	renn jonq
+份量	fen .liang
 仿佛	faang fuq
 仿圈	faang chiuan
 仿射子空間	faang shèh tzyy kong jian
@@ -2625,6 +2707,7 @@ sort: be_weight
 估喝	guh hoq
 估衣	guh i
 估衣鋪	guh i puh
+估量	guh .liang
 估量	guh lianq
 伴宿	bann suq
 伴當	bann dang
@@ -2646,6 +2729,8 @@ sort: be_weight
 伺服器	sy fuq chih
 伺機	sy ji
 伺隙	sy shiq
+似的	shyh .de
+似的	syh .de
 伽伽	chye chye
 伽南香	chye nan shiang
 伽羅瓦	jia lo wah
@@ -2667,6 +2752,7 @@ sort: be_weight
 佇眙	juh chyh
 佈劃	buh huaq
 佈散	buh sann
+位分	wey .fen
 位子	wey .tzyy
 位尊勢重	wey tzuen shyh jonq
 位形空間	wey shyng kong jian
@@ -2699,6 +2785,7 @@ sort: be_weight
 住宿	juh suq
 住紮	juh jaq
 住處	juh chuh
+佔便宜	jann pyan .yi
 佔畢	jan biq
 何以克當	hor yii keq dang
 何以見得	hor yii jiann deq
@@ -2739,6 +2826,8 @@ sort: be_weight
 佛貍	biq li
 佛頭着糞	fuq tour joq fenn
 佛馱	fuq tor
+作摩	tzoq .mo
+作料	tzoq .liau
 作料	tzoq liaw
 作踐	tzoq tziann
 你和	nii hor
@@ -2756,15 +2845,21 @@ sort: be_weight
 佻脫	tyau tuoq
 佻薄	tyau boq
 佻達	tyau taq
+侄媳婦	jyq siq .fu
 侄子	jyq .tzyy
 來不及	lai .buq jiq
 來不及	lai buq jiq
 來人不差	lai ren buq cha
 來令片	lai linq piann
+來來	lai .lai
 來勁	lai jinq
 來去分明	lai chiuh fen ming
+來回來去地	lai hwei lai chiuh .de
 來往	lai .woang
 來往	lai woang
+來得	lai .de
+來得去不得	lai .de chiuh buq .de
+來得及	lai .de jiq
 來日方長	lai ryq fang charng
 來日正長	lai ryq jenq charng
 來派	lai .pay
@@ -2855,6 +2950,7 @@ sort: be_weight
 依撒依亞	i saq i yah
 依撒意亞	i saq yih yah
 依撒格	i saq geq
+依樣畫葫蘆	i yanq huah hwu .lu
 依法炮製	i faq paur jyh
 依計行事	i jih shyng shyh
 依還	i hwan
@@ -2890,8 +2986,13 @@ sort: be_weight
 便嬛	pyan shiuan
 便官	biann guan
 便宜	biann yi
+便宜	pyan .yi
+便宜不過當家	pyan .yi buq guoh dang jia
+便宜主義	pyan .yi juu yih
 便宜施行	biann yi shy shyng
 便宜行事	biann yi shyng shyh
+便宜話	pyan .yi huah
+便宜貨	pyan .yi huoh
 便宴	biann yann
 便家	biann jia
 便就	biann tziow
@@ -2927,6 +3028,7 @@ sort: be_weight
 便池	biann chyr
 便液	biann yiq
 便溺	biann niq
+便當	biann .dang
 便當	biann dang
 便盆	biann pern
 便益	biann yiq
@@ -2993,6 +3095,7 @@ sort: be_weight
 保定地區	bao dinq dih chiu
 保寧縣	bao gning shiann
 保山地區	bao shan dih chiu
+保得住	bao .de juh
 保息	bao siq
 保持聯繫	bao chyr lian shih
 保教	bao jiaw
@@ -3025,6 +3128,7 @@ sort: be_weight
 信子	sinn .tzyy
 信宿	sinn suq
 信差	sinn chai
+信得過	sinn .de guoh
 信息	sinn siq
 信教	sinn jiaw
 信號彈	sinn haw dann
@@ -3074,6 +3178,7 @@ sort: be_weight
 倍稱	bey chenq
 倍道兼行	bey daw jian shyng
 倏來忽往	shuq lai huq woang
+倏地	shuq .de
 倏地	shuq dih
 倏忽	shuq huq
 倏然	shuq ran
@@ -3111,6 +3216,7 @@ sort: be_weight
 倒戈	daw go
 倒扣	daw kow
 倒抽一口氣	daw chou yiq koou chih
+倒抽了一口氣	daw chou .le yiq koou chih
 倒持干戈	daw chyr gan go
 倒指	daw jyy
 倒掛	daw guah
@@ -3131,6 +3237,7 @@ sort: be_weight
 倒果爲因	daw guoo wei in
 倒栽蔥	daw tzai tsong
 倒橫直豎	daw herng jyq shuh
+倒水的	daw shoei .de
 倒流	daw liou
 倒清尊	daw tsing tzuen
 倒灌	daw guann
@@ -3196,6 +3303,7 @@ sort: be_weight
 借方差額	tzieh fang cha ngeq
 借梯子下樓	tzieh ti .tzyy shiah lou
 借水行舟	tzieh shoei shyng jou
+借米下得鍋	tzieh mii shiah .de guo
 借記卡	tzieh jih kaa
 借調	tzieh diaw
 借酒三分醉	tzieh tzeou san fen tzuey
@@ -3221,6 +3329,15 @@ sort: be_weight
 倭遲	uei chyr
 倭馬亞王朝	uo maa yah wang chaur
 值宿	jyq suq
+值得	jyq .de
+值得一提	jyq .de yiq tyi
+值得信賴	jyq .de sinn lay
+值得品味	jyq .de piin vey
+值得慶幸	jyq .de chinq shinq
+值得敬佩	jyq .de jinq pey
+值得注意	jyq .de juh yih
+值得注意的是	jyq .de juh yih .de shyh
+值得稱讚	jyq .de cheng tzann
 值更	jyq geng
 偃佒	yean iang
 偃兵息甲	yean bing siq jiaq
@@ -3315,6 +3432,7 @@ sort: be_weight
 傒落	shi loq
 傔從	chiann tzonq
 傘降	saan jianq
+傢伙	jia .huo
 催吐	tsuei tuh
 催吐劑	tsuei tuh tzih
 催淚大片	tsuei luey dah piann
@@ -3422,6 +3540,7 @@ sort: be_weight
 傳粉	chwan feen
 傳紅	chwan horng
 傳紅線	chwan horng siann
+傳給	chwan .geei
 傳經	chwan jing
 傳習	chwan siq
 傳習錄	chwan siq luq
@@ -3498,10 +3617,12 @@ sort: be_weight
 傳鼓	chwan guu
 傴僂	yeu lou
 債務擔保證券	jay wuh dan bao jenq chiuann
+債多了不愁	tzeq do .le buq chour
 債臺高築	jay tair gau juq
 傷亡枕藉	shang wang jenn tzieh
 傷和氣	shang hor .chih
 傷嗟	shang tzie
+傷耗	shang .haw
 傻勁	shaa jinq
 傻呵呵	shaa ho ho
 傻子	shaa .tzyy
@@ -3533,7 +3654,7 @@ sort: be_weight
 像片簿	sianq piann buh
 僕僮成羣	puq torng cherng chyun
 僕從	puq tzonq
-僗什子	lau shyq .tzyy
+僗什子	law shyq .tzyy
 僝僽	charn jow
 僞君子	wey jiun tzyy
 僞品	wey piin
@@ -3570,6 +3691,7 @@ sort: be_weight
 價值衝突	jiah jyq chong tuq
 價值量	jiah jyq lianq
 價格凍結	jiah geq donq jieq
+價錢	jiah .tsian
 儀從	yi tzonq
 儃佪	sharn hwei
 儇薄	shiuan boq
@@ -3636,6 +3758,7 @@ sort: be_weight
 元長	yuan charng
 元長鄉	yuan charng shiang
 元音和諧	yuan in hor shyai
+兄弟	shiong .dih
 兄弟	shiong dih
 充值卡	chong jyq kaa
 充分	chong fenn
@@ -3661,8 +3784,11 @@ sort: be_weight
 先後	sian how
 先後	siann how
 先後倒置	sian how daw jyh
+先怎麼栽	sian tzeen .mo tzai
 先憂後樂	sian iou how loq
+先生	sian .sheng
 先生	sian sheng
+先生們	sian .sheng .men
 先盛後衰	sian shenq how shuai
 先睹爲快	sian duu wei kuay
 先缺後空	sian chiueq how kong
@@ -3698,15 +3824,19 @@ sort: be_weight
 光景	guang .jiing
 光景	guang jiing
 光暈	guang yunn
+光木頭上鑽眼	guang muq .tour .shang tzuan yean
 光棍	guang .guenn
 光棍	guang guenn
 光棍不喫眼前虧	guang .guenn buq chyq yean tsyan kuei
 光武中興	guang wuu jong shing
 光波長	guang bo charng
+光溜	guang .liou
+光滑	guang .huaq
 光滑	guang huaq
 光潔度	guang jieq duh
 光照監視裝置	guang jaw jian shyh juang jyh
 光祿大夫	guang luq dah fu
+光祿大夫	guang luq day .fu
 光纖飛彈	guang sian fei dann
 光脊梁	guang tziq .liang
 光苔	guang tair
@@ -3753,9 +3883,11 @@ sort: be_weight
 兌頭	duey .tour
 免不了	mean .buq leau
 免不了	mean buq leau
+免不得	mean .buq .de
 免冠	mean guan
 免喪	mean sang
 免帖	mean tieq
+免得	mean .de
 免疫反應	mean yiq faan yinq
 免疫應答	mean yiq ing daq
 免疫血清	mean yiq shiueq tsing
@@ -3768,18 +3900,23 @@ sort: be_weight
 兔羔子	tuh gau .tzyy
 兔起鶻落	tuh chii huaq loq
 兔跡狐蹤	tuh tziq hwu tzong
+党太尉喫匾食	daang tay wey chyq bean .shyq
 兜兜	dou .dou
 兜兜答答	dou dou daq daq
 兜剿	dou tzeau
 兜圈子	dou chiuan .tzyy
 兜子	dou .tzyy
+兜底	dou .de
 兜底	dou dii
 兜攬生意	dou laan sheng .yih
 兜率天	dou shuay tian
 兜率天宮	dou shuay tian gong
 兜率宮	dou shuay gong
+兜着豆子尋鍋	dou .joq dow .tzyy syn guo
 兜答	dou daq
 兜籠	dou loong
+兜肚	dou .du
+兜肚斷了帶子	dou .du duann .le day .tzyy
 入地	ruq dih
 入地無門	ruq dih wu men
 入場式	ruq chaang shyq
@@ -3825,6 +3962,7 @@ sort: be_weight
 內部結構	nuey buh jieq gow
 內長城	nuey charng cherng
 內難	nuey nann
+全世界無產者聯合起來	tsyuan shyh jiay wu chaan jèè lian hoq chii .lai
 全分	tsyuan fenn
 全國不分區代表	tsyuan guoq buq fen chiu day beau
 全國各地	tsyuan guoq goq dih
@@ -3840,8 +3978,10 @@ sort: be_weight
 全熟	tsyuan shuq
 全球電話卡	tsyuan chyou diann huah kaa
 全盛	tsyuan shenq
+全真先生	tsyuan jen sian .sheng
 全真教	tsyuan jen jiaw
 全稱	tsyuan cheng
+全職媽媽	tsyuan jyq mha .ma
 全血輸血	tsyuan shiueq shu shiueq
 全身遠害	tsyuan shen yuann hay
 全都	tsyuan du
@@ -3873,6 +4013,7 @@ sort: be_weight
 八旗制度	baq chyi jyh duh
 八更	baq geng
 八會穴	baq huey shiueq
+八正道	baq jenq .dau
 八正道	baq jenq daw
 八步周行	baq buh jou shyng
 八相	baq sianq
@@ -3918,12 +4059,15 @@ sort: be_weight
 公地	gong dih
 公地放領	gong dih fanq liing
 公報私仇	gong baw sy chour
+公家	gong .jia
+公家人	gong .jia ren
 公差	gong cha
 公差	gong chai
 公擔	gong dann
 公教人員	gong jiaw ren yuan
 公文旅行	gong wen leu shyng
 公朝	gong chaur
+公母倆	gong .mu lea
 公民教育	gong min jiaw yuq
 公法上職務關係	gong faq shanq jyq wuh guan .shih
 公然侮辱	gong ran wuu ruq
@@ -3948,7 +4092,9 @@ sort: be_weight
 公車	gong chè
 公車處	gong chè chuh
 公轉	gong juann
+公道	gong .dau
 公道	gong daw
+公道話	gong .dau huah
 公道難明	gong daw nan ming
 公門修行	gong men siou shyng
 公開場合	gong kai charng hoq
@@ -4144,6 +4290,7 @@ sort: be_weight
 冰片	bing piann
 冰球場	bing chyou chaang
 冰窨	bing yinn
+冰糖葫蘆	bing tarng hwu .lu
 冰蓋	bing gay
 冰藏	bing tsarng
 冰鑹	bing tsuann
@@ -4197,6 +4344,7 @@ sort: be_weight
 凍天行	donq tian shyng
 凍結	donq jieq
 凍結資金	donq jieq tzy jin
+凍豆腐	donq dow .fu
 凜然難犯	liin ran nan fann
 凝咽	gning yeq
 凝汞溫度	gning gonq uen duh
@@ -4255,6 +4403,7 @@ sort: be_weight
 出息	chuq .siq
 出息	chuq siq
 出手得盧	chuq shoou deq lu
+出挑	chuq .tiau
 出擊	chuq jiq
 出操	chuq tsau
 出教	chuq jiaw
@@ -4262,6 +4411,7 @@ sort: be_weight
 出條子	chuq tyau .tzyy
 出樓子	chuq lou .tzyy
 出洋相	chuq yang sianq
+出溜	chuq .liou
 出漏子	chuq low .tzyy
 出火炕	chuq huoo kanq
 出生地	chuq sheng dih
@@ -4279,6 +4429,7 @@ sort: be_weight
 出行	chuq shyng
 出謀劃策	chuq mou huaq tseq
 出豁	chuq huoq
+出跳	chuq .tiau
 出醜狼藉	chuq choou lang tziq
 出鋒頭	chuq fong .tour
 出門一時難	chuq men yiq shyr nan
@@ -4298,7 +4449,6 @@ sort: be_weight
 刀割針扎	dau goq jen jaq
 刀創藥	dau chuang yoq
 刀叉	dau cha
-刀口上舔血	dau koou shanq tean shiueq
 刀子	dau .tzyy
 刀子嘴	dau .tzyy tzoei
 刀子嘴巴	dau .tzyy tzoei .ba
@@ -4310,7 +4460,6 @@ sort: be_weight
 刀鋸不辭	dau jiuh buq tsyr
 刀鋸斧鉞	dau jiuh fuu yueq
 刀鋸鼎鑊	dau jiuh diing huq
-刀頭舔血	dau tour tean shiueq
 刁天厥地	diau tian jiueq dih
 刁天撅地	diau tian jiueq dih
 刁天決地	diau tian jiueq dih
@@ -4451,6 +4600,7 @@ sort: be_weight
 分散式	fen sann shyq
 分散式網路	fen sann shyq woang luh
 分散注意	fen sann juh yih
+分散的策略	fen sann .de tseq lioq
 分文	fen wen
 分文不取	fen wen buq tseu
 分文不破	fen wen buq poh
@@ -4613,6 +4763,7 @@ sort: be_weight
 分配律	fen pey liuq
 分野	fen yee
 分量	fen lianq
+分量	fenn .liang
 分量	fenn lianq
 分釐卡	fen li kaa
 分釐毫絲	fen li haur sy
@@ -4761,6 +4912,7 @@ sort: be_weight
 刑辟	shyng piq
 划不來	hwa .buq lai
 划子	hwa .tzyy
+划得來	hwa .de lai
 刓方爲圓	wan fang wei yuan
 列傳	lieq juann
 列別傑夫	lieq bieq jieq fu
@@ -4825,6 +4977,7 @@ sort: be_weight
 利口捷給	lih koou tzieq jiq
 利子	lih .tzyy
 利字當頭	lih tzyh dang tour
+利害	lih .hai
 利害	lih hay
 利害得失	lih hay deq shyq
 利害衝突	lih hay chong tuq
@@ -4909,6 +5062,7 @@ sort: be_weight
 剃度	tih duh
 剃頭挑子	tih tour tiau .tzyy
 剃頭擔子	tih tour dann .tzyy
+剃頭的碰到禿子	tih tour .de penq daw tuq .tzyy
 剃髮	tih faq
 剃髮鋪	tih faq puh
 則度	tzeq duh
@@ -4927,6 +5081,7 @@ sort: be_weight
 削牘	sioq duq
 削球	sioq chyou
 削瘦	sioq show
+削着	sioq .joq
 削着	sioq joq
 削職	sioq jyq
 削職爲民	sioq jyq wei min
@@ -5042,6 +5197,7 @@ sort: be_weight
 剛剛	gang .gang
 剛剛	gang gang
 剛勁	gang jinq
+剛口	gang .koou
 剛子	gang .tzyy
 剛度	gang duh
 剛強	gang chyang
@@ -5052,6 +5208,7 @@ sort: be_weight
 剛柔相濟	gang rou siang tzih
 剛棱	gang leng
 剛行剛驀	gang shyng gang meq
+剛過門的小媳婦	gang guoh men .de seau siq .fu
 剝削	boq sioq
 剝削小民	boq sioq seau min
 剝削者	boq sioq jèè
@@ -5060,6 +5217,7 @@ sort: be_weight
 剝落斑殘	boq loq ban tsarn
 剡剡	yean yean
 剨然	huoq ran
+剩下	shenq .shia
 剪伐	tzean faq
 剪刀差	tzean dau cha
 剪切	tzean tsieq
@@ -5069,6 +5227,7 @@ sort: be_weight
 剪子股	tzean .tzyy guu
 剪惡除奸	tzean oq chwu jian
 剪應力	tzean yinq liq
+剪着	tzean .joq
 剪着	tzean joq
 剪票夾	tzean piaw jiaq
 剪頭髮	tzean tour .faq
@@ -5078,6 +5237,7 @@ sort: be_weight
 割地	goq dih
 割地賠款	goq dih peir koan
 割席分坐	goq siq fen tzuoh
+割着	goq .joq
 割着	goq joq
 割肉還母	goq row hwan muu
 割肚牽腸	goq duh chian charng
@@ -5182,6 +5342,7 @@ sort: be_weight
 劃地爲王	huaq dih wei wang
 劃定	huaq dinq
 劃座位	huaq tzuoh wey
+劃拉	huaq .la
 劃掉	huaq diaw
 劃撥	huaq boq
 劃時代	huaq shyr day
@@ -5216,6 +5377,8 @@ sort: be_weight
 劈山	piq shan
 劈情操	piq tsyng tsau
 劈手	piq shoou
+劈拉	piq .la
+劈拉着腿坐崖頭	piq .la .joq toei tzuoh ya tour
 劈排定對	piq pair dinq duey
 劈掛拳	piq guah chyuan
 劈接法	piq tzie faq
@@ -5266,9 +5429,11 @@ sort: be_weight
 力學篤行	liq shioq duq shyng
 力巴	liq .ba
 力巴頭	liq .ba tour
+力度	liq .duh
 力度	liq duh
 力強	liq chyang
 力微任重	liq vei renn jonq
+力把	liq .ba
 力拓	liq toq
 力拚	liq pan
 力氣	liq .chih
@@ -5279,13 +5444,19 @@ sort: be_weight
 力薄才疏	liq boq tsair shu
 力行	liq shyng
 力行哲學	liq shyng jèq shioq
+力行近乎仁	liq shyng jinn .hu ren
+力量	liq .liang
 力量均衡	liq lianq jiun herng
+力錢	liq .tsian
 功同良相	gong torng liang sianq
 功均天地	gong jiun tian dih
 功均柱地	gong jiun juh dih
 功墮垂成	gong huei chwei cherng
+功夫	gong .fu
 功夫	gong fu
 功夫片	gong fu piann
+功夫球	gong .fu chyou
+功夫茶	gong .fu char
 功完行滿	gong wan shyng maan
 功微德薄	gong vei deq boq
 功德無量	gong deq wu lianq
@@ -5328,6 +5499,8 @@ sort: be_weight
 加重	jia jonq
 加長	jia charng
 劣怯	liueq chieq
+劣把	liueq .ba
+劣把頭	liueq .ba tour
 劣相	liueq sianq
 劣行	liueq shinq
 劣跡	liueq tziq
@@ -5340,6 +5513,7 @@ sort: be_weight
 助紂爲虐	juh jow wei gnioq
 助興	juh shinq
 努牙突嘴	nuu ya tuq tzoei
+努着	nuu .joq
 努睛突眼	nuu tzing tuq yean
 劫後英雄傳	jieq how ing shyong juann
 劫法場	jieq faq charng
@@ -5391,6 +5565,7 @@ sort: be_weight
 勒尤	leq you
 勒戒	leq jiay
 勒抑	leq yiq
+勒掯	leq .keen
 勒斃	leq bih
 勒斯波斯	leq sy bo sy
 勒斯波斯島	leq sy bo sy dao
@@ -5402,6 +5577,7 @@ sort: be_weight
 勒碑	leq bei
 勒索	leq soq
 勒索罪	leq soq tzuey
+勒維夫	leq wei .fu
 勒維納斯	leq wei naq sy
 勒緊	leq jiin
 勒緊褲帶	leq jiin kuh day
@@ -5427,6 +5603,9 @@ sort: be_weight
 動地驚天	donq dih jing tian
 動如參商	donq ru shen shang
 動干戈	donq gan go
+動彈	donq .tarn
+動彈不得	donq .tarn .buq deq
+動彈不得	donq .tarn buq deq
 動息	donq siq
 動態更新	donq tay geng sin
 動植物分類	donq jyq wuq fen luey
@@ -5457,9 +5636,11 @@ sort: be_weight
 勞什子	lau shyq .tzyy
 勞什骨子	lau shyq guq .tzyy
 勞來	law lai
+勞動	lau .donq
 勞動	lau donq
 勞動合同	lau donq hoq .torng
 勞動模範	lau donq mu fann
+勞勞叨叨	lau .lau dau dau
 勞尊重	lau tzuen jonq
 勞工教育	lau gong jiaw yuq
 勞師	law shy
@@ -5513,8 +5694,10 @@ sort: be_weight
 勸降	chiuann shyang
 勺子	shoq .tzyy
 勻停	yun .tyng
+勻兌	yun .duey
 勻實	yun .shyq
 勻淨	yun .tzinq
+勻溜	yun .liou
 勻稱	yun chenq
 勾串	gou chuann
 勾乙	gou yiq
@@ -5536,6 +5719,7 @@ sort: be_weight
 勾拽	gou juay
 勾捉	gou juoq
 勾提	gou tyi
+勾搭	gou .daq
 勾摹	gou mu
 勾擾	gou rao
 勾攝	gou shèq
@@ -5550,6 +5734,7 @@ sort: be_weight
 勾玉	gou yuq
 勾留	gou liou
 勾畫	gou huah
+勾當	gou .dang
 勾當	gou dang
 勾當	gou danq
 勾眉	gou mei
@@ -5589,8 +5774,10 @@ sort: be_weight
 包皮環切術	bau pyi hwan tsieq shuq
 包米棒子	bau mii banq .tzyy
 包膜	bau moq
+包葫蘆頭	bau hwu .lu tour
 包藏	bau tsarng
 包藏禍心	bau tsarng huoh sin
+包袱	bau .fu
 包間	bau jian
 包頭地區	bau tour dih chiu
 匆卒	tsong tsuq
@@ -5700,6 +5887,8 @@ sort: be_weight
 匹馬單鎗	piq maa dan tsiang
 匹馬隻輪	piq maa jyq luen
 匾扎	bean jaq
+匾擔	bean .dan
+匾食	bean .shyq
 匿名揭帖	gniq ming jieq tieq
 匿喪	gniq sang
 匿影藏形	gniq yiing tsarng shyng
@@ -5783,6 +5972,7 @@ sort: be_weight
 半個人	bann .ge ren
 半價倍息	bann jiah bey siq
 半分	bann fen
+半刻工夫	bann keq gong .fu
 半吊子	bann diaw .tzyy
 半場	bann chaang
 半夜三更	bann yeh san geng
@@ -5818,6 +6008,7 @@ sort: be_weight
 半門子	bann men .tzyy
 半間不界	bann jiann buq jiay
 半零不落	bann ling buq loq
+半頓飯工夫	bann duenn fann gong .fu
 卑怯	bei chieq
 卑薄	bei boq
 卑親屬	bei tsin shuq
@@ -5926,6 +6117,8 @@ sort: be_weight
 占上風	jann shanq fong
 占主導地位	jann juu daw dih wey
 占人	jan ren
+占便宜	jann pyan .yi
+占便宜的是獃	jann pyan .yi .de shyh dai
 占候	jan how
 占優	jann iou
 占卜	jan buq
@@ -5947,6 +6140,8 @@ sort: be_weight
 占星師	jan sing shy
 占星術	jan sing shuq
 占滿	jann maan
+占盡便宜	jann tzinn pyan .yi
+占着茅坑不拉屎	jann .joq mau keng buq lha shyy
 占親	jan tsin
 占課	jan koh
 占身	jan shen
@@ -6031,6 +6226,7 @@ sort: be_weight
 卡門	kaa men
 卡門柏乳酪	kaa men beq ruu loq
 卡門貝	kaa men bey
+卯上	mao .shang
 卯勁	mao jinq
 卯是卯	mao .shyh mao
 卯酉參辰	mao yeou shen chern
@@ -6092,6 +6288,7 @@ sort: be_weight
 即將	tziq tziang
 即將來臨	tziq tziang lai lin
 即時即地	tziq shyr tziq dih
+即溜	tziq .liou
 即漸	tziq tziann
 即爲	tziq wei
 即興	tziq shinq
@@ -6109,6 +6306,7 @@ sort: be_weight
 卷軸	jiuann juq
 卷軸裝	jiuann juq juang
 卷髮	chyuan faq
+卸包袱	sieh bau .fu
 卸擔子	sieh dann .tzyy
 卸磨殺驢	sieh moh shaq liu
 卸載	sieh tzay
@@ -6133,8 +6331,10 @@ sort: be_weight
 厚生相	how sheng sianq
 厚薄	how boq
 厚載	how tzay
+厚道	how .dau
 厚道	how daw
 厚重	how jonq
+原則上	yuan tzeq .shang
 原創	yuan chuanq
 原創性	yuan chuanq sinq
 原圖卡	yuan twu kaa
@@ -6156,10 +6356,12 @@ sort: be_weight
 厭惡	yann wuh
 厭氣	yann .chih
 厭氣菌	yann chih jiunn
+厭煩	yann .farn
 厭薄	yann boq
 厭難折衝	yann nan jèq chong
 厭飫	ian yuh
 厭飫	yann yuh
+厲害	lih .hai
 厲害	lih hay
 厲行	lih shyng
 厹矛	chyou mou
@@ -6167,6 +6369,7 @@ sort: be_weight
 去取之間	chiuh tseu jy jian
 去就之分	chiuh tziow jy fenn
 去年	chiuh .gnian
+去得	chiuh .de
 去得快	chiuh deq kuay
 去處	chiuh chuh
 參假	tsan jiah
@@ -6271,6 +6474,7 @@ sort: be_weight
 反相	faan sianq
 反省	faan siing
 反眼不識	faan yean buq shyq
+反知識	faan jy .shyq
 反社會行爲	faan shèh huey shyng wei
 反空降	faan kong jianq
 反經行權	faan jing shyng chyuan
@@ -6320,7 +6524,9 @@ sort: be_weight
 取青媲白	tseu tsing pih beq
 受不了	show .buq leau
 受不了	show buq leau
+受不得	show .buq .de
 受不起	show .buq chii
+受保障監督的設施	show bao janq jian duq .de shèq shy
 受冷落	show leeng loq
 受創	show chuang
 受怕擔憂	show pah dan iou
@@ -6359,6 +6565,7 @@ sort: be_weight
 口分田	koou fen tyan
 口勁	koou jinq
 口占	koou jann
+口口聲聲	koou .koou sheng sheng
 口口聲聲	koou koou sheng sheng
 口吃	koou jiq
 口子	koou .tzyy
@@ -6390,6 +6597,7 @@ sort: be_weight
 口頭	koou .tour
 口頭	koou tour
 口齒便給	koou chyy pyan jiq
+口齒清楚	koou chyy tsing .chu
 句卒	gou tzuq
 句吳	gou wu
 句子	jiuh .tzyy
@@ -6416,8 +6624,11 @@ sort: be_weight
 另行	linq shyng
 叨任	tau renn
 叨光	tau guang
+叨叨	dau .dau
+叨叨絮絮	dau .dau siuh siuh
 叨名	tau ming
 叨咕	dau .gu
+叨嘮	dau .lau
 叨在知己	tau tzay jy jii
 叨擾	tau rao
 叨攬	tau laan
@@ -6444,6 +6655,7 @@ sort: be_weight
 只爲嘴傷人	jyy wey tzoei shang ren
 只甚	jyy sher
 只當	jyy dang
+只要功夫深	jyy yaw gong .fu shen
 只要功夫深	jyy yaw gong fu shen
 只重衣衫不重人	jyy jonq i shan buq jonq ren
 叫化	jiaw huah
@@ -6455,6 +6667,7 @@ sort: be_weight
 叫地地不靈	jiaw dih dih buq ling
 叫天天不應	jiaw tian tian buq yinq
 叫子	jiaw .tzyy
+叫字號	jiaw tzyh .hau
 叫條子	jiaw tyau .tzyy
 叫聒	jiaw guaq
 叫花子	jiaw hua .tzyy
@@ -6468,6 +6681,7 @@ sort: be_weight
 召陵區	shaw ling chiu
 叮叮噹噹	ding .ding dang dang
 叮叮噹噹	ding ding dang dang
+叮叮噹噹的婆娘	ding .ding dang dang .de por .gniang
 叮噹	ding .dang
 叮噹	ding dang
 叱吒	chyq jah
@@ -6528,6 +6742,7 @@ sort: be_weight
 各顯所長	goq shean suoo charng
 吆三喝四	iau san hoq syh
 吆五喝六	iau wuu hoq luq
+吆喝	iau .hoq
 合不來	hoq .buq lai
 合不着	hoq .buq joq
 合久必分	hoq jeou biq fen
@@ -6543,6 +6758,8 @@ sort: be_weight
 合子餅	hoq .tzyy biing
 合家子	hoq jia .tzyy
 合度	hoq duh
+合得來	hoq .de lai
+合得着	hoq .de joq
 合從	hoq tzonq
 合成一個諸葛亮	hoq cherng yiq goh ju goq lianq
 合折	hoq jèq
@@ -6563,12 +6780,14 @@ sort: be_weight
 合轍押韻	hoq chèq yaq yunn
 合零爲整	hoq ling wei jeeng
 吉丁當	jiq ding dang
+吉丁疙疸	jiq ding geq .da
 吉亞卡摩	jiq yah kaa mo
 吉人天相	jiq ren tian sianq
 吉勒	jiq leq
 吉占	jiq jan
 吉吉枓枓	jiq jiq juu juu
 吉地	jiq dih
+吉娃娃	jiq ua .ua
 吉布地	jiq buh dih
 吉布地共和國	jiq buh dih gonq hor guoq
 吉帖	jiq tieq
@@ -6586,6 +6805,7 @@ sort: be_weight
 吊扇	diaw shann
 吊拷繃扒	diaw kao beng baq
 吊槓	diaw ganq
+吊着鍋子底	diaw .joq guo .tzyy dii
 吊鋪	diaw puh
 同仇	torng chour
 同仇敵愾	torng chour diq kay
@@ -6720,6 +6940,7 @@ sort: be_weight
 否滯	pii jyh
 否隔	pii geq
 吧吧	ba ba
+吧嗒	ba .daq
 吧托	ba toq
 吧檯	ba tair
 吧臺	ba tair
@@ -6732,6 +6953,7 @@ sort: be_weight
 含水量	harn shoei lianq
 含沙量	harn sha lianq
 含片	harn piann
+含着骨頭露着肉	harn .joq guq .tour luh .joq row
 含笑入地	harn siaw ruq dih
 含糊	harn hwu
 含糊不清	harn hwu buq tsing
@@ -6759,6 +6981,7 @@ sort: be_weight
 吳興縣	wu shing shiann
 吳越曲	wu yueq chiuq
 吳都	wu du
+吵吵	chao .chao
 吵嚷	chao .raang
 吵嚷	chao raang
 吵窩子	chao uo .tzyy
@@ -6791,7 +7014,8 @@ sort: be_weight
 呂相	leu sianq
 呂蒙	leu mong
 呂蒙正	leu mong jenq
-呆僗	dai lau
+呆僗	dai law
+呆呆地	dai dai .de
 呆呆掙掙	dai dai jenq jenq
 呆子	dai .tzyy
 呆掙	dai jenq
@@ -6809,6 +7033,7 @@ sort: be_weight
 告奶奶	gaw nae .nae
 告朔	guq shuoq
 告朔餼羊	guq shuoq shih yang
+告示	gaw .shyh
 告示	gaw shyh
 告老還鄉	gaw lao hwan shiang
 告訴	gaw .suh
@@ -6832,6 +7057,7 @@ sort: be_weight
 周旋	jou syuan
 周旋到底	jou syuan daw dii
 周朝	jou chaur
+周正	jou .jeng
 周浹	jou tzieq
 周率	jou liuq
 周王朝	jou wang chaur
@@ -6841,7 +7067,6 @@ sort: be_weight
 周長	jou charng
 呫呫	tian tian
 呫呫	chèq chèq
-呫嗶	tian biq
 呫噸	chèq duenn
 呫噸酮	chèq duenn torng
 呫嚅	tian ru
@@ -6853,10 +7078,11 @@ sort: be_weight
 呱呱叫	gu gu jiaw
 呱呱墜地	ua ua juey dih
 呱呱墮地	ua ua duoh dih
-呲牙	tsy ya
-呲牙裂嘴	tsy ya lieq tzoei
+呲牙	tsyy ya
+呲牙裂嘴	tsyy ya lieq tzoei
 味同嚼蠟	vey torng tzioq laq
 味如雞肋	vey ru ji leq
+味道	vey .dau
 味道	vey daw
 呴呴	shiuh shiuh
 呴喻	shiuh yu
@@ -6885,7 +7111,7 @@ sort: be_weight
 呼吸調節器	hu shiq tyau tzieq chih
 呼和浩特	hu hor haw teq
 呼和浩特市	hu hor haw teq shyh
-呼哧呼哧	hu .shiah hu .shiah
+呼哧呼哧	hu .shang hu .shang
 呼啦啦	hu lha lha
 呼啦圈	hu lha chiuan
 呼喝	hu hoq
@@ -6927,6 +7153,7 @@ sort: be_weight
 咋舌	tzeq shèq
 和一	hor yiq
 和丸教子	hoh wan jiaw tzyy
+和了	hor .le
 和事佬	hor shyh liau
 和事天子	hor shyh tian tzyy
 和事老	hor shyh lao
@@ -6950,6 +7177,7 @@ sort: be_weight
 和同	hor torng
 和味	hor vey
 和和	hor hor
+和和氣氣	hor .ho .chih .chih
 和哄	hor honq
 和善	hor shann
 和囉	hor lo
@@ -6960,9 +7188,11 @@ sort: be_weight
 和姦	hor jian
 和婉	hor woan
 和室	hor shyq
+和尚	hor .shang
 和尚	hor shanq
 和尚喫八方	hor shanq chyq baq fang
 和尚在	hor shanq tzay
+和尚打傘	hor .shang daa saan
 和尚打傘	hor shanq daa saan
 和尚拖木頭	hor shanq to muq .tour
 和尚頭	hor shanq tour
@@ -7000,6 +7230,7 @@ sort: be_weight
 和弄	hoh lonq
 和式	hor shyq
 和弦	hor shyan
+和得來	hor .de lai
 和息	hor siq
 和悅	hor yueq
 和戎	hor rong
@@ -7051,6 +7282,8 @@ sort: be_weight
 和男友	hoh nan yeou
 和番	hor fan
 和盤托出	hor parn toq chuq
+和着	hor .joq
+和着	hoh .joq
 和睦	hor muq
 和睦相處	hor muq siang chuh
 和碩	hor shyq
@@ -7125,12 +7358,16 @@ sort: be_weight
 咎陶	gau yau
 咕嘟	gu .du
 咕嘟	gu du
+咕噥	gu .nong
+咕嚕	gu .lu
 咕嚷	gu raang
 咕容	gu .yong
+咕攘	gu .rang
 咕隆	gu .long
 咖哩	ka .li
 咚咚	dong .dong
 咚咚	dong dong
+咧咧	lieq .lieq
 咧嘴	lieq tzoei
 咧子	lieq .tzyy
 咧開嘴笑	lieq kai tzoei siaw
@@ -7140,8 +7377,10 @@ sort: be_weight
 咫角驂駒	jyy jioq tsan jiu
 咬合調整	yeau hoq tyau jeeng
 咬咬	jiau jiau
+咬折丁子的老婆	yeau jèq ding .tzyy .de lao por
 咬文嚼字	yeau wen tzioq tzyh
 咬牙切齒	yeau ya tsieq chyy
+咬羣的騾子	yeau chyun .de luo .tzyy
 咬舌子	yeau shèq .tzyy
 咬舌頭	yeau shèq .tour
 咬薑呷醋	yeau jiang shiaq tsuh
@@ -7150,6 +7389,7 @@ sort: be_weight
 咭力骨碌	ji .liq guq .luq
 咭叮噹	ji ding dang
 咭咭	ji ji
+咭咭呱呱	ji .ji gu gu
 咭噔咯噔	ji deng goq deng
 咭噹噹	ji dang dang
 咭片	ji piann
@@ -7162,6 +7402,7 @@ sort: be_weight
 咯血	keq shiueq
 咳唾	keq tuoh
 咳唾成珠	keq tuoh cherng ju
+咳嗽	keq .sow
 咳嗽	keq sow
 咳歌打戰	hair go daa jann
 咳痰	keq tarn
@@ -7215,6 +7456,8 @@ sort: be_weight
 哄擡物價	honq tair wuq jiah
 哄然	honq ran
 哄笑	honq siaw
+哆嗦	do .suo
+哆囉哆嗦	do .lo do .suo
 哇塞	ua seq
 哈努卡	ha nuu kaa
 哈努卡節	ha nuu kaa tzieq
@@ -7228,6 +7471,7 @@ sort: be_weight
 哈巴	heq .ba
 哈巴狗	heq .ba goou
 哈德門	heq deq men
+哈拉	ha .la
 哈薩克共和國	ha saq keq gonq hor guoq
 哈辣	ha .laq
 哈農鋼琴教本	ha nong gang chyn jiaw been
@@ -7247,15 +7491,20 @@ sort: be_weight
 哪一個	naa yiq .ge
 哪些	naa sie
 哪個	naa .ge
+哪吒	no .ja
 哪吒	no jah
 哪壺不開提哪壺	naa hwu buq kai tyi naa hwu
 哪怕	naa pah
 哪知	naa jy
+哪裏哪裏	naa .li naa .li
 哪門子	naa men .tzyy
 哫訾	tzuq tzy
 哭哭啼啼	kuq .kuq tyi tyi
 哭喪	kuq sang
 哭喪棒	kuq sang banq
+哭喪着臉	kuq .sang .joq lean
+哭喪着臉	kuq sang .joq lean
+哭喪臉	kuq .sang lean
 哭喪臉	kuq sang lean
 哭天抹淚	kuq tian moq luey
 哭笑不得	kuq siaw buq deq
@@ -7292,6 +7541,7 @@ sort: be_weight
 唐突	tarng tuq
 唐突西施	tarng tuq si shy
 唐臨晉帖	tarng lin tzinn tieq
+唓嗻	chè jè
 唫嗻	yn jèh
 售票處	show piaw chuh
 唯唯	woei woei
@@ -7330,6 +7580,7 @@ sort: be_weight
 商賈	shang guu
 商都	shang du
 商都縣	shang du shiann
+商量	shang .liang
 啊呀	a ia
 啊哈	a ha
 啊唷	a yoq
@@ -7429,10 +7680,12 @@ sort: be_weight
 喑嗚叱吒	in u chyq jah
 喑惡叱吒	in u chyq jah
 喓五喝六	iau wuu hoq luq
+喓喝	iau .hoq
 喔咿	woq i
 喔喔	woq woq
 喘不過	choan .buq guoh
 喘不過氣來	choan .buq guoh chih lai
+喘不過氣來	choan buq guoh chih .lai
 喘吁吁	choan shiu shiu
 喘咳	choan keq
 喘息	choan siq
@@ -7506,6 +7759,7 @@ sort: be_weight
 喪生	sanq sheng
 喪盡	sanq tzinn
 喪盡天良	sanq tzinn tian liang
+喪着臉	sanq .joq lean
 喪祭	sang tzih
 喪禮	sang lii
 喪紀	sang jii
@@ -7519,6 +7773,7 @@ sort: be_weight
 喪葬費	sang tzanq fey
 喪蕩游魂	sanq danq you hwen
 喪親	sanq tsin
+喪謗	sanq .bang
 喪身	sanq shen
 喪鐘	sang jong
 喪門	sang men
@@ -7532,6 +7787,9 @@ sort: be_weight
 喫不住	chyq .buq juh
 喫不來	chyq .buq lai
 喫不到葡萄說葡萄酸	chyq buq daw pwu .taur shuoq pwu .taur suan
+喫不得	chyq .buq .de
+喫不得慢酒	chyq .buq .de mann tzeou
+喫不得緊酒	chyq .buq .de jiin tzeou
 喫不服	chyq .buq fuq
 喫不消	chyq .buq siau
 喫不開	chyq .buq kai
@@ -7542,20 +7800,33 @@ sort: be_weight
 喫喝拉撒睡	chyq hoq lha saq shuey
 喫喝玩樂	chyq hoq wann loq
 喫地面	chyq dih miann
+喫奶的力氣	chyq nae .de liq .chih
+喫奶的力氣	chyq nae .de liq chih
+喫官司	chyq guan .sy
+喫得	chyq .de
+喫得住	chyq .de juh
+喫得來	chyq .de lai
+喫得光	chyq .de guang
+喫得消	chyq .de siau
+喫得開	chyq .de kai
 喫排落	chyq pair loq
 喫排頭	chyq pair .tour
 喫教	chyq jiaw
+喫犒勞	chyq kaw .lau
 喫甜頭	chyq tyan .tour
 喫盡當光	chyq tzinn danq guang
 喫着不盡	chyq joq buq tzinn
 喫空茶	chyq kong char
 喫葷飯	chyq huen fann
 喫虧上當	chyq kuei shanq danq
+喫虧就是占便宜	chyq kuei tziow shyh jann pyan .yi
 喫蝨子留後腿	chyq sheq .tzyy liou how toei
 喫角子老虎	chyq jioq .tzyy lao .huu
 喫角子老虎	chyq jioq .tzyy lao huu
+喫豆腐	chyq dow .fu
 喫重	chyq jonq
 喫釘子	chyq ding .tzyy
+喫食	chyq .shyq
 喫食	chyq shyq
 喬冠華	chyau guan huah
 喬志	chyau jyh
@@ -7661,7 +7932,9 @@ sort: be_weight
 嗷嗷待哺	ngau ngau day buh
 嘀咕	diq .gu
 嘀嗒	diq daq
+嘀嘀咕咕	diq .diq gu gu
 嘁哩喀喳	chiq .li keq cha
+嘁嘁喳喳	chiq .chiq cha cha
 嘁嘁喳喳	chiq chiq cha cha
 嘆息	tann siq
 嘆爲觀止	tann wei guan jyy
@@ -7683,6 +7956,7 @@ sort: be_weight
 嘎啦	gaq lha
 嘎嘎	gaq gaq
 嘎嘎小姐	gaq gaq seau .tziee
+嘎嘎渣渣	gaq .gaq ja ja
 嘎巴	gaq .ba
 嘎巴流星	gaq .ba liou sing
 嘎拉哈	gaq lha heq
@@ -7690,7 +7964,10 @@ sort: be_weight
 嘎調	gaq diaw
 嘏命	guu minq
 嘑頭	hu .tour
+嘓啅	guoq .juoq
+嘓啅嘓啅的	guoq .juoq guoq .juoq .de
 嘓嘓噥噥	guoq .guoq nong nong
+嘓噥	guoq .nong
 嘓都嘓都	guoq du guoq du
 嘔咐	shiu fuh
 嘔喻	shiu yu
@@ -7698,6 +7975,12 @@ sort: be_weight
 嘗嘗	charng .charng
 嘗甜頭	charng tyan .tour
 嘟嘟噥噥	du .du nong nong
+嘟嘟囔囔	du .du .nang .nang
+嘟噥	du .nong
+嘟噥不平	du .nong buq pyng
+嘟嚕	du .lu
+嘟嚕嘴	du .lu tzoei
+嘟囔	du .nang
 嘩啦	hua .la
 嘩啦	hua lha
 嘩啦一聲	hua lha yiq sheng
@@ -7711,7 +7994,9 @@ sort: be_weight
 嘬嘬	chuay chuay
 嘬嚃	chuay taq
 嘮三叨四	lau san dau syh
+嘮叨	lau .dau
 嘮嘮	lau lau
+嘮嘮叨叨	lau .lau dau dau
 嘮扯	lau chèè
 嘰咕	ji .gu
 嘰哩呱啦	ji .li gu lha
@@ -7726,6 +8011,8 @@ sort: be_weight
 嘲諷漫罵	chau fonq mann mah
 嘲謔	chau gnioq
 嘲風弄月	chau fong lonq yueq
+嘴上抹石灰	tzoei .shang moq shyq huei
+嘴上無毛	tzoei .shang wu mau
 嘴啃地	tzoei keen dih
 嘴喳喳	tzoei cha cha
 嘴子	tzoei .tzyy
@@ -7739,6 +8026,7 @@ sort: be_weight
 嘴答谷	tzoei daq guq
 嘴頭子	tzoei tour .tzyy
 嘵咋	shiau jah
+嘻和	shi .ho
 嘻嘻嗄嗄	shi shi shah shah
 嘽嘽	tan tan
 嘿嘿無言	meq meq wu yan
@@ -7783,10 +8071,13 @@ sort: be_weight
 嚇聲	heq sheng
 嚇詐	heq jah
 嚇阻	heq tzuu
+嚎喪	haur .sang
 嚎天動地	haur tian donq dih
 嚎天喊地	haur tian haan dih
+嚏噴	tih .pen
 嚕囌	lhu .su
 嚜嚜	meq meq
+嚭嚭地	pii pii .de
 嚴以責己寬以待人	yan yii tzeq jii kuan yii day ren
 嚴切	yan tsieq
 嚴實	yan .shyq
@@ -7829,7 +8120,9 @@ sort: be_weight
 囉哩囉嗦	lo .li lo suo
 囉唆	lo suo
 囉唕	lo tzaw
+囉嗦	lo .suo
 囉囉唕唕	lo .lo tzaw .tzaw
+囉囉嗦嗦	lo .lo suo .suo
 囉囉囌囌	lo .lo su .su
 囉囌	lo su
 囉曼帶克	lo mann day keq
@@ -7838,8 +8131,10 @@ sort: be_weight
 囊揣	nang choai
 囊溫郎當	nang uen lang dang
 囊空如洗	nang kong ru sii
-囊膪	nang ja
+囊膪	nang chah
+囔囔	nhang .nang
 囚繫	tsyou shih
+四下裏	syh shiah .li
 四個堅持	syh .ge jian chyr
 四個現代化	syh .ge shiann day huah
 四停八當	syh tyng baq danq
@@ -7858,6 +8153,7 @@ sort: be_weight
 四大佛教名山	syh dah fuq jiaw ming shan
 四大皆空	syh dah jiai kong
 四大盆地	syh dah pern dih
+四季豆腐	syh jih dow .fu
 四川大地震	syh chuan dah dih jenn
 四川盆地	syh chuan pern dih
 四平地區	syh pyng dih chiu
@@ -7888,9 +8184,13 @@ sort: be_weight
 四行	syh shinq
 四部曲	syh buh chiuq
 四重奏	syh chorng tzow
+四門親家	syh men tsinn .jia
 四難	syh nan
+回來	hwei .lai
 回信地址	hwei sinn dih jyy
+回去	hwei .chiu
 回和	hwei hor
+回回	hwei .huei
 回回鼻子	hwei hwei bih .tzyy
 回子	hwei .tzyy
 回帖	hwei tieq
@@ -7931,17 +8231,20 @@ sort: be_weight
 因果報應	in guoo baw yinq
 因果關係	in guoo guan .shih
 因樹爲屋	in shuh wei wuq
+因此上	in tsyy .shang
 因爲	in wey
 因特網提供商	in teq woang tyi gong shang
 因禍得福	in huoh deq fuq
 因禍爲福	in huoh wei fuq
 因變量	in biann lianq
+囡仔	nan .tzy
 囤塌	twen taq
 囤子	doen .tzyy
 囤子	twen .tzyy
 囤聚	twen tziuh
 困知勉行	kuenn jy mean shyng
 困覺	kuenn jiaw
+困難	kuenn .nan
 困難在於	kuenn nan tzay yu
 困騰騰	kuenn terng terng
 固原地區	guh yuan dih chiu
@@ -7952,6 +8255,7 @@ sort: be_weight
 固結	guh jieq
 圈內	chiuan nuey
 圈口	chiuan koou
+圈圈	chiuan .chiuan
 圈圈	chiuan chiuan
 圈圈套套	chiuan chiuan taw taw
 圈外人	chiuan way ren
@@ -8027,6 +8331,7 @@ sort: be_weight
 圍屏	wei pyng
 園地	yuan dih
 園子	yuan .tzyy
+圓仔湯	yuan .tzy tang
 圓便	yuan biann
 圓全	yuan .tsyuan
 圓周率	yuan jou liuq
@@ -8037,9 +8342,11 @@ sort: be_weight
 圓寂	yuan tziq
 圓形劇場	yuan shyng jiuq charng
 圓教	yuan jiaw
+圓活	yuan .huoq
 圓活	yuan huoq
 圓熟	yuan shuq
 圓石頭	yuan shyq .tour
+圓籠	yuan .long
 圓舞曲	yuan wuu chiuq
 圓錐曲線	yuan juei chiuq siann
 圖像處理	twu sianq chuh lii
@@ -8063,6 +8370,7 @@ sort: be_weight
 團空	twan kong
 團結	twan jieq
 團結一心	twan jieq yiq sin
+團結就是力量	twan jieq tziow shyh liq .liang
 團結工會	twan jieq gong huey
 團荷	twan hor
 團香扇	twan shiang shann
@@ -8114,6 +8422,7 @@ sort: be_weight
 土豆泥	tuu dow ni
 土饅頭	tuu man .tour
 在不夷不惠之間	tzay buq yi buq huey jy jian
+在乎	tzay .hu
 在乎	tzay hu
 在傳輸過程中	tzay chwan shu guoh cherng jong
 在劫難逃	tzay jieq nan taur
@@ -8141,8 +8450,10 @@ sort: be_weight
 地丁	dih ding
 地丁錢糧	dih ding tsyan liang
 地三鮮	dih san sian
+地上	dih .shang
 地上權	dih shanq chyuan
 地上物	dih shanq wuq
+地下	dih .shia
 地下	dih shiah
 地下修文	dih shiah siou wen
 地下修文郎	dih shiah siou wen lang
@@ -8159,6 +8470,7 @@ sort: be_weight
 地下水位	dih shiah shoei wey
 地下水面	dih shiah shoei miann
 地下無雙	dih shiah wu shuang
+地下的	dih .shia .de
 地下經濟	dih shiah jing tzih
 地下舞廳	dih shiah wuu ting
 地下莖	dih shiah jiing
@@ -8324,6 +8636,7 @@ sort: be_weight
 地牢	dih lau
 地獄	dih yuq
 地球	dih chyou
+地球上的生物	dih chyou shanq .de sheng wuq
 地球儀	dih chyou yi
 地球化學	dih chyou huah shioq
 地球史	dih chyou shyy
@@ -8425,6 +8738,7 @@ sort: be_weight
 地軸	dih juq
 地輿	dih yu
 地速	dih suq
+地道	dih .dau
 地道	dih daw
 地鄰	dih lin
 地醜德齊	dih choou deq tsyi
@@ -8478,6 +8792,7 @@ sort: be_weight
 坍落	tan loq
 坎塔布連山脈	kaan taq buh lian shan meq
 坎子	kaan .tzyy
+坐下	tzuoh .shia
 坐下	tzuoh shiah
 坐不住	tzuoh .buq juh
 坐不穩	tzuoh .buq woen
@@ -8584,6 +8899,7 @@ sort: be_weight
 埠頭	buh .tour
 埤溼	bii shyq
 埳軻	kaan ko
+執事	jyq .shy
 執事	jyq shyh
 執伐	jyq faq
 執喪	jyq sang
@@ -8603,6 +8919,7 @@ sort: be_weight
 基地	ji dih
 基層行政	ji tserng shyng jenq
 基底動脈	ji dii donq meq
+基本上	ji been .shang
 基本上	ji been shanq
 基本分析	ji been fen siq
 基本利率	ji been lih liuq
@@ -8665,6 +8982,7 @@ sort: be_weight
 報屁股	baw pih .guu
 報差	baw chai
 報帖	baw tieq
+報怨	baw .iuan
 報怨	baw yuann
 報應	baw yinq
 報應不爽	baw yinq buq shoang
@@ -8690,11 +9008,14 @@ sort: be_weight
 場院	charng yuann
 場面闊綽	charng miann kuoq choq
 堵剿匪徒	duu tzeau feei twu
+堵喪	duu .sang
 堵塞	duu seq
 堵塞費	duu seq fey
+堵得慌	duu .de huang
 塊菌	kuay jiunn
 塋地	yng dih
 塌實	taq .shyq
+塌拉骨	taq .la guq
 塌趿	taq saq
 塌鼻子	taq bih .tzyy
 塑膠玻璃	suh jiau bo .li
@@ -8705,6 +9026,7 @@ sort: be_weight
 塔剎	taq chaq
 塔吉克共和國	taq jiq keq gonq hor guoq
 塔城地區	taq cherng dih chiu
+塔尖上功德	taq tzian .shang gong deq
 塔羅卡	taq lo kaa
 塔里木盆地	taq lii muq pern dih
 塗刷	twu shuaq
@@ -8799,6 +9121,7 @@ sort: be_weight
 墨荷	meq hor
 墨跡	meq tziq
 墩子	duen .tzyy
+墩葫蘆	duen hwu .lu
 墮地	duoh dih
 墮落	duoh loq
 墾地	keen dih
@@ -8836,6 +9159,7 @@ sort: be_weight
 壞東西	huay dong .si
 壞痞子	huay pii .tzyy
 壞腸子	huay charng .tzyy
+壞處	huay .chu
 壞處	huay chuh
 壞血病	huay shiueq binq
 壟斷市場	loong duann shyh charng
@@ -8854,6 +9178,7 @@ sort: be_weight
 壺穴	hwu shiueq
 壽寧	show gning
 壽寧縣	show gning shiann
+壽數	show .shu
 壽星	show .sing
 壽星	show sing
 壽星喫砒霜	show .sing chyq pi shuang
@@ -8886,6 +9211,7 @@ sort: be_weight
 外外	way .way
 外太空	way tay kong
 外宿	way suq
+外屋裏的竈君爺	way wuq .li .de tzaw jiun ye
 外層空間	way tserng kong jian
 外強中乾	way chyang jong gan
 外役監獄	way yiq jian yuq
@@ -8902,7 +9228,9 @@ sort: be_weight
 外調	way diaw
 外路	way .luh
 外路人	way .luh ren
+外道	way .dau
 外道	way daw
+外道話	way .dau huah
 外邊	way .bian
 外邊	way bian
 外長城	way charng cherng
@@ -8925,11 +9253,14 @@ sort: be_weight
 多國籍企業	do guoq tziq chih yeq
 多媒體卡	do mei tii kaa
 多嫌	do .shyan
+多少	do .shau
+多少錢	do .shau tsyan
 多層次傳銷	do tserng tsyh chwan siau
 多層次分析模型	do tserng tsyh fen siq mu shyng
 多山地區	do shan dih chiu
 多年媳婦熬成婆	do gnian siq fuh ngau cherng por
 多得	do deq
+多得是	do .de shyh
 多文爲富	do wen wei fuh
 多普勒	do puu leq
 多普勒效應	do puu leq shiaw yinq
@@ -8966,6 +9297,7 @@ sort: be_weight
 多難興邦	do nann shing bang
 多露	do luh
 多頭市場	do tour shyh charng
+多麼	do .mo
 夜不歸宿	yeh buq guei suq
 夜住曉行	yeh juh sheau shyng
 夜分	yeh fen
@@ -8993,6 +9325,8 @@ sort: be_weight
 夜行晝伏	yeh shyng jow fuq
 夜行衣	yeh shyng i
 夜行軍	yeh shyng jiun
+夜裏	yeh .li
+夜貓子	yeh .mau .tzyy
 夜貓子	yeh mhau .tzyy
 夜遊子	yeh you .tzyy
 夜長夢多	yeh charng monq do
@@ -9005,6 +9339,7 @@ sort: be_weight
 夠分量	gow fenn lianq
 夠勁	gow jinq
 夠嗆	gow tsianq
+夠得着	gow .de joq
 夠情調	gow tsyng diaw
 夠朋友	gow perng .yeou
 夠面子	gow miann .tzyy
@@ -9013,6 +9348,7 @@ sort: be_weight
 夢虺	monq hoei
 夢行症	monq shyng jenq
 大一些	dah yiq sie
+大丈夫能屈能伸	dah janq .fu neng chiuq neng shen
 大丈夫能屈能伸	dah janq fu neng chiuq neng shen
 大三和絃	dah san hor shyan
 大三度	dah san duh
@@ -9021,6 +9357,7 @@ sort: be_weight
 大不列顛	dah buq lieq dian
 大不應是	dah buq ing shyh
 大不相同	dah buq siang torng
+大中學生	dah jong shioq .sheng
 大主教	dah juu jiaw
 大亂子	dah luann .tzyy
 大事化爲小事	dah shyh huah wei seau shyh
@@ -9030,6 +9367,7 @@ sort: be_weight
 大便	dah biann
 大個子	dah goh .tzyy
 大倫敦地區	dah luen duen dih chiu
+大先生	dah sian .sheng
 大出喪	dah chuq sang
 大出血	dah chuq shiueq
 大出鋒頭	dah chuq fong .tour
@@ -9045,6 +9383,7 @@ sort: be_weight
 大劈棺	dah piq guan
 大動干戈	dah donq gan go
 大動脈	dah donq meq
+大半拉	dah bann .la
 大半輩子	dah bann bey .tzyy
 大協奏曲	dah shieq tzow chiuq
 大卡	dah kaa
@@ -9087,7 +9426,13 @@ sort: be_weight
 大場面	dah charng miann
 大場鶇	dah chaang dong
 大壑	dah hoq
+大大咧咧	dah .dah lieq lieq
+大大小小	dah .dah seau seau
+大大方方	dah .dah fang fang
+大大法法	dah .dah faq faq
+大大落落	dah .dah loq loq
 大夫	dah fu
+大夫	day .fu
 大妗子	dah jinn .tzyy
 大姆子	dah muu .tzyy
 大姊	dah tziee
@@ -9098,6 +9443,7 @@ sort: be_weight
 大姑子	dah gu .tzyy
 大姨子	dah yi .tzyy
 大娘子	dah gniang .tzyy
+大媽媽	dah mha .ma
 大嫂子	dah sao .tzyy
 大學	dah shioq
 大學	tay shioq
@@ -9136,6 +9482,7 @@ sort: be_weight
 大惡	dah oq
 大意	dah .yih
 大意	dah yih
+大拇指	dah .muu jyy
 大拇指	dah muu jyy
 大拇指頭	dah muu jyy .tour
 大拇指頭撓癢	dah muu jyy .tour nau yeang
@@ -9171,6 +9518,7 @@ sort: be_weight
 大樹將軍	dah shuh tziang jiun
 大權旁落	dah chyuan parng loq
 大殺風景	dah shaq fong jiing
+大毒日頭地下	dah duq ryq .tour dih .shia
 大氣圈	dah chih chiuan
 大氣壓強	dah chih yaq chyang
 大氣折射	dah chih jèq shèh
@@ -9195,6 +9543,7 @@ sort: be_weight
 大片	dah piann
 大猩猩	dah sing .sing
 大王	dah wang
+大王	day .uang
 大發脾氣	dah faq pyi .chih
 大白山脈	dah beq shan meq
 大盆地	dah pern dih
@@ -9204,6 +9553,7 @@ sort: be_weight
 大相矛盾	dah siang mou duenn
 大相逕庭	dah siang jinq tyng
 大眼看小眼	dah yean kann seau yean
+大瞧瞧	dah tsyau .tsyau
 大碑落	dah bei loq
 大福大量	dah fuq dah lianq
 大秤分金銀	dah chenq fen jin yn
@@ -9280,6 +9630,7 @@ sort: be_weight
 大辟	dah piq
 大農場	dah nong chaang
 大進擊	dah tzinn jiq
+大部份	dah buh .fen
 大部分	dah buh fenn
 大都	dah du
 大都來	dah du lai
@@ -9369,6 +9720,7 @@ sort: be_weight
 天差地別	tian cha dih bieq
 天干	tian gan
 天干地支	tian gan dih jy
+天底下	tian dii .shia
 天心和合	tian sin hor hoq
 天愁地慘	tian chour dih tsaan
 天懸地隔	tian shyuan dih geq
@@ -9385,6 +9737,7 @@ sort: be_weight
 天昏地黑	tian huen dih heq
 天時不如地利	tian shyr buq ru dih lih
 天時地利人和	tian shyr dih lih ren hor
+天曉得	tian sheau .de
 天朝	tian chaur
 天水地區	tian shoei dih chiu
 天涯何處無芳草	tian ya hor chuh wu fang tsao
@@ -9398,6 +9751,7 @@ sort: be_weight
 天理報應	tian lii baw yinq
 天理教	tian lii jiaw
 天生地設	tian sheng dih shèq
+天生的一對	tian sheng .de yiq duey
 天監	tian jian
 天相吉人	tian sianq jiq ren
 天真地秀	tian jen dih siow
@@ -9423,6 +9777,7 @@ sort: be_weight
 天衣無縫	tian i wu fonq
 天誅地滅	tian ju dih mieq
 天造地設	tian tzaw dih shèq
+天道	tian .dau
 天道	tian daw
 天道無親	tian daw wu tsin
 天都	tian du
@@ -9449,6 +9804,7 @@ sort: be_weight
 太和正音譜	tay hor jenq in puu
 太和殿	tay hor diann
 太和縣	tay hor shiann
+太太	tay .tay
 太子少保	tay tzyy shaw bao
 太子少師	tay tzyy shaw shy
 太子洗馬	tay tzyy sean maa
@@ -9496,6 +9852,7 @@ sort: be_weight
 太空飛船	tay kong fei chwan
 太空飛行員	tay kong fei shyng yuan
 太空食物	tay kong shyq wuq
+太老先生	tay lao sian .sheng
 太興	tay shing
 太華山	tay huah shan
 太重	tay jonq
@@ -9525,6 +9882,7 @@ sort: be_weight
 夭逝	yeau shyh
 夭遏	yeau oq
 夭閼	yeau oq
+央告	iang .gaw
 夯土建築	hang tuu jiann juq
 夯子	hang .tzyy
 夯貨	hang huoh
@@ -9537,11 +9895,15 @@ sort: be_weight
 失當	shyq danq
 失着	shyq joq
 失神落魄	shyq shern loq peq
+失脫	shyq .tuoq
 失落	shyq loq
+失落的一代	shyq loq .de yiq day
 失血	shyq shiueq
 失賊	shyq tzeq
+失身分	shyq shen .fen
 失身分	shyq shen fenn
 失重	shyq jonq
+失閃	shyq .shan
 失面子	shyq miann .tzyy
 失魂喪魄	shyq hwen sanq peq
 失魂落魄	shyq hwen loq peq
@@ -9584,8 +9946,12 @@ sort: be_weight
 夾殺	jiaq shaq
 夾注	jiaq juh
 夾注號	jiaq juh haw
+夾生	jiaq .sheng
+夾生飯	jiaq .sheng fann
 夾界	jiaq jiay
 夾當	jiaq dang
+夾着尾巴	jiaq .joq veei .ba
+夾磨	jiaq .mo
 夾竹桃	jiaq juq taur
 夾緊	jiaq jiin
 夾縫	jiaq forng
@@ -9649,6 +10015,8 @@ sort: be_weight
 契闊	chieq kuoq
 契闊談讌	chieq kuoq tarn yann
 契需	chieq siu
+奓沙	ja .sha
+奓着膽子	ja .joq daan .tzyy
 奔井投河	benn tziing tour hor
 奔北	ben bey
 奔喪	ben sang
@@ -9690,7 +10058,9 @@ sort: be_weight
 套交情	taw jiau .tsyng
 套兒	taw .erl
 套口供	taw koou gonq
+套套	taw .tau
 套子	taw .tzyy
+套拉攏	taw lha .long
 套曲	taw chiuq
 套炕子	taw kanq .tzyy
 套種	taw jonq
@@ -9738,6 +10108,7 @@ sort: be_weight
 好學不倦	haw shioq buq jiuann
 好學專輯	haw shioq juan tziq
 好學深思	haw shioq shen sy
+好學近乎知	haw shioq jinn .hu jy
 好客	haw keq
 好尚	haw shanq
 好弄玄虛	haw lonq shyuan shiu
@@ -9809,6 +10180,7 @@ sort: be_weight
 妖妖調調	iau iau diaw diaw
 妖氣	iau .chih
 妖由人興	iau you ren shing
+妖精	iau .tzing
 妖精	iau tzing
 妖調	iau diaw
 妗子	jinn .tzyy
@@ -9823,9 +10195,12 @@ sort: be_weight
 妥妥貼貼	tuoo .tuoo tieq tieq
 妥帖	tuoo tieq
 妥洽	tuoo shiaq
+妥當	tuoo .dang
 妥當	tuoo danq
+妥當人	tuoo .dang ren
 妮子	gni .tzyy
 妯娌	juq .lii
+妹夫	mey .fu
 妹夫	mey fu
 妹妹	mey .mey
 妹子	mey .tzyy
@@ -9838,7 +10213,9 @@ sort: be_weight
 妻離子散	tsi li tzyy sann
 姊丈	tzyy janq
 姊丈	tziee janq
+姊夫	tzyy .fu
 姊夫	tzyy fu
+姊夫	tziee .fu
 姊妹	tzyy mey
 姊妹	tziee mey
 姊妹市	tzyy mey shyh
@@ -9847,9 +10224,14 @@ sort: be_weight
 姊妹校	tziee mey shiaw
 姊妹盟	tzyy mey meng
 姊妹盟	tziee mey meng
+姊姊	tzyy .tzyy
+姊姊	tziee .tziee
+姐夫	tziee .fu
 姐夫	tziee fu
 姐姐	tziee .tziee
 姑丈人	gu janq .ren
+姑太太	gu tay .tay
+姑夫	gu .fu
 姑奶奶	gu nae .nae
 姑姊	gu tzyy
 姑姊	gu tziee
@@ -9864,6 +10246,7 @@ sort: be_weight
 姑息政策	gu siq jenq tseq
 姑惡	gu oq
 姑洗	gu sean
+姑父	gu .fu
 姑父	gu fuh
 姑爺	gu .ye
 姑爺爺	gu ye .ye
@@ -9874,8 +10257,11 @@ sort: be_weight
 姣媚	jeau mey
 姣美	jeau meei
 姣麗	jeau lih
+姨太太	yi tay .tay
+姨夫	yi .fu
 姨夫	yi fu
 姨奶奶	yi nae .nae
+姨父	yi .fu
 姨父	yi fuh
 姪子	jyq .tzyy
 姻親	in tsin
@@ -9884,15 +10270,26 @@ sort: be_weight
 威嚇	uei heq
 威寧彝族回族苗族自治縣	uei gning yi tzuq hwei tzuq miau tzuq tzyh jyh shiann
 威寧縣	uei gning shiann
+威懾力量	uei shèq liq .liang
 威斯敏斯特教堂	uei sy miin sy teq jiaw tarng
 威棱	uei leng
 威瑪共和國	uei maa gonq hor guoq
 威重	uei jonq
+娃娃	ua .ua
+娃娃兵	ua .ua bing
+娃娃生	ua .ua sheng
+娃娃臉	ua .ua lean
+娃娃裝	ua .ua juang
+娃娃親	ua .ua tsin
+娃娃車	ua .ua chè
+娃娃魚	ua .ua yu
 娃子	ua .tzyy
 娃子不哭奶不脹	ua .tzyy buq kuq nae buq janq
 娖娖	chuoq chuoq
 娘娘	gniang .gniang
 娘娘腔	gniang .gniang chiang
+娘家	gniang .jia
+娘母子	gniang .mu .tzyy
 娘老子	gniang lao .tzyy
 娘親	gniang tsin
 娛樂	yu loq
@@ -9917,8 +10314,10 @@ sort: be_weight
 婆娘子	por gniang .tzyy
 婆婆	por .por
 婆婆媽媽	por .por mha mha
+婆婆媽媽	por por mha .ma
 婆子	por .tzyy
 婆子口舌	por .tzyy koou shèq
+婆家	por .jia
 婆家	por jia
 婆羅王朝	por lo wang chaur
 婆羅門教	por lo men jiaw
@@ -9932,18 +10331,27 @@ sort: be_weight
 婚姻失調	huen in shyq tyau
 婠妠	uan naq
 婢妮	bih gni
+婦人家	fuh ren .jia
 婦人長舌	fuh ren charng shèq
+婦道人家	fuh .dau ren .jia
+婦道家	fuh .dau .jia
 婭嬛	yah hwan
 媒人	mei .ren
 媒人口	mei .ren koou
 媒人嘴	mei .ren tzoei
 媒人婆拾馬糞	mei .ren por shyq maa fenn
+媒人婆迷了路	mei .ren por mi .le luh
 媒頭	mei .tour
 媚行	mey shyng
 媟弄	sieq lonq
 媳婦熬成婆	siq fuh ngau cherng por
 媽咪	mha .mii
 媽咪	mha mii
+媽媽	mha .ma
+媽媽教室	mha .ma jiaw shyq
+媽媽樂	mha .ma loq
+媽媽頭	mha .ma tour
+媽媽頭主子	mha .ma tour juu .tzyy
 媽子	mha .tzyy
 媽眯	mha .mii
 媾和	gow hor
@@ -9998,6 +10406,7 @@ sort: be_weight
 嬸嬸	sheen .sheen
 嬸子	sheen .tzyy
 孃子	gniang .tzyy
+子口	tzyy .koou
 子埝	tzyy gnieq
 子大夫	tzyy day fu
 子宮內膜異位症	tzyy gong nuey moq yih wey jenq
@@ -10031,9 +10440,11 @@ sort: be_weight
 字母順序概率	tzyh muu shuenn siuh gay liuq
 字相學	tzyh sianq shioq
 字紙簍子	tzyh jyy loou .tzyy
+字號	tzyh .hau
 字號	tzyh haw
 字調	tzyh diaw
 字跡	tzyh tziq
+字面意思	tzyh miann yih .sy
 存儲卡	tswen chwu kaa
 存勞	tswen law
 存包處	tswen bau chuh
@@ -10049,12 +10460,14 @@ sort: be_weight
 孚乳	fu ruu
 孜孜矻矻	tzy tzy kuq kuq
 孝先便腹	shiaw sian pyan fuq
+孝家	shiaw .jia
 孝弟	shiaw tih
 孝弟力田	shiaw tih liq tyan
 孝思不匱	shiaw sy buq kuey
 孝感地區	shiaw gaan dih chiu
 孝行	shiaw shinq
 孝親	shiaw tsin
+孝道	shiaw .dau
 孝道	shiaw daw
 孝重千斤	shiaw jonq tsian jin
 孝養	shiaw yanq
@@ -10067,6 +10480,7 @@ sort: be_weight
 季孟之間	jih menq jy jian
 季度	jih duh
 季相	jih sianq
+孤丁	gu .ding
 孤丁	gu ding
 孤力難爲	gu liq nan wei
 孤寂	gu tziq
@@ -10089,6 +10503,7 @@ sort: be_weight
 孩子頭	hair .tzyy tour
 孫傳芳	suen chwan fang
 孫叔敖	suen shuq ngau
+孫媳夫	suen siq .fu
 孫子	suen .tzyy
 孫子	suen tzyy
 孫悟空	suen wuh kong
@@ -10104,6 +10519,7 @@ sort: be_weight
 孳息	tzy siq
 孳蔓	tzy mann
 孵化場	fu huah chaang
+學了個不留	shioq .le goh buq liou
 學位制度	shioq wey jyh duh
 學分	shioq fen
 學分制	shioq fen jyh
@@ -10114,9 +10530,13 @@ sort: be_weight
 學富五車	shioq fuh wuu jiu
 學校	shioq shiaw
 學校教育	shioq shiaw jiaw yuq
+學生	shioq .sheng
 學生	shioq sheng
 學生事務處	shioq sheng shyh wuh chuh
+學生會	shioq .sheng huey
+學生證	shioq .sheng jenq
 學生證	shioq sheng jenq
+學生運動	shioq .sheng yunn donq
 學監	shioq jian
 學究	shioq jiow
 學究天人	shioq jiow tian ren
@@ -10126,6 +10546,7 @@ sort: be_weight
 學習曲線	shioq siq chiuq siann
 學行	shioq shinq
 學術研究	shioq shuq yan jiow
+學說	shioq .shuoq
 學說	shioq shuoq
 學識	shioq shyq
 孽畜	gnieq chuq
@@ -10155,7 +10576,9 @@ sort: be_weight
 宋應星	sonq yinq sing
 宋教仁	sonq jiaw ren
 宋斤魯削	sonq jin luu sioq
+完了	wan .le
 完了	wan leau
+完全懂得	wan tsyuan doong .de
 完全打擊	wan tsyuan daa jiq
 完結	wan jieq
 完結篇	wan jieq pian
@@ -10188,6 +10611,7 @@ sort: be_weight
 官刻本	guan keq been
 官卑祿薄	guan bei luq boq
 官卷	guan jiuann
+官司	guan .sy
 官司	guan sy
 官商勾結	guan shang gou jieq
 官報私仇	guan baw sy chour
@@ -10206,6 +10630,7 @@ sort: be_weight
 官星透露	guan sing tow luh
 官架子	guan jiah .tzyy
 官校	guan shiaw
+官樣	guan .iang
 官止神行	guan jyy shern shyng
 官燕	guan yann
 官稱	guan cheng
@@ -10235,6 +10660,7 @@ sort: be_weight
 定量	dinq lianq
 定量分塊	dinq lianq fen kuay
 定量分析	dinq lianq fen siq
+定錢	dinq .tsian
 定錢	dinq tsyan
 宜昌地區	yi chang dih chiu
 宜春地區	yi chuen dih chiu
@@ -10290,15 +10716,18 @@ sort: be_weight
 宮頸抹片	gong jiing moq piann
 宰予	tzae yu
 宰相	tzae sianq
+害得	hay .de
 害月子	hay yueq .tzyy
 害相思病	hay siang sy binq
 害肚子	hay duh .tzyy
 害臊	hay sau
+害處	hay .chu
 害處	hay chuh
 宴息	yann siq
 宴樂	yann loq
 宵分	siau fenn
 宵行	siau shyng
+家伙	jia .huo
 家傳學	jia chwan shioq
 家傳戶誦	jia chwan huh sonq
 家僮	jia torng
@@ -10310,6 +10739,7 @@ sort: be_weight
 家子	jia .tzyy
 家將	jia tzianq
 家常便飯	jia charng biann fann
+家常豆腐	jia charng dow .fu
 家庭制度	jia tyng jyh duh
 家庭地址	jia tyng dih jyy
 家庭教師	jia tyng jiaw shy
@@ -10322,6 +10752,7 @@ sort: be_weight
 家無長物	jia wu janq wuq
 家燕	jia yann
 家畜	jia chuq
+家當	jia .dang
 家當	jia danq
 家相	jia sianq
 家秧子	jia iang .tzyy
@@ -10331,10 +10762,13 @@ sort: be_weight
 家給戶贍	jia jiq huh shann
 家給民足	jia jiq min tzuq
 家行	jia shinq
+家裏	jia .li
+家裏的	jia .li .de
 家親	jia tsin
 家賊難防	jia tzeq nan farng
 家道中落	jia daw jong loq
 家間	jia jian
+家雞打的團團轉	jia ji daa .de twan twan juann
 宿世	suq shyh
 宿世冤家	suq shyh iuan jia
 宿主	suq juu
@@ -10479,12 +10913,15 @@ sort: be_weight
 富強	fuh chyang
 富強康樂	fuh chyang kang loq
 富彊	fuh chyang
+富得流油	fuh .de liou you
 富態	fuh .tay
 富貴一場春夢	fuh guey yiq charng chuen monq
 富貴草頭露	fuh guey tsao tour luh
 富餘	fuh .yu
 寒假	harn jiah
+寒傖	harn .jeng
 寒傖	harn tsang
+寒傖相	harn .jeng sianq
 寒傖相	harn tsang sianq
 寒地訓練	harn dih shiunn liann
 寒怯	harn chieq
@@ -10509,6 +10946,7 @@ sort: be_weight
 察看	chaq kann
 寡剌	goa laq
 寡占	goa jann
+寡婦	goa .fu
 寡婦	goa fuh
 寡宿孤辰	goa suq gu chern
 寡將	goa tzianq
@@ -10523,17 +10961,21 @@ sort: be_weight
 寥落	liau loq
 實不相瞞	shyq buq siang man
 實分析	shyq fen siq
+實受資本	shyq .shou tzy been
 實在	shyq .tzay
 實在	shyq tzay
 實地	shyq dih
 實彈	shyq dann
 實彈射擊	shyq dann shèh jiq
 實心彈	shyq sin dann
+實打實	shyq .daa shyq
 實物教學	shyq wuq jiaw shioq
 實相	shyq sianq
 實績	shyq tziq
+實習生	shyq siq .sheng
 實習生	shyq siq sheng
 實落	shyq loq
+實葫蘆	shyq hwu .lu
 實行	shyq shyng
 實質利率	shyq jyq lih liuq
 實質所得	shyq jyq suoo deq
@@ -10677,6 +11119,7 @@ sort: be_weight
 寶相莊嚴	bao sianq juang yan
 寶興	bao shing
 寶興縣	bao shing shiann
+寶葫蘆	bao hwu .lu
 寶蓋	bao gay
 寶蓋山	bao gay shan
 寶藏	bao tzanq
@@ -10801,6 +11244,7 @@ sort: be_weight
 專斷獨行	juan duann duq shyng
 專校	juan shiaw
 專業教育	juan yeq jiaw yuq
+專業知識	juan yeq jy .shyq
 專橫	juan henq
 專橫跋扈	juan henq baq huh
 專科學校	juan ko shioq shiaw
@@ -10826,6 +11270,7 @@ sort: be_weight
 尋親記	syn tsin jih
 尋蹤覓跡	syn tzong miq tziq
 尋錢	syn tsyan
+對上	duey .shang
 對不上	duey buq shanq
 對不住	duey .buq juh
 對不起	duey .buq chii
@@ -10839,11 +11284,13 @@ sort: be_weight
 對子	duey .tzyy
 對子	duey tzyy
 對待	duey day
+對得起	duey .de chii
 對應	duey yinq
 對折	duey jèq
 對牛彈琴	duey gniou tarn chyn
 對當	duey danq
 對看	duey kann
+對着和尚罵賊禿	duey .joq hor .shang mah tzeq tuq
 對稱	duey chenq
 對稱性	duey chenq sinq
 對稱破缺	duey chenq poh chiueq
@@ -10883,6 +11330,7 @@ sort: be_weight
 小便宜	seau pyan yi
 小倆口	seau leang koou
 小傳	seau juann
+小先生	seau sian .sheng
 小冊子	seau tseq .tzyy
 小划子	seau hwa .tzyy
 小劇場	seau jiuq charng
@@ -10902,6 +11350,7 @@ sort: be_weight
 小姑娘	seau gu .gniang
 小姑子	seau gu .tzyy
 小姨子	seau yi .tzyy
+小娃娃	seau ua .ua
 小子	seau .tzyy
 小子	seau tzyy
 小孩子家	seau hair .tzyy jia
@@ -10914,9 +11363,13 @@ sort: be_weight
 小山包包	seau shan bau .bau
 小巫見大巫	seau wu jiann dah wu
 小年朝	seau gnian jau
+小底	seau .de
 小廉曲謹	seau lian chiuq jiin
+小弟弟	seau dih .dih
 小彈	seau dann
+小意思	seau yih .sy
 小扒頭	seau par .tour
+小拇指	seau .muu jyy
 小插曲	seau chaq chiuq
 小斂	seau liann
 小斧劈	seau fuu piq
@@ -10954,11 +11407,14 @@ sort: be_weight
 小聰明	seau tsong ming
 小肚雞腸	seau duh ji charng
 小舅子	seau jiow .tzyy
+小蘿蔔頭	seau lo .boq .tour
 小處着手	seau chuh joq shoou
 小行	seau shyng
 小行星	seau shyng sing
 小行星帶	seau shyng sing day
 小衝突	seau chong tuq
+小衣裳	seau i .sharng
+小裏小氣	seau .li seau chih
 小見識	seau jiann shyq
 小調	seau diaw
 小起重機	seau chii jonq ji
@@ -10997,6 +11453,7 @@ sort: be_weight
 少年犯罪	shaw gnian fann tzuey
 少年福利法	shaw gnian fuq lih faq
 少年組	shaw gnian tzuu
+少年維特的煩惱	shaw gnian wei teq .de farn nao
 少年老成	shaw gnian lao cherng
 少年觀護所	shaw gnian guan huh suoo
 少年郎	shaw gnian lang
@@ -11024,6 +11481,7 @@ sort: be_weight
 尖酸刻薄	tzian suan keq boq
 尚書大傳	shanq shu dah juann
 尚武	shanq wuu
+尜尜	gaq .gaq
 尤卡坦	you kaa taan
 尤卡坦半島	you kaa taan bann dao
 尤爲	you wei
@@ -11031,6 +11489,7 @@ sort: be_weight
 尨茸	meng rong
 尪仔標	uang tzyy biau
 就便	tziow biann
+就和	tziow .ho
 就地	tziow dih
 就地取材	tziow dih tseu tsair
 就地正法	tziow dih jenq faq
@@ -11101,6 +11560,7 @@ sort: be_weight
 局限於	jiuq shiann yu
 屁滾尿流	pih goen gniaw liou
 屁股	pih .guu
+屁股大弔了心	pih .guu dah diaw .le sin
 屁股沉	pih .guu chern
 屁股眼	pih .guu yean
 屁股震葫蘆	pih .guu jenn hwu lu
@@ -11126,8 +11586,10 @@ sort: be_weight
 屋下蓋屋	wuq shiah gay wuq
 屋倒豎	wuq daw shuh
 屋子	wuq .tzyy
+屋裏人	wuq .li ren
 屍山血海	shy shan shiueq hae
 屍橫遍野	shy herng biann yee
+屍首	shy .shou
 屎尿	shyy gniaw
 屎滾尿流	shyy goen gniaw liou
 屎盆子	shyy pern .tzyy
@@ -11174,6 +11636,7 @@ sort: be_weight
 展卷	jaan jiuann
 展掙	jaan jenq
 展播	jaan boh
+展樣	jaan .iang
 展爪	jaan joa
 展露	jaan luh
 屜子	tih .tzyy
@@ -11204,6 +11667,7 @@ sort: be_weight
 屬文	juq wen
 屬望	juq wanq
 屬目	juq muq
+屬相	shuq .siang
 屬相	shuq sianq
 屬綴	juq juey
 屬纊	juq kuanq
@@ -11363,7 +11827,9 @@ sort: be_weight
 工地秀	gong dih siow
 工場	gong charng
 工場動員	gong charng donq yuan
+工夫	gong .fu
 工夫	gong fu
+工夫茶	gong .fu char
 工尺	gong chyq
 工尺譜	gong chyq puu
 工拙	gong juoq
@@ -11383,10 +11849,12 @@ sort: be_weight
 巨闕	jiuh chiueq
 差之千里	cha jy tsian lii
 差之毫釐	cha jy haur li
+差事	chai .shy
 差人	chai ren
 差以千里	cha yii tsian lii
 差以毫釐	cha yii haur li
 差以豪釐	cha yii haur li
+差使	chai .shy
 差價	cha jiah
 差分	cha fen
 差分方程	cha fen fang cherng
@@ -11437,6 +11905,7 @@ sort: be_weight
 差錢	chai tsyan
 差除	chai chwu
 差額	cha ngeq
+巴不得	ba .buq .de
 巴不得	ba buq deq
 巴中地區	ba jong dih chiu
 巴人調	ba ren diaw
@@ -11448,6 +11917,7 @@ sort: be_weight
 巴勒特	ba leq teq
 巴勒維	ba leq wei
 巴嗤	ba .chy
+巴噠着嘴	ba daq .joq tzoei
 巴塞隆納	ba say long naq
 巴士低溫殺菌法	ba shyh di uen shaq jiunn faq
 巴士底監獄	ba shyh dii jian yuq
@@ -11455,6 +11925,7 @@ sort: be_weight
 巴嶺山脈	ba liing shan meq
 巴巴劫劫	ba .ba .jieq .jieq
 巴巴急急	ba .ba .jiq .jiq
+巴巴結結	ba .ba .jieq .jieq
 巴巴結結	ba ba jieq jieq
 巴得	ba deq
 巴拉圭共和國	ba lha guei gonq hor guoq
@@ -11472,6 +11943,7 @@ sort: be_weight
 巴氏桿菌	ba shyh gan jiunn
 巴着	ba joq
 巴答	ba daq
+巴結	ba .jieq
 巴羔子	ba gau .tzyy
 巴耶利巴	ba ye lih ba
 巴茲卡	ba tzy kaa
@@ -11514,6 +11986,7 @@ sort: be_weight
 布卡拉	buh kaa lha
 布哈林模式	buh ha lin mu shyq
 布喀河	buh keq hor
+布娃娃	buh ua .ua
 布寧	buh gning
 布帛菽粟	buh beq shuq suq
 布拉馬普得拉河	buh lha maa puu deq lha hor
@@ -11537,6 +12010,7 @@ sort: be_weight
 希斯羅機場	shi sy lo ji chaang
 希望落空	shi wanq loq kong
 希特勒	shi teq leq
+希罕	shi .han
 希臘共和國	shi laq gonq hor guoq
 希臘建築	shi laq jiann juq
 希臘教會	shi laq jiaw huey
@@ -11566,6 +12040,8 @@ sort: be_weight
 師傅	shy .fuh
 師傅	shy fuh
 師叔	shy shuq
+師父	shy .fu
+師父領進門	shy .fu liing tzinn men
 師爺	shy .ye
 師爺	shy ye
 師直爲壯	shy jyq wei juanq
@@ -11586,11 +12062,13 @@ sort: be_weight
 帳篷	janq porng
 帳蓬	janq .porng
 帶勁	day jinq
+帶去	day .chiu
 帶子	day .tzyy
 帶孩子	day hair .tzyy
 帶教	day jiau
 帶水帶漿	day shoei day tziang
 帶水拖泥	day shoei to ni
+帶着希望去旅行	day .joq shi wanq chiuh leu shyng
 帶肚子	day duh .tzyy
 帶菌	day jiunn
 帶菌者	day jiunn jèè
@@ -11701,6 +12179,7 @@ sort: be_weight
 干鳥	gan gneau
 干鳥氣	gan gneau chih
 干黷	gan duq
+平不答的	pyng buq daq .de
 平分	pyng fen
 平分售現	pyng fen show shiann
 平分秋色	pyng fen tsiou seq
@@ -11751,6 +12230,7 @@ sort: be_weight
 平章	pyan jang
 平章	pyng jang
 平章百姓	pyan jang beq sinq
+平等的法律地位	pyng deeng .de faq liuq dih wey
 平綏鐵路	pyng suei tieq luh
 平脈	pyng meq
 平臺式掃描器	pyng tair shyq sao miau chih
@@ -11776,6 +12256,8 @@ sort: be_weight
 平面描跡	pyng miann miau tziq
 平面曲線	pyng miann chiuq siann
 平面測量	pyng miann tseq liang
+年下	gnian .shia
+年份	gnian .fen
 年假	gnian jiah
 年分	gnian fenn
 年利率	gnian lih liuq
@@ -11810,15 +12292,24 @@ sort: be_weight
 幸災樂禍	shinq tzai loq huoh
 幸獲識荊	shinq huoq shyq jing
 幸蒙	shinq mong
+幹上了	gann .shang .le
+幹了	gann .le
 幹了	gann leau
+幹事	gann .shy
 幹事	gann shyh
+幹什麼	gann shern .mo
 幹勁	gann jinq
 幹嗎	gann mah
 幹嘛	gann ma
 幹將	gann tzianq
+幹得了	gann .de leau
+幹得來	gann .de lai
 幹渠	gann chyu
+幹甚麼	gann sher .mo
 幹當	gann danq
+幹的停當	gann .de tyng danq
 幹頭	gann .tour
+幺喝	iau .hoq
 幺麼	iau mo
 幺麼小醜	iau mo seau choou
 幻夢成空	huann monq cherng kong
@@ -11860,7 +12351,9 @@ sort: be_weight
 庉庉	tuenn tuenn
 庋藏	jii tsarng
 序曲	siuh chiuq
+底下	dii .shia
 底下	dii shiah
+底下人	dii .shia ren
 底夸克	dii kua keq
 底子	dii .tzyy
 底子錢	dii .tzyy tsyan
@@ -11984,6 +12477,7 @@ sort: be_weight
 建築物	jiann juq wuq
 建蔽率	jiann bih liuq
 建設和諧	jiann shèq hor shyai
+建設的批評	jiann shèq .de pi pyng
 建都	jiann du
 弄不得家鬼	lonq buq deq jia goei
 弄不清	lonq .buq tsing
@@ -11992,6 +12486,7 @@ sort: be_weight
 弄乖	lonq guai
 弄乾坤	lonq chyan kuen
 弄亂	lonq luann
+弄了個魚頭來拆	lonq .le .ge yu tour lai cheq
 弄來弄去	lonq lai lonq chiuh
 弄傷	lonq shang
 弄僵	lonq jiang
@@ -12018,6 +12513,7 @@ sort: be_weight
 弄懂	lonq doong
 弄懂弄通	lonq doong lonq tong
 弄手腳	lonq shoou jioq
+弄擰了	lonq gning .le
 弄文	lonq wen
 弄文輕武	lonq wen ching wuu
 弄斧班門	lonq fuu ban men
@@ -12094,6 +12590,8 @@ sort: be_weight
 弗落伊德	fuq loq i deq
 弗里德里希	fuq lii deq lii shi
 弟兄	dih .shiong
+弟媳婦	dih siq .fu
+弟弟	dih .dih
 弢跡匿光	tau tziq gniq guang
 弦切角	shyan tsieq jioq
 弦子	shyan .tzyy
@@ -12273,6 +12771,7 @@ sort: be_weight
 弼教	biq jiaw
 彀率	gow liuq
 彆強	bih jianq
+彆扭	bih .gneou
 彈丸	dann wan
 彈丸之地	dann wan jy dih
 彈冠	tarn guan
@@ -12554,10 +13053,12 @@ sort: be_weight
 得一望十	deq yiq wanq shyq
 得不償失	deq buq charng shyq
 得不到	deq buq daw
+得不的一聲	deq buq .de yiq sheng
 得不補失	deq buq buu shyq
 得不酬失	deq buq chour shyq
 得中	deq jonq
 得主	deq juu
+得了	deq .le
 得了	deq leau
 得人	deq ren
 得人心	deq ren sin
@@ -12568,7 +13069,10 @@ sort: be_weight
 得令	deq linq
 得以	deq yii
 得似	deq syh
+得來全不費工夫	deq lai tsyuan buq fey gong .fu
 得來速	deq lai suq
+得便宜是落便宜	deq pyan .yi shyh loq pyan .yi
+得便宜處失便宜	deq pyan .yi chuh shyq pyan .yi
 得償所願	deq charng suoo yuann
 得先手	deq sian shoou
 得克薩斯	deq keq saq sy
@@ -12721,6 +13225,7 @@ sort: be_weight
 微暈	vei yunn
 微服私行	vei fuq sy shyng
 微薄	vei boq
+微薄的	vei boq .de
 微處理器	vei chuh lii chih
 微處理機	vei chuh lii ji
 微行	vei shyng
@@ -12772,6 +13277,7 @@ sort: be_weight
 徼道	jiaw daw
 徽調	huei diaw
 心不應口	sin buq yinq koou
+心事	sin .shy
 心事重重	sin shyh chorng chorng
 心傳	sin chwan
 心內膜	sin nuey moq
@@ -12795,6 +13301,7 @@ sort: be_weight
 心律調節器	sin liuq tyau tzieq chih
 心得	sin deq
 心心相印	sin sin siang yinn
+心思	sin .sy
 心思	sin sy
 心急火燎	sin jiq huoo liaw
 心怯	sin chieq
@@ -12821,12 +13328,16 @@ sort: be_weight
 心神喪失	sin shern sanq shyq
 心細如髮	sin sih ru faq
 心結	sin jieq
+心經	sin .jing
 心經	sin jing
 心緒不寧	sin siuh buq gning
 心肌梗塞	sin ji geeng seq
 心腹重患	sin fuq jonq huann
 心膂爪牙	sin leu jao ya
 心膽墮地	sin daan duoh dih
+心裏	sin .li
+心裏美蘿蔔	sin .li meei lo .boq
+心裏話	sin .li huah
 心跡	sin tziq
 心路文教基金會	sin luh wen jiaw ji jin huey
 心重	sin jonq
@@ -12850,6 +13361,7 @@ sort: be_weight
 忍不住	reen .buq juh
 忍不住	reen buq juh
 忍俊不禁	reen tziunn buq jin
+忍得住	reen .de juh
 忍辱	reen ruq
 忍辱偷生	reen ruq tou sheng
 忍辱含垢	reen ruq harn gow
@@ -12882,7 +13394,10 @@ sort: be_weight
 忘八羔子	wang .baq gau .tzyy
 忘性	wanq .sinq
 忘象得意	wanq sianq deq yih
+忙不迭地	mang buq dieq .de
+忙活	mang .huoq
 忙活	mang huoq
+忙裏偷閒	mang .li tou shyan
 忞忞	min min
 忠告	jong gaw
 忠告	jong guq
@@ -12893,11 +13408,14 @@ sort: be_weight
 快樂丸	kuay loq wan
 快樂主義	kuay loq juu yih
 快樂幸福	kuay loq shinq fuq
+快活	kuay .huoq
 快滋生反應器	kuay tzy sheng faan yinq chih
+快當	kuay .dang
 快碼倉頡	kuay maa tsang jiaq
 快行道	kuay shyng daw
 快雪時晴帖	kuay siueq shyr tsyng tieq
 忳忳	twen twen
+念叨	gniann .dau
 念和	gniann hor
 念曲叫曲	gniann chiuq jiaw chiuq
 念誦	gniann .sonq
@@ -12906,11 +13424,18 @@ sort: be_weight
 忽剌八	huq laq baq
 忽剌巴	huq laq ba
 忽忽不樂	huq huq buq loq
+忽悠	huq .iou
 忽的	huq diq
 忽聚忽散	huq tziuh huq sann
 忽起忽落	huq chii huq loq
 忽魯魯	huq luu luu
 忿悁	fenn jiuann
+怎地	tzeen .de
+怎麼	tzeen .mo
+怎麼了	tzeen .mo .le
+怎麼得了	tzeen .mo deq leau
+怎麼搞的	tzeen .mo gao .de
+怎麼着	tzeen .mo joq
 怎麽	tzeen .ma
 怏怏不樂	yanq yanq buq loq
 怒惡	nuh oq
@@ -12938,9 +13463,11 @@ sort: be_weight
 怙惡不改	huh oq buq gae
 怛吒	daq jah
 怛突	daq tuq
+思想包袱	sy seang bau .fu
 思省	sy siing
 思茅地區	sy mau dih chiu
 思親	sy tsin
+思量	sy .liang
 思量	sy liang
 思齊	sy jai
 思齊	sy tsyi
@@ -12966,6 +13493,8 @@ sort: be_weight
 急旋旋	jiq syuan syuan
 急死太監	jiq syy tay jiann
 急水下不得槳	jiq shoei shiah buq deq tzeang
+急煞	jiq .shaq
+急留骨碌	jiq .liou guq .luq
 急相	jiq sianq
 急穰穰	jiq raang raang
 急聒	jiq guaq
@@ -12994,6 +13523,7 @@ sort: be_weight
 性衝動	sinq chong donq
 性變態行爲	sinq biann tay shyng wei
 性關係	sinq guan .shih
+怨不得	yuann .buq .de
 怨仇	yuann chour
 怨天怨地	yuann tian yuann dih
 怨天載道	yuann tian tzay daw
@@ -13002,6 +13532,8 @@ sort: be_weight
 怨結	yuann jieq
 怨聲載路	yuann sheng tzay luh
 怨聲載道	yuann sheng tzay daw
+怪不得	guay .buq .de
+怪不得	guay buq .de
 怪叔叔	guay shuq .shuq
 怪圈	guay chiuan
 怪念頭	guay gniann .tour
@@ -13010,6 +13542,7 @@ sort: be_weight
 怪物	guay wuq
 怪物相	guay wuq sianq
 怪相	guay sianq
+怪着	guay .joq
 怪着	guay joq
 怪腔怪調	guay chiang guay diaw
 怪處	guay chuh
@@ -13038,6 +13571,8 @@ sort: be_weight
 怯陣	chieq jenn
 怯頭怯惱	chieq tour chieq nao
 怵怵忐忐	chuq .chuq taan taan
+恁地	renn .de
+恁麼	renn .mo
 恃強凌弱	shyh chyang ling roq
 恃強欺弱	shyh chyang chi roq
 恆加速度	herng jia suq duh
@@ -13055,6 +13590,7 @@ sort: be_weight
 恣行無忌	tzyh shyng wu jih
 恤匱	siuq kuey
 恥辱	chyy ruq
+恨不得	henn .buq .de
 恨不得	henn .buq deq
 恨不能	henn .buq neng
 恨之切骨	henn jy tsieq guq
@@ -13133,6 +13669,7 @@ sort: be_weight
 悁想	jiuan seang
 悁邑	jiuan yiq
 悄悄	tsiaw tsiaw
+悄悄話	tsiaw .tsiau huah
 悄無聲息	tsiaw wu sheng siq
 悅樂	yueq loq
 悉率	siq shuoq
@@ -13150,6 +13687,7 @@ sort: be_weight
 患處	huann chuh
 患難	huann nann
 患難之交	huann nann jy jiau
+患難之交纔是真正的朋友	huann nann jy jiau tsair shyh jen jenq .de perng .yeou
 患難夫妻	huann nann fu tsi
 患難相恤	huann nann siang siuq
 患難相扶	huann nann siang fwu
@@ -13182,6 +13720,7 @@ sort: be_weight
 悶厭厭	menn ian ian
 悶坐	menn tzuoh
 悶子車	menn .tzyy chè
+悶得慌	menn .de .huang
 悶悶	menn menn
 悶悶不樂	menn menn buq loq
 悶損	menn soen
@@ -13194,6 +13733,8 @@ sort: be_weight
 悶淹淹	menn ian ian
 悶熱	menn rèq
 悶瞀	menn mow
+悶葫蘆	menn hwu .lu
+悶葫蘆罐	menn hwu .lu guann
 悶虧	menn kuei
 悶酒	menn tzeou
 悶錶	menn beau
@@ -13208,6 +13749,7 @@ sort: be_weight
 情不自禁	tsyng buq tzyh jinn
 情人節快樂	tsyng ren tzieq kuay loq
 情僞	tsyng wey
+情分	tsyng .fen
 情分	tsyng fenn
 情切	tsyng tsieq
 情報處	tsyng baw chuh
@@ -13408,11 +13950,14 @@ sort: be_weight
 想不通	seang buq tong
 想不開	seang .buq kai
 想不開	seang buq kai
+想得美	seang .de meei
 想得美	seang deq meei
+想得開	seang .de kai
 想想	seang .seang
 想想看	seang seang kann
 想法子	seang faq .tzyy
 想當然	seang dang ran
+想起來	seang .chii .lai
 想頭	seang .tour
 惹亂子	rèè luann .tzyy
 惹嘍子	rèè lou .tzyy
@@ -13423,6 +13968,7 @@ sort: be_weight
 惹樓子	rèè lou .tzyy
 惹草粘花	rèè tsao gnian hua
 惹蝨子頭上撓	rèè sheq .tzyy tour shanq nau
+惹麻煩	rèè ma .farn
 惹麻煩	rèè ma farn
 惺惺惜惺惺	sing sing siq sing sing
 惺惺相惜	sing sing siang siq
@@ -13437,6 +13983,8 @@ sort: be_weight
 意味深長	yih vey shen charng
 意度	yih duh
 意得志滿	yih deq jyh maan
+意思	yih .sy
+意思意思	yih .sy yih .sy
 意意似似	yih .yih syh syh
 意意思思	yih .yih sy sy
 意樂	yih loq
@@ -13449,6 +13997,7 @@ sort: be_weight
 意興	yih shinq
 意興索然	yih shinq soq ran
 意興闌珊	yih shinq lan shan
+意裏意思	yih .li yih .sy
 意識	yih shyq
 意識型態	yih shyq shyng tay
 意識形態	yih shyq shyng tay
@@ -13475,6 +14024,7 @@ sort: be_weight
 感化餅乾	gaan huah biing gan
 感天動地	gaan tian donq dih
 感性知識	gaan sinq jy shyq
+感性認識	gaan sinq renn .shyq
 感應	gaan yinq
 感應器	gaan yinq chih
 感應線圈	gaan yinq siann chiuan
@@ -13497,10 +14047,13 @@ sort: be_weight
 慉結	shiuq jieq
 慊慊	chieq chieq
 態子	tay .tzyy
+態度	tay .duh
 態度	tay duh
 態度冷靜	tay duh leeng tzinq
 態度嚴肅	tay duh yan suq
 慌張勢煞	huang jang shyh shaq
+慌得	huang .de
+慌裏慌張	huang .li huang jang
 慎行	shenn shinq
 慎重	shenn jonq
 慎防杜漸	shenn farng duh tziann
@@ -13561,14 +14114,18 @@ sort: be_weight
 憤怒痙攣	fenn nuh jinq liuan
 憤惋	fenn wann
 憤薄	fenn boq
+憨厚	han .hou
 憨厚	han how
 憨子	han .tzyy
+憨豆先生	han dow sian .sheng
 憩息	chih siq
 憩息處	chih siq chuh
 懁急	shiuan jiq
+懂得	doong .de
 懇切	keen tsieq
 懇親	keen tsin
 懇親會	keen tsin huey
+懈鬆	sheai .song
 應世	yinq shyh
 應乎人心	yinq hu ren sin
 應仁之亂	ing ren jy luann
@@ -13694,7 +14251,9 @@ sort: be_weight
 懲一警百	cherng yiq jiing beq
 懲惡勸善	cherng oq chiuann shann
 懲惡獎善	cherng oq tzeang shann
+懶待	laan .dai
 懶得	laan deq
+懶得搭理	laan .de daq lii
 懶洋洋	laan yang yang
 懶驢上磨屎尿多	laan liu shanq moh shyy gniaw do
 懶骨頭	laan guq .tour
@@ -13704,6 +14263,7 @@ sort: be_weight
 懷惡不悛	hwai oq buq tsiuan
 懷憂喪志	hwai iou sanq jyh
 懷璧爲罪	hwai biq wei tzuey
+懷着身子	hwai .joq shen .tzyy
 懷空	hwai kong
 懸崖勒馬	shyuan ya leq maa
 懸揣	shyuan choai
@@ -13752,8 +14312,10 @@ sort: be_weight
 成圈	cherng chiuan
 成敗得失	cherng bay deq shyq
 成敗興廢	cherng bay shing fey
+成日家	cherng ryq .jia
 成本效益分析	cherng been shiaw yiq fen siq
 成本會計	cherng been kuay jih
+成樣	cherng .iang
 成樣	cherng yanq
 成樣子	cherng yanq .tzyy
 成氣候	cherng chih .how
@@ -13800,6 +14362,7 @@ sort: be_weight
 戕賊	tsyang tzeq
 或然率	huoq ran liuq
 或稱	huoq cheng
+戤米囤餓殺了	gay mii doen ngoh shaq .le
 戥子	deeng .tzyy
 截屏	tzieq pyng
 截擊	tzieq jiq
@@ -13817,10 +14380,12 @@ sort: be_weight
 戰將	jann tzianq
 戰爭片	jann jeng piann
 戰爭罪行	jann jeng tzuey shyng
+戰略核力量	jann lioq heq liq .liang
 戰略要地	jann lioq yaw dih
 戰績	jann tziq
 戰術導彈	jann shuq daw dann
 戲下	hu shiah
+戲包袱	shih bau .fu
 戲園子	shih yuan .tzyy
 戲報子	shih baw .tzyy
 戲場	shih chaang
@@ -13832,15 +14397,18 @@ sort: be_weight
 戲稱	shih cheng
 戲綵娛親	shih tsae yu tsin
 戳子	choq .tzyy
+戳得住	choq .de juh
 戳肺管子	choq fey goan .tzyy
 戳脊梁	choq tziq .liang
 戳脊梁骨	choq tziq .liang guq
 戳脊梁骨	choq tziq liang guq
+戴上	day .shang
 戴天之仇	day tian jy chour
 戴天履地	day tian lii dih
 戴帽子	day maw .tzyy
 戴憑重席	day pyng chorng siq
 戴炭簍子	day tann loou .tzyy
+戴着斗笠親嘴	day .joq doou liq tsin tzoei
 戴笠荷鋤	day liq hoh chwu
 戴綠帽子	day luq maw .tzyy
 戴頂子	day diing .tzyy
@@ -13878,9 +14446,14 @@ sort: be_weight
 扁形動物	pian shyng donq wuq
 扁形動物門	pian shyng donq wuq men
 扁挑	bean tiau
+扁擔	bean .dan
+扁擔戲	bean .dan shih
+扁擔飯	bean .dan fann
 扁柏	bean beq
+扁毛畜生	bean mau chuq .sheng
 扁舟	pian jou
 扁鑽	bean tzuann
+扁食	bean .shyq
 扃鐍	jiong jiueq
 扇動	shan donq
 扇區	shann chiu
@@ -13908,13 +14481,18 @@ sort: be_weight
 手不釋卷	shoou buq shyq jiuann
 手剎車	shoou shaq chè
 手帖	shoou tieq
+手底下	shoou dii .shia
 手弓鋸	shoou gong jiuh
 手彈	shoou tarn
 手心手背都是肉	shoou sin shoou bey du shyh row
+手心裏	shoou sin .li
 手扒雞	shoou par ji
+手扳葫蘆	shoou ban hwu .lu
+手拉葫蘆	shoou lha hwu .lu
 手指頭	shoou jyy .tour
 手擊子	shoou jiq .tzyy
 手板子	shoou baan .tzyy
+手板葫蘆	shoou baan hwu .lu
 手榴彈	shoou liou dann
 手模	shoou mu
 手機充值卡	shoou ji chong jyq kaa
@@ -13935,6 +14513,7 @@ sort: be_weight
 手足重繭	shoou tzuq chorng jean
 手跡	shoou tziq
 手鑽	shoou tzuan
+手長的	shoou charng .de
 手長衣袖短	shoou charng i siow doan
 手面賺喫	shoou miann juann chyq
 手頭不便	shoou tour buq biann
@@ -13952,6 +14531,7 @@ sort: be_weight
 才難	tsair nan
 才高行厚	tsair gau shinq how
 才高行潔	tsair gau shinq jieq
+扎乎	jaq .hu
 扎住	jaq juh
 扎啤	jaq pyi
 扎嘴	jaq tzoei
@@ -13964,10 +14544,12 @@ sort: be_weight
 扎扎	jaq jaq
 扎括	jaq guaq
 扎掂	jaq dian
+扎掙	jaq .jenq
 扎撒	jaq saq
 扎根	jaq gen
 扎槍	jaq tsiang
 扎款	jaq koan
+扎煞	jaq .shaq
 扎猛子	jaq meeng .tzyy
 扎眉扎眼	jaq mei jaq yean
 扎眼	jaq yean
@@ -13987,21 +14569,27 @@ sort: be_weight
 扎針	jaq jen
 扑打	puq daa
 扑撻	puq taq
+扒上	par .shang
 扒城	par cherng
 扒山越嶺	par shan yueq liing
+扒得高跌得重	baq .de gau dieq .de jonq
 扒房	baq farng
 扒手	par shoou
+扒拉	baq .la
 扒拉	baq lha
+扒拉	par .la
 扒拉大山	baq lha dah shan
 扒推	par tuei
 扒摟	baq lhou
 扒沙	par sha
 扒灰	par huei
+扒犁	par .li
 扒犁	par li
 扒皮	baq pyi
 扒竊	par tsieq
 扒糕	par gau
 扒糞	baq fenn
+扒糞的	par fenn .de
 扒街淘空	par jiai taur kong
 扒車	baq chè
 扒釘	baq ding
@@ -14014,6 +14602,10 @@ sort: be_weight
 打不過	daa .buq guoh
 打中	daa jonq
 打乾噦	daa gan yueq
+打了一個悶雷	daa .le yiq .ge menn luei
+打了個寒噤	daa .le .ge harn jinn
+打了個照面	daa .le .ge jaw miann
+打了個落花流水	daa .le .ge loq hua liou shoei
 打亮梆子	daa lianq bang .tzyy
 打仔	daa tzae
 打供	daa gonq
@@ -14038,9 +14630,12 @@ sort: be_weight
 打呵欠	daa ho chiann
 打和	daa hoh
 打和哄	daa hoh honq
+打哆嗦	daa do .suo
+打哈哈	daa ha .ha
 打哈欠	daa ha .chiann
 打哨子	daa shaw .tzyy
 打嘴巴	daa tzoei .ba
+打嚏噴	daa tih .pen
 打圈	daa chiuan
 打圈子	daa chiuan .tzyy
 打圓相	daa yuan sianq
@@ -14048,6 +14643,7 @@ sort: be_weight
 打場	daa charng
 打夾帳	daa jiaq janq
 打孔鑽	daa koong tzuann
+打官司	daa guan .sy
 打官司	daa guan sy
 打官鋪	daa guan puh
 打屁股	daa pih .guu
@@ -14057,8 +14653,12 @@ sort: be_weight
 打彈	daa dann
 打彈子	daa dann tzyy
 打彈珠	daa dann ju
+打得火熱	daa .de huoo rèq
+打得逼直	daa .de biq jyq
+打心眼裏	daa sin yean .li
 打息氣	daa siq chih
 打悶棍	daa menn guenn
+打悶葫蘆	daa menn hwu .lu
 打悶雷	daa menn luei
 打惡心	daa oq sin
 打成一片	daa cherng yiq piann
@@ -14066,6 +14666,10 @@ sort: be_weight
 打手	daa .shoou
 打手	daa shoou
 打打倈倈	daa daa lai lai
+打打殺殺	daa .daa shaq shaq
+打打算盤	daa .daa suann parn
+打打鬧鬧	daa .daa naw naw
+打扮	daa .bann
 打扮	daa bann
 打折	daa jèq
 打折扣	daa jèq kow
@@ -14083,6 +14687,7 @@ sort: be_weight
 打擊手	daa jiq shoou
 打擊率	daa jiq liuq
 打擊異己	daa jiq yih jii
+打擊軍事力量	daa jiq jiun shyh liq .liang
 打擺子	daa bae .tzyy
 打敗子	daa bay .tzyy
 打旋	daa syuan
@@ -14112,17 +14717,21 @@ sort: be_weight
 打猛子	daa meeng .tzyy
 打獨磨	daa duq moh
 打瓜子	daa gua .tzyy
+打甚麼不緊	daa sher .mo buq jiin
+打甚麼緊	daa sher .mo jiin
 打當	daa dang
 打發	daa .faq
 打發時間	daa faq shyr jian
 打的	daa diq
 打盤旋	daa parn syuan
 打看	daa kann
+打着	daa .joq
 打着	daa joq
 打睃	daa tziunn
 打知名度	daa jy ming duh
 打磨	daa mo
 打磨盤	daa moh parn
+打磨磨轉	daa moh .mo juann
 打票子	daa piaw .tzyy
 打稻場	daa daw charng
 打稿子	daa gao .tzyy
@@ -14134,6 +14743,7 @@ sort: be_weight
 打簸箕	daa boh ji
 打結	daa jieq
 打罵教育	daa mah jiaw yuq
+打聽	daa .ting
 打聽	daa ting
 打脊匹夫	daa tziq piq fu
 打腫臉充胖子	daa joong lean chong panq .tzyy
@@ -14148,6 +14758,7 @@ sort: be_weight
 打跌	daa dieq
 打跟頭	daa gen .tour
 打踅	daa siueq
+打踅磨	daa siueq .mo
 打車子	daa chè .tzyy
 打轉	daa juann
 打辮子	daa biann .tzyy
@@ -14155,8 +14766,10 @@ sort: be_weight
 打都磨子	daa du moh .tzyy
 打醉眼子	daa tzuey yean .tzyy
 打野呵	daa yee ho
+打量	daa .liang
 打量	daa lianq
 打鋪	daa puh
+打鋪蓋	daa pu .gay
 打長工	daa charng gong
 打長途	daa charng twu
 打門子	daa men .tzyy
@@ -14182,6 +14795,7 @@ sort: be_weight
 托熟	toq shuq
 托葷鹹食	toq huen shyan shyq
 托運行李	toq yunn shyng .lii
+扛叉的	karng cha .de
 扛喪	karng sang
 扛子火燒	gang .tzyy huoo shau
 扛長活	karng charng huoq
@@ -14205,6 +14819,7 @@ sort: be_weight
 扭扭樂	gneou gneou loq
 扭捏	gneou .gnieq
 扭捏	gneou gnieq
+扭搭	gneou .daq
 扭是爲非	gneou shyh wei fei
 扭曲	gneou chiuq
 扭結	gneou jieq
@@ -14221,6 +14836,7 @@ sort: be_weight
 扯架子	chèè jiah .tzyy
 扯牛尾巴	chèè gniou veei .ba
 扯皮弄筋	chèè pyi lonq jin
+扯着脖子	chèè .joq boq .tzyy
 扯空心架子	chèè kong sin jiah .tzyy
 扯空砑光	chèè kong yah guang
 扯簸箕	chèè boh ji
@@ -14293,6 +14909,7 @@ sort: be_weight
 找轍	jao chèq
 找面子	jao miann .tzyy
 找頭	jao .tour
+找麻煩	jao ma .farn
 承差	cherng chai
 承德地區	cherng deq dih chiu
 承應	cherng yinq
@@ -14313,6 +14930,7 @@ sort: be_weight
 技倆	jih leang
 技擊	jih jiq
 技術分析	jih shuq fen siq
+技術知識	jih shuq jy .shyq
 技術降落	jih shuq jianq loq
 抄扎	chau jaq
 抄掇	chau duoq
@@ -14326,10 +14944,16 @@ sort: be_weight
 抑強扶弱	yiq chyang fwu roq
 抑惡揚善	yiq oq yang shann
 抑揚昇降性	yiq yang sheng jianq sinq
+抓功夫	jua gong .fu
 抓地	jua dih
 抓地力	jua dih liq
 抓尖要強	jua tzian yaw chyang
+抓工夫	jua gong .fu
 抓弄	jua lonq
+抓抓掗掗	jua .jua yea yea
+抓抓撓撓	jua .jua nau nau
+抓撓	jua .nau
+抓着癢處	jua .joq yeang chuh
 抓緊時間	jua jiin shyr jian
 抓辮子	jua biann .tzyy
 抔土未乾	pour tuu vey gan
@@ -14352,6 +14976,7 @@ sort: be_weight
 投監	tour jian
 投票地點	tour piaw dih dean
 投票率	tour piaw liuq
+投至得	tour jyh .de
 投袂荷戈	tour mih hoh go
 投親	tour tsin
 投解	tour jiay
@@ -14359,6 +14984,7 @@ sort: be_weight
 投跡	tour tziq
 投門路	tour men .luh
 投降	tour shyang
+抖摟	doou .lou
 抖空竹	doou kong juq
 抖翻	doou .fan
 抖落	doou loq
@@ -14412,6 +15038,7 @@ sort: be_weight
 折桂	jèq guey
 折椅	jèq yii
 折檯	jèq tair
+折殺	jèq .shaq
 折殺	jèq shaq
 折煞	jèq shaq
 折獄	jèq yuq
@@ -14476,6 +15103,7 @@ sort: be_weight
 披卷	pi jiuann
 披子	pi .tzyy
 披撇	pi pieq
+披散	pi .san
 披玩	pi wann
 披衣菌	pi i jiunn
 披豁	pi huoq
@@ -14564,12 +15192,15 @@ sort: be_weight
 抽丁拔楔	chou ding baq sieq
 抽冷子	chou leeng .tzyy
 抽分	chou fen
+抽功夫	chou gong .fu
 抽咽	chou yeq
 抽嘴巴	chou tzoei .ba
 抽地	chou dih
 抽子	chou .tzyy
 抽屜	chou .tih
+抽打	chou .daa
 抽打	chou daa
+抽搭	chou .daq
 抽時間	chou shyr jian
 抽梯子	chou ti .tzyy
 抽樣調查	chou yanq diaw char
@@ -14590,12 +15221,14 @@ sort: be_weight
 拆放市場	cheq fanq shyh charng
 拆散	cheq sann
 拆款利率	cheq koan lih liuq
+拆洗	cheq .sii
 拆爛污	cheq lann u
 拆骨還父	cheq guq hwan fuh
 拇指甲	muu jyy .jiaq
 拇量	muu liang
 拈指	gnhian jyy
 拉丁教會	lha ding jiaw huey
+拉不下臉來	lha .buq shiah lean .lai
 拉主顧	lha juu .guh
 拉個手	lha .ge shoou
 拉卜楞	lha buq leng
@@ -14616,7 +15249,9 @@ sort: be_weight
 拉扯	lha .chèè
 拉扯	lha chèè
 拉抽屜	lha chou .tih
+拉拔	lha .baq
 拉撒路	lha saq luh
+拉攏	lha .long
 拉曳	lha yih
 拉桿子	lha gan .tzyy
 拉洋片	lha yang piann
@@ -14624,11 +15259,13 @@ sort: be_weight
 拉票子	lha piaw .tzyy
 拉窟窿	lha kuq .long
 拉納卡	lha naq kaa
+拉絆着	lha .bann .joq
 拉絲模	lha sy mu
 拉老婆舌頭	lha lao .por shèq .tour
 拉肚子	lha duh .tzyy
 拉脫維亞共和國	lha tuoq wei yah gonq hor guoq
 拉舌頭	lha shèq .tour
+拉虧空	lha kuei .kong
 拉親	lha tsin
 拉買賣	lha mae .may
 拉鋸	lha jiuh
@@ -14638,6 +15275,7 @@ sort: be_weight
 拉長線	lha charng siann
 拉長臉	lha charng lean
 拉開	lha .kai
+拉飢荒	lha ji .huang
 拉駱駝	lha loq .tor
 拉魯溼地國家自然保護區	lha luu shyq dih guoq jia tzyh ran bao huh chiu
 拋屍露骨	pau shy luh guq
@@ -14692,6 +15330,7 @@ sort: be_weight
 拓邊	toq bian
 拓銷	toq siau
 拔不出腿來	baq .buq chuq toei lai
+拔了蘿蔔地皮寬	baq .le lo .boq dih pyi kuan
 拔刀相助	baq dau siang juh
 拔刀相濟	baq dau siang tzih
 拔剌	baq laq
@@ -14782,7 +15421,9 @@ sort: be_weight
 招待所	jau day suoo
 招待會	jau day huey
 招惹	jau .rèè
+招招手	jau .jau shoou
 招攬生意	jau laan sheng .yih
+招數	jau .shu
 招漢子	jau hann .tzyy
 招牌	jau .pair
 招牌	jau pair
@@ -14831,7 +15472,9 @@ sort: be_weight
 拳攣	chyuan liuan
 拳曲	chyuan chiuq
 拳頭	chyuan .tour
+拳頭上站的人	chyuan .tour shanq jann .de ren
 拳頭產品	chyuan .tour chaan piin
+拴娃娃	shuan ua .ua
 拴縛	shuan foq
 拶子	tzann .tzyy
 拶滿	tzann maan
@@ -14839,6 +15482,7 @@ sort: be_weight
 拼扒	ping par
 拼綴	ping juey
 拼花地板	ping hua dih baan
+拼起來	ping .chii .lai
 拽塌	juay taq
 拽大拳	juay dah chyuan
 拽巷攞街	juay shianq luoo jiai
@@ -14862,12 +15506,16 @@ sort: be_weight
 拿不定	na buq dinq
 拿主意	na juu .yih
 拿住	na .juh
+拿得住	na .de juh
+拿得起	na .de chii
+拿得起放得下	na .de chii fanq .de shiah
 拿捏	na .gnieq
 拿捻	na gnieq
 拿撒勒	na saq leq
 拿板弄勢	na baan lonq shyh
 拿架子	na jiah .tzyy
 拿派頭	na pay .tour
+拿着雞毛當令箭	na .joq ji mau danq linq tziann
 拿矯	na jeau
 拿空子	na konq .tzyy
 拿粗挾細	na tsu shieq sih
@@ -14986,10 +15634,12 @@ sort: be_weight
 挑高	tiau gau
 挑鬥	teau dow
 挑鼻子	tiau bih .tzyy
-挓挲	ja .so
+挓挲	jah .so
 挖地彈	waq dih dann
 挖空	waq kong
+挖空心思	waq kong sin .sy
 挖空心思	waq kong sin sy
+挖苦	waq .ku
 挖角	waq jioq
 挖鼻子	waq bih .tzyy
 振刷	jenn shuaq
@@ -15050,7 +15700,7 @@ sort: be_weight
 捉迷藏	juoq mi tsarng
 捉顫	juoq jann
 捉髮	juoq faq
-捊治	pour jyh
+捊治	paur jyh
 捋胳膊	luoq geq .boq
 捋臂將拳	luoq bih tziang chyuan
 捋臂揎拳	luoq bih siuan chyuan
@@ -15058,7 +15708,9 @@ sort: be_weight
 捋袖揎拳	luoq siow siuan chyuan
 捍難之功	hann nann jy gong
 捎馬子	shaw maa .tzyy
+捏估	gnieq .gu
 捏弄	gnieq lonq
+捏着鼻子	gnieq .joq bih .tzyy
 捏舌頭	gnieq shèq .tour
 捐瘠	jiuan tziq
 捐監	jiuan jiann
@@ -15070,8 +15722,11 @@ sort: be_weight
 捕緝	buh tsiq
 捕風弄月	buh fong lonq yueq
 捕風繫影	buh fong shih yiing
+捨不得	shèè .buq .de
+捨不得	shèè buq .de
 捨己爲人	shèè jii wey ren
 捨己爲公	shèè jii wey gong
+捨得	shèè .de
 捨短取長	shèè doan tseu charng
 捨車保帥	shèè jiu bao shuay
 捫參歷井	men shen liq tziing
@@ -15098,6 +15753,7 @@ sort: be_weight
 捻子	gnieq .tzyy
 捻手捻腳	gnieq shoou gnieq jioq
 捻熄	gnieq siq
+捻着鼻子	gnieq .joq bih .tzyy
 捻腳捻手	gnieq jioq gnieq shoou
 捻舌	gnieq shèq
 捻鼻	gnieq bih
@@ -15113,6 +15769,7 @@ sort: be_weight
 掂折	dian jèq
 掂掇	dian .duoq
 掂梢折本	dian shau shèq been
+掂量	dian .liang
 掂量	dian liang
 掃地	sao dih
 掃地俱盡	sao dih jiu tzinn
@@ -15146,6 +15803,7 @@ sort: be_weight
 掃瞄	sao meau
 掃穴犁庭	sao shiueq li tyng
 掃羅	sao lo
+掃聽	sao .ting
 掃臉	sao lean
 掃興	sao shinq
 掃蕩	sao danq
@@ -15199,6 +15857,7 @@ sort: be_weight
 掐尖落鈔	chiaq tzian loq chau
 掐巴	chiaq .ba
 排便	pair biann
+排場	pair .chang
 排奡縱橫	pair ngaw tzong herng
 排子	pair .tzyy
 排子車	pair .tzyy chè
@@ -15228,6 +15887,8 @@ sort: be_weight
 掖省	yiq sheeng
 掖縣	yiq shiann
 掖門	yiq men
+掗把	yea .ba
+掗相知	yea siang jy
 掘坑待虎之計	jiueq keng day huu jy jih
 掘子軍	jiueq .tzyy jiun
 掘強	jiueq jianq
@@ -15238,8 +15899,10 @@ sort: be_weight
 掙臉	jenq lean
 掙錢	jenq tsyan
 掙開	jenq kai
+掛了幌子	guah .le hoang .tzyy
 掛冠	guah guan
 掛冠歸里	guah guan guei lii
+掛在嘴上	guah .tzay tzoei .shang
 掛屏	guah pyng
 掛幌子	guah hoang .tzyy
 掛燈結彩	guah deng jieq tsae
@@ -15269,6 +15932,7 @@ sort: be_weight
 探看	tann kann
 探究	tann jiow
 探親	tann tsin
+探親家	tann tsinn .jia
 探身子	tann shen .tzyy
 探騎	tann jih
 探驪得珠	tann li deq ju
@@ -15332,13 +15996,16 @@ sort: be_weight
 掰交情	bai jiau .tsyng
 揃平	tzean pyng
 揉和	rou hor
+揉揉	rou .rou
 揉搓	rou .tso
 揉搓	rou tso
 揉眵抹淚	rou chy moq luey
 揉着癢處	rou joq yeang chuh
+揉磨	rou .mo
 揎拳捋袖	siuan chyuan luoq siow
 揎拳擄袖	siuan chyuan luu siow
 揎拳攞袖	siuan chyuan luoo siow
+提不起來	tyi .buq chii .lai
 提不起勁	tyi buq chii jinq
 提供	tyi gong
 提供優質服務	tyi gong iou jyq fuq wuh
@@ -15346,17 +16013,23 @@ sort: be_weight
 提供者	tyi gong jèè
 提傀儡上戲場	tyi koei loei shanq shih charng
 提刀弄斧	tyi dau lonq fuu
+提得起放得下	tyi .de chii fanq .de shiah
 提掇	tyi duoq
 提款卡	tyi koan kaa
+提溜	tyi .liou
 提溜	tyi lhiou
+提溜着心	tyi .liou .joq sin
 提省	tyi siing
 提補	tyi .buu
 提親	tyi tsin
 提親事	tyi tsin shyh
 提調	tyi diaw
+提起精神	tyi chii tzing .shern
 提鈴喝號	tyi ling hoq haw
+提防	tyi .fang
 提防	tyi farng
 提高產品質量	tyi gau chaan piin jyq lianq
+插上	chaq .shang
 插圈弄套	chaq chiuan lonq taw
 插子	chaq .tzyy
 插屏	chaq pyng
@@ -15439,6 +16112,7 @@ sort: be_weight
 搓圓仔	tso yuan tzyy
 搓圓仔湯	tso yuan tzyy tang
 搓弄	tso .lonq
+搓熟的湯團	tso shuq .de tang twan
 搓麻將	tso ma tzianq
 搔到癢處	sau daw yeang chuh
 搔着癢處	sau joq yeang chuh
@@ -15447,6 +16121,7 @@ sort: be_weight
 搖囝仔歌	yau tzae tzyy go
 搖搖晃晃	yau yau huanq huanq
 搖搖落落	yau yau loq loq
+搖撼	yau .han
 搖旗擂鼓	yau chyi lei guu
 搖晃	yau .huanq
 搖晃	yau huanq
@@ -15464,6 +16139,7 @@ sort: be_weight
 搗虛批吭	dao shiu pi harng
 搗騰	dao .terng
 搗騰	dao terng
+搗麻煩	dao ma .farn
 搗鼓	dao .guu
 搗鼓	dao guu
 搜括	sou guaq
@@ -15478,6 +16154,7 @@ sort: be_weight
 搦管操觚	gnioq goan tsau gu
 搨子	taq .tzyy
 搪塞	tarng seq
+搪差使	tarng chai .shy
 搪抹	tarng moq
 搪突	tarng tuq
 搬口弄舌	ban koou lonq shèq
@@ -15487,6 +16164,7 @@ sort: be_weight
 搬弄口舌	ban lonq koou shèq
 搬弄是非	ban lonq shyh fei
 搬挑	ban teau
+搬石頭砸自己的腳	ban shyq .tour tzaq tzyh jii .de jioq
 搬脣弄舌	ban chwen lonq shèq
 搬調	ban tyau
 搬鋪	ban puh
@@ -15497,6 +16175,7 @@ sort: be_weight
 搭剌	daq laq
 搭剌子	daq laq .tzyy
 搭子	daq .tzyy
+搭拉	daq .la
 搭接片	daq tzie piann
 搭搭撒撒	daq daq saq saq
 搭撒	daq saq
@@ -15506,13 +16185,17 @@ sort: be_weight
 搭班子	daq ban .tzyy
 搭縫	daq fonq
 搭蓋	daq gay
+搭街坊	daq jiai .fang
 搭褳	daq .lian
 搭褳	daq lian
 搭調	daq diaw
 搭識	daq shyq
 搭載	daq tzay
+搭連	daq .lian
 搭連	daq lian
 搭鋪	daq pu
+搳拳	hoq chyuan
+搳脫	hoq tuoq
 搴旗取將	chian chyi tseu tzianq
 搵食	wenn shyq
 搶呼	tsiang hu
@@ -15524,6 +16207,7 @@ sort: be_weight
 摀蓋	u gay
 摑混	guoq huenn
 摔喪	shuai sang
+摔打	shuai .daa
 摔臉子	shuai lean .tzyy
 摔跟頭	shuai gen .tour
 摔馬杓	shuai maa shoq
@@ -15534,6 +16218,7 @@ sort: be_weight
 摟搜	lhou sou
 摟攬	lhou laan
 摟溝子	lhou gou .tzyy
+摟衣裳	lhou i .sharng
 摟財	lhou tsair
 摟貨	lhou huoh
 摟錢	lhou tsyan
@@ -15563,6 +16248,7 @@ sort: be_weight
 摳心挖肚	kou sin waq duh
 摳扒	kou par
 摳搜	kou .sou
+摳摟	kou .lou
 摳摳索索	kou kou soq soq
 摵摵	shoq shoq
 摶擊掀發	twan jiq shian faq
@@ -15577,6 +16263,7 @@ sort: be_weight
 摺疊扇	jèq dieq shann
 摻分子	chen fenn .tzyy
 摻合	chen hoq
+摻和	chen .ho
 摻和	chen hoh
 摻摻	shan shan
 摻水	chen shoei
@@ -15585,11 +16272,13 @@ sort: be_weight
 摽幟	biau jyh
 摽牌	biau pair
 撅撒	jiueq saq
+撇下	pieq .shia
 撇下	pieq shiah
 撇去	pieq chiuh
 撇呆打墮	pieq dai daa duoh
 撇呵	pieq ho
 撇嘴	pieq tzoei
+撇地	pieq .de
 撇嵌	pieq chian
 撇弔	pieq diaw
 撇強	pieq chyang
@@ -15619,12 +16308,15 @@ sort: be_weight
 撈起嘴巴	lhau chii tzoei .ba
 撐場面	cheng charng miann
 撐天柱地	cheng tian juh dih
+撐得住	cheng .de juh
+撐的慌	cheng .de .huang
 撐腸拄肚	cheng charng juu duh
 撒丫子	saq ia .tzyy
 撒但	saq dann
 撒克遜	saq keq suenn
 撒克遜人	saq keq suenn ren
 撒刁	saq diau
+撒和	saq .ho
 撒哈拉	saq ha lha
 撒哈拉以南	saq ha lha yii nan
 撒哈拉以南非洲	saq ha lha yii nan fei jou
@@ -15702,6 +16394,7 @@ sort: be_weight
 撓率	nau liuq
 撓癢癢	nau yeang .yeang
 撓直爲曲	nau jyq wei chiuq
+撙省	tzoen .sheeng
 撚分子	gnean fenn .tzyy
 撞一鼻子灰	juanq yiq bih .tzyy huei
 撞喪	juanq sang
@@ -15789,6 +16482,7 @@ sort: be_weight
 播郎鼓	boh lang guu
 播音	boh in
 播音員	boh in yuan
+撮合	tsuoq .hoq
 撮合	tsuoq hoq
 撮和	tsuoq hor
 撮弄	tsuoq lonq
@@ -15800,6 +16494,8 @@ sort: be_weight
 撲克臉	puq .keq lean
 撲剌剌	puq laq laq
 撲奔	puq ben
+撲扇	puq .shan
+撲搭地	puq daq .de
 撲撒	puq saq
 撲擊	puq jiq
 撲散	puq sann
@@ -15888,6 +16584,7 @@ sort: be_weight
 操場	tsau chaang
 操場	tsau charng
 操奇計贏	tsau ji jih yng
+操屄	tsaw bei
 操履	tsau lii
 操心	tsau sin
 操戈	tsau go
@@ -15924,6 +16621,7 @@ sort: be_weight
 操辦	tsau bann
 操逼	tsaw biq
 操防	tsau farng
+擎受	chyng .shou
 擐甲操戈	huann jiaq tsau go
 擐繫	huann shih
 擒姦擿伏	chyn jian tiq fuq
@@ -16012,12 +16710,14 @@ sort: be_weight
 擯相	binn sianq
 擯落	binn loq
 擰乾	gning gan
+擰了	gning .le
 擰嘴	gning tzoei
 擰性	gning .sinq
 擰成一股	gning cherng yiq guu
 擰眉瞪眼	gning mei denq yean
 擰脖子	gning boq .tzyy
 擰開	gning kai
+擱得住	go .de juh
 擲下	jyq shiah
 擲刀對泣	jyq dau duey chiq
 擲地	jyq dih
@@ -16061,6 +16761,7 @@ sort: be_weight
 擿埴索塗	tiq jyq soq twu
 擿奸發伏	tiq jian faq fuq
 攀庭檻	pan tyng jiann
+攀得高	pan .de gau
 攀折	pan jèq
 攀枝花地區	pan jy hua dih chiu
 攀槓子	pan ganq .tzyy
@@ -16097,6 +16798,7 @@ sort: be_weight
 攘袖	rang siow
 攘辟	raang biq
 攘除	rang chwu
+攙和	chan .ho
 攙和	chan hoh
 攙空	chan konq
 攙親	chan tsin
@@ -16120,15 +16822,19 @@ sort: be_weight
 攤還	tan hwan
 攦脫	lih tuoq
 攩叉	daang cha
+攪和	jeau .ho
 攪撒	jeau saq
 攪散	jeau sann
+攪混	jeau .huen
 攬載	laan tzay
 攬轡澄清	laan pey cherng tsing
 攮子	naang .tzyy
 支付得起	jy fuh deq chii
+支使	jy .shy
 支分	jy fen
 支劃	jy huaq
 支努干	jy nuu gan
+支吾	jy .wu
 支吾	jy wu
 支差	jy chai
 支應	jy yinq
@@ -16143,6 +16849,7 @@ sort: be_weight
 支調	jy diaw
 收因結果	shou in jieq guoo
 收心操	shou sin tsau
+收拾	shou .shyq
 收拾	shou shyq
 收播	shou boh
 收撮	shou tsuoq
@@ -16182,7 +16889,9 @@ sort: be_weight
 攻心爲上	gong sin wei shanq
 攻擊	gong jiq
 攻擊機	gong jiq ji
+放下	fanq .shia
 放下	fanq shiah
+放下包袱	fanq .shia bau .fu
 放下屠刀便成佛	fanq shiah twu dau biann cherng fuq
 放不下	fanq .buq shiah
 放不下心	fanq .buq shiah sin
@@ -16201,11 +16910,13 @@ sort: be_weight
 放尊重	fanq tzuen jonq
 放屁辣臊	fanq pih laq sau
 放屏	fanq binq
+放得下	fanq .de shiah
 放情丘壑	fanq tsyng chiou hoq
 放懞掙	fanq mong jenq
 放散	fanq sann
 放映幻燈片	fanq yinq huann deng piann
 放溜	fanq liow
+放焰口	fanq yann .koou
 放熱反應	fanq rèq faan yinq
 放牧地	fanq muq dih
 放禿尾巴鷹	fanq tuq veei .ba ing
@@ -16234,7 +16945,11 @@ sort: be_weight
 政訓處	jenq shiunn chuh
 政通人和	jenq tong ren hor
 敁敪	dian .duoq
+故事	guh .shy
 故事	guh shyh
+故事書	guh .shy shu
+故事片	guh .shy piann
+故事詩	guh .shy shy
 故伎重演	guh jih chorng yean
 故土難移	guh tuu nan yi
 故地	guh dih
@@ -16410,6 +17125,7 @@ sort: be_weight
 教頭	jiaw tour
 敝地	bih dih
 敝處	bih chuh
+敞亮	chaang .liang
 敞地	chaang dih
 敞快	chaang .kuay
 敢待	gaan day
@@ -16458,6 +17174,7 @@ sort: be_weight
 散齋	sann jai
 敦槃	duey parn
 敦煌曲子	duen hwang chiuq .tzyy
+敦葫蘆	duen hwu .lu
 敦親睦鄰	duen tsin muq lin
 敦蹄刷腳	duen tyi shuaq jioq
 敬姜猶績	jinq jiang you tziq
@@ -16480,6 +17197,7 @@ sort: be_weight
 整個地球	jeeng goh dih chyou
 整合行銷傳播	jeeng hoq shyng siau chwan boh
 整地	jeeng dih
+整治	jeeng .jyh
 整治	jeeng jyh
 整臉子	jeeng lean .tzyy
 整裝待發	jeeng juang day faq
@@ -16501,6 +17219,7 @@ sort: be_weight
 斂戢	liann tziq
 斂手	liann shoou
 斂手待斃	liann shoou day bih
+斂着	liann .joq
 斂聲屏氣	liann sheng binq chih
 斂藏	liann tsarng
 斂衣	liann i
@@ -16538,6 +17257,8 @@ sort: be_weight
 斐濟共和國	feei tzih gonq hor guoq
 斑鳩跌彈	ban jiou dieq dann
 斗儲	doou chwu
+斗大的手卷	doou dah .de shoou jiuann
+斗大的饅頭	doou dah .de man .tour
 斗子	doou .tzyy
 斗杓	doou biau
 斗杓東指	doou biau dong jyy
@@ -16551,6 +17272,7 @@ sort: be_weight
 料應	liaw yinq
 斜度	sye duh
 斜度標	sye duh biau
+斜愣眼	sye .leng yean
 斜槓	sye ganq
 斜率	sye liuq
 斜眼看	sye yean kann
@@ -16588,6 +17310,7 @@ sort: be_weight
 斯干	sy gan
 斯托肯立石圈	sy toq keeng liq shyq chiuan
 斯摩棱斯克	sy mo leng sy keq
+斯文	sy .uen
 斯文	sy wen
 斯文掃地	sy wen sao dih
 斯洛伐克共和國	sy loq faq keq gonq hor guoq
@@ -16646,6 +17369,9 @@ sort: be_weight
 新都橋鎮	sin du chyau jenn
 新鄉地區	sin shiang dih chiu
 新靚	sin tzinq
+新鮮	sin .sian
+新鮮事	sin .sian shyh
+新鮮人	sin .sian ren
 斲削	juoq sioq
 斲喪	juoq sanq
 斲方爲圓	juoq fang wei yuan
@@ -16671,6 +17397,7 @@ sort: be_weight
 方便爲門	fang biann wei men
 方便米飯	fang biann mii fann
 方便麪	fang biann miann
+方向	fang .shiang
 方向	fang shianq
 方子	fang .tzyy
 方寸之地	fang tsuenn jy dih
@@ -16834,6 +17561,7 @@ sort: be_weight
 日頭常晌午	ryq tour charng shaang wuu
 日麗風和	ryq lih fong hor
 旦角	dann jioq
+早上	tzao .shang
 早占勿藥	tzao jan wuq yoq
 早名必折	tzao ming biq jèq
 早夭	tzao yeau
@@ -16841,6 +17569,7 @@ sort: be_weight
 早朝	tzao chaur
 早期效應	tzao chi shiaw yinq
 早知今日何必當初	tzao jy jin ryq hoh biq dang chu
+早知道	tzao jy .dau
 早賜玉音	tzao syh yuq in
 早起	tzao .chii
 早起	tzao chii
@@ -16910,6 +17639,7 @@ sort: be_weight
 星奔	sing ben
 星子	sing .tzyy
 星子	sing tzyy
+星宿	sing .suq
 星宿	sing siow
 星宿海	sing siow hae
 星散	sing sann
@@ -16954,6 +17684,7 @@ sort: be_weight
 春風一度	chuen fong yiq duh
 春風和氣	chuen fong hor chih
 春風得意	chuen fong deq yih
+春風深醉的晚上	chuen fong shen tzuey .de woan .shang
 春風風人	chuen fong fong ren
 昧地瞞天	mey dih man tian
 昧地謾天	mey dih man tian
@@ -17018,11 +17749,13 @@ sort: be_weight
 晃來晃去	huanq lai huanq chiuh
 晃動	huanq donq
 晃悠	huanq iou
+晃搖	huanq .iau
 晃晃悠悠	huanq .huanq iou iou
 晃晃蕩蕩	huanq .huanq danq danq
 晃朗	huanq laang
 晃耀	huanq yaw
 晃腦	huanq nao
+晃蕩	huanq .danq
 晃蕩	huanq danq
 晉寧	tzinn gning
 晉寧縣	tzinn gning shiann
@@ -17038,7 +17771,9 @@ sort: be_weight
 晒乾	shay gan
 晒穀場	shay guq charng
 晒衣場	shay i charng
+晚上	woan .shang
 晚場	woan charng
+晚娘的拳頭	woan gniang .de chyuan .tour
 晚熟	woan shuq
 晚間	woan jian
 晚食當肉	woan shyq danq row
@@ -17116,6 +17851,7 @@ sort: be_weight
 暈針	yunn jen
 暈頭轉向	yunn tour juann shianq
 暑假	shuu jiah
+暖和	noan .ho
 暖姝	shyuan shu
 暖暖	shyuan shyuan
 暖氣片	noan chih piann
@@ -17162,6 +17898,7 @@ sort: be_weight
 暴骨原野	puq guq yuan yee
 曇花一現	tarn hua yiq shiann
 曉伏夜行	sheau fuq yeh shyng
+曉得	sheau .de
 曉行夜宿	sheau shyng yeh suq
 曙光	shuh guang
 曙光乍現	shuh guang jah shiann
@@ -17251,6 +17988,7 @@ sort: be_weight
 曲蓋	chiuq gay
 曲薄	chiuq boq
 曲蟮	chiuq shann
+曲裏拐彎	chiuq .li goai uan
 曲裾	chiuq jiuh
 曲話	chiuq huah
 曲說	chiuq shuoq
@@ -17450,6 +18188,7 @@ sort: be_weight
 會寧	huey gning
 會寧縣	huey gning shiann
 會弁	kuay biann
+會得	huey .de
 會操	huey tsau
 會文切理	huey wen tsieq lii
 會稽	guay ji
@@ -17468,7 +18207,9 @@ sort: be_weight
 會計準則理事會	kuay jih joen tzeq lii shyh huey
 會計科目	kuay jih ko muq
 月中折桂	yueq jong jèq guey
+月亮	yueq .liang
 月亮	yueq lianq
+月令	yueq .ling
 月令	yueq linq
 月儀帖	yueq yi tieq
 月光曲	yueq guang chiuq
@@ -17496,6 +18237,7 @@ sort: be_weight
 月落參橫	yueq loq shen herng
 月落星沉	yueq loq sing chern
 月落烏啼	yueq loq u tyi
+月錢	yueq .tsian
 月長石	yueq charng shyq
 朋友	perng .yeou
 朋友	perng yeou
@@ -17509,6 +18251,7 @@ sort: be_weight
 服服	fuq .fuq
 服服貼貼	fuq .fuq tieq tieq
 服氣吞露	fuq chih tuen luh
+服着	fuq .joq
 服着	fuq joq
 服藥過量	fuq yoq guoh lianq
 服賈	fuq guu
@@ -17521,6 +18264,7 @@ sort: be_weight
 朘削	tziuan sioq
 望子	wanq .tzyy
 望彌撒	wanq mi saq
+望望	wanq .uang
 望望	wanq wanq
 望洋興歎	wanq yang shing tann
 望眼將穿	wanq yean tziang chuan
@@ -17552,6 +18296,7 @@ sort: be_weight
 朝天區	chaur tian chiu
 朝天宮	chaur tian gong
 朝天搗亂	chaur tian dao luann
+朝天餛飩	chaur tian hwen .tuen
 朝奉	chaur fonq
 朝宗	chaur tzong
 朝寄	chaur jih
@@ -17603,6 +18348,7 @@ sort: be_weight
 朝珠	chaur ju
 朝班	chaur ban
 朝生暮死	jau sheng muh syy
+朝着	chaur .joq
 朝經暮史	jau jing muh shyy
 朝綱	chaur gang
 朝考	chaur kao
@@ -17680,13 +18426,14 @@ sort: be_weight
 木刻水印	muq keq shoei yinn
 木刻畫	muq keq huah
 木卡姆	muq kaa muu
+木吒	muq .ja
 木塞	muq seq
 木子	muq .tzyy
 木強	muq jianq
 木強則折	muq chyang tzeq jèq
 木拐梯子	muq goai ti .tzyy
 木木樗樗	muq muq shu shu
-木柈子	muq parn .tzyy
+木柈子	muq pann .tzyy
 木椆	muq jow
 木楂	muq char
 木模	muq mu
@@ -17704,12 +18451,14 @@ sort: be_weight
 木難	muq nan
 木頭	muq .tour
 木頭人	muq .tour ren
+木頭似的	muq .tour syh .de
 木餾油	muq liow you
 木骨都束	muq guq du shuq
 未了	vey leau
 未了因	vey leau in
 未了情	vey leau tsyng
 未便	vey biann
+未婚媽媽	vey huen mha .ma
 未成冠	vey cherng guan
 未折現	vey jèq shiann
 未熟	vey shuq
@@ -17731,7 +18480,10 @@ sort: be_weight
 末腳	moq jioq
 末行	moq shinq
 末路之難	moq luh jy nan
+本事	been .shy
 本事	been shyh
+本事不濟	been .shy buq tzih
+本事高強	been .shy gau chyang
 本分	been fenn
 本分事	been fenn shyh
 本分錢	been fenn tsyan
@@ -17813,6 +18565,7 @@ sort: be_weight
 李重茂	lii chorng mow
 李長春	lii charng chuen
 李隆基	lii long ji
+杏仁豆腐	shinq ren dow .fu
 杏子	shinq .tzyy
 杏脯	shinq fuu
 材輕德薄	tsair ching deq boq
@@ -17851,6 +18604,7 @@ sort: be_weight
 杠梁	gang liang
 杠轂	gang guq
 杭子	harng .tzyy
+杭州蘿蔔紹興種	harng jou lo .boq shaw shing jonq
 杯和	bei hor
 杯圈	bei chiuan
 杯子	bei .tzyy
@@ -17873,6 +18627,7 @@ sort: be_weight
 東奔西竄	dong ben si tsuann
 東奔西跑	dong ben si pao
 東奔西跳	dong ben si tiaw
+東家	dong .jia
 東家	dong jia
 東家長西家短	dong jia charng si jia doan
 東家食西家宿	dong jia shyq si jia suq
@@ -17949,7 +18704,7 @@ sort: be_weight
 板築	baan juq
 板結	baan jieq
 板蕩識忠臣	baan danq shyq jong chern
-构肆	gou syh
+构肆	gow syh
 枉擔虛名	woang dan shiu ming
 枉橈	woang nau
 枉突徙薪	woang tuq sii sin
@@ -18202,6 +18957,7 @@ sort: be_weight
 核反應堆	heq faan yinq duei
 核和	heq hor
 核地雷	heq dih luei
+核威懾力量	heq uei shèq liq .liang
 核子	heq .tzyy
 核子	heq tzyy
 核子分裂	heq tzyy fen lieq
@@ -18247,7 +19003,10 @@ sort: be_weight
 格扇	geq shann
 格林威治時間	geq lin uei jyh shyr jian
 格林威治標準時間	geq lin uei jyh biau joen shyr jian
+格格	geq .geq
+格正	geq .jeng
 格羅寧根	geq lo gning gen
+格老子的	geq lao .tzyy .de
 格調	geq diaw
 栽子	tzai .tzyy
 栽種	tzai jonq
@@ -18340,6 +19099,7 @@ sort: be_weight
 梭子蟹	suo .tzyy sheai
 梭子魚	suo .tzyy yu
 梯子	ti .tzyy
+梯己	ti .jii
 梯度	ti duh
 梯度回波	ti duh hwei bo
 梯桄	ti guanq
@@ -18538,6 +19298,7 @@ sort: be_weight
 槍擊	tsiang jiq
 槍桿子	tsiang gan .tzyy
 槍榴彈	tsiang liou dann
+槓上了	ganq shanq .le
 槓上開花	ganq shanq kai hua
 槓刀	ganq dau
 槓刀布	ganq dau buh
@@ -18557,6 +19318,7 @@ sort: be_weight
 槭木	tsuq muq
 槭糖漿	tsuq tarng tziang
 槭葉止血草	tsuq yeq jyy shiueq tsao
+槽坊	tsaur .fang
 槽子	tsaur .tzyy
 槽頭買馬看母子	tsaur tour mae maa kann muu tzyy
 樀樀	diq diq
@@ -18646,6 +19408,7 @@ sort: be_weight
 樂陵	loq ling
 樂陵市	loq ling shyh
 樂陶陶	loq taur taur
+樂顛了餡	loq dian .le shiann
 樂高	loq gau
 樓子	lou .tzyy
 樓梯間	lou ti jian
@@ -18749,6 +19512,8 @@ sort: be_weight
 橘子汁	jiuq .tzyy jyq
 橙子	cherng .tzyy
 機事不密禍先行	ji shyh buq miq huoh sian shyng
+機伶	ji .ling
+機伶人	ji .ling ren
 機子	ji .tzyy
 機應	ji yinq
 機括	ji guaq
@@ -18765,6 +19530,7 @@ sort: be_weight
 橦布	torng buh
 橫七豎八	herng tsiq shuh baq
 橫三豎四	herng san shuh syh
+橫了心	herng .le sin
 橫事	henq shyh
 橫亙	herng genq
 橫亡	henq wang
@@ -18891,6 +19657,7 @@ sort: be_weight
 橫話	henq huah
 橫說豎說	herng shuoq shuh shuoq
 橫議	henq yih
+橫豎	herng .shu
 橫豎	herng shuh
 橫貫	herng guann
 橫貫公路	herng guann gong luh
@@ -18982,6 +19749,7 @@ sort: be_weight
 欺矇	chi mong
 欺誣	chi wu
 欺謾	chi man
+欺負	chi .fu
 欺負	chi fuh
 欽天監	chin tian jiann
 欽察汗國	chin chaq harn guoq
@@ -19082,7 +19850,9 @@ sort: be_weight
 正當防衛	jenq dang farng wey
 正當防衛行爲	jenq danq farng wey shyng wei
 正着	jenq joq
+正經	jenq .jing
 正經	jenq jing
+正經八百	jenq .jing baq beq
 正規教育	jenq guei jiaw yuq
 正視繩行	jenq shyh sherng shyng
 正身率下	jenq shen shuay shiah
@@ -19128,6 +19898,8 @@ sort: be_weight
 步飛煙傳	buh fei ian juann
 步騎	buh jih
 武場	wuu charng
+武大郎	wuu .dah lang
+武大郎喫毒藥	wuu .dah lang chyq duq yoq
 武威地區	wuu uei dih chiu
 武寧	wuu gning
 武寧縣	wuu gning shiann
@@ -19153,6 +19925,7 @@ sort: be_weight
 歪點子	uai dean .tzyy
 歲寒松柏	suey harn song beq
 歲差	suey cha
+歲數	suey .shu
 歲會	suey kuay
 歲月不待人	suey yueq buq day ren
 歲朝	suey jau
@@ -19185,6 +19958,7 @@ sort: be_weight
 歹徒橫行	dae twu herng shyng
 死不了	syy buq leau
 死不足惜	syy buq tzuq siq
+死乞白賴	syy .chi beq lay
 死亡率	syy wang liuq
 死亡給付	syy wang jiq fuh
 死傷相枕	syy shang siang jenn
@@ -19196,6 +19970,7 @@ sort: be_weight
 死套子	syy taw .tzyy
 死寂	syy tziq
 死對頭	syy duey .tour
+死工夫	syy gong .fu
 死心塌地	syy sin taq dih
 死心搭地	syy sin daq dih
 死性	syy .sinq
@@ -19290,6 +20065,7 @@ sort: be_weight
 毛兔子	mau tuh .tzyy
 毛刷	mau shuaq
 毛刻本	mau keq been
+毛司	mau .sy
 毛咕	mau .gu
 毛地黃	mau dih hwang
 毛坯	mau pei
@@ -19327,6 +20103,7 @@ sort: be_weight
 毛髮皆豎	mau faq jiai shuh
 毛髮聳然	mau faq soong ran
 毣毣	muq muq
+毫不在乎	haur .buq tzay .hu
 毫不在意	haur .buq tzay yih
 毫不客氣	haur buq keq .chih
 毫不思量	haur .buq sy liang
@@ -19378,6 +20155,7 @@ sort: be_weight
 民間合會	min jian hoq huey
 民間團體	min jian twan tii
 民間工藝	min jian gong yih
+民間故事	min jian guh .shy
 民間文學	min jian wen shioq
 民間歌舞	min jian go wuu
 民間習俗	min jian siq suq
@@ -19393,6 +20171,8 @@ sort: be_weight
 氣充文見	chih chong wen shiann
 氣冠三軍	chih guann san jiun
 氣冷式反應堆	chih leeng shyq faan yinq duei
+氣分	chih .fen
+氣動葫蘆	chih donq hwu .lu
 氣勢磅礴	chih shyh pang boq
 氣包子	chih bau .tzyy
 氣吁吁	chih shiu shiu
@@ -19431,6 +20211,7 @@ sort: be_weight
 氣褥子	chih ruq .tzyy
 氣誼相投	chih yih siang tour
 氣貫長虹	chih guann charng horng
+氣量	chih .liang
 氣量	chih lianq
 氣鑽	chih tzuan
 氣騰騰	chih terng terng
@@ -19484,6 +20265,7 @@ sort: be_weight
 水球場	shoei chyou chaang
 水皮子	shoei pyi .tzyy
 水相	shoei siang
+水磨工夫	shoei mo gong .fu
 水磨溝	shoei moh gou
 水磨溝區	shoei moh gou chiu
 水磨石	shoei mo shyq
@@ -19574,6 +20356,7 @@ sort: be_weight
 沉不住氣	chern buq juh chih
 沉寂	chern tziq
 沉屁股	chern pih .guu
+沉得住氣	chern .de juh chih
 沉悶	chern menn
 沉漸剛克	chern tziann gang keq
 沉痾	chern o
@@ -19597,10 +20380,12 @@ sort: be_weight
 沖模	chong mu
 沖淋浴	chong lin yuq
 沖空機	chong kong ji
+沙其馬	sha .chi maa
 沙利竇邁度	sha lih dow may duh
 沙利邁度	sha lih may duh
 沙卡洛夫	sha kaa loq fu
 沙參	sha shen
+沙和尚	sha hor .shang
 沙地	sha dih
 沙坑桿	sha keng gan
 沙子	sha .tzyy
@@ -19658,12 +20443,16 @@ sort: be_weight
 油紙捻子	you jyy gnieq .tzyy
 油腔滑調	you chiang huaq diaw
 油花伎倆	you hua jih leang
+油花和尚	you hua hor .shang
 油蓋	you gay
 油藏	you tsarng
+油裏滑	you .li huaq
 油裙	you .chyun
 油香	you .shiang
+治不得命	jyh buq .de minq
 治亂興亡	jyh luann shing wang
 治喪	jyh sang
+治得病	jyh .de binq
 治績	jyh tziq
 治行	jyh shyng
 治行	jyh shinq
@@ -19673,6 +20462,7 @@ sort: be_weight
 沼狸	jao .li
 沽名干譽	gu ming gan yuh
 沽酒當爐	gu tzeou dang lu
+沾便宜	jan pyan .yi
 沾洽	jan shiaq
 沾粘	jan gnian
 沾親	jan tsin
@@ -19700,6 +20490,7 @@ sort: be_weight
 沿海州	yan hae jou
 沿灘	yan tan
 沿灘區	yan tan chiu
+沿着	yan .joq
 沿線	yan siann
 沿習	yan siq
 沿街	yan jiai
@@ -19831,6 +20622,7 @@ sort: be_weight
 泥塘	ni tarng
 泥塞竹管	ni seq juq goan
 泥多佛大	ni do fuq dah
+泥娃娃	ni ua .ua
 泥子	nih .tzyy
 泥孩	ni hair
 泥封	ni fong
@@ -19933,6 +20725,7 @@ sort: be_weight
 洋地黃	yang dih hwang
 洋場	yang charng
 洋場惡少	yang chaang oq shaw
+洋娃娃	yang ua .ua
 洋底盆地	yang dii pern dih
 洋教	yang jiaw
 洋洋得意	yang yang deq yih
@@ -19998,6 +20791,8 @@ sort: be_weight
 洲際彈道導彈	jou tzih dann daw daw dann
 洲際飛彈	jou tzih fei dann
 洸洸	guang guang
+活不下去	huoq buq shiah .chiu
+活便	huoq .bian
 活便	huoq biann
 活儲	huoq chwu
 活動分子	huoq donq fenn tzyy
@@ -20020,11 +20815,13 @@ sort: be_weight
 活性菌	huoq sinq jiunn
 活支剌	huoq jy laq
 活教材	huoq jiaw tsair
+活泛	huoq .fann
 活泛	huoq fann
 活潑	huoq .poq
 活潑	huoq poq
 活版印刷	huoq baan yinn shuaq
 活物寄生菌	huoq wuq jih sheng jiunn
+活着	huoq .joq
 活着	huoq joq
 活結	huoq jieq
 活落圈	huoq loq chiuan
@@ -20083,6 +20880,7 @@ sort: be_weight
 流行病學	liou shyng binq shioq
 流行症	liou shyng jenq
 流行色	liou shyng seq
+流裏流氣	liou .li liou chih
 流觴曲水	liou shang chiuq shoei
 流量	liou lianq
 流量計	liou lianq jih
@@ -20227,6 +21025,8 @@ sort: be_weight
 消聲滅跡	siau sheng mieq tziq
 消除鋸齒	siau chwu jiuh chyy
 涎涎	yan yan
+涎臉	syan .lean
+涎臉涎皮	syan .lean syan pyi
 涕泗橫流	tih syh herng liou
 涕泗縱橫	tih syh tzong herng
 涕泗縱橫	tih syh tzonq herng
@@ -20470,8 +21270,10 @@ sort: be_weight
 混鬧	huenn naw
 淹宿	ian suq
 淹淹一息	ian ian yiq siq
+淹纏	ian .chan
 淹蓋	ian gay
 淹識	ian shyq
+淹踐	ian .tzian
 淺子	tsean .tzyy
 淺源地震	tsean yuan dih jenn
 淺薄	tsean boq
@@ -20482,6 +21284,7 @@ sort: be_weight
 淺鮮	tsean sean
 添綴	tian juey
 添補	tian .buu
+添麻煩	tian ma .farn
 清一色	tsing yiq seq
 清切	tsing tsieq
 清剿	tsing tzeau
@@ -20494,6 +21297,7 @@ sort: be_weight
 清掃	tsing sao
 清操	tsing tsau
 清教徒	tsing jiaw twu
+清楚	tsing .chu
 清淨無爲	tsing tzinq wu wei
 清澄	tsing cherng
 清澹	tsing dann
@@ -20593,6 +21397,7 @@ sort: be_weight
 渾身銅臭	hwen shen torng chow
 湊份子	tsow fen .tzyy
 湊分子	tsow fenn .tzyy
+湊合	tsow .hoq
 湊膽子	tsow daan .tzyy
 湔浣腸胃	tzian huann charng wey
 湔濯	tzian juoq
@@ -20625,14 +21430,22 @@ sort: be_weight
 溜冰鞋	liow bing shyai
 溜刷	lhiou shuaq
 溜子	liow .tzyy
+溜搭	lhiou .daq
 溜撒	lhiou saq
+溜溜	liow .liou
+溜溜秋秋	lhiou .liou tsiou tsiou
 溜溜轉	lhiou lhiou juann
 溜溝子	lhiou gou .tzyy
+溜眼睛	lhiou yean .tzing
+溜達	lhiou .daq
+溜達	liow .daq
+溜門子的	lhiou men .tzyy .de
 溝壑	gou hoq
 溝沿	gou yan
 溝渠	gou chyu
 溢惡	yiq oq
 溢血	yiq shiueq
+溫乎	uen .hu
 溫八叉	uen baq cha
 溫切斯特	uen tsieq sy teq
 溫卷	uen jiuann
@@ -20691,6 +21504,7 @@ sort: be_weight
 滎經縣	yng jing shiann
 滑不嘰溜	huaq .buq ji lhiou
 滑喇	huaq laq
+滑溜	huaq .liou
 滑溜	huaq lhiou
 滑熟	huaq shuq
 滑碌碌	huaq luq luq
@@ -20723,7 +21537,9 @@ sort: be_weight
 滴落	diq loq
 滴血	diq shiueq
 滴里嘟嚕	diq .lii du lhu
+滴里嘟嚕	diq lii du .lu
 滴里搭拉	diq .lii daq lha
+滾出去	goen chuq .chiu
 滾地球	goen dih chyou
 滾子	goen .tzyy
 滾子軸承	goen .tzyy juq cherng
@@ -20733,7 +21549,10 @@ sort: be_weight
 滾肚索	goen duh soq
 滾落	goen loq
 滾調	goen diaw
+滾起來	goen chii .lai
+滾車轍的	goen chè chèq .de
 滾開	goen .kai
+滿不在乎	maan buq tzay .hu
 滿世間	maan shyh jian
 滿以爲	maan yii wei
 滿分	maan fen
@@ -20769,7 +21588,9 @@ sort: be_weight
 漁獲量	yu huoq lianq
 漁翁得利	yu ong deq lih
 漁陽弄	yu yang lonq
+漂亮	piaw .liang
 漂亮	piaw lianq
+漂亮話	piaw .liang huah
 漂來戶	piau lai huh
 漂帳	piaw janq
 漂搖	piau yau
@@ -20802,6 +21623,7 @@ sort: be_weight
 漏刻之間	low keq jy jian
 漏子	low .tzyy
 漏斗狀花冠	low doou juanq hua guan
+漏春和尚	low chuen hor .shang
 漏水轉渾天儀	low shoei juann hwen tian yi
 漏盡更闌	low tzinn geng lan
 漏眼不藏絲	low yean buq tsarng sy
@@ -20809,6 +21631,7 @@ sort: be_weight
 漏脯充饑	low fuu chong ji
 漏落	low loq
 漏露	low luh
+漏風的巴掌	low fong .de ba .jaang
 演出地點	yean chuq dih dean
 演撒	yean saq
 演繁露	yean farn luh
@@ -20928,6 +21751,7 @@ sort: be_weight
 潮汐	chaur siq
 潮汐預報	chaur siq yuh baw
 潮間帶	chaur jian day
+澀剌剌的	seq laq laq .de
 澀脈	seq meq
 澄城	cherng cherng
 澄城縣	cherng cherng shiann
@@ -21059,9 +21883,11 @@ sort: be_weight
 灌腸	guann charng
 灑掃	saa sao
 灑狗血	saa goou shiueq
+灑脫	saa .tuoq
 灑落	saa loq
 灞陵呵夜	bah ling ho yeh
 灣仔	uan tzae
+灣轉	uan .juan
 火上弄冰	huoo shanq lonq bing
 火上弄冰凌	huoo shanq lonq bing ling
 火剌剌	huoo laq laq
@@ -21081,6 +21907,7 @@ sort: be_weight
 火浣布衫	huoo huann buh shan
 火煤子	huoo mei .tzyy
 火燎腿	huoo liaw toei
+火燒	huoo .shau
 火燒	huoo shau
 火燒火燎	huoo shau huoo liau
 火燒火燎	huoo shau huoo liaw
@@ -21098,6 +21925,7 @@ sort: be_weight
 火蠍子	huoo shieq .tzyy
 火鋪	huoo puh
 火鏈片	huoo liann piann
+火食	huoo .shyq
 火食	huoo shyq
 火齊	huoo tzih
 灰姑娘	huei gu .gniang
@@ -21125,10 +21953,12 @@ sort: be_weight
 炒菜	chao .tsay
 炒菜	chao tsay
 炒麪塊子	chao miann kuay .tzyy
+炕上地下	kanq .shang dih .shia
 炕爐子	kanq lu .tzyy
 炕頭子貨	kanq tour .tzyy huoh
 炭墼	tann jiq
 炭簍子	tann loou .tzyy
+炮仗	paw .jang
 炮兵學校	paw bing shioq shiaw
 炮彈	paw dann
 炮擊	paw jiq
@@ -21163,6 +21993,8 @@ sort: be_weight
 烏什塔拉回族鄉	u shern taq lha hwei tzuq shiang
 烏什塔拉鄉	u shern taq lha shiang
 烏來	u lai
+烏塗	u .twu
+烏塗水	u .twu shoei
 烏天黑地	u tian heq dih
 烏干達	u gan daq
 烏干達共和國	u gan daq gonq hor guoq
@@ -21231,6 +22063,7 @@ sort: be_weight
 無服之喪	wu fuq jy sang
 無條件投降	wu tyau jiann tour shyang
 無殼蝸牛	wu koq gua gniou
+無毒不丈夫	wu duq buq janq .fu
 無毒不丈夫	wu duq buq janq fu
 無添和	wu tian hor
 無爲	wu wei
@@ -21296,6 +22129,7 @@ sort: be_weight
 煎餅	tzian .biing
 煎餅	tzian biing
 煖和	noan hor
+煙傢伙	ian jia .huo
 煙圈	ian chiuan
 煙子	ian .tzyy
 煙屁股	ian pih .guu
@@ -21339,6 +22173,7 @@ sort: be_weight
 照帖	jaw tieq
 照度	jaw duh
 照得	jaw deq
+照應	jaw .ing
 照應	jaw yinq
 照明射擊	jaw ming shèh jiq
 照明彈	jaw ming dann
@@ -21357,6 +22192,7 @@ sort: be_weight
 照相紙	jaw sianq jyy
 照相製版	jaw sianq jyh baan
 照看	jaw kann
+照葫蘆畫瓢	jaw hwu .lu huah pyau
 照鏡子	jaw jinq .tzyy
 照顧	jaw .guh
 照顧	jaw guh
@@ -21367,6 +22203,7 @@ sort: be_weight
 煩難	farn nan
 煬竈	yanq tzaw
 煮熟	juu shuq
+煮熟的鴨子飛了	juu shuq .de yaq .tzyy fei .le
 熄滅	siq mieq
 熄火	siq huoo
 熄燈	siq deng
@@ -21388,6 +22225,7 @@ sort: be_weight
 熟分	shuq fenn
 熟切店	shuq tsieq diann
 熟化	shuq huah
+熟商量	shuq shang .liang
 熟嘴	shuq tzoei
 熟土	shuq tuu
 熟地	shuq dih
@@ -21433,6 +22271,7 @@ sort: be_weight
 熟視	shuq shyh
 熟視無睹	shuq shyh wu duu
 熟話	shuq huah
+熟識	shuq .shyq
 熟識	shuq shyq
 熟讀	shuq duq
 熟讀王叔和	shuq duq wang shuq hor
@@ -21467,6 +22306,7 @@ sort: be_weight
 熬煉	ngau liann
 熬煎	ngau tzian
 熬煮	ngau juu
+熬磨	ngau .mo
 熬稃	ngau fu
 熬糖	ngau tarng
 熬膏	ngau gau
@@ -21482,6 +22322,7 @@ sort: be_weight
 熱剌剌	rèq laq laq
 熱力學溫度	rèq liq shioq uen duh
 熱力性紊流	rèq liq sinq wenn liou
+熱和	rèq .ho
 熱喪	rèq sang
 熱地	rèq dih
 熱地上蚰蜒	rèq dih shanq you yan
@@ -21491,6 +22332,7 @@ sort: be_weight
 熱帶地區	rèq day dih chiu
 熱帶氣旋	rèq day chih siuann
 熱度	rèq duh
+熱得快	rèq .de kuay
 熱核反應	rèq heq faan yinq
 熱核反應堆	rèq heq faan yinq duei
 熱核聚變反應	rèq heq tziuh biann faan yinq
@@ -21510,6 +22352,7 @@ sort: be_weight
 燃料處理廠	ran liaw chuh lii chaang
 燃燒彈	ran shau dann
 燃犀溫嶠	ran si uen chyau
+燈籠	deng .long
 燈芯	deng sin
 燉煌	duenn hwang
 燎原	liau yuan
@@ -21527,6 +22370,7 @@ sort: be_weight
 燒埋	shau mai
 燒埋錢	shau mai tsyan
 燒夷彈	shau yi dann
+燒糊了洗臉水	shau hwu .le sii lean shoei
 燒結	shau jieq
 燒賣	shau .may
 燒餅	shau .biing
@@ -21615,6 +22459,7 @@ sort: be_weight
 燕頷虎頭	yann hann huu tour
 燕頷虎頸	yann hann huu jiing
 燕頷虎鬚	yann hann huu siu
+燕鴴	yann herng
 燕麥	yann meq
 燕麥片	yann meq piann
 燕麥粥	yann meq juq
@@ -21627,6 +22472,7 @@ sort: be_weight
 營業時候	yng yeq shyr .how
 營業時間	yng yeq shyr jian
 營混子	yng huenn .tzyy
+營生	yng .sheng
 營生	yng sheng
 營謀遂順	yng mou suey shuenn
 燥子	saw .tzyy
@@ -21635,7 +22481,9 @@ sort: be_weight
 爆彈	baw dann
 爇櫬	rèq chenn
 爐子	lu .tzyy
+爐房	lu .farng
 爐石水泥	lu shyq shoei ni
+爛了舌頭	lann .le shèq .tour
 爛攤子	lann tan .tzyy
 爛泥	lann ni
 爛熟	lann shuq
@@ -21664,8 +22512,12 @@ sort: be_weight
 爪袖	jao siow
 爪角	jao jioq
 爪蹄類	jao tyi luey
+爬下	par .shia
 爬山調	par shan diaw
+爬得高	par .de gau
+爬拉	par .la
 爬格子	par geq .tzyy
+爬犁	par .li
 爬行	par shyng
 爬行動物	par shyng donq wuq
 爬行類	par shyng luey
@@ -21687,11 +22539,13 @@ sort: be_weight
 爭長論短	jeng charng luenn doan
 爭面子	jeng miann .tzyy
 爲主	wei juu
+爲了	wey .le
 爲人	wei ren
 爲人師表	wei ren shy beau
 爲人民服務	wey ren min fuq wuh
 爲人爲徹	wey ren wey chèq
 爲人行事	wei ren shyng shyh
+爲什麼	wey shern .mo
 爲仁不富	wei ren buq fuh
 爲今之計	wei jin jy jih
 爲伍	wei wuu
@@ -21731,7 +22585,11 @@ sort: be_weight
 爲法自弊	wei faq tzyh bih
 爲淵敺魚	wey iuan chiu yu
 爲準	wei joen
+爲甚麼	wey sher .mo
 爲生	wei sheng
+爲的喫穿	wey .de chyq chuan
+爲的是	wey .de shyh
+爲着	wey .joq
 爲臣死忠	wei chern syy jong
 爲荷	wei hoh
 爲虎傅翼	wey huu fuh yiq
@@ -21756,6 +22614,7 @@ sort: be_weight
 父親節	fuh tsin tzieq
 爸爸	bah .bah
 爹地	die dih
+爹爹	die .die
 爺爺	ye .ye
 爽心豁目	shoang sin huoq muq
 爽快	shoang .kuay
@@ -21814,6 +22673,7 @@ sort: be_weight
 版築	baan juq
 版築飯牛	baan juq fann gniou
 牌告利率	pair gaw lih liuq
+牌坊	pair .fang
 牌子	pair .tzyy
 牌子曲	pair .tzyy chiuq
 牌搭子	pair daq .tzyy
@@ -21876,6 +22736,7 @@ sort: be_weight
 物質不滅定律	wuq jyq buq mieq dinq liuq
 物質不滅律	wuq jyq buq mieq liuq
 物質力量	wuq jyq liq lianq
+牲口	sheng .koou
 牲口	sheng koou
 牲畜	sheng chuq
 牲畜糞	sheng chuq fenn
@@ -21927,6 +22788,8 @@ sort: be_weight
 犯不着	fann .buq joq
 犯不着	fann buq joq
 犯勁	fann jinq
+犯得上	fann .de shanq
+犯得着	fann .de joq
 犯忌諱	fann jih .huey
 犯惡	fann oq
 犯拙	fann juoq
@@ -21975,6 +22838,7 @@ sort: be_weight
 狗拿耗子	goou na haw .tzyy
 狗探湯	goou tan tang
 狗改不了喫屎	goou gae buq leau chyq shyy
+狗日的糧食	goou ryq .de liang .shyq
 狗氣	goou .chih
 狗氣殺	goou chih shaq
 狗爪子	goou joa .tzyy
@@ -22020,6 +22884,7 @@ sort: be_weight
 猛不防	meeng .buq farng
 猛個勁	meeng goh jinq
 猛勁	meeng jinq
+猛地	meeng .de
 猛子	meeng .tzyy
 猛將	meeng tzianq
 猛殺	meeng shaq
@@ -22033,6 +22898,7 @@ sort: be_weight
 猜不透	tsai .buq tow
 猜中	tsai jonq
 猜度	tsai duh
+猜得透	tsai .de tow
 猜調	tsai diaw
 猝嗟	tsuq tzie
 猝地	tsuq dih
@@ -22043,6 +22909,7 @@ sort: be_weight
 猥褻性暴露	woei sieq sinq baw luh
 猩猩	sing .sing
 猴子	hour .tzyy
+猴子似的	hour .tzyy syh .de
 猴子屁股	hour .tzyy pih guu
 猴子扮戲	hour .tzyy bann shih
 猴子稱大王	hour .tzyy cheng dah wang
@@ -22054,7 +22921,7 @@ sort: be_weight
 猶太教堂	you tay jiaw tarng
 猶未爲晚	you vey wei woan
 猶魚得水	you yu deq shoei
-猼且	poq tziu
+猼且	peq tziu
 猼訑	boq yi
 猾猾突突	huaq huaq tuq tuq
 猾賊	huaq tzeq
@@ -22197,6 +23064,7 @@ sort: be_weight
 王冠	wang guan
 王叔和	wang shuq hor
 王天下	wanq tian shiah
+王婆子賣了磨	wang por .tzyy may .le moh
 王度	wang duh
 王得祿墓	wang deq luq muh
 王應麟	wang yinq lin
@@ -22210,10 +23078,13 @@ sort: be_weight
 王貢彈冠	wang gonq tarn guan
 王賁	wang ben
 王跡	wang tziq
+王道	wang .dau
 王道	wang daw
+玍古	ga .gu
 玍雜子	ga tzaq .tzyy
 玢岩	bin yan
 玢璘	bin lin
+玩不得的	wann .buq deq .de
 玩不轉	wann .buq juann
 玩世	wann shyh
 玩世不恭	wann shyh buq gong
@@ -22223,6 +23094,7 @@ sort: be_weight
 玩好	wann haw
 玩弄	wann lonq
 玩弄詞藻	wann lonq tsyr tzao
+玩得轉	wann .de juann
 玩忽	wann huq
 玩愒	wann kay
 玩日愒歲	wann ryq kay suey
@@ -22234,7 +23106,12 @@ sort: be_weight
 玩習	wann siq
 玩興	wann shinq
 玩花頭	wann hua .tour
+玩貓和老鼠的遊戲	wann mhau hor lao shuu .de you shih
+玩貓和老鼠的遊戲	wann mhau hoh lao shuu .de you shih
 玩賞	wann shaang
+玫瑰	mei .guei
+玫瑰紅	mei .guei horng
+玫瑰花	mei .guei hua
 玳瑁	day mey
 玳瑁梁	day mey liang
 玳瑁殼	day maw koq
@@ -22295,6 +23172,7 @@ sort: be_weight
 班鳩跌彈	ban jiou dieq dann
 現代建築	shiann day jiann juq
 現在分詞	shiann tzay fen tsyr
+現在是過去鑰匙	shiann tzay shyh guoh .chiu yoq .shyr
 現場報道	shiann chaang baw daw
 現場會	shiann chaang huey
 現場會議	shiann chaang huey yih
@@ -22326,6 +23204,8 @@ sort: be_weight
 理固當然	lii guh dang ran
 理塞	lii seq
 理得辭順	lii deq tsyr shuenn
+理性知識	lii sinq jy .shyq
+理性認識	lii sinq renn .shyq
 理性認識	lii sinq renn shyq
 理應	lii ing
 理所當然	lii suoo dang ran
@@ -22394,7 +23274,6 @@ sort: be_weight
 瓊漿金液	chyong tziang jin yiq
 瓊結	chyong jieq
 瓊結縣	chyong jieq shiann
-瓓玕	lan gan
 瓜分	gua fen
 瓜分豆剖	gua fen dow poou
 瓜剖豆分	gua poou dow fen
@@ -22451,7 +23330,18 @@ sort: be_weight
 甘露醇	gan luh chwen
 甚事	sher shyh
 甚人	sher ren
+甚底	sher .de
 甚爲	shenn wei
+甚的	sher .de
+甚麼	sher .mo
+甚麼事	sher .mo shyh
+甚麼人	sher .mo ren
+甚麼打緊	sher .mo daa jiin
+甚麼是	sher .mo shyh
+甚麼時候	sher .mo shyr .how
+甚麼東西	sher .mo dong .si
+甚麼樣	sher .mo yanq
+甚麼的	sher .mo .de
 甜圈	tyan chiuan
 甜根子草	tyan gen .tzyy tsao
 甜甜圈	tyan tyan chiuan
@@ -22519,6 +23409,7 @@ sort: be_weight
 生還	sheng hwan
 生還者	sheng hwan jèè
 生靈塗地	sheng ling twu dih
+生養	sheng .iang
 生髮劑	sheng faq tzih
 生魚片	sheng yu piann
 產仔	chaan tzyy
@@ -22531,6 +23422,7 @@ sort: be_weight
 產地證	chaan dih jenq
 產量	chaan lianq
 產量多	chaan lianq do
+甩包袱	shoai bau .fu
 甩臉子	shoai lean .tzyy
 甩袖子	shoai siow .tzyy
 甩髮	shoai faq
@@ -22547,6 +23439,7 @@ sort: be_weight
 田長霖	tyan charng lin
 田間	tyan jian
 田間管理	tyan jian goan lii
+由不得	you .buq .de
 由頭	you .tour
 由頭	you tour
 甲殼蟲類	jiaq koq chorng luey
@@ -22575,11 +23468,13 @@ sort: be_weight
 畏影惡跡	wey yiing wuh tziq
 畏怯	wey chieq
 畏難	wey nan
+留下	liou .shia
 留傳	liou chwan
 留宿	liou suq
 留尾巴	liou veei .ba
 留帖	liou tieq
 留待	liou day
+留得青山在	liou .de tsing shan tzay
 留得青山在	liou deq tsing shan tzay
 留扣子	liou kow .tzyy
 留空	liou kong
@@ -22596,6 +23491,7 @@ sort: be_weight
 畜牧業	shiuq muq yeq
 畜牲	chuq .sheng
 畜牲	chuq sheng
+畜生	chuq .sheng
 畜產	chuq chaan
 畜產品	shiuq chaan piin
 畜疫	chuq yiq
@@ -22639,6 +23535,7 @@ sort: be_weight
 畫地自限	huah dih tzyh shiann
 畫屏	huah pyng
 畫帖	huah tieq
+畫拉	huah .la
 畫框	huah kuang
 畫荻教子	huah diq jiaw tzyy
 畫虎畫皮難畫骨	huah huu huah pyi nan huah guq
@@ -22659,7 +23556,9 @@ sort: be_weight
 異軍突起	yih jiun tuq chii
 異重流	yih jonq liou
 當一天和尚撞一天鐘	dang yiq tian hor shanq juanq yiq tian jong
+當上	dang .shang
 當下	dang shiah
+當不得	dang buq .de
 當不起	dang buq chii
 當不過	dang buq guoh
 當世	dang shyh
@@ -22728,6 +23627,7 @@ sort: be_weight
 當家子	danq jia tzyy
 當家小生	dang jia seau sheng
 當家方知柴米貴	dang jia fang jy chair mii guey
+當家的	dang jia .de
 當家立事	dang jia liq shyh
 當家纔知柴米價	dang jia tsair jy chair mii jiah
 當家花旦	dang jia hua dann
@@ -22736,6 +23636,7 @@ sort: be_weight
 當局者迷	dang jiuq jèè mi
 當巡	dang syun
 當差	dang chai
+當差的	dang chai .de
 當年	dang gnian
 當廚	dang chwu
 當役	dang yiq
@@ -22754,6 +23655,7 @@ sort: be_weight
 當是	dang shyh
 當時	dang shyr
 當時得令	dang shyr deq linq
+當時的	dang shyr .de
 當曲河	dang chiuq hor
 當朝	dang jau
 當朝	dang chaur
@@ -22782,6 +23684,7 @@ sort: be_weight
 當盧	dang lu
 當直	dang jyq
 當直巡邏	dang jyq syun lo
+當直的	dang jyq .de
 當眼	dang yean
 當眼處	dang yean chuh
 當着不着	dang joq buq joq
@@ -22864,6 +23767,7 @@ sort: be_weight
 疑難	yi nan
 疑難問題	yi nan wenn tyi
 疑難雜症	yi nan tzaq jenq
+疙搭	geq .daq
 疙瘩	geq .baq
 疙瘩事	geq .baq shyh
 疙瘩湯	geq .baq tang
@@ -22871,6 +23775,7 @@ sort: be_weight
 疙顫顫	geq jann jann
 疣子	you .tzyy
 疤痆	ba gniaq
+疤瘌流星的	ba .laq liou sing .de
 疤瘌眼	ba .laq yean
 疤瘌餅	ba .laq biing
 疥癬	jiay sean
@@ -22962,6 +23867,7 @@ sort: be_weight
 瘦小枯乾	show seau ku gan
 瘦括括	show guaq guaq
 瘦棱棱	show leng leng
+瘦溜	show .liou
 瘦長	show charng
 瘧原蟲	gnioq yuan chorng
 瘧媒蚊	gnioq mei wen
@@ -22969,6 +23875,7 @@ sort: be_weight
 瘧疾病	gnioq tziq binq
 瘧蚊	gnioq wen
 瘯蠡	tsuq li
+瘸和尚說法	chyue hor .shang shuoq faq
 瘸子	chyue .tzyy
 癆病腔子	lau binq chiang .tzyy
 癉惡彰善	dann oq jang shann
@@ -23057,7 +23964,7 @@ sort: be_weight
 發電量	faq diann lianq
 發露	faq luh
 發顫	faq jann
-白不呲咧	beq buq tsy lieq
+白不呲咧	beq buq tsyy lieq
 白乾	beq gan
 白了了	beq leau leau
 白俄羅斯共和國	beq ngo lo sy gonq hor guoq
@@ -23079,6 +23986,7 @@ sort: be_weight
 白將軍	beq tziang jiun
 白帖	beq tieq
 白干	beq gan
+白得發亮	beq .de faq lianq
 白想想	beq seang .seang
 白手興家	beq shoou shing jia
 白教	beq jiau
@@ -23090,7 +23998,7 @@ sort: be_weight
 白曉燕	beq sheau yann
 白朗寧	beq laang gning
 白朮	beq shuq
-白桵	beq ruei
+白桵	beq roei
 白樂天	beq loq tian
 白毫之賜	beq haur jy syh
 白水泥	beq shoei ni
@@ -23157,6 +24065,7 @@ sort: be_weight
 白黑不分	beq heq buq fen
 白黑分明	beq heq fen ming
 白鼻子	beq bih .tzyy
+百不咋	beq buq .tzeq
 百不當一	beq buq dang yiq
 百不雜	beq buq .tzaq
 百世不磨	beq shyh buq mo
@@ -23186,6 +24095,7 @@ sort: be_weight
 百度	beq duh
 百度十大神獸	beq duh shyq dah shern show
 百度百科	beq duh beq ko
+百度知道	beq duh jy .dau
 百度貼吧	beq duh tieq .ba
 百廢俱興	beq fey jiu shing
 百廢待興	beq fey day shing
@@ -23254,8 +24164,10 @@ sort: be_weight
 的耗	diq haw
 的見	diq jiann
 的黎波里	diq li bo lii
+皇上	hwang .shang
 皇儲	hwang chwu
 皇冠	hwang guan
+皇冠上的明珠	hwang guan shanq .de ming ju
 皇冠假日酒店	hwang guan jiah ryq tzeou diann
 皇冠出版	hwang guan chuq baan
 皇冠出版集團	hwang guan chuq baan tziq twan
@@ -23299,6 +24211,8 @@ sort: be_weight
 盈掬	yng jiuq
 盈眶	yng kuang
 益者三樂	yiq jèè san yaw
+益處	yiq .chu
+益覺困難	yiq jioq kuenn .nan
 益陽地區	yiq yang dih chiu
 盒子	hoq .tzyy
 盒子會	hoq .tzyy huey
@@ -23350,6 +24264,7 @@ sort: be_weight
 盛況空前	shenq kuanq kong tsyan
 盛王	shenq wang
 盛產	shenq chaan
+盛着	cherng .joq
 盛稱	shenq cheng
 盛筵	shenq yan
 盛筵必散	shenq yan biq sann
@@ -23460,7 +24375,9 @@ sort: be_weight
 盤槓子	parn ganq .tzyy
 盤渦	parn uo
 盤究	parn jiow
+盤算	parn .suan
 盤結	parn jieq
+盤纏	parn .chan
 盤薄	parn boq
 盤踅	parn siueq
 盤辮子	parn biann .tzyy
@@ -23515,7 +24432,9 @@ sort: be_weight
 直教	jyq jiaw
 直敪	jyq duoq
 直木必伐	jyq muq biq faq
+直溜	jyq .liou
 直率	jyq shuay
+直着身子	jyq .joq shen .tzyy
 直筒子	jyq tonq .tzyy
 直節勁氣	jyq tzieq jinq chih
 直系血親	jyq shih shiueq tsinn
@@ -23564,6 +24483,7 @@ sort: be_weight
 相冊	sianq tseq
 相切	siang tsieq
 相剋	siang keq
+相加性的	siang jia sinq .de
 相助	siang juh
 相勸	siang chiuann
 相匣子	sianq shiaq .tzyy
@@ -23709,6 +24629,7 @@ sort: be_weight
 相當	siang dang
 相當於	siang dang yu
 相當於或大於	siang dang yu huoq dah yu
+相看	siang .kan
 相看	siang kan
 相看	siang kann
 相着	siang joq
@@ -23802,6 +24723,8 @@ sort: be_weight
 省勁	sheeng jinq
 省墓	siing muh
 省察	siing chaq
+省得	sheeng .de
+省得	siing .de
 省思	siing sy
 省悟	siing wuh
 省戒	siing jiay
@@ -23838,7 +24761,10 @@ sort: be_weight
 眉間赤	mei jian chyq
 眉間輪	mei jian luen
 看一看	kann yiq kann
+看上	kann .shang
 看上	kann shanq
+看上了	kann shanq .le
+看上去	kann .shang .chiu
 看不上	kann .buq shanq
 看不下去	kann .buq shiah chiuh
 看不中	kann .buq jong
@@ -23856,15 +24782,18 @@ sort: be_weight
 看不過去	kann .buq guoh chiuh
 看不順眼	kann buq shuenn yean
 看中	kann jonq
+看中了	kann jonq .le
 看人眉睫	kann ren mei tzieq
 看人行事	kann ren shyng shyh
 看似	kann syh
+看來	kann .lai
 看來	kann lai
 看俏	kann tsiaw
 看個究竟	kann .ge jiow jinq
 看倌	kann guan
 看冷暖	kann leeng noan
 看出	kann chuq
+看出了神	kann chuq .le shern
 看取	kann tseu
 看呆	kann dai
 看圖說話	kann twu shuoq huah
@@ -23878,7 +24807,12 @@ sort: be_weight
 看小	kann seau
 看席	kann siq
 看待	kann day
+看得上眼	kann .de shanq yean
+看得中	kann .de jonq
 看得見	kann deq jiann
+看得起	kann .de chii
+看得過	kann .de guoh
+看得開	kann .de kai
 看情形	kann tsyng shyng
 看情況	kann tsyng kuanq
 看慣	kann guann
@@ -23911,17 +24845,22 @@ sort: be_weight
 看白戲	kann beq shih
 看相	kann sianq
 看看	kan kan
+看看	kann .kan
+看着不管	kann .joq buq goan
+看着辦	kann .joq bann
 看破	kann poh
 看破紅塵	kan poh horng chern
 看穿	kann chuan
 看笑話	kann siaw huah
 看管	kan goan
+看終了	kann jong .le
 看脈	kann meq
 看臉子	kann lean .tzyy
 看臺	kann tair
 看花眼	kan hua yean
 看茶	kann char
 看菜喫飯	kan tsay chyq fann
+看見	kann .jiann
 看見	kann jiann
 看覷	kann tsiuh
 看話禪	kann huah sharn
@@ -23943,6 +24882,7 @@ sort: be_weight
 看風向	kann fong shianq
 看風行事	kann fong shyng shyh
 看風頭	kann fong .tour
+看香頭的	kann shiang tour .de
 看鳥人	kann gneau ren
 看麥娘	kan meq gniang
 看齊	kann tsyi
@@ -23950,7 +24890,9 @@ sort: be_weight
 真傳	jen chwan
 真僞	jen wey
 真切	jen tsieq
+真心實意地	jen sin shyq yih .de
 真情流露	jen tsyng liou luh
+真是的	jen .shyh .de
 真率	jen shuay
 真番郡	jen pan jiunn
 真相	jen sianq
@@ -23965,12 +24907,15 @@ sort: be_weight
 眠琴綠陰	mian chyn luq in
 眠花宿柳	mian hua suq leou
 眨巴	jaq .ba
+眯縫	mii .fong
 眵目糊	chy .muq hwu
 眸子	mou .tzyy
 眼不見爲淨	yean buq jiann wei tzinq
 眼不轉睛	yean buq juann tzing
 眼乾症	yean gan jenq
 眼圈	yean chiuan
+眼圈紅了	yean chiuan horng .le
+眼底下	yean dii .shia
 眼張失落	yean jang shyq loq
 眼扎毛	yean jaq mau
 眼拙	yean juoq
@@ -23980,11 +24925,15 @@ sort: be_weight
 眼熟	yean shuq
 眼珠子	yean ju .tzyy
 眼皮子	yean pyi .tzyy
+眼皮子底下	yean pyi .tzyy dii .shia
 眼皮子淺	yean pyi .tzyy tsean
 眼皮子高	yean pyi .tzyy gau
 眼看	yean kann
+眼看着	yean kann .joq
 眼眶	yean kuang
+眼睛	yean .tzing
 眼睛	yean tzing
+眼神	yean .shern
 眼神	yean shern
 眼禿刷	yean tuq shuaq
 眼空四海	yean kong syh hae
@@ -23992,6 +24941,7 @@ sort: be_weight
 眼色	yean .seq
 眼花撩亂	yean hua liau luann
 眼花瞭亂	yean hua liau luann
+眼見得	yean jiann .de
 眼見爲實	yean jiann wei shyq
 眼觀四處	yean guan syh chuh
 眼角膜	yean jioq moq
@@ -24001,6 +24951,8 @@ sort: be_weight
 着先鞭	joq sian bian
 着力	joq liq
 着即	joq tziq
+着呢	.joq .gni
+着地	joq .de
 着地	joq dih
 着地還錢	joq dih hwan tsyan
 着墨	joq meq
@@ -24093,7 +25045,7 @@ sort: be_weight
 瞅不見	choou .buq jiann
 瞅不起	choou .buq chii
 瞇縫	mi fonq
-瞈矇	ong mong
+瞈矇	onq mong
 瞋目切齒	chen muq tsieq chyy
 瞎子	shiaq .tzyy
 瞎子喫湯圓	shiaq .tzyy chyq tang yuan
@@ -24112,7 +25064,11 @@ sort: be_weight
 瞞親	man tsin
 瞠目結舌	cheng muq jieq shèq
 瞥地	pieq dih
+瞧上	tsyau .shang
+瞧不得	tsyau buq .de
+瞧得起	tsyau .de chii
 瞧熱鬧	tsyau rèq .naw
+瞧瞧	tsyau .tsyau
 瞬得彩色電影	shuenn deq tsae seq diann yiing
 瞬息	shuenn siq
 瞬息之間	shuenn siq jy jian
@@ -24188,17 +25144,27 @@ sort: be_weight
 知者樂水	jy jèè yaw shoei
 知行合一	jy shyng hoq yiq
 知觀	jy guann
+知識	jy .shyq
 知識	jy shyq
+知識份子	jy .shyq fen tzyy
 知識份子	jy shyq fen tzyy
 知識分子	jy shyq fenn tzyy
+知識寶庫	jy .shyq bao kuh
+知識就是力量	jy .shyq tziow shyh liq .liang
 知識工程	jy shyq gong cherng
+知識工程師	jy .shyq gong cherng shy
+知識庫	jy .shyq kuh
+知識產權	jy .shyq chaan chyuan
 知識產權	jy shyq chaan chyuan
+知識界	jy .shyq jiay
 知識經濟	jy shyq jing tzih
 知識論	jy shyq luenn
+知識越多越反動	jy .shyq yueq do yueq faan donq
 知識階級	jy shyq jiai jiq
 知足不辱	jy tzuq buq ruq
 知足常樂	jy tzuq charng loq
 知輕識重	jy ching shyq jonq
+知道	jy .dau
 知道	jy daw
 知高識低	jy gau shyq di
 知魚之樂	jy yu jy loq
@@ -24211,10 +25177,12 @@ sort: be_weight
 短傳	doan chwan
 短兵相接	doan bing siang tzie
 短嘆長吁	doan tann charng shiu
+短打扮	doan daa .bann
 短折	doan jèq
 短時間	doan shyr jian
 短波長	doan bo charng
 短片	doan piann
+短處	doan .chu
 短處	doan chuh
 短處捏	doan chuh gnieq
 短行	doan shinq
@@ -24339,6 +25307,7 @@ sort: be_weight
 砌末	tsih moq
 砍伐	kaan faq
 砍瓜切菜	kaan gua tsieq tsay
+砍着	kaan .joq
 砍着	kaan joq
 砍鐵如泥	kaan tieq ru ni
 研京練都	yan jing liann du
@@ -24400,12 +25369,15 @@ sort: be_weight
 破體字	poh tii tzyh
 破麥破梨	poh meq poh li
 砷中毒	shen jonq duq
+砸兌	tzaq .duey
 硃卷	ju jiuann
 硅晶片	guei tzing piann
 硅片	guei piann
 硫胺素	liou oq suh
 硬度	yinq duh
 硬弩強弓	yinq nuu chyang gong
+硬打軟熟和	yinq daa roan shuq .ho
+硬掙	yinq .jenq
 硬是要得	yinq shyh yaw deq
 硬朗	yinq .laang
 硬棒	yinq .banq
@@ -24448,6 +25420,7 @@ sort: be_weight
 碰碰和	penq penq hor
 碰運氣	penq yunn .chih
 碰釘子	penq ding .tzyy
+確乎	chioq .hu
 確切	chioq tsieq
 確定效應	chioq dinq shiaw yinq
 確當	chioq danq
@@ -24478,8 +25451,10 @@ sort: be_weight
 磚窯場	juan yau chaang
 磚頭	juan .tour
 磚頭	juan tour
+磣的慌	cheen .de .huang
 磨不開	moh buq kai
 磨不開臉	mo buq kai lean
+磨了半截舌頭	mo .le bann tzieq shèq .tour
 磨人	mo ren
 磨光	mo guang
 磨兌	mo duey
@@ -24488,10 +25463,12 @@ sort: be_weight
 磨刀霍霍	mo dau huoq huoq
 磨刻	mo keq
 磨削	mo sioq
+磨功夫	mo gong .fu
 磨勒	mo leq
 磨勘	mo kan
 磨博士	mo boq shyh
 磨厲以須	mo lih yii siu
+磨叨	moh .dau
 磨合	mo hoq
 磨合羅	mo hoq lo
 磨咕	mo .gu
@@ -24508,6 +25485,7 @@ sort: be_weight
 磨對	mo .duey
 磨工病	moh gong binq
 磨平	mo pyng
+磨得開	mo .de kai
 磨快	mo kuay
 磨成	mo cherng
 磨房	moh farng
@@ -24531,6 +25509,7 @@ sort: be_weight
 磨滅	mo mieq
 磨漆畫	mo tsiq huah
 磨煉	mo liann
+磨煩	mo .farn
 磨煩	moh farn
 磨牀	mo chwang
 磨牙	mo ya
@@ -24549,6 +25528,7 @@ sort: be_weight
 磨碎	moh suey
 磨磚	mo juan
 磨磚成鏡	mo juan cherng jinq
+磨磚砌的喉嚨	mo juan tsih .de hour long
 磨磨	mo mo
 磨磨蹭蹭	mo mo tsenq tsenq
 磨礪	mo lih
@@ -24566,6 +25546,7 @@ sort: be_weight
 磨蝕	mo shyq
 磨製石器	mo jyh shyq chih
 磨變岩	mo biann yan
+磨豆腐	moh dow .fu
 磨賴	mo lay
 磨起泡	mo chii paw
 磨跎	mo tor
@@ -24630,11 +25611,13 @@ sort: be_weight
 神成爲人	shern cherng wei ren
 神曲	shern chiuq
 神清氣和	shern tsing chih hor
+神父	shern .fu
 神父	shern fuh
 神甫	shern .fuu
 神甫	shern fuu
 神色自得	shern seq tzyh deq
 神號鬼哭	shern haur goei kuq
+神話故事	shern huah guh .shy
 神識	shern shyq
 神農架地區	shern nong jiah dih chiu
 神道設教	shern daw shèq jiaw
@@ -24651,11 +25634,16 @@ sort: be_weight
 祿養	luq yanq
 禁不住	jin .buq juh
 禁不住	jin buq juh
+禁不得	jin buq .de
 禁不起	jin buq chii
 禁制令	jinn jyh linq
 禁受	jin show
+禁受時間的考驗	jin show shyr jian .de kao yann
 禁地	jinn dih
 禁子	jinn .tzyy
+禁得	jin .de
+禁得住	jin .de juh
+禁得起	jin .de chii
 禁持	jin chyr
 禁持	jinn chyr
 禁掖	jinn yiq
@@ -24665,6 +25653,7 @@ sort: be_weight
 禊帖	shih tieq
 禍不單行	huoh buq dan shyng
 禍亂交興	huoh luann jiau shing
+禍害	huoh .hai
 禍害	huoh hay
 禍弄	huoh lonq
 禍必重來	huoh biq chorng lai
@@ -24677,6 +25666,7 @@ sort: be_weight
 禍結兵連	huoh jieq bing lian
 禍結釁深	huoh jieq shinn shen
 福不重至	fuq buq chorng jyh
+福分	fuq .fen
 福和	fuq hor
 福和國中	fuq hor guoq jong
 福地	fuq dih
@@ -24704,6 +25694,7 @@ sort: be_weight
 禮教	lii jiaw
 禮教喫人	lii jiaw chyq ren
 禮無不答	lii wu buq daq
+禮行貨	lii .shing huoh
 禮讓爲國	lii ranq wey guoq
 禮豈爲我設	lii chii wey ngoo shèq
 禮賢好士	lii shyan haw shyh
@@ -24744,6 +25735,7 @@ sort: be_weight
 私仇	sy chour
 私地	sy dih
 私奔	sy ben
+私底下	sy dii .shia
 私底下	sy dii shiah
 私度	sy duh
 私心藏奸	sy sin tsarng jian
@@ -24776,6 +25768,7 @@ sort: be_weight
 科分	ko fenn
 科場	ko charng
 科子	ko .tzyy
+科學知識	ko shioq jy .shyq
 科學種田	ko shioq jonq tyan
 科差	ko chai
 科布多盆地	ko buh do pern dih
@@ -24792,6 +25785,7 @@ sort: be_weight
 租地	tzu dih
 租地人投標票權	tzu dih ren tour biau piaw chyuan
 租子	tzu .tzyy
+租錢	tzu .tsian
 秤盤子	chenq parn .tzyy
 秦叔寶	tsyn shuq bao
 秦吉了	tsyn jiq leau
@@ -24811,11 +25805,14 @@ sort: be_weight
 秫秸	shuq .jiaq
 移孝爲忠	yi shiaw wei jong
 移樽就教	yi tzuen tziow jiaw
+移民媽媽	yi min mha .ma
 移液管	yi yiq goan
 移調	yi diaw
 稀泥	shi ni
+稀罕	shi .han
 稀薄	shi boq
 稀行	shi shyng
+稀裏糊塗	shi .li hwu .twu
 稀里嘩啦	shi .lii hua lha
 稀里嘩啦	shi lii hua lha
 稀里打哄	shi lii daa honq
@@ -24869,6 +25866,8 @@ sort: be_weight
 稱多縣	chenq do shiann
 稱孤道寡	cheng gu daw goa
 稱帝	cheng dih
+稱得上	cheng .de shanq
+稱得起	cheng .de chii
 稱心	chenq sin
 稱心如意	chenq sin ru yih
 稱心快意	chenq sin kuay yih
@@ -24958,6 +25957,7 @@ sort: be_weight
 穩扎穩打	woen jaq woen daa
 穩操勝券	woen tsau shenq chiuann
 穩操勝算	woen tsau shenq suann
+穩當	woen .dang
 穩紮穩打	woen jaq woen daa
 穩賺不賠	woen juann buq peir
 穩重	woen jonq
@@ -25069,6 +26069,7 @@ sort: be_weight
 空心磚	kong sin juan
 空心老大	kong sin lao dah
 空心菜	kong sin tsay
+空心蘿蔔	kong sin lo .boq
 空怒	kong nuh
 空想	kong seang
 空想社會主義	kong seang shèh huey juu yih
@@ -25133,6 +26134,7 @@ sort: be_weight
 空白點	konq beq dean
 空盪盪	kong danq danq
 空相	kong sianq
+空着手	kong .joq shoou
 空穴	konq shiueq
 空穴來風	kong shiueq lai fong
 空穴來風未必無因	konq shiueq lai fong vey biq wu in
@@ -25241,6 +26243,7 @@ sort: be_weight
 空餘	konq yu
 穾廈	yeau shiah
 穿一條褲子	chuan yiq tyau kuh .tzyy
+穿上	chuan .shang
 穿心槓子	chuan sin ganq .tzyy
 穿甲彈	chuan jiaq dann
 穿着	chuan joq
@@ -25273,6 +26276,8 @@ sort: be_weight
 突禿	tuq tuq
 突突	tuq tuq
 突突噥噥	tuq tuq nong nong
+突突囔囔	tuq tuq .nang .nang
+突突的	tuq tuq .de
 突襲	tuq siq
 突變	tuq biann
 突起	tuq chii
@@ -25316,6 +26321,8 @@ sort: be_weight
 窩棚	uo .perng
 窩窩頭	uo .uo tour
 窩藏	uo tsarng
+窩裏反	uo .li faan
+窩裏炮	uo .li paw
 窩鋪	uo puh
 窩闊臺汗國	uo kuoq tair harn guoq
 窪地	ua dih
@@ -25386,6 +26393,8 @@ sort: be_weight
 立體照片	liq tii jaw piann
 立體照相機	liq tii jaw sianq ji
 站不住腳	jann .buq juh jioq
+站得住	jann .de juh
+站起來	jann chii .lai
 站門子	jann men .tzyy
 章和	jang hor
 章甫縫掖	jang fuu forng yiq
@@ -25441,6 +26450,7 @@ sort: be_weight
 笑呵呵	siaw ho ho
 笑場	siaw charng
 笑敖	siaw ngaw
+笑殺	siaw .shaq
 笑渦	siaw uo
 笑眯眯	siaw mii mii
 笑臉相迎	siaw lean siang yng
@@ -25472,6 +26482,7 @@ sort: be_weight
 第宅	dih jeq
 笳角	jia jioq
 笸籮	poo .lo
+筆下功夫	biq shiah gong .fu
 筆削	biq sioq
 筆劃	biq huaq
 筆劃檢字表	biq huaq jean tzyh beau
@@ -25516,6 +26527,7 @@ sort: be_weight
 答嘴	daq tzoei
 答對	daq duey
 答席	daq siq
+答應	daq .ing
 答應	daq yinq
 答應不迭	daq yinq buq dieq
 答拜	daq bay
@@ -25550,15 +26562,19 @@ sort: be_weight
 箑脯	shaq fuu
 箔子	boq .tzyy
 箕裘相繼	ji chyou siang jih
+算上	suann .shang
 算不了	suann .buq leau
 算不得	suann .buq deq
 算不得	suann buq deq
+算什麼	suann shern .mo
+算命先生	suann minq sian .sheng
 算子	suann .tzyy
 算子	suann tzyy
 算得	suann deq
 算術和	suann shuq hor
 算計	suann .jih
 算計	suann jih
+算起來	suann .chii .lai
 算髮	suann faq
 箝口結舌	chyan koou jieq shèq
 管不着	goan .buq joq
@@ -25569,12 +26585,14 @@ sort: be_weight
 管子	goan tzyy
 管子工	goan .tzyy gong
 管子鉗	goan .tzyy chyan
+管家	goan .jia
 管家	goan jia
 管家娘子	goan jia gniang .tzyy
 管寧	goan gning
 管寧割席	goan gning goq siq
 管待	goan day
 管扳手	goan ban shoou
+管教	goan .jiau
 管教	goan jiaw
 管教無方	goan jiaw wu fang
 管穴	goan shiueq
@@ -25584,6 +26602,7 @@ sort: be_weight
 箱子	siang .tzyy
 箸子	juh .tzyy
 箸長碗短	juh charng woan doan
+節下	tzieq .shia
 節下	tzieq shiah
 節假	tzieq jiah
 節子	tzieq .tzyy
@@ -25593,10 +26612,12 @@ sort: be_weight
 節氣	tzieq .chih
 節氣	tzieq chih
 節目現場	tzieq muq shiann charng
+節錢	tzieq .tsian
 節間	tzieq jian
 節骨眼	tzieq .guq yean
 節骨眼上	tzieq .guq yean shanq
 篇卷	pian jiuann
+篇幅	pian .fuq
 篇幅	pian fuq
 築堤	juq tyi
 築壇	juq tarn
@@ -25631,6 +26652,8 @@ sort: be_weight
 簞食豆羹	dan syh dow geng
 簟子	diann .tzyy
 簡便	jean biann
+簡單地	jean dan .de
+簡單地說	jean dan .de shuoq
 簡單明瞭	jean dan ming leau
 簡子	jean .tzyy
 簡子	jean tzyy
@@ -25679,12 +26702,14 @@ sort: be_weight
 籠頭	long tour
 籠鳥檻猿	long gneau jiann yuan
 籬壁間物	li biq jian wuq
+籬笆	li .ba
 籬落	li loq
 籮擔	lo dann
 籮筐	lo kuang
 籮簡	lo jean
 米勒	mii leq
 米哈	mii heq
+米湯	mii .tang
 米漿	mii tziang
 米突	mii tuq
 米苔目	mii tair muq
@@ -25713,6 +26738,7 @@ sort: be_weight
 粘滯性	gnian jyh sinq
 粘皮帶骨	gnian pyi day guq
 粘皮着骨	gnian pyi joq guq
+粘着	gnian .joq
 粘着	gnian joq
 粘稠	gnian chour
 粘竿	gnian gan
@@ -25751,6 +26777,7 @@ sort: be_weight
 精熟	tzing shuq
 精當	tzing danq
 精確度	tzing chioq duh
+精神	tzing .shern
 精神	tzing shern
 精神分析	tzing shern fen siq
 精神分裂症	tzing shern fen lieq jenq
@@ -25768,12 +26795,15 @@ sort: be_weight
 糊口	hwu koou
 糊名	hwu ming
 糊嘴	hwu tzoei
+糊塗	hwu .twu
 糊塗	hwu twu
 糊塗一時	hwu twu yiq shyr
 糊塗帳	hwu twu janq
 糊塗油蒙心	hwu twu you mong sin
 糊塗蛋	hwu twu dann
+糊塗蟲	hwu .twu chorng
 糊塗蟲	hwu twu chorng
+糊塗賬	hwu .twu janq
 糊弄	hwu .lonq
 糊弄局	hwu .lonq jiuq
 糊突	hwu tuq
@@ -25781,14 +26811,19 @@ sort: be_weight
 糊突突	hwu tuq tuq
 糊精	hwu tzing
 糊糊	hwu .hwu
+糊糊塗塗	hwu .hwu twu .twu
 糊紙	hwu jyy
+糊裏糊塗	hwu .li hwu twu
 糊里糊塗	hwu .lii hwu twu
 糊里糊塗	hwu lii hwu twu
 糊門神	hwu men shern
+糕乾	gau .gan
 糖分	tarng fenn
 糖尿病	tarng gniaw binq
 糖漿	tarng tziang
 糖炒栗子	tarng chao liq .tzyy
+糖胡蘆	tarng hwu .lu
+糖葫蘆	tarng hwu .lu
 糖衣炮彈	tarng i paw dann
 糜子	mi .tzyy
 糜擲	mi jyq
@@ -25802,11 +26837,13 @@ sort: be_weight
 糞箕子	fenn ji .tzyy
 糞缸越淘越臭	fenn gang yueq taur yueq chow
 糟溜黃魚片	tzau lhiou hwang yu piann
+糟豆腐	tzau dow .fu
 糠糜	kang mi
 糢糊	mu .hwu
 糢糊	mu hwu
 糢糢糊糊	mu .mu hwu hwu
 糧草先行	liang tsao sian shyng
+糧食	liang .shyq
 糧食	liang shyq
 糨糊	jianq .hwu
 糨糊	jianq hwu
@@ -25823,8 +26860,10 @@ sort: be_weight
 紅單子	horng dan .tzyy
 紅地毯	horng dih taan
 紅姑娘	horng gu .gniang
+紅寡婦鳥	horng goa .fu gneau
 紅將軍	horng tziang jiun
 紅彤彤	horng torng torng
+紅得發紫	horng .de faq tzyy
 紅教	horng jiaw
 紅日當午	horng ryq dang wuu
 紅暈	horng yunn
@@ -25832,6 +26871,7 @@ sort: be_weight
 紅椅子	horng yii .tzyy
 紅模子	horng mu .tzyy
 紅檜	horng guay
+紅泥月亮	horng ni yueq .liang
 紅綠帖子	horng luq tieq .tzyy
 紅線傳	horng siann juann
 紅脖子	horng boq .tzyy
@@ -25934,6 +26974,7 @@ sort: be_weight
 紮實推進	jaq .shyq tuei tzinn
 紮寨	jaq jay
 紮營	jaq yng
+紮紮實實	jaq .jaq shyq shyq
 紮腳	jaq jioq
 紮裹	jaq guoo
 紮詐	jaq jah
@@ -25943,10 +26984,12 @@ sort: be_weight
 累垮	luey koa
 累墜	luei .juey
 累壞	luey huay
+累得慌	luey .de .huang
 累德	luey deq
 累心	luey sin
 累懇	luey keen
 累手	luey shoou
+累掯	luey .keen
 累死	luey syy
 累死累活	luey syy luey huoq
 累煩	luey farn
@@ -25958,12 +27001,14 @@ sort: be_weight
 細分	sih fen
 細嚼	sih tzioq
 細嚼慢嚥	sih tzioq mann yann
+細挑	sih .tiau
 細挑	sih tiau
 細曲	sih chiuq
 細水長流	sih shoei charng liou
 細玩	sih wann
 細看	sih kann
 細磨刀石	sih moh dau shyq
+細細地流	sih sih .de liou
 細胞分裂	sih bau fen lieq
 細胞遺傳學	sih bau yi chwan shioq
 細菌學	sih jiunn shioq
@@ -26001,6 +27046,7 @@ sort: be_weight
 組立式建築	tzuu liq shyq jiann juq
 組胺	tzuu oq
 絆跌	bann dieq
+結了	jieq .le
 結交	jieq jiau
 結交延譽	jieq jiau yan yuh
 結仇	jieq chour
@@ -26105,6 +27151,8 @@ sort: be_weight
 結節	jieq tzieq
 結納	jieq naq
 結紮	jieq tzaq
+結結實實	jieq .jieq shyq shyq
+結結巴巴	jieq .jieq ba ba
 結結巴巴	jieq jieq ba .ba
 結絕	jieq tziueq
 結絲蘿	jieq sy lo
@@ -26168,12 +27216,14 @@ sort: be_weight
 絕地天通	tziueq dih tian tong
 絕塞	tziueq say
 絕壑	tziueq hoq
+絕大部份	tziueq dah buh .fen
 絕對地址	tziueq duey dih jyy
 絕對時間	tziueq duey shyr jian
 絕對溫度	tziueq duey uen duh
 絕對溼度	tziueq duey shyq duh
 絕對零度	tziueq duey ling duh
 絕對高度	tziueq duey gau duh
+絕望的境地	tziueq wanq .de jinq dih
 絕聖棄知	tziueq shenq chih jy
 絕跡	tziueq tziq
 絕長繼短	tziueq charng jih doan
@@ -26202,9 +27252,13 @@ sort: be_weight
 給水	jiq shoei
 給足	jiq tzuq
 絪縕	in iun
+絮叨	siuh .dau
 絮叨	siuh dau
+絮煩	siuh .farn
 絮片	siuh piann
+絮絮	siuh .siuh
 絮絮	siuh siuh
+絮絮叨叨	siuh .siuh dau dau
 絮絮叨叨	siuh siuh dau dau
 絮絮聒聒	siuh siuh guaq guaq
 絮聒	siuh guaq
@@ -26243,7 +27297,9 @@ sort: be_weight
 經宿不歸	jing suq buq guei
 經幢	jing chwang
 經度	jing duh
+經得起	jing .de chii
 經濟制度	jing tzih jyh duh
+經濟力量	jing tzih liq .liang
 經濟地理學	jing tzih dih lii shioq
 經濟怪獸	jing tzih guay show
 經濟落後	jing tzih loq how
@@ -26490,6 +27546,7 @@ sort: be_weight
 總供給	tzoong gong jiq
 總分	tzoong fen
 總和	tzoong hor
+總幹事	tzoong gann .shy
 總幹事	tzoong gann shyh
 總得	tzoong deq
 總括	tzoong guaq
@@ -26541,6 +27598,7 @@ sort: be_weight
 繃爬吊拷	beng par diaw kao
 繃牀	beng chwang
 繃瓷	beng tsyr
+繃着臉	beng .joq lean
 繃簧	beng hwang
 繃緊	beng jiin
 繃線	beng siann
@@ -26560,6 +27618,7 @@ sort: be_weight
 繞地	raw dih
 繞場	raw charng
 繞彎子	raw uan .tzyy
+繞磨	raw .mo
 繞脖子	raw boq .tzyy
 繞行	raw shyng
 繞騰	raw .terng
@@ -26568,6 +27627,7 @@ sort: be_weight
 繩子	sherng .tzyy
 繩結	sherng jieq
 繩鋸木斷	sherng jiuh muq duann
+繫上	jih .shang
 繫世	shih shyh
 繫住	shih juh
 繫命	shih minq
@@ -26593,6 +27653,7 @@ sort: be_weight
 繳還	jeau hwan
 繼絕興亡	jih tziueq shing wang
 繼親	jih tsin
+纏磨	charn .mo
 纏結	charn jieq
 纏縛	charn foq
 纓冠	ing guan
@@ -26615,6 +27676,7 @@ sort: be_weight
 罡神泥鬼	gang shern ni goei
 罩不住	jaw .buq juh
 罩子	jaw .tzyy
+罩得住	jaw .de juh
 罪人不帑	tzuey ren buq nu
 罪大惡極	tzuey dah oq jiq
 罪孽深重	tzuey gnieq shen jonq
@@ -26650,6 +27712,7 @@ sort: be_weight
 罵罵咧咧	mah .mah lieq lieq
 罵罵咧咧	mah mah lieq lieq
 罵罵括括	mah mah guaq guaq
+罷了	bah .le
 罷了	bah leau
 罷勞	pyi lau
 罷弊	pyi bih
@@ -26666,6 +27729,7 @@ sort: be_weight
 羅剎國	lo chaq guoq
 羅勒	lo leq
 羅叉	lo cha
+羅嗦	lo .suo
 羅圈	lo chiuan
 羅圈腿	lo chiuan toei
 羅塞塔石碑	lo seq taq shyq bei
@@ -26693,8 +27757,11 @@ sort: be_weight
 羅馬教會	lo maa jiaw huey
 羅馬正教	lo maa jenq jiaw
 羈勒	ji leq
+羊撞籬笆	yang juanq li .ba
 羊栖菜	yang si tsay
+羊毛出在羊身上	yang mau chuq tzay yang shen .shang
 羊肉牀子	yang row chwang .tzyy
+羊肉落在狗嘴裏	yang row loq tzay goou tzoei .li
 羊胛熟	yang jiaq shuq
 羊膜	yang moq
 羊膜類	yang moq luey
@@ -26722,6 +27789,7 @@ sort: be_weight
 美如冠玉	meei ru guan yuq
 美差	meei chai
 美差事	meei chai shyh
+美得冒泡	meei .de maw paw
 美惡	meei oq
 美朝	meei chaur
 美東時間	meei dong shyr jian
@@ -26751,7 +27819,6 @@ sort: be_weight
 羣輕折軸	chyun ching jèq juq
 羣辟	chyun biq
 羣雌粥粥	chyun tsy juq juq
-羧酸	tzuei suan
 羨煞	siann shaq
 義不辭難	yih buq tsyr nann
 義分	yih fenn
@@ -26819,6 +27886,7 @@ sort: be_weight
 翹材	chyau tsair
 翹棱	chyau .leng
 翹盼	chyau pann
+翹稜	chyau .leng
 翹翹	chyau chyau
 翹舌音	chyau shèq in
 翹足	chyau tzuq
@@ -26848,8 +27916,11 @@ sort: be_weight
 老乾	lao gan
 老交情	lao jiau .tsyng
 老人俱樂部	lao ren jiu loq buh
+老人家	lao .ren .jia
 老佛爺	lao fuq .ye
 老來少	lao lai shaw
+老兄弟	lao shiong .dih
+老先生	lao sian .sheng
 老八輩子	lao baq bey .tzyy
 老公	lao .gong
 老公	lao gong
@@ -26863,6 +27934,7 @@ sort: be_weight
 老地方	lao dih .fang
 老大難	lao dah nan
 老天拔地	lao tian baq dih
+老太太	lao tay .tay
 老套子	lao taw .tzyy
 老奶奶	lao nae .nae
 老姑娘	lao .gu .gniang
@@ -26897,6 +27969,7 @@ sort: be_weight
 老少配	lao shaw pey
 老師傅	lao shy .fuh
 老師宿儒	lao shy suq ru
+老師父	lao shy .fu
 老年得子	lao gnian deq tzyy
 老年間	lao gnian jian
 老底子	lao dii .tzyy
@@ -26921,6 +27994,7 @@ sort: be_weight
 老法子	lao faq .tzyy
 老淚縱橫	lao luey tzong herng
 老熊當道	lao shyong dang daw
+老營生	lao yng .sheng
 老爺	lao .ye
 老爺子	lao ye .tzyy
 老爺嶺	lao .ye liing
@@ -26930,16 +28004,20 @@ sort: be_weight
 老爺車	lao ye chè
 老牌子	lao pair .tzyy
 老狐狸	lao hwu .li
+老畜生	lao chuq .sheng
 老當益壯	lao dang yiq juanq
 老疙瘩	lao geq .baq
+老的少的	lao .de shaw .de
 老相	lao sianq
 老相交	lao siang jiau
 老相識	lao siang shyq
 老章程	lao jang .cherng
+老糊塗	lao hwu .twu
 老繃	lao .beng
 老羆當道	lao pi dang daw
 老老	lao .lao
 老老少少	lao lao shaw shaw
+老背悔	lao bey .huei
 老背晦	lao bey .huey
 老臉皮子厚	lao lean pyi .tzyy how
 老臊胡	lao sau hwu
@@ -26952,10 +28030,12 @@ sort: be_weight
 老虎頭上撲蒼蠅	lao huu tour shanq puq tsang .yng
 老蚌出明珠	lao banq chuq ming ju
 老蚌生珠	lao banq sheng ju
+老街坊	lao jiai .fang
 老規矩	lao guei .jeu
 老親	lao tsin
 老調	lao diaw
 老調重彈	lao diaw chorng tarn
+老豆腐	lao dow .fu
 老都爺	lao du ye
 老醫少卜	lao i shaw buq
 老阿呆	lao a dai
@@ -26993,6 +28073,7 @@ sort: be_weight
 耍子	shoa .tzyy
 耍家子	shoa jia .tzyy
 耍弄	shoa lonq
+耍得團團轉	shoa .de twan twan juann
 耍手藝	shoa shoou .yih
 耍流氓	shoa liou mang
 耍獅子	shoa shy .tzyy
@@ -27002,6 +28083,7 @@ sort: be_weight
 耍骨頭	shoa guq .tour
 耐儲大蒜	nay chwu dah suann
 耐看	nay kann
+耐着性子	nay .joq sinq .tzyy
 耐磨	nay mo
 耕地	geng dih
 耕地放領	geng dih fanq liing
@@ -27048,8 +28130,10 @@ sort: be_weight
 耶魯	ye luu
 耶魯大學	ye luu dah shioq
 耶魯拼音	ye luu ping in
+耷拉	taq .la
 耽干繫	dan gan shih
 耽待	dan day
+耽擱	dan .go
 耽擱	dan go
 耽樂	dan loq
 耽玩	dan wann
@@ -27098,6 +28182,7 @@ sort: be_weight
 聘調	pinq diaw
 聚居地	tziuh jiu dih
 聚散	tziuh sann
+聚會	tziuh .huey
 聚會	tziuh huey
 聚米爲山	tziuh mii wei shan
 聚落	tziuh loq
@@ -27109,7 +28194,9 @@ sort: be_weight
 聞問	wen wenn
 聞問	wenn wenn
 聞望	wenn wanq
+聞見	wen .jiann
 聞見	wen jiann
+聞起來總是香的	wen chii .lai tzoong shyh shiang .de
 聞達	wenn daq
 聞風喪膽	wen fong sanq daan
 聞風響應	wen fong sheang yinq
@@ -27149,6 +28236,7 @@ sort: be_weight
 聲絲氣咽	sheng sy chih yeq
 聲聞	sheng wen
 聲聞	sheng wenn
+聲調的調值	sheng diaw .de diaw jyq
 聲調符號	sheng diaw fwu haw
 聲調輪廓	sheng diaw luen kuoq
 聲跡彰露	sheng tziq jang luh
@@ -27164,6 +28252,7 @@ sort: be_weight
 職業教育	jyq yeq jiaw yuq
 職稱	jyq cheng
 聽不到	ting .buq daw
+聽不得一面之詞	ting buq .de yiq miann jy tsyr
 聽不見	ting .buq jiann
 聽之任之	tinq jy renn jy
 聽事	ting shyh
@@ -27178,6 +28267,7 @@ sort: be_weight
 聽天由命	tinq tian you minq
 聽子	ting .tzyy
 聽差	ting chai
+聽得懂	ting .de doong
 聽得見	ting deq jiann
 聽憑	tinq pyng
 聽憑尊便	tinq pyng tzuen biann
@@ -27186,6 +28276,7 @@ sort: be_weight
 聽獄	tinq yuq
 聽訟	tinq sonq
 聽證制度	ting jenq jyh duh
+聽起來	ting .chii .lai
 聽頭	ting .tour
 聾子	long .tzyy
 聾子放炮仗	long .tzyy fanq paw janq
@@ -27277,6 +28368,7 @@ sort: be_weight
 肩擔之家	jian dann jy jia
 肩背相望	jian bey siang wanq
 肯亞共和國	keeng yah gonq hor guoq
+肯分的	keeng fen .de
 肯德基炸雞	keeng deq ji jaq ji
 肯綮	keeng chinq
 育樂	yuq loq
@@ -27293,6 +28385,7 @@ sort: be_weight
 背叉	bey cha
 背哈喇子	bey ha laq .tzyy
 背地	bey dih
+背地裏	bey dih .li
 背地風	bey dih fong
 背多分	bey do fen
 背子	bey .tzyy
@@ -27316,6 +28409,7 @@ sort: be_weight
 胎髮	tai faq
 胖呵呵	panq ho ho
 胖子	panq .tzyy
+胖高麗	panq gau .li
 胚子	pei .tzyy
 胞姊	bau tzyy
 胞姊	bau tziee
@@ -27326,7 +28420,10 @@ sort: be_weight
 胞間連絲	bau jian lian sy
 胡三省	hwu san siing
 胡同	hwu torng
+胡嚕	hwu .lu
+胡塗	hwu .twu
 胡塗	hwu twu
+胡塗蟲	hwu .twu chorng
 胡天胡地	hwu tian hwu dih
 胡姑姑	hwu gu .gu
 胡子	hwu .tzyy
@@ -27341,6 +28438,7 @@ sort: be_weight
 胡攪	hwu jeau
 胡旋舞	hwu syuan wuu
 胡桃鉗組曲	hwu taur chyan tzuu chiuq
+胡椒薄荷	hwu tziau boq .ho
 胡歌野調	hwu go yee diaw
 胡混	hwu huenn
 胡燕妮	hwu ian gni
@@ -27353,6 +28451,7 @@ sort: be_weight
 胡蔓草	hwu mann tsao
 胡蔓藤	hwu mann terng
 胡行	hwu shyng
+胡裏胡塗	hwu .li hwu twu
 胡遮刺	hwu jè laq
 胡鋪搭	hwu pu daq
 胡騎	hwu jih
@@ -27388,7 +28487,9 @@ sort: be_weight
 脂麻	jy .ma
 脅從	shieq tzonq
 脅息	shieq siq
+脆快了當	tsuey kuay leau .dang
 脆片	tsuey piann
+脆生	tsuey .sheng
 脆穀樂	tsuey guq loq
 脆薄	tsuey boq
 脈不制肉	meq buq jyh row
@@ -27449,8 +28550,6 @@ sort: be_weight
 脫髮	tuoq faq
 脯資	fuu tzy
 脯醢	fuu hae
-脺液	tsuey yiq
-脺臟	tsuey tzanq
 脾和	pyi hor
 脾氣	pyi .chih
 脾氣情性	pyi .chih tsyng sinq
@@ -27508,7 +28607,9 @@ sort: be_weight
 腳勁	jioq jinq
 腳叉	jioq cha
 腳子	jioq .tzyy
+腳底下	jioq dii .shia
 腳底抹油	jioq dii moq you
+腳打着腦杓子	jioq daa .joq nao shoq .tzyy
 腳指甲	jioq jyy .jiaq
 腳正不怕鞋歪	jioq jenq buq pah shyai uai
 腳癬	jioq sean
@@ -27580,9 +28681,11 @@ sort: be_weight
 膠萊谷地	jiau lai guq dih
 膠葛	jiau goq
 膠鬲	jiau geq
+膩味	gnih .vey
 膩味	gnih vey
 膩子	gnih .tzyy
 膩抹	gnih .moq
+膩的慌	gnih .de .huang
 膩糊	gnih .hwu
 膳宿	shann suq
 膴仕	wuu shyh
@@ -27613,6 +28716,7 @@ sort: be_weight
 臉紅脖子粗	lean horng boq .tzyy tsu
 臉薄	lean boq
 臉蛋子	lean dann .tzyy
+臉都綠了	lean du luq .le
 臉面	lean .miann
 臉面之情	lean .miann jy tsyng
 臊一鼻子灰	sau yiq bih .tzyy huei
@@ -27637,6 +28741,7 @@ sort: be_weight
 臨崖勒馬	lin ya leq maa
 臨帖	lin tieq
 臨時分居	lin shyr fen jiu
+臨時的本地管理接口	lin shyr .de been dih goan lii tzie koou
 臨朝	lin chaur
 臨機應變	lin ji yinq biann
 臨死不怯	lin syy buq chieq
@@ -27697,6 +28802,7 @@ sort: be_weight
 自我反省	tzyh ngoo faan siing
 自戕	tzyh tsyang
 自打嘴巴	tzyh daa tzoei .ba
+自找麻煩	tzyh jao ma .farn
 自拍模式	tzyh peq mu shyq
 自掃門前雪	tzyh sao men tsyan siueq
 自操井臼	tzyh tsau tziing jiow
@@ -27713,6 +28819,7 @@ sort: be_weight
 自然率	tzyh ran liuq
 自甘墮落	tzyh gan duoh loq
 自由度	tzyh you duh
+自由漂移的狀態	tzyh you piau yi .de juanq tay
 自由稅率	tzyh you shuey liuq
 自由落體	tzyh you loq tii
 自由落體運動	tzyh you loq tii yunn donq
@@ -27770,6 +28877,7 @@ sort: be_weight
 臭彈	chow dann
 臭恭維	chow gong wei
 臭打	chow daa
+臭排場	chow pair .chang
 臭架子	chow jiah .tzyy
 臭棋	chow chyi
 臭椿	chow chuen
@@ -27795,6 +28903,7 @@ sort: be_weight
 臭蟲	chow chorng
 臭街爛巷	chow jiai lann shianq
 臭覺	shiow jioq
+臭豆腐	chow dow .fu
 臭跡	chow tziq
 臭錢	chow tsyan
 臭頭	chow tour
@@ -27819,11 +28928,13 @@ sort: be_weight
 臺灣土狗	tair uan tuu goou
 臺灣地區	tair uan dih chiu
 舀子	yeau .tzyy
+舅太太	jiow tay .tay
 舅奶奶	jiow nae .nae
 舅子	jiow .tzyy
 舅爺	jiow .ye
 舅爺	jiow ye
 舅老爺	jiow lao .ye
+舅舅	jiow .jiou
 與人方便	yuh ren fang biann
 與日俱進	yuh ryq jiu tzinn
 與會	yuh huey
@@ -27962,6 +29073,7 @@ sort: be_weight
 舊景重現	jiow jiing chorng shiann
 舊燕歸巢	jiow yann guei chaur
 舊病難醫	jiow binq nan i
+舊的不去	jiow .de buq chiuh
 舊皇曆	jiow hwang .liq
 舊皇曆	jiow hwang liq
 舊相識	jiow siang shyq
@@ -28048,12 +29160,9 @@ sort: be_weight
 般倕	ban chwei
 般弄	ban lonq
 般調	ban tyau
-舳艫	juq lu
-舳艫千里	juq lu tsian lii
-舳艫啣接	juq lu shyan tzie
-舳艫相繼	juq lu siang jih
 船模試驗	chwan mu shyh yann
 船殼	chwan koq
+船載的金銀	chwan tzay .de jin yn
 艦載	jiann tzay
 艨衝	mong chong
 良將	liang tzianq
@@ -28116,6 +29225,8 @@ sort: be_weight
 花不棱登	hua buq leng deng
 花剌子模	hua laq tzyy mu
 花和尚	hua hor shanq
+花哄	hua .hong
+花哨	hua .shaw
 花圈	hua chiuan
 花地瑪堂區	hua dih maa tarng chiu
 花天酒地	hua tian tzeou dih
@@ -28127,6 +29238,8 @@ sort: be_weight
 花崗石	hua gang shyq
 花巾着目	hua jin joq muq
 花息	hua siq
+花掉	hua .diau
+花搭着	hua .daq .joq
 花教	hua jiaw
 花斑癬	hua ban sean
 花旗參	hua chyi shen
@@ -28144,12 +29257,15 @@ sort: be_weight
 花狸狐哨	hua .li hwu shaw
 花生漿	hua sheng tziang
 花相	hua sianq
+花稍	hua .shau
 花結	hua jieq
 花舌子	hua shèq .tzyy
 花花搭搭	hua .hua daq daq
 花花腸子	hua hua charng .tzyy
 花藜胡哨	hua .li hwu shaw
 花蛤	hua goq
+花衚衕	hua hwu .tong
+花裏胡哨	hua .li hwu shaw
 花費	hua .fey
 花費	hua fey
 花輪子	hua luen .tzyy
@@ -28164,6 +29280,7 @@ sort: be_weight
 花頭	hua .tour
 花頭	hua tour
 花鬨	hua .honq
+花麗狐哨	hua .li hwu shaw
 花點子	hua dean .tzyy
 芴漠	huq moq
 芷江侗族自治縣	jyy jiang donq tzuq tzyh jyh shiann
@@ -28230,10 +29347,14 @@ sort: be_weight
 茅塞頓開	mau seq duenn kai
 茅廁	mau tseq
 茅廁坑	mau tseq keng
+茅廁的磚	mau tseq .de juan
 茅廁磚頭	mau tseq juan .tour
 茆店	mao diann
 茆茨	mao tsyr
+茉莉	moq .li
+茉莉花	moq .li hua
 茉莉花	moq lih hua
+茉莉花茶	moq .li hua char
 茙菽	rong shuq
 茝若	chae roq
 茨菰	tsyr .gu
@@ -28245,12 +29366,15 @@ sort: be_weight
 茲沃勒	tzy wuq leq
 茳芏	jiang duh
 茵藉	in tzieh
+茶上	char .shang
 茶坊	char fang
 茶局子	char jiuq .tzyy
 茶水錢	char .shoei tsyan
 茶缸子	char gang .tzyy
 茶藨子	char biau .tzyy
 茶褐色	char hoq seq
+茶錢	char .tsian
+茶食	char .shyq
 茶麪子	char miann .tzyy
 茶點時間	char dean shyr jian
 茹葷	ru huen
@@ -28324,6 +29448,7 @@ sort: be_weight
 莊園制度	juang yuan jyh duh
 莊子	juang .tzyy
 莊子	juang tzyy
+莊家	juang .jia
 莊敬自強	juang jinq tzyh chyang
 莊稼	juang .jiah
 莊稼人	juang .jiah ren
@@ -28378,6 +29503,7 @@ sort: be_weight
 菜地	tsay dih
 菜場	tsay charng
 菜墩子	tsay duen .tzyy
+菜市口	tsay .shy koou
 菜殼子	tsay koq .tzyy
 菜盒子	tsay hoq .tzyy
 菜虎子	tsay huu .tzyy
@@ -28445,6 +29571,7 @@ sort: be_weight
 萬惡	wann oq
 萬惡之源	wann oq jy yuan
 萬惡滔天	wann oq tau tian
+萬把	wann .ba
 萬柏林	wann beq lin
 萬柏林區	wann beq lin chiu
 萬法唯識	wann faq wei shyq
@@ -28466,8 +29593,12 @@ sort: be_weight
 萱萎北堂	shiuan uei bey tarng
 萹豆	bian dow
 萼片	ngoq piann
+落下	loq .shia
 落下	loq shiah
 落不是	loq buq .shyh
+落不的	loq buq .de
+落了	loq .le
+落了竈	loq .le tzaw
 落井下石	loq tziing shiah shyq
 落人口實	loq ren koou shyq
 落人笑柄	loq ren siaw binq
@@ -28488,6 +29619,7 @@ sort: be_weight
 落地窗	loq dih chuang
 落地簽證	loq dih tsian jenq
 落地籤	loq dih tsian
+落地罩	loq .dih jaw
 落坐	loq tzuoh
 落埋怨	loq mai yuann
 落基山	loq ji shan
@@ -28510,6 +29642,7 @@ sort: be_weight
 落彀	loq gow
 落後	loq how
 落後國家	loq how guoq jia
+落得	loq .de
 落得	loq deq
 落得河水不洗船	loq deq hor shoei buq sii chwan
 落忍	loq reen
@@ -28548,6 +29681,7 @@ sort: be_weight
 落生	loq sheng
 落白事	loq beq shyh
 落盤	loq parn
+落着臉	loq .joq lean
 落石	loq shyq
 落磐	loq parn
 落磯山	loq ji shan
@@ -28627,7 +29761,7 @@ sort: be_weight
 落魄不羈	loq tuoq buq ji
 落鼻祖	loq bih tzuu
 葄枕	tzuh jenn
-葅醢	tzu hae
+葅醢	tziu hae
 葉公好龍	shèq gong haw long
 葉公好龍	yeq gong haw long
 葉卡捷琳堡	yeq kaa tzieq lin bao
@@ -28701,6 +29835,7 @@ sort: be_weight
 董監事	doong jian shyh
 葦苕繫巢	woei tyau shih chaur
 葧薺	boq tsyr
+葫蘆	hwu .lu
 葬埋	tzanq mai
 葬玉埋香	tzanq yuq mai shiang
 葬身之地	tzanq shen jy dih
@@ -28710,6 +29845,7 @@ sort: be_weight
 葵扇	kwei shann
 葷允	shiun yeun
 葷油	huen you
+葷油蒙了心	huen you mong .le sin
 葷湯臘水	huen tang laq shoei
 葷笑話	huen siaw .huah
 葷笑話	huen siaw huah
@@ -28814,6 +29950,7 @@ sort: be_weight
 蒲鞭示辱	pwu bian shyh ruq
 蒸散	jeng sann
 蒸氣重整	jeng chih chorng jeeng
+蒸熟的鴨子	jeng shuq .de yaq .tzyy
 蒸發空調	jeng faq kong tyau
 蒸露	jeng luh
 蒸餾	jeng liow
@@ -28828,6 +29965,7 @@ sort: be_weight
 蒼蠅	tsang .yng
 蒼蠅座	tsang .yng tzuoh
 蒼蠅拍子	tsang .yng peq .tzyy
+蒼蠅掐了頭	tsang .yng chiaq .le tour
 蒼蠅紙	tsang .yng jyy
 蒼蠅見血	tsang .yng jiann shiueq
 蓄勢待發	shiuq shyh day faq
@@ -28941,6 +30079,7 @@ sort: be_weight
 蕉扇	tziau shann
 蕉葛	tziau goq
 蕩散	danq sann
+蕩蕩悠悠	danq .danq iou iou
 蕭乾	siau chyan
 蕭萬長	siau wann charng
 蕭行范篆	siau shyng fann juann
@@ -29016,6 +30155,10 @@ sort: be_weight
 薄脣輕言	boq chwen ching yan
 薄膜	boq moq
 薄臉	boq lean
+薄荷	boq .ho
+薄荷油	boq .ho you
+薄荷精	boq .ho tzing
+薄荷腦	boq .ho nao
 薄落	boq loq
 薄薄	boq boq
 薄薄怯怯	boq boq chieq chieq
@@ -29041,6 +30184,7 @@ sort: be_weight
 薄餅	boq biing
 薄鬢	boq binn
 薇蕨	vei jiueq
+薑還是老的辣	jiang hair shyh lao .de laq
 薔薇	tsyang vei
 薔薇戰爭	tsyang vei jann jeng
 薔薇硝	tsyang vei siau
@@ -29094,6 +30238,7 @@ sort: be_weight
 藉機	tzieh ji
 藉甚	tzieh shenn
 藉由	tzieh you
+藉着	tzieh .joq
 藉端	tzieh duan
 藉箸代籌	tzieh juh day chour
 藉藉	tziq tziq
@@ -29101,6 +30246,7 @@ sort: be_weight
 藉資挹注	tzieh tzy yiq juh
 藋粱	diaw liang
 藍屏死機	lan pyng syy ji
+藍月亮	lan yueq .liang
 藍田種玉	lan tyan jonq yuq
 藍調	lan diaw
 藍鬍子	lan hwu .tzyy
@@ -29177,6 +30323,7 @@ sort: be_weight
 藝術片	yih shuq piann
 藝術體操	yih shuq tii tsau
 藤攀葛繞	terng pan goq raw
+藤野先生	terng yee sian .sheng
 藥叉	yoq cha
 藥吊子	yoq diaw .tzyy
 藥捻子	yoq gnieq .tzyy
@@ -29253,6 +30400,7 @@ sort: be_weight
 蘭鄭長成品油管道	lan jenq charng cherng piin you goan daw
 蘭鄭長管道	lan jenq charng goan daw
 蘮蒘	jih ru
+蘿蔔乾	lo .boq gan
 虎不拉	huu .buq lha
 虎剌孩	huu laq hair
 虎勁	huu jinq
@@ -29302,12 +30450,14 @@ sort: be_weight
 虛驚一場	shiu jing yiq charng
 虞應龍	yu yinq long
 虞犯少年	yu fann shaw gnian
+號令	haw .ling
 號令	haw linq
 號咷痛哭	haur taur tonq kuq
 號哭	haur kuq
 號啕	haur taur
 號啕大哭	haur taur dah kuq
 號啕痛哭	haur taur tonq kuq
+號喪	haur .sang
 號喪	haur sang
 號天叩地	haur tian kow dih
 號天哭地	haur tian kuq dih
@@ -29325,8 +30475,10 @@ sort: be_weight
 號脈	haw meq
 虧不盡	kuei .buq tzinn
 虧待	kuei day
+虧得	kuei .de
 虧心短行	kuei sin doan shinq
 虧折	kuei jèq
+虧空	kuei .kong
 虧空	kuei kong
 虯髯客傳	chyou ran keq juann
 虰蛵	ding shyng
@@ -29358,6 +30510,7 @@ sort: be_weight
 蛇蛇	yi yi
 蛋殼	dann koq
 蛋白尿	dann beq gniaw
+蛐蟮	chiuq .shann
 蛐蟮	chiuq shann
 蛖螻	mang lou
 蛙人操	ua ren tsau
@@ -29389,6 +30542,7 @@ sort: be_weight
 蜜供	miq gonq
 蜜月假期	miq yueq jiah chi
 蜜筒	miq torng
+蜜裏調油	miq .li tyau you
 蜜露	miq luh
 蜡月	jah yueq
 蜡祭	jah tzih
@@ -29409,6 +30563,7 @@ sort: be_weight
 蝦子	shia .tzyy
 蝦子	shia tzyy
 蝦米	shia .mii
+蝦芭	shia .ba
 蝨子	sheq .tzyy
 蝨空捫	sheq kong men
 蝲蛄	laq gu
@@ -29522,6 +30677,7 @@ sort: be_weight
 衆香子	jonq shiang .tzyy
 行三坐五	shyng san tzuoh wuu
 行不及言	shyng buq jiq yan
+行不得	shyng .buq .de
 行不改名	shyng buq gae ming
 行不更名	shyng buq geng ming
 行不由徑	shyng buq you jinq
@@ -29809,6 +30965,10 @@ sort: be_weight
 行香	shyng shiang
 行騙	shyng piann
 衒玉賈石	shiuann yuq guu shyq
+街上	jiai .shang
+街坊	jiai .fang
+街坊四鄰	jiai .fang syh lin
+街坊鄰里	jiai .fang lin lii
 街死街埋	jiai syy jiai mai
 街溜子	jiai lhiou .tzyy
 街號巷哭	jiai haur shianq kuq
@@ -29816,6 +30976,7 @@ sort: be_weight
 街里街坊	jiai .lii jiai fang
 衙門	ya .men
 衙門	ya men
+衚衕	hwu .tong
 衛從	wey tzonq
 衛星都市	wey sing du shyh
 衛氏朝鮮	wey shyh chaur sean
@@ -29867,7 +31028,9 @@ sort: be_weight
 衡水地區	herng shoei dih chiu
 衡石量書	herng shyq liang shu
 衡行	herng shyng
+衡量	herng .liang
 衡量	herng liang
+衡量制	herng .liang jyh
 衡陽地區	herng yang dih chiu
 衣不曳地	i buq yih dih
 衣不重帛	i buq jonq beq
@@ -29903,6 +31066,7 @@ sort: be_weight
 衣缽相傳	i boq siang chwan
 衣缽真傳	i boq jen chwan
 衣被	i bey
+衣裳	i .sharng
 衣褐懷寶	i hoq hwai bao
 衣車	i jiu
 衣錦夜游	i jiin yeh you
@@ -29923,6 +31087,8 @@ sort: be_weight
 表親	beau tsin
 表識	beau jyh
 表露	beau luh
+表面上	beau miann .shang
+表面工夫	beau miann gong .fu
 表面質量	beau miann jyq lianq
 衩衣	chah i
 衫子	shan .tzyy
@@ -29951,6 +31117,7 @@ sort: be_weight
 被甲	pi jiaq
 被甲兵	pi jiaq bing
 被禍	pi huoh
+被窩裏放屁	bey uo .li fanq pih
 被罪	pi tzuey
 被臥	bey .woh
 被虐待狂	bey gnioq day kwang
@@ -29973,9 +31140,12 @@ sort: be_weight
 裁劃	tsair huaq
 裁度	tsair duh
 裁答	tsair daq
+裁縫	tsair .fong
 裁縫	tsair forng
 裁縫師	tsair fonq shy
+裁縫店	tsair .fong diann
 裁縫店	tsair forng diann
+裁縫鋪	tsair .fong puh
 裁量	tsair liang
 裂土分茅	lieq tuu fen mau
 裂地	lieq dih
@@ -29993,6 +31163,7 @@ sort: be_weight
 裙子	chyun .tzyy
 裙屐少年	chyun jiq shaw gnian
 裙帶親	chyun day tsin
+補丁	buu .ding
 補償教育	buu charng jiaw yuq
 補充量	buu chong lianq
 補助教育	buu juh jiaw yuq
@@ -30006,6 +31177,7 @@ sort: be_weight
 補票處	buu piaw chuh
 補種	buu jonq
 補空	buu kong
+補精神	buu tzing .shern
 補給	buu jiq
 補給品	buu jiq piin
 補給站	buu jiq jann
@@ -30019,6 +31191,7 @@ sort: be_weight
 補胎片	buu tai piann
 補血	buu shiueq
 補還	buu hwan
+補釘	buu .ding
 補闕	buu chiueq
 補闕拾遺	buu chiueq shyq yi
 補靪	buu .dinq
@@ -30028,6 +31201,7 @@ sort: be_weight
 裝彈	juang dann
 裝樣子	juang yanq .tzyy
 裝神弄鬼	juang shern lonq goei
+裝糊塗	juang hwu .twu
 裝裹	juang .guoo
 裝載	juang tzay
 裨將	pyi tzianq
@@ -30088,6 +31262,7 @@ sort: be_weight
 褚少孫	chuu shaw suen
 褚衣	chuu i
 褚遂良	chuu suey liang
+褟絛子	daq tau .tzyy
 褡褳	daq .lian
 褡褳	daq lian
 褥子	ruq .tzyy
@@ -30099,6 +31274,7 @@ sort: be_weight
 褲褶	kuh siq
 褶子	jèq .tzyy
 褶子	siq .tzyy
+褶子了	jèq .tzyy .le
 褶曲	jèq chiuq
 褶曲山脈	jèq chiuq shan meq
 褶皺	jèq jow
@@ -30146,6 +31322,7 @@ sort: be_weight
 西片	si piann
 西班牙舞蹈	si ban ya wuu daw
 西突厥史料	si tuq jiueq shyy liaw
+西葫蘆	si hwu .lu
 西葫蘆	si hwu lu
 西蒙遜	si mong suenn
 西藏	si tzanq
@@ -30166,8 +31343,10 @@ sort: be_weight
 西風東漸	si fong dong tziann
 西高止山脈	si gau jyy shan meq
 西點軍校	si dean jiun shiaw
+要不得	yaw .buq .de
 要不得	yaw buq deq
 要不是	yaw .buq shyh
+要不的	yaw .buq .de
 要價還價	yaw jiah hwan jiah
 要切	yaw tsieq
 要功	iau gong
@@ -30182,6 +31361,7 @@ sort: be_weight
 要寵召禍	iau choong jaw huoh
 要市	iau shyh
 要強	yaw chyang
+要得	yaw .de
 要得	yaw deq
 要挾	iau shieq
 要擊	iau jiq
@@ -30214,6 +31394,7 @@ sort: be_weight
 見不得	jiann buq deq
 見不得人	jiann buq deq ren
 見世報	shiann shyh baw
+見了和尚罵賊禿	jiann .le hor shanq mah tzeq tuq
 見仁見知	jiann ren jiann jy
 見便	jiann biann
 見個情	jiann .ge tsyng
@@ -30241,7 +31422,9 @@ sort: be_weight
 見血封喉	jiann shiueq fong hour
 見證	jiann .jenq
 見證	jiann jenq
+見識	jiann .shyq
 見識	jiann shyq
+見識淺	jiann .shyq tsean
 見識淺短	jiann shyq tsean doan
 見錢	shiann tsyan
 見鐘不打	shiann jong buq daa
@@ -30286,6 +31469,7 @@ sort: be_weight
 親上成親	tsin shanq cherng tsin
 親不親	tsin buq tsin
 親串	tsin chuann
+親事	tsin .shy
 親事	tsin shyh
 親交	tsin jiau
 親人	tsin ren
@@ -30310,11 +31494,18 @@ sort: be_weight
 親啓	tsin chii
 親善	tsin shann
 親嘴	tsin tzoei
+親太太	tsinn tay .tay
 親奶奶	tsinn nae .nae
 親如手足	tsin ru shoou tzuq
 親子	tsin tzyy
 親子鑒定	tsin tzyy jiann dinq
 親子關係	tsin tzyy guan shih
+親家	tsinn .jia
+親家公	tsinn .jia gong
+親家母	tsinn .jia muu
+親家禮道	tsinn .jia lii daw
+親家翁	tsinn .jia ong
+親家老爺	tsinn .jia lao .ye
 親密	tsin miq
 親密無間	tsin miq wu jian
 親密無間	tsin miq wu jiann
@@ -30402,6 +31593,7 @@ sort: be_weight
 覷當	tsiuh dang
 覷空	tsiuh konq
 覷糊	tsiuh .hwu
+覺得	jioq .de
 觀主	guann juu
 觀光勝地	guan guang shenq dih
 觀塘	guann tarng
@@ -30448,7 +31640,7 @@ sort: be_weight
 觚棱	gu leng
 觜宿	tzoei siow
 觜蠵	tzoei shi
-觜觽	tzoei shi
+觜觽	tzoei shyi
 觜鼻	tzoei bih
 解人	jiay ren
 解元	jiay yuan
@@ -30503,6 +31695,7 @@ sort: be_weight
 言行若一	yan shinq roq yiq
 言行錄	yan shinq luq
 言言	yan yan
+言語	yan .iu
 言談行事	yan tarn shyng shyh
 言重	yan jonq
 訂久要	dinq jeou iau
@@ -30536,19 +31729,23 @@ sort: be_weight
 訌亂	horng luann
 訌阻	horng tzuu
 討伐	tao faq
+討便宜	tao pyan .yi
 討個分曉	tao .ge fen sheau
 討價還價	tao jiah hwan jiah
+討公道	tao gong .dau
 討分上	tao fenn shanq
 討分曉	tao fen sheau
 討惡剪暴	tao oq tzean baw
 討教	tao jiaw
 討油水	tao you .shoei
 討究	tao jiow
+討米下不得鍋	tao mii shiah buq .de guo
 討親	tao tsin
 討還	tao hwan
 討饒頭	tao rau .tour
 訑謾	yi mann
 訓蒙	shiunn mong
+訕不搭的	shann .buq daq .de
 訖了	chiq leau
 託之空言	toq jy kong yan
 託宿	toq suq
@@ -30563,10 +31760,13 @@ sort: be_weight
 記傳	jih juann
 記分	jih fen
 記分員	jih fen yuan
+記得	jih .de
 記爲	jih wei
 記省	jih siing
 記者招待會	jih jèè jau day huey
+記號	jih .hau
 記號	jih haw
+記號筆	jih .hau biq
 記錄片	jih luq piann
 訛傳	ngo chwan
 訛稱	ngo cheng
@@ -30650,10 +31850,12 @@ sort: be_weight
 話到嘴邊留三分	huah daw tzoei bian liou san fen
 話匣子	huah shiaq .tzyy
 話卡	huah kaa
+話又說回來	huah yow shuoq hwei .lai
 話又說回來	huah yow shuoq hwei lai
 話差	huah cha
 話把	huah bah
 話柄	huah binq
+話說回來	huah shuoq hwei .lai
 該應	gai ing
 該死行瘟	gai syy shyng uen
 該當	gai dang
@@ -30671,9 +31873,13 @@ sort: be_weight
 認不出	renn .buq chuq
 認分	renn fenn
 認同卡	renn torng kaa
+認得	renn .de
 認爲	renn wei
 認知失調	renn jy shyq tyau
 認親	renn tsin
+認識	renn .shyq
+認識不能	renn .shyq buq neng
+認識論	renn .shyq luenn
 認賊爲子	renn tzeq wei tzyy
 誑子	kuanq .tzyy
 誑稱	kuanq cheng
@@ -30697,18 +31903,26 @@ sort: be_weight
 說不來	shuoq .buq lai
 說不出	shuoq .buq chuq
 說不定	shuoq .buq dinq
+說不得	shuoq .buq .de
 說不是	shuoq .buq shyh
 說不清	shuoq .buq tsing
 說不盡	shuoq .buq tzinn
 說不過	shuoq .buq guoh
 說不過去	shuoq .buq guoh chiuh
 說來話長	shuoq lai huah charng
+說分上	shuoq fenn .shang
 說到曹操	shuoq daw tsaur tsau
+說和	shuoq .ho
 說地談天	shuoq dih tarn tian
 說士	shuey shyh
 說天說地	shuoq tian shuoq dih
 說客	shuey keq
 說帖	shuoq tieq
+說得上	shuoq .de shanq
+說得來	shuoq .de lai
+說得着	shuoq .de joq
+說得過去	shuoq .de guoh chiuh
+說得響	shuoq .de sheang
 說教	shuoq jiaw
 說方便	shuoq fang biann
 說是一回事	shuoq shyh yiq hwei shyh
@@ -30727,7 +31941,10 @@ sort: be_weight
 說親	shuoq tsin
 說親道熱	shuoq tsin daw rèq
 說話不當話	shuoq huah buq danq huah
+說說	shuoq .shuoq
 說調	shuoq tyau
+說起來	shuoq .chii .lai
+說道	shuoq .dau
 說道	shuoq daw
 說長短	shuoq charng doan
 說長說短	shuoq charng shuoq doan
@@ -30883,6 +32100,7 @@ sort: be_weight
 調詞架訟	tyau tsyr jiah sonq
 調試	tyau shyh
 調課	diaw koh
+調調	diaw .diaw
 調調	tyau tyau
 調諧	tyau shyai
 調諧器	tyau shyai chih
@@ -30934,6 +32152,7 @@ sort: be_weight
 談和	tarn hor
 談天說地	tarn tian shuoq dih
 談天論地	tarn tian luenn dih
+談得來	tarn .de lai
 談柄	tarn binq
 談生意	tarn sheng .yih
 談興	tarn shinq
@@ -30944,6 +32163,7 @@ sort: be_weight
 諍言	jenq yan
 諍訟	jenq sonq
 諍諫	jenq jiann
+諒得過	lianq .de guoh
 諔詭	chuq goei
 諕人	shiah ren
 諕嚇	shiah shiah
@@ -31047,6 +32267,7 @@ sort: be_weight
 識字率	shyq tzyh liuq
 識局	shyq jiuq
 識度	shyq duh
+識得	shyq .de
 識才尊賢	shyq tsair tzuen shyan
 識文斷字	shyq wen duann tzyh
 識文談字	shyq wen tarn tzyh
@@ -31120,12 +32341,14 @@ sort: be_weight
 變動匯率	biann donq huey liuq
 變奏曲	biann tzow chiuq
 變弄	biann lonq
+變得	biann .de
 變徵	biann jyy
 變徵之聲	biann jyy jy sheng
 變徵之音	biann jyy jy in
 變更	biann geng
 變爲	biann wei
 變相	biann sianq
+變着	biann .joq
 變着	biann joq
 變調	biann diaw
 變跡埋名	biann tziq mai ming
@@ -31134,6 +32357,7 @@ sort: be_weight
 讎校	chour jiaw
 讒間	charn jiann
 讓三分	ranq san fen
+讓步地	ranq buh .de
 讕調	lan diaw
 讘䛟	jèq jiaq
 讚唄	tzann bay
@@ -31144,6 +32368,7 @@ sort: be_weight
 豁亮	huoq lianq
 豁免	huoq mean
 豁免權	huoq mean chyuan
+豁出去	huoq .chuq .chiu
 豁出去	huoq chuq chiuh
 豁剌剌	huoq laq laq
 豁勁	huoq jinq
@@ -31161,6 +32386,7 @@ sort: be_weight
 豁然開悟	huoq ran kai wuh
 豁然開朗	huoq ran kai laang
 豁略大度	huoq lioq dah duh
+豁着	huoq .joq
 豁脣子	huoq chwen .tzyy
 豁脫	huoq tuoq
 豁落	huoq loq
@@ -31178,6 +32404,20 @@ sort: be_weight
 豆干	dow gan
 豆漿	dow tziang
 豆脯	dow fuu
+豆腐	dow .fu
+豆腐乳	dow .fu ruu
+豆腐乾	dow .fu gan
+豆腐嘴	dow .fu tzoei
+豆腐官	dow .fu guan
+豆腐干	dow .fu gan
+豆腐心	dow .fu sin
+豆腐渣	dow .fu ja
+豆腐渣工程	dow .fu ja gong cherng
+豆腐皮	dow .fu pyi
+豆腐腦	dow .fu nao
+豆腐衣	dow .fu i
+豆腐西施	dow .fu si shy
+豆腐鯊	dow .fu sha
 豆萁相煎	dow chyi siang tzian
 豆重榆瞑	dow jonq yu ming
 豎人毛髮	shuh ren mau faq
@@ -31216,6 +32456,7 @@ sort: be_weight
 豪俠強徒	haur shiaq chyang twu
 豪強	haur chyang
 豪忕	haur tay
+豪橫	haur .heng
 豪橫	haur henq
 豪氣干雲	haur chih gan yun
 豪興	haur shinq
@@ -31248,7 +32489,7 @@ sort: be_weight
 貝伽特症候羣	bey chye teq jenq how chyun
 貝克勒	bey keq leq
 貝利卡登	bey lih kaa deng
-貝勒	bey .leq
+貝勒	bey .le
 貝南共和國	bey nan gonq hor guoq
 貝卡谷地	bey kaa guq dih
 貝婭特麗克絲	bey yah teq li keq sy
@@ -31264,6 +32505,7 @@ sort: be_weight
 貞操帶	jeng tsau day
 貞淑	jeng shuq
 貞白	jeng beq
+貞節牌坊	jeng tzieq pair .fang
 貞觀	jeng guann
 貞觀之治	jeng guann jy jyh
 貞觀政要	jeng guann jenq yaw
@@ -31310,6 +32552,7 @@ sort: be_weight
 販夫俗子	fann fu suq .tzyy
 販子	fann .tzyy
 販弄	fann lonq
+貪便宜	tan pyan .yi
 貪冒	tan meq
 貪墨敗度	tan meq bay duh
 貪多務得	tan do wuh deq
@@ -31367,6 +32610,7 @@ sort: be_weight
 費思量	fey sy liang
 費洛蒙	fey loq mong
 費率	fey liuq
+費盡心思	fey tzinn sin .sy
 貼切	tieq tsieq
 貼吧	tieq .ba
 貼息	tieq siq
@@ -31453,8 +32697,10 @@ sort: be_weight
 賞罰分明	shaang faq fen ming
 賞識	shaang shyq
 賞賜	shaang syh
+賞錢	shaang .tsian
 賞錢	shaang tsyan
 賞面子	shaang miann .tzyy
+賠了夫人又折兵	peir .le fu ren yow jèq bing
 賠個不是	peir .ge buq shyh
 賠小心	peir seau .sin
 賠累	peir luey
@@ -31472,12 +32718,15 @@ sort: be_weight
 賣勁	may jinq
 賣務場	may wuh charng
 賣場	may charng
+賣字號	may tzyh .hau
 賣富差貧	may fuh chai pyn
+賣工夫	may gong .fu
 賣弄	may .lonq
 賣弄	may lonq
 賣弄玄虛	may .lonq shyuan shiu
 賣惡	may oq
 賣文爲活	may wen wei huoq
+賣本事	may been .shy
 賣李鑽核	may lii tzuan heq
 賣查梨	may ja li
 賣死勁	may syy jinq
@@ -31527,6 +32776,7 @@ sort: be_weight
 質量規範	jyq lianq guei fann
 質量關	jyq lianq guan
 質難	jyq nann
+賬房先生	janq farng sian .sheng
 賭博場	duu boq charng
 賭當	duu danq
 賴和	lay hor
@@ -31580,6 +32830,7 @@ sort: be_weight
 赫塞	heq seq
 赫塞哥維納	heq seq go wei naq
 赫柏定律	heq beq dinq liuq
+赫魯曉夫	heq luu sheau .fu
 赭衣塞路	jèè i seq luh
 赳赳	jiow jiow
 赳赳武夫	jiow jiow wuu fu
@@ -31590,6 +32841,7 @@ sort: be_weight
 赴蹈	fuh daw
 赴蹈湯火	fuh daw tang huoo
 赴難	fuh nann
+起來	chii .lai
 起來	chii lai
 起偃爲豎	chii yean wei shuh
 起勁	chii jinq
@@ -31611,6 +32863,7 @@ sort: be_weight
 起行	chii shyng
 起解	chii jiay
 起重機	chii jonq ji
+起重葫蘆	chii chorng hwu .lu
 起開	chii .kai
 起降	chii jianq
 起雞皮疙瘩	chii ji pyi geq .baq
@@ -31654,6 +32907,7 @@ sort: be_weight
 趔趄	lieq .tziu
 趔趄	lieq tziu
 趔趔趄趄	lieq lieq tziu tziu
+趕上	gaan .shang
 趕上	gaan shanq
 趕不上	gaan buq shanq
 趕不上趟	gaan buq shanq tanq
@@ -31662,11 +32916,14 @@ sort: be_weight
 趕場	gaan charng
 趕場子	gaan chaang .tzyy
 趕座子	gaan tzuoh .tzyy
+趕得上	gaan .de shanq
+趕得及	gaan .de jiq
 趕得及	gaan deq jiq
 趕情	gaan .tsyng
 趕散	gaan sann
 趕時間	gaan shyr jian
 趕浪頭	gaan lanq .tour
+趕着鴨子上架	gaan .joq yaq .tzyy shanq jiah
 趕碌	gaan .luq
 趕跑	gaan pao
 趕跑	gaan paur
@@ -31675,6 +32932,7 @@ sort: be_weight
 趙衰	jaw tsuei
 趙飛燕	jaw fei yann
 趟馬	tanq maa
+趦趄囁嚅	tzyh tziu gnieq ru
 趨舍	tsiu shèh
 趨舍指湊	tsiu shèh jyy tsow
 趨舍異路	tsiu shèh yih luh
@@ -31687,6 +32945,7 @@ sort: be_weight
 足蹈手舞	tzuq daw shoou wuu
 足量	tzuq lianq
 足高氣強	tzuq gau chih jianq
+趴下	pa .shia
 趴鼻子	pa bih .tzyy
 趵突泉	baw tuq tsyuan
 趵突泉詩	baw tuq tsyuan shy
@@ -31695,6 +32954,7 @@ sort: be_weight
 跂坐	chih tzuoh
 跂望	chih wanq
 跂訾	chih tzyy
+跌了彈的斑鳩	dieq .le dann .de ban jiou
 跌交	dieq jiau
 跌停板	dieq tyng baan
 跌價	dieq jiah
@@ -31705,6 +32965,7 @@ sort: be_weight
 跌宕昭彰	dieq danq jau jang
 跌宕遒麗	dieq danq tsyou lih
 跌幅	dieq fuq
+跌得重	dieq .de jonq
 跌扑	dieq puq
 跌打	dieq daa
 跌打損傷	dieq daa soen shang
@@ -31727,6 +32988,9 @@ sort: be_weight
 跑不了	pao buq leau
 跑不了寺	pao buq leau syh
 跑不了廟	pao buq leau miaw
+跑了和尚	pao .le hor shanq
+跑了和尚跑不了寺	pao .le hor shanq pao buq leau syh
+跑了和尚跑不了廟	pao .le hor shanq pao buq leau miaw
 跑兔子	pao tuh .tzyy
 跑圓場	pao yuan charng
 跑得了和尚	pao deq leau hor shanq
@@ -31768,9 +33032,11 @@ sort: be_weight
 跨子車	kuah .tzyy chè
 跨度	kuah duh
 跨胳膊	kuah geq .boq
+跪下	guey .shia
 跪下	guey shiah
 跪地求饒	guey dih chyou rau
 跪鎖子	guey suoo .tzyy
+路上	luh .shang
 路上	luh shanq
 路上行人口似碑	luh shanq shyng ren koou syh bei
 路子	luh .tzyy
@@ -31790,8 +33056,10 @@ sort: be_weight
 跳牆驀圈	tiaw tsyang meq chiuan
 跳空	tiaw kong
 跳糠籮	tiaw kang lo
+跳虎撥着關捩子	tiaw huu boq .joq guan lieq .tzyy
 跳蚤	tiaw .tzao
 跳蚤	tiaw tzao
+跳起來	tiaw .chii .lai
 跳起來	tiaw chii lai
 跳踉	tiaw liang
 跳間	tiaw jian
@@ -31814,6 +33082,7 @@ sort: be_weight
 踏燕奔馬	taq yann ben maa
 踏猛子	taq meeng .tzyy
 踏看	taq kann
+踏着尾羓頭動	taq .joq veei .ba tour donq
 踏破鐵鞋無覓處	taq poh tieq shyai wu miq chuh
 踏踏實實	taq .taq shyq shyq
 踏踏實實	taq taq shyq shyq
@@ -31878,6 +33147,7 @@ sort: be_weight
 蹦躂	bonq .taq
 蹦躂	bonq taq
 蹧塌	tzaur taq
+蹧踐	tzaur .tzian
 蹧蹋	tzaur .taq
 蹧蹋	tzaur taq
 蹩躠	bieq sieq
@@ -31897,6 +33167,7 @@ sort: be_weight
 躡悄悄	gnieq tsiaw tsiaw
 躡蹻擔簦	gnieq jyau dan deng
 躪藉	linn tzieh
+身上	shen .shang
 身上	shen shanq
 身份卡	shen fen kaa
 身份識別卡	shen fen shyq bieq kaa
@@ -31918,6 +33189,7 @@ sort: be_weight
 身當矢石	shen dang shyy shyq
 身負重傷	shen fuh jonq shang
 身輕如燕	shen ching ru yann
+身量	shen .liang
 身長	shen charng
 身體力行	shen tii liq shyng
 身體部分	shen tii buh fenn
@@ -31942,10 +33214,12 @@ sort: be_weight
 車人	jiu ren
 車僮	chè torng
 車右	jiu yow
+車喝	chè .hoq
 車場	chè charng
 車塵馬跡	chè chern maa tziq
 車墊子	chè diann .tzyy
 車士	jiu shyh
+車夫	chè .fu
 車子	chè .tzyy
 車廠子	chè chaang .tzyy
 車書相望	chè shu siang wanq
@@ -31973,6 +33247,7 @@ sort: be_weight
 軋忽	yaq huq
 軋棉	yaq mian
 軋機	jaq ji
+軋着	yaq .joq
 軋着	yaq joq
 軋紋	yaq wen
 軋花機	yaq hua ji
@@ -31996,6 +33271,7 @@ sort: be_weight
 軌轍	goei chèq
 軌道空間站	goei daw kong jian jann
 軌量	goei lianq
+軍事力量	jiun shyh liq .liang
 軍事基地	jiun shyh ji dih
 軍事學校	jiun shyh shioq shiaw
 軍事教育	jiun shyh jiaw yuq
@@ -32017,6 +33293,7 @@ sort: be_weight
 軟兀剌	roan wuq laq
 軟刀子	roan dau .tzyy
 軟口蓋	roan koou gay
+軟和	roan .ho
 軟底子	roan dii .tzyy
 軟怯怯	roan chieq chieq
 軟木塞	roan muq seq
@@ -32026,6 +33303,7 @@ sort: be_weight
 軟熟	roan shuq
 軟片	roan piann
 軟着陸	roan joq luq
+軟瞇𥉐	roan mi shii
 軟罐頭	roan guann .tour
 軟調脾	roan tyau pyi
 軟釘子	roan ding .tzyy
@@ -32035,7 +33313,6 @@ sort: be_weight
 軸子	juq .tzyy
 軸率	juq liuq
 軸突	juq tuq
-軸艫千里	juq lu tsian lii
 軻峨	ko ngo
 較切	jiaw tsieq
 較勁	jiaw jinq
@@ -32101,6 +33378,7 @@ sort: be_weight
 輕災浮難	ching tzai fwu nann
 輕率	ching shuay
 輕生重義	ching sheng jonq yih
+輕省	ching .sheeng
 輕省	ching sheeng
 輕看	ching kann
 輕薄	ching boq
@@ -32132,6 +33410,7 @@ sort: be_weight
 輣軋	perng yaq
 輥子	goen .tzyy
 輥軋	goen yaq
+輩分	bey .fen
 輩分	bey fenn
 輩子	bey .tzyy
 輪唱曲	luen chanq chiuq
@@ -32148,6 +33427,7 @@ sort: be_weight
 輸尿管	shu gniaw goan
 輸服甘結	shu fuq gan jieq
 輸沙量	shu sha lianq
+輸着	shu .joq
 輸着	shu joq
 輸肝剖膽	shu gan poou daan
 輸血	shu shiueq
@@ -32180,6 +33460,7 @@ sort: be_weight
 轉塔	juann taq
 轉子	juann .tzyy
 轉字鎖	juann tzyh suoo
+轉悠	juann .iou
 轉敗爲勝	juann bay wei shenq
 轉游	juann .you
 轉渾天儀	juann hwen tian yi
@@ -32197,6 +33478,7 @@ sort: be_weight
 轉車臺	juann chè tair
 轉軸	juann juq
 轉輪手槍	juann luen shoou tsiang
+轉轉	juann .juan
 轉鈴	juann ling
 轉門	juann men
 轉鼓	juann guu
@@ -32306,12 +33588,14 @@ sort: be_weight
 迎風待月	yng fong day yueq
 迎風搖曳	yng fong yau yih
 迎養	yng yanq
+近乎	jinn .hu
 近乎	jinn hu
 近便	jinn biann
 近地點	jinn dih dean
 近方賣弄	jinn fang may lonq
 近端胞漿	jinn duan bau tziang
 近處	jinn chuh
+近視眼生了瞎子	jinn shyh yean sheng .le shiaq .tzyy
 近親	jinn tsin
 近親交配	jinn tsin jiau pey
 近親繁殖	jinn tsin farn jyq
@@ -32340,6 +33624,7 @@ sort: be_weight
 迴清倒影	hwei tsing daw yiing
 迴穴	hwei shiueq
 迷住	mi .juh
+迷你玫瑰	mi nii mei .guei
 迷惑	mi .huoq
 迷惑	mi huoq
 迷惑龍	mi .huoq long
@@ -32400,6 +33685,7 @@ sort: be_weight
 逍遙自在	siau yau tzyh .tzay
 逍遙自在	siau yau tzyh tzay
 逍遙自得	siau yau tzyh deq
+透亮	tow .liang
 透印版印刷	tow yinn baan yinn shuaq
 透性膜	tow sinq moq
 透明度	tow ming duh
@@ -32427,6 +33713,7 @@ sort: be_weight
 這個	jèh .ge
 這和	jèh hor
 這和	jèh hoh
+這咱	jèh .tzan
 這家子	jèh jia .tzyy
 這會子	jèh huey .tzyy
 這樣吧	jèh yanq .ba
@@ -32439,6 +33726,8 @@ sort: be_weight
 這還了得	jèh hair leau deq
 這陣子	jèh jenn .tzyy
 這頭	jèh .tour
+這麼	jèh .mo
+這麼着	jèh .mo joq
 通侻	tong tuoq
 通便劑	tong biann tzih
 通俗常言疏證	tong suq charng yan shuh jenq
@@ -32483,6 +33772,7 @@ sort: be_weight
 通鋪	tong puh
 通關鼻子	tong guan bih .tzyy
 逛窯子	guanq yau .tzyy
+逛逛	guanq .guang
 逛逛	guanq guanq
 逞強	cheeng chyang
 逞強稱能	cheeng chyang cheng neng
@@ -32554,6 +33844,7 @@ sort: be_weight
 進退不得	tzinn tuey buq deq
 進退中繩	tzinn tuey jonq sherng
 進退爲難	tzinn tuey wei nan
+進項	tzinn .shianq
 進項	tzinn shianq
 逴躒	choq loq
 逶迆	uei yii
@@ -32582,6 +33873,7 @@ sort: be_weight
 遂寧市	suey gning shyh
 遇人不淑	yuh ren buq shuq
 遇便	yuh biann
+遇着	yuh .joq
 遇着	yuh joq
 遇難	yuh nann
 遇難成祥	yuh nann cherng syang
@@ -32606,6 +33898,7 @@ sort: be_weight
 遊逛	you guanq
 遊騎	you jih
 遊騎無歸	you jih wu guei
+運動	yunn .donq
 運動	yunn donq
 運城地區	yunn cherng dih chiu
 運將	yunn tzianq
@@ -32634,21 +33927,32 @@ sort: be_weight
 過一過	guoh .yiq guoh
 過不下	guoh .buq shiah
 過不去	guoh .buq chiuh
+過了青春無少年	guoh .le tsing chuen wu shaw gnian
 過五關斬六將	guoh wuu guan jaan luq tzianq
+過來	guoh .lai
 過來	guoh lai
 過分	guoh fenn
+過去	guoh .chiu
 過去	guoh chiuh
+過去分詞	guoh .chiu fen tsyr
+過去式	guoh .chiu shyq
 過去式	guoh chiuh shyq
+過去經驗	guoh .chiu jing yann
 過天	guoh .tian
 過嫁妝	guoh jiah .juang
 過子	guoh .tzyy
 過年	guoh .gnian
 過年	guoh gnian
 過度	guoh duh
+過度學習到的	guoh duh shioq siq daw .de
 過度緊張	guoh duh jiin jang
 過度關懷	guoh duh guan hwai
 過得	guoh deq
+過得一天算一天	guoh .de yiq tian suann yiq tian
+過得去	guoh .de chiuh
 過得去	guoh deq chiuh
+過得着	guoh .de joq
+過折了	guoh jèq .le
 過敏反應	guoh miin faan yinq
 過敏性反應	guoh miin sinq faan yinq
 過日子	guoh ryq .tzyy
@@ -32672,11 +33976,13 @@ sort: be_weight
 遏漸防萌	oq tzian farng meng
 遐跡	shya tziq
 遒勁	tsyou jinq
+道上	daw .shang
 道不了	daw buq leau
 道不同不相爲謀	daw buq torng buq siang wei mou
 道不得	daw buq deq
 道不相謀	daw buq siang mou
 道傍李	daw parng lii
+道分	daw .fen
 道卡斯族	daw kaa sy tzuq
 道在屎溺	daw tzay shyy niq
 道地	daw dih
@@ -32685,15 +33991,18 @@ sort: be_weight
 道得應得	daw deq ing deq
 道德教育	daw deq jiaw yuq
 道德淪喪	daw deq luen sanq
+道德認識	daw deq renn .shyq
 道教	daw jiaw
 道教徒	daw jiaw twu
 道曲	daw chiuq
 道着	daw joq
 道範長昭	daw fann charng jau
 道藏	daw tzanq
+道行	daw .hang
 道袍竹冠	daw paur juq guan
 道觀	daw guann
 道調	daw diaw
+道道地地	daw .dau dih dih
 道高一尺	daw gau yiq chyq
 達到目的	daq daw muq diq
 達卡	daq kaa
@@ -32772,6 +34081,7 @@ sort: be_weight
 遼朝	liau chaur
 遼東白豕	liau dong beq shyy
 遼落	liau loq
+避不得腥	bih .buq .de sing
 避井落坑	bih tziing loq keng
 避人之處	bih ren jy chuh
 避地	bih dih
@@ -32797,6 +34107,7 @@ sort: be_weight
 邂逅相遇	shiay how siang yuh
 還不如	hair buq ru
 還丹	hwan dan
+還了得	hair leau .de
 還以顏色	hwan yii yan seq
 還俗	hwan suq
 還債	hwan jay
@@ -32814,6 +34125,7 @@ sort: be_weight
 還嬰	hwan ing
 還席	hwan siq
 還帳	hwan janq
+還得快	hwan .de kuay
 還忌	hwan jih
 還性	hwan sinq
 還惺	hwan sing
@@ -32831,6 +34143,7 @@ sort: be_weight
 還珠返璧	hwan ju faan biq
 還目	hwan muq
 還着	hair joq
+還着	hwan .joq
 還禮	hwan lii
 還給	hwan geei
 還翰	hwan hann
@@ -32864,6 +34177,7 @@ sort: be_weight
 邊都沾不上	bian du jan buq shanq
 邊長	bian charng
 邊騎	bian jih
+邋裏邋遢	laq .li laq taq
 邋遢	laq .taq
 邋遢本	laq taq been
 邋邋	laq laq
@@ -32875,6 +34189,7 @@ sort: be_weight
 邏輯重音	lo tziq jonq in
 邏輯鏈路控制	lo .tziq liann luh konq jyh
 邏輯閘	lo tziq jiaq
+邏逤檀	lo shah tarn
 邏騎	lo jih
 邐迤	lii yii
 邙山行	mang shan shyng
@@ -32885,13 +34200,16 @@ sort: be_weight
 邦媛	bang yuann
 邦教	bang jiaw
 邪不干正	sye buq gan jenq
+邪乎	sye .hu
 邪僞	sye wey
 邪呼	ye hu
 邪惡	sye oq
 邪惡軸心	sye oq juq sin
 邪教	sye jiaw
 邪曲	sye chiuq
+邪行	sye .shing
 邪行	sye shinq
+邪道	sye .dau
 邪道	sye daw
 邯鄲地區	harn dan dih chiu
 邱壑	chiou hoq
@@ -32906,6 +34224,8 @@ sort: be_weight
 郘鐘	leu jong
 郢書燕說	yiing shu ian shuoq
 郢都	yiing du
+部份	buh .fen
+部分	buh .fen
 部分	buh fenn
 部分值	buh fenn jyq
 部分法	buh fenn faq
@@ -32930,6 +34250,7 @@ sort: be_weight
 都俞吁咈	du yu shiu fuq
 都勻	du yun
 都勻市	du yun shyh
+都嚕	du .lu
 都坑	du keng
 都城	du cherng
 都大	du dah
@@ -33008,6 +34329,7 @@ sort: be_weight
 酈食其	liq yih ji
 酉牌時分	yeou pair shyr fen
 酌量	joq liang
+配上	pey .shang
 配不上	pey .buq shanq
 配件掛勾	pey jiann guah gou
 配分法	pey fen faq
@@ -33042,6 +34364,7 @@ sort: be_weight
 酒醴麯櫱	tzeou lii chiuq gnieq
 酒量	tzeou lianq
 酒鋪	tzeou puh
+酒錢	tzeou .tsian
 酒食地獄	tzeou shyq dih yuq
 酒麯	tzeou chiuq
 酖毒	jenn duq
@@ -33067,14 +34390,17 @@ sort: be_weight
 酸葡萄	suan pwu .taur
 酸葡萄心理	suan pwu .taur sin lii
 酸鹼度	suan jean duh
+酸黃虀爛豆腐	suan hwang tzi lann dow .fu
 酺燕	pwu yann
 醇和	chwen hor
 醇朴	chwen poq
 醉厭厭	tzuey ian ian
 醉如泥	tzuey ru ni
+醉貌咕咚	tzuey .maw gu dong
 醋勁	tsuh jinq
 醋娘子要食楊梅	tsuh gniang .tzyy yaw shyq yang mei
 醋心	tsuh .sin
+醋打怎麼酸	tsuh daa tzeen .mo suan
 醋罈子	tsuh tarn .tzyy
 醋罐子	tsuh guann .tzyy
 醜丫頭	choou ia .tour
@@ -33088,12 +34414,14 @@ sort: be_weight
 醜行	choou shinq
 醜類惡物	choou luey oq wuq
 醫卜星相	i buq sing sianq
+醫家	i .jia
 醫療給付	i liaw jiq fuh
 醫肚皮	i duh pyi
 醫藥分業	i yoq fen yeq
 醫藥分離	i yoq fen li
 醬糊缸	tzianq .hwu gang
 醬肘子	tzianq joou .tzyy
+醬豆腐	tzianq dow .fu
 醯胺類	shi oq luey
 釁惡	shinn oq
 采地	tsay dih
@@ -33321,6 +34649,7 @@ sort: be_weight
 重要分子	jonq yaw fenn tzyy
 重要問題	jonq yaw wenn tyi
 重要性	jonq yaw sinq
+重要的是	jonq yaw .de shyh
 重見天日	chorng jiann tian ryq
 重見複出	chorng jiann fuq chuq
 重規疊矩	chorng guei dieq jeu
@@ -33360,6 +34689,7 @@ sort: be_weight
 重重	jonq jonq
 重重	chorng chorng
 重重疊疊	chorng chorng dieq dieq
+重重的	jonq jonq .de
 重重落落	chorng chorng loq loq
 重量	jonq lianq
 重量單位	jonq lianq dan wey
@@ -33549,11 +34879,13 @@ sort: be_weight
 鈚箭	pyi tziann
 鈞帖	jiun tieq
 鈣片	gay piann
+鈴鐺	ling .dang
 鈴鐺	ling dang
+鈴鐺壽星	ling .dang show .sing
 鈷六十	guu luq shyq
 鈷玻璃	guu bo .li
 鈷藍	guu lan
-鈽彈	bu dann
+鈽彈	buh dann
 鈾礦	you kuanq
 鈿合	diann hoq
 鈿尺	diann chyq
@@ -33575,6 +34907,7 @@ sort: be_weight
 鉛玻璃	chian bo .li
 鉤勒	gou leq
 鉤子	gou .tzyy
+鉤搭	gou .daq
 鉤校	gou jiaw
 鉤爪	gou jao
 鉤爪鋸牙	gou jao jiuh ya
@@ -33601,6 +34934,7 @@ sort: be_weight
 銅匠	torng .tzianq
 銅匠	torng tzianq
 銅模	torng mu
+銅盆撞了鐵掃帚	torng pern juanq .le tieq sao joou
 銅筋鐵肋	torng jin tieq leq
 銅臭	torng shiow
 銅臭味	torng shiow vey
@@ -33668,6 +35002,7 @@ sort: be_weight
 鋪排	pu pair
 鋪排張揚	pu pair jang yang
 鋪擺	pu bae
+鋪攤	pu .tan
 鋪攤	pu tan
 鋪放	pu fanq
 鋪敘	pu siuh
@@ -33677,6 +35012,7 @@ sort: be_weight
 鋪炕	pu kanq
 鋪牀	pu chwang
 鋪牌	pu pair
+鋪的	pu .de
 鋪眉搧眼	pu mei shan yean
 鋪眉苫眼	pu mei shan yean
 鋪眉蒙眼	pu mei mong yean
@@ -33686,6 +35022,7 @@ sort: be_weight
 鋪結	pu jieq
 鋪胸納地	pu shiong naq dih
 鋪臥	pu woh
+鋪蓋	pu .gay
 鋪蓋	pu gay
 鋪襯	pu .chenn
 鋪襯	pu chenn
@@ -33710,6 +35047,7 @@ sort: be_weight
 鋪頭話	pu tour huah
 鋪馬	puh maa
 鋪騰	puh terng
+鋸了嘴的葫蘆	jiuh .le tzoei .de hwu lu
 鋸嘴葫蘆	jiuh tzoei hwu lu
 鋸大缸	jiuh dah gang
 鋸子	jiuh .tzyy
@@ -33769,6 +35107,7 @@ sort: be_weight
 錦旋	jiin syuan
 錦片	jiin piann
 錦片前程	jiin piann tsyan cherng
+錦衚衕	jiin hwu .tong
 錦衣夜行	jiin i yeh shyng
 錦還	jiin hwan
 錨地	mau dih
@@ -33801,6 +35140,7 @@ sort: be_weight
 錶蒙子	beau mong .tzyy
 鍊子	liann .tzyy
 鍊度	liann duh
+鍋伙	guo .huo
 鍋子	guo .tzyy
 鍋渣	guo .ja
 鍋煙子	guo ian .tzyy
@@ -33829,6 +35169,7 @@ sort: be_weight
 鎮國將軍	jenn guoq tziang jiun
 鎮寧布依族苗族自治縣	jenn gning buh i tzuq miau tzuq tzyh jyh shiann
 鎮寧縣	jenn gning shiann
+鎮得住	jenn .de juh
 鎮懾	jenn jèq
 鎮江地區	jenn jiang dih chiu
 鎮物	jenn .wuq
@@ -33844,6 +35185,7 @@ sort: be_weight
 鏈鎖反應	liann suoo faan yinq
 鏊子	ngau .tzyy
 鏊子	ngaw .tzyy
+鏊盤上螞蟻	ngau parn .shang maa yii
 鏌釾	moq ye
 鏑銜	diq shyan
 鏑鋒	diq fong
@@ -33902,6 +35244,7 @@ sort: be_weight
 鑑真和尚	jiann jen hor shanq
 鑑藏印	jiann tsarng yinn
 鑑識	jiann shyq
+鑒真和尚	jiann jen hor .shang
 鑰匙	yoq .shyr
 鑰匙圈	yoq .shyr chiuan
 鑰匙洞孔	yoq .shyr donq koong
@@ -34180,6 +35523,7 @@ sort: be_weight
 長白鎮	charng beq jenn
 長相思	charng siang sy
 長眠	charng mian
+長着臉	charng .joq lean
 長矛	charng mou
 長短	charng doan
 長短不一	charng doan buq yiq
@@ -34332,12 +35676,16 @@ sort: be_weight
 門縫	men fonq
 門背後放花子	men bey how fanq hua .tzyy
 門興格拉德巴赫	men shing geq lha deq ba heq
+門裏出身	men .li chuq shen
+門道	men .dau
 門道	men daw
 門鈸	men baq
 門靜脈	men tzinq meq
 門面	men .miann
 門面	men miann
 門面鋪席人	men miann puh siq ren
+閉上	bih .shang
+閉上嘴巴	bih .shang tzoei ba
 閉區間	bih chiu jian
 閉卷考	bih jiuann kao
 閉卷考試	bih jiuann kao shyh
@@ -34383,6 +35731,7 @@ sort: be_weight
 開放式教育	kai fanq shyq jiaw yuq
 開放性結核病	kai fanq sinq jieq heq binq
 開放性醫療制度	kai fanq sinq i liaw jyh duh
+開放的態度	kai fanq .de tay duh
 開放空間	kai fanq kong jian
 開敞地	kai chaang dih
 開方便門	kai fang biann men
@@ -34557,6 +35906,7 @@ sort: be_weight
 闖空門	choang kong men
 闖鍊	choang .liann
 闖門子	choang men .tzyy
+關上	guan .shang
 關中地區	guan jong dih chiu
 關係企業	guan shih chih yeq
 關係和	guan shih hor
@@ -34572,6 +35922,7 @@ sort: be_weight
 關東都督府	guan dong du duq fuu
 關煞	guan shaq
 關白	guan beq
+關着門過日子	guan .joq men guoh ryq .tzyy
 關稅率	guan shuey liuq
 關脈	guan meq
 關親	guan tsin
@@ -34873,6 +36224,7 @@ sort: be_weight
 阿迪斯阿貝巴	a diq sy a bey ba
 阿迪達斯	a diq daq sy
 阿連	a lian
+阿達	a .daq
 阿郎	a lang
 阿郎雜碎	a lang tzaq suey
 阿鄉	a shiang
@@ -34974,6 +36326,7 @@ sort: be_weight
 降調	jianq diaw
 降貴紆尊	jianq guey iu tzuen
 降附	shyang fuh
+降降的	jianq jianq .de
 降階	jianq jiai
 降霜	jianq shuang
 降順	shyang shuenn
@@ -34990,6 +36343,7 @@ sort: be_weight
 陡然間	doou ran jian
 院子	yuann .tzyy
 院落	yuann loq
+陣仗	jenn .jang
 陣地	jenn dih
 陣子	jenn .tzyy
 除喪	chwu sang
@@ -35001,10 +36355,12 @@ sort: be_weight
 除惡扶善	chwu oq fwu shann
 除臭劑	chwu chow tzih
 除舊更新	chwu jiow geng sin
+陪了夫人又折兵	peir .le fu ren yow jèq bing
 陪唱小姐	peir chanq seau .tziee
 陪客	peir .keq
 陪客	peir keq
 陪小心	peir seau .sin
+陪房	peir .farng
 陪都	peir du
 陬落	tzou loq
 陰乾	in gan
@@ -35018,6 +36374,7 @@ sort: be_weight
 陰教	in jiaw
 陰曹地府	in tsaur dih fuu
 陰涼處	in liang chuh
+陰溝裏翻船	in gou .li fan chwan
 陰盛陽衰	in shenq yang shuai
 陰空	in kong
 陰調	in diaw
@@ -35033,6 +36390,7 @@ sort: be_weight
 陰魂不散	in hwen buq sann
 陳冠希	chern guan shi
 陳天華	chern tian huah
+陳媽媽	chern mha .ma
 陳寔遺盜	chern shyq wey daw
 陳少白	chern shaw beq
 陳師鞠旅	chern shy jiuq leu
@@ -35106,6 +36464,7 @@ sort: be_weight
 障泥	janq ni
 隨便	swei biann
 隨分	swei fenn
+隨和	swei .ho
 隨和	swei hor
 隨和	swei hoh
 隨地	swei dih
@@ -35143,6 +36502,7 @@ sort: be_weight
 雀屏	tsioq pyng
 雀屏中目	tsioq pyng jonq muq
 雀息	tsioq siq
+雀盲眼	tsioq .mang yean
 雁影分飛	yann yiing fen fei
 雁杳魚沈	yann yeau yu chern
 雁足傳書	yann tzuq chwan shu
@@ -35243,6 +36603,8 @@ sort: be_weight
 雙重標準	shuang chorng biau joen
 雙重身分	shuang chorng shen fenn
 雛燕	chwu yann
+雜合菜	tzaq .hoq tsay
+雜和麪	tzaq .ho miann
 雜居地區	tzaq jiu dih chiu
 雜廁	tzaq tsyh
 雜當	tzaq dang
@@ -35271,6 +36633,7 @@ sort: be_weight
 雞肋尊拳	ji leq tzuen chyuan
 雞膚鶴髮	ji fu hoq faq
 雞蛋碰石頭	ji dann penq shyq .tour
+雞蛋裏挑骨頭	ji dann .li tiau guq .tour
 雞蟲得失	ji chorng deq shyq
 雞血石	ji shiueq shyq
 雞鞠	ji jiuq
@@ -35311,6 +36674,7 @@ sort: be_weight
 難以置信	nan yii jyh sinn
 難以言喻	nan yii yan yu
 難任	nan renn
+難住了	nann juh .le
 難保	nan bao
 難僑	nann chyau
 難償所願	nan charng suoo yuann
@@ -35354,6 +36718,7 @@ sort: be_weight
 難混	nan huenn
 難測	nan tseq
 難熬	nan ngau
+難爲	nan .uei
 難爲	nan wei
 難爲人上人	nan wei ren shanq ren
 難爲情	nan wei tsyng
@@ -35372,6 +36737,7 @@ sort: be_weight
 難胞	nann bau
 難色	nan seq
 難若登天	nan roq deng tian
+難處	nan .chu
 難處	nan chuh
 難行	nan shyng
 難記	nan jih
@@ -35380,6 +36746,7 @@ sort: be_weight
 難說難言	nan shuoq nan yan
 難買難賣	nan mae nan may
 難越雷池	nan yueq luei chyr
+難躲的是債	nan duoo .de shyh jay
 難逃法網	nan taur faq woang
 難過	nan guoh
 難道	nan daw
@@ -35410,7 +36777,10 @@ sort: be_weight
 雲泥異路	yun ni yih luh
 雲消霧散	yun siau wuh sann
 雲片糕	yun piann gau
+雲端裏看廝殺	yun duan .li kann sy shaq
+雲端裏老鼠	yun duan .li lao shuu
 雲興霞蔚	yun shing shya wey
+雲裏的日頭	yun .li .de ryq tour
 雲量	yun lianq
 雲階月地	yun jiai yueq dih
 雲麾將軍碑	yun huei tziang jiun bei
@@ -35429,6 +36799,7 @@ sort: be_weight
 零落山丘	ling loq shan chiou
 零零散散	ling ling sann sann
 零零落落	ling ling loq loq
+雷公打豆腐	luei gong daa dow .fu
 雷劈	luei piq
 雷厲風行	luei lih fong shyng
 雷射唱片	luei shèh chanq piann
@@ -35451,6 +36822,7 @@ sort: be_weight
 電光朝露	diann guang jau luh
 電功率	diann gong liuq
 電動縫衣機	diann donq forng i ji
+電動葫蘆	diann donq hwu .lu
 電動轉盤	diann donq juann parn
 電化教育	diann huah jiaw yuq
 電匣子	diann shiaq .tzyy
@@ -35533,6 +36905,7 @@ sort: be_weight
 露一鼻子	luh yiq bih .tzyy
 露井	luh tziing
 露兜樹	luh dou shuh
+露出了狐狸尾巴	luh chuq .le hwu .li veei .ba
 露出破綻	luh chuq poh jann
 露原形	luh yuan shyng
 露口風	luh koou fong
@@ -35643,6 +37016,7 @@ sort: be_weight
 青衫子	tsing shan .tzyy
 青貯塔	tsing juu taq
 青青	tsing tsing
+青龍頭上	tsing long tour .shang
 靖州苗族侗族自治縣	tzinq jou miau tzuq donq tzuq tzyh jyh shiann
 靖康之難	tzinq kang jy nann
 靖康傳信錄	tzinq kang chwan sinn luq
@@ -35684,6 +37058,7 @@ sort: be_weight
 非槓桿化	fei ganq gan huah
 非模態	fei mu tay
 非正式教育	fei jenq shyq jiaw yuq
+非法勾當	fei faq gou .dang
 非法行事	fei faq shyng shyh
 非法行爲	fei faq shyng wei
 非洲出血熱	fei jou chuq shiueq rèq
@@ -35699,6 +37074,7 @@ sort: be_weight
 靠子	kaw .tzyy
 靠山	kaw .shan
 靠山	kaw shan
+靠得住	kaw .de juh
 靠窗戶	kaw chuang .huh
 靡爛	ma lann
 靡費	ma fey
@@ -35709,6 +37085,9 @@ sort: be_weight
 面如重棗	miann ru jonq tzao
 面子	miann .tzyy
 面子上	miann .tzyy shanq
+面子上的人	miann .tzyy shanq .de ren
+面子上的差使	miann .tzyy shanq .de chai .shy
+面子上的話	miann .tzyy shanq .de huah
 面子話	miann .tzyy huah
 面惡心善	miann oq sin shann
 面折	miann jèq
@@ -35764,6 +37143,7 @@ sort: be_weight
 鞭子	bian .tzyy
 鞭扑	bian puq
 鞴馬	bey maa
+韁繩	jiang .sherng
 韁繩	jiang sherng
 韃子	daq .tzyy
 韋布匹夫	wei buh piq fu
@@ -35807,6 +37187,7 @@ sort: be_weight
 響應	sheang yinq
 響應時間	sheang yinq shyr jian
 響答影隨	sheang daq yiing swei
+響葫蘆	sheang hwu .lu
 響遏行雲	sheang oq shyng yun
 頂個諸葛亮	diing goh ju goq lianq
 頂呱呱	diing gu gu
@@ -35818,8 +37199,10 @@ sort: be_weight
 頂子牀	diing .tzyy chwang
 頂括括	diing guaq guaq
 頂橦踏索	diing chwang taq soq
+頂着磨子不知重	diing .joq moh .tzyy buq jy jonq
 頂蓋	diing gay
 頂門子	diing men .tzyy
+頂頭上司	diing tour shanq .sy
 頂頭上司	diing tour shanq sy
 頃刻間	chiing keq jian
 頃筐	ching kuang
@@ -35833,6 +37216,7 @@ sort: be_weight
 順天應時	shuenn tian yinq shyr
 順子	shuenn .tzyy
 順差	shuenn cha
+順序	shuenn .siu
 順序	shuenn siuh
 順應	shuenn yinq
 順應不良	shuenn yinq buq liang
@@ -35841,6 +37225,8 @@ sort: be_weight
 順應潮流	shuenn yinq chaur liou
 順水行舟	shuenn shoei shyng jou
 順水行船	shuenn shoei shyng chwan
+順溜	shuenn .liou
+順當	shuenn .dang
 順竿子	shuenn gan .tzyy
 順行	shuenn shyng
 順順溜溜	shuenn .shuenn lhiou lhiou
@@ -35849,6 +37235,7 @@ sort: be_weight
 頎長	chyi charng
 預付卡	yuh fuh kaa
 預估	yuh guh
+預備知識	yuh bey jy .shyq
 預力混凝土	yuh liq huenn gning tuu
 預應力	yuh yinq liq
 預拌混凝土	yuh bann huenn gning tuu
@@ -35890,6 +37277,7 @@ sort: be_weight
 頭匹	tour piq
 頭場	tour charng
 頭子	tour .tzyy
+頭巾弔在水裏	tour jin diaw tzay shoei .li
 頭廳相	tour ting sianq
 頭挑	tour tiau
 頭會箕斂	tour huey ji liann
@@ -35901,9 +37289,11 @@ sort: be_weight
 頭破血淋	tour poh shiueq lin
 頭童齒豁	tour torng chyy huoq
 頭肘子	tour joou .tzyy
+頭腦清楚	tour nao tsing .chu
 頭腦體操	tour nao tii tsau
 頭蓋	tour gay
 頭蓋骨	tour gay guq
+頭裏	tour .li
 頭角	tour jioq
 頭足異處	tour tzuq yih chuh
 頭輕腳重	tour ching jioq jonq
@@ -35954,15 +37344,19 @@ sort: be_weight
 顓頊	juan shiuq
 願行	yuann shinq
 顙子	saang .tzyy
+顛不剌的	dian .buq laq .de
 顛播	dian boh
 類地行星	luey dih shyng sing
 類木行星	luey muq shyng sing
+顢裏顢頇	man .li man han
 顢頇	man han
 顥穹	haw chiong
 顧不上	guh .buq shanq
+顧不得	guh .buq .de
 顧不得	guh buq deq
 顧不得許多	guh buq deq sheu do
 顧影弄姿	guh yiing lonq tzy
+顧得過來	guh .de guoh lai
 顧惜	guh siq
 顧慮重重	guh liuh chorng chorng
 顧曲	guh chiuq
@@ -35983,6 +37377,7 @@ sort: be_weight
 顫顫巍巍	jann jann wei wei
 顯卡	shean kaa
 顯弄	shean lonq
+顯得	shean .de
 顯微鏡載片	shean vei jinq tzay piann
 顯應	shean yinq
 顯示卡	shean shyh kaa
@@ -36003,6 +37398,7 @@ sort: be_weight
 風傳	fong chwan
 風切變	fong tsieq biann
 風化場所	fong huah charng suoo
+風吹砂子迷了眼	fong chuei sha .tzyy mi .le yean
 風吹鴨蛋殼	fong chuei yaq dann koq
 風和	fong hor
 風和日暄	fong hor ryq shiuan
@@ -36028,6 +37424,8 @@ sort: be_weight
 風標俏倬	fong biau tsiaw juoq
 風檔玻璃	fong danq bo .li
 風水	fong .shoei
+風水先生	fong .shoei sian .sheng
+風水先生	fong shoei sian .sheng
 風水輪流轉	fong shoei luen liou juann
 風波平地	fong bo pyng dih
 風流宰相	fong liou tzae sianq
@@ -36035,6 +37433,7 @@ sort: be_weight
 風流調法	fong liou diaw faq
 風流醞藉	fong liou yunn tzieh
 風流雲散	fong liou yun sann
+風涼	fong .liang
 風涼	fong liang
 風火相煽	fong huoo siang shan
 風燭草露	fong juq tsao luh
@@ -36137,6 +37536,7 @@ sort: be_weight
 飢寒交切	ji harn jiau tsieq
 飯籮	fann lo
 飯粘	fann gnian
+飯量	fann .liang
 飯飽弄箸	fann bao lonq juh
 飲和	yinn hor
 飲場	yinn charng
@@ -36161,6 +37561,7 @@ sort: be_weight
 飽和點	bao hor dean
 飽當知人飢	bao dang jy ren ji
 飽看	bao kann
+飽飽的	bao bao .de
 飾僞	shyq wey
 飾釘	shyq dinq
 飾非文過	shyq fei wenn guoh
@@ -36200,6 +37601,7 @@ sort: be_weight
 餘興節目	yu shinq tzieq muq
 餘量	yu lianq
 餘食贅行	yu shyq juey shinq
+餛飩	hwen .tuen
 餜子	guoo .tzyy
 餞行	tziann shyng
 餡子	shiann .tzyy
@@ -36244,6 +37646,7 @@ sort: be_weight
 香荷包	shiang hor bau
 香菌	shiang jiunn
 香蓼	shiang leau
+香薄荷	shiang boq .ho
 香蠟鋪	shiang laq puh
 香鋪	shiang puh
 香頭	shiang .tour
@@ -36268,7 +37671,9 @@ sort: be_weight
 馬子蓋	maa .tzyy gay
 馬將	maa tzianq
 馬將牌	maa tzianq pair
+馬尾中鬃豆腐	maa veei jong tzong dow .fu
 馬尾巴	maa veei .ba
+馬尾穿豆腐	maa veei chuan dow .fu
 馬快頭	maa kuay .tour
 馬拉卡	maa lha kaa
 馬拉地	maa lha dih
@@ -36430,6 +37835,7 @@ sort: be_weight
 驚惋	jing wann
 驚爲天人	jing wei tian ren
 驚諕	jing shiah
+驚醒	jing .sing
 驛傳	yiq chwan
 驟降	jow jianq
 驢子	liu .tzyy
@@ -36449,6 +37855,7 @@ sort: be_weight
 骨殖	guq jyq
 骨片	guq piann
 骨牌效應	guq pair shiaw yinq
+骨相	guq .siang
 骨碌	guq .luq
 骨碌碌	guq luq .luq
 骨結核	guq jieq heq
@@ -36460,6 +37867,7 @@ sort: be_weight
 骨膜	guq moq
 骨膜炎	guq moq yan
 骨血	guq shiueq
+骨裏骨碌	guq .li guq luq
 骨都	guq du
 骨都都	guq du du
 骨頭	guq .tour
@@ -36473,6 +37881,8 @@ sort: be_weight
 骾朴	geeng poq
 髂骨	kah guq
 髒彈	tzang dann
+體己	tii .jii
+體己錢	tii .jii tsyan
 體度	tii duh
 體惜	tii siq
 體操	tii tsau
@@ -36483,6 +37893,7 @@ sort: be_weight
 體究	tii jiow
 體行	tii shyng
 體調	tii diaw
+體諒	tii .liang
 體重	tii jonq
 體重器	tii jonq chih
 體重計	tii jonq jih
@@ -36593,6 +38004,7 @@ sort: be_weight
 高麗菜	gau li tsay
 髡髮	kuen faq
 髣髴	faang fuq
+髭髭着	tzy .tzy .joq
 髮上指冠	faq shanq jyy guan
 髮上衝冠	faq shanq chong guan
 髮乳	faq ruu
@@ -36624,9 +38036,13 @@ sort: be_weight
 髮雕	faq diau
 髮飾	faq shyq
 髮鬢	faq binn
+髯口	ran .koou
+髽髻	jua .ji
 鬄鬄	tiq tiq
 鬆勁	song jinq
 鬆快	song .kuay
+鬆散	song .san
+鬆散物料	song .san wuq liaw
 鬆通	song .tong
 鬈曲	chyuan chiuq
 鬈髮	chyuan faq
@@ -36654,11 +38070,15 @@ sort: be_weight
 鬧場	naw charng
 鬧家務	naw jia .wuh
 鬧小月子	naw seau yueq .tzyy
+鬧彆扭	naw bih .gneou
 鬧性子	naw sinq .tzyy
+鬧意見	naw yih .jiann
+鬧擰了	naw gning .le
 鬧磨擦	naw mo tsaq
 鬧耗子	naw haw .tzyy
 鬧肚子	naw duh .tzyy
 鬧脾氣	naw pyi .chih
+鬧饑荒	naw ji .huang
 鬧騰	naw .terng
 鬧鬧熱熱	naw .naw rèq rèq
 鬧鬧穰穰	naw .naw rang rang
@@ -36683,6 +38103,7 @@ sort: be_weight
 鬼打鈸	goei daa baq
 鬼推磨	goei tuei moh
 鬼擊	goei jiq
+鬼故事	goei guh .shy
 鬼故事	goei guh shyh
 鬼混	goei huenn
 鬼蜮伎倆	goei yuq jih leang
@@ -36746,6 +38167,7 @@ sort: be_weight
 鰈片	dieq piann
 鰓蓋	sai gay
 鰓鰓	sai sai
+鰲裏奪尊	ngau .li duoq tzuen
 鰲頭獨占	ngau tour duq jann
 鱉悶	bieq menn
 鱉煞	bieq shaq
@@ -36799,6 +38221,7 @@ sort: be_weight
 鴉片戰爭	ia piann jann jeng
 鴉片煙	ia piann ian
 鴉片罪	ia piann tzuey
+鴉窩裏出鳳凰	ia uo .li chuq fonq hwang
 鴉膽子	ia daan .tzyy
 鴛鴦	iuan .iang
 鴛鴦	iuan iang
@@ -36886,12 +38309,12 @@ sort: be_weight
 鷹爪翻子拳	ing joa fan .tzyy chyuan
 鷿鷈	piq ti
 鷿鷈膏	piq ti gau
-鸕鶿	lu tsyr
 鸞停鵠峙	luan tyng huq jyh
 鸞和	luan hor
 鸞鳳和鳴	luan fonq hor ming
 鸞鵠停峙	luan huq tyng jyh
 鹵地	luu dih
+鹹菜燒豆腐	shyan tsay shau dow .fu
 鹼中毒	jean jonq duq
 鹼地	jean dih
 鹼度	jean duh
@@ -36953,12 +38376,16 @@ sort: be_weight
 麻利	ma lih
 麻力	ma .liq
 麻口袋倒米	ma koou day daw mii
+麻婆子的裹腳布	ma por .tzyy .de guoo jioq buh
+麻婆豆腐	ma por dow .fu
 麻子	ma .tzyy
 麻子不叫麻子	ma .tzyy buq jiaw ma .tzyy
 麻將	ma tzianq
 麻將搭子	ma tzianq daq .tzyy
 麻將牌	ma tzianq pair
 麻核桃	ma heq .taur
+麻煩	ma .farn
+麻着膽子	ma .joq daan .tzyy
 麻糊	ma hwu
 麻衣相法	ma i sianq faq
 麻衣神相法	ma i shern sianq faq
@@ -36971,6 +38398,7 @@ sort: be_weight
 麼子事	mo .tzyy shyh
 麼波	mo bo
 麼陋	mo low
+麼麼	.mo .mo
 麾幢	huei chwang
 麾蓋	huei gay
 黃乾黑瘦	hwang gan heq show
@@ -37032,7 +38460,9 @@ sort: be_weight
 黎曼曲面	li mann chiuq miann
 黎曼空間	li mann kong jian
 黏度	gnian duh
+黏涎	gnian .syan
 黏涎子	gnian syan .tzyy
+黏涎答答	gnian .syan daq daq
 黏着	gnian joq
 黏着劑	gnian joq tzih
 黏着力	gnian joq liq
@@ -37042,6 +38472,7 @@ sort: be_weight
 黏糊糊	gnian hwu hwu
 黏結	gnian jieq
 黏膜	gnian moq
+黑下	heq .shia
 黑不溜丟	heq .buq lhiou diou
 黑冠長臂猿	heq guan charng bih yuan
 黑冠麻鷺	heq guan ma luh
@@ -37049,6 +38480,8 @@ sort: be_weight
 黑咕籠咚	heq .gu long dong
 黑咕隆咚	heq .gu long dong
 黑婁婁	heq lou lou
+黑家白日	heq .jia beq ryq
+黑寡婦	heq goa .fu
 黑尿症	heq gniaw jenq
 黑屋子	heq wuq .tzyy
 黑帖	heq tieq
@@ -37058,6 +38491,7 @@ sort: be_weight
 黑汗王朝	heq hann wang chaur
 黑沉沉	heq chern chern
 黑河地區	heq hor dih chiu
+黑漆皮燈籠	heq tsiq pyi deng .long
 黑狗子	heq goou .tzyy
 黑猩猩	heq sing .sing
 黑王相公	heq wang sianq gong
@@ -37075,6 +38509,8 @@ sort: be_weight
 黑茶藨子	heq char biau .tzyy
 黑莓子	heq mei .tzyy
 黑落德	heq loq deq
+黑裏	heq .li
+黑裏俏	heq .li tsiaw
 黑豆	heq dow
 黑骨朧東	heq .guq long dong
 黑髮	heq faq
@@ -37173,6 +38609,7 @@ sort: be_weight
 鼻黏膜	bih gnian moq
 齊宿	jai suq
 齊心滌慮	jai sin diq liuh
+齊截	tsyi .tzieq
 齊柏林	tsyi beq lin
 齊根	tsyi gen
 齊盛	tzih cherng
@@ -37210,6 +38647,7 @@ sort: be_weight
 龍爪	long jao
 龍爪書	long jao shu
 龍爪槐	long jao hwai
+龍的傳人	long .de chwan ren
 龍眼乾	long yean gan
 龍穴	long shiueq
 龍脈	long meq
@@ -37238,4 +38676,4 @@ sort: be_weight
 龜行	guei shyng
 龜裂	jiun lieq
 𣘨橠	oh noh
-𧑗蝦	gninq shia
+𧑗蝦	gning shia
