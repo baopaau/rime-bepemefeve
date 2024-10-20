@@ -35,7 +35,7 @@
 #
 ---
 name: guoqlo.phrase
-version: "2024.10.18b"
+version: "2024.10.20"
 sort: be_weight
 ...
 三個	san goh	100%
@@ -496,11 +496,17 @@ sort: be_weight
 鴿子	goq .tzyy	100%
 㐖毒	yeq duq
 㒼鼻	man bih
+㓦劃	beq .huaq
+㓦劃	beq huaq
+㕷啦	pa lha
+㕷噠	pa daq
 㘥子	you .tzyy
 㛹娟	pyan jiuan
+㜺嘢	tzann yee
 㝩㝗	kang lang
 㝩㝩	kang kang
 㝿㝾	boo tzuoo
+㞎㞎	baa .baa
 㤿憸	ian sian
 㧣流	ju liou
 㧣臍	ju tsyi
@@ -512,7 +518,9 @@ sort: be_weight
 㶟水	luei shoei
 㷫烚烚	chinq shiaq shiaq
 㹴犬	geng cheuan
+㺢㹢狓	huoq jia pi
 㾓痛	iuan tonq
+㾪躼	sheeng law
 䀇子	guu .tzyy
 䃮石	daq shyq
 䈰箕	shau ji
@@ -533,7 +541,9 @@ sort: be_weight
 䫄外	chuaq way
 䬫餬	tyi hwu
 䭱齊	bieq tsyi
+䯼髻	diq jih
 䰀鬌	woo duoo
+䰾魚	ba yu
 䱗鰷	tsan tyau
 䵚秫	tao shuq
 䵚黍	tao shuu
@@ -1567,6 +1577,7 @@ sort: be_weight
 丁加奴	ding jia nu
 丁卯	ding mao
 丁口	ding koou
+丁司壋	ding sy danq
 丁型肝炎	ding shyng gan yan
 丁基	ding ji
 丁壯	ding juanq
@@ -2001,6 +2012,9 @@ sort: be_weight
 三咒	san jow
 三品	san piin
 三哥	san go
+三唑	san tzuoh
+三唑侖	san tzuoh luen
+三嗪	san tsyn
 三四	san syh
 三四五	san syh wuu
 三回九曲	san hwei jeou chiuq
@@ -2251,9 +2265,11 @@ sort: be_weight
 三氟化氮	san fuq huah dann
 三氟化氯	san fuq huah luq
 三氟化硼	san fuq huah perng
+三氟拉嗪	san fuq lha tsyn
 三氟甲烷	san fuq jiaq wan
 三氧化二氮	san yeang huah ell dann
 三氧化二砷	san yeang huah ell shen
+三氧化二鈧	san yeang huah ell kanq
 三氧化二鉻	san yeang huah ell goq
 三氧化二鐵	san yeang huah ell tieq
 三氧化氙	san yeang huah sian
@@ -2402,6 +2418,7 @@ sort: be_weight
 三聯苯	san lian been
 三聲	san sheng
 三育	san yuq
+三肽	san tay
 三胎	san tai
 三胞胎	san bau tai
 三胡	san hwu
@@ -2542,6 +2559,7 @@ sort: be_weight
 三鄉話	san shiang huah
 三酉	san yeou
 三酒	san tzeou
+三酸甘油酯	san suan gan you jyy
 三醇	san chwen
 三釁三沐	san shinn san muq
 三釁三浴	san shinn san yuq
@@ -5106,6 +5124,7 @@ sort: be_weight
 丐者	gay jèè
 丐頭	gay tour
 丐養	gay yeang
+丐𦨭	gay pyi
 丑三	choou san
 丑咤	choou jah
 丑婆子	choou por .tzyy
@@ -5317,6 +5336,7 @@ sort: be_weight
 丙二醛	biing ell tsyuan
 丙二醯脲	biing ell shi gniaw
 丙午	biing wuu
+丙咪嗪	biing mii tsyn
 丙型肝炎	biing shyng gan yan
 丙基	biing ji
 丙夜	biing yeh
@@ -5327,16 +5347,20 @@ sort: be_weight
 丙戌	biing siuq
 丙方	biing fang
 丙氨酸	biing an suan
+丙泊酚	biing boq fen
 丙火	biing huoo
 丙炔	biing chiueq
 丙烯	biing shi
 丙烯腈	biing shi tzing
+丙烯酰胺	biing shi sian oq
 丙烯酸	biing shi suan
+丙烯酸酯	biing shi suan jyy
 丙烯醛	biing shi tsyuan
 丙烯醯胺	biing shi shi oq
 丙烷	biing wan
 丙球蛋白	biing chyou dann beq
 丙申	biing shen
+丙硫氧嘧啶	biing liou yeang miq dinq
 丙磺舒	biing hwang shu
 丙種射線	biing joong shèh siann
 丙種球蛋白	biing joong chyou dann beq
@@ -6241,6 +6265,7 @@ sort: be_weight
 丹田	dan tyan
 丹甲	dan jiaq
 丹皮	dan pyi
+丹皮酚	dan pyi fen
 丹砂	dan sha
 丹砂丸	dan sha wan
 丹穴	dan shiueq
@@ -6742,10 +6767,19 @@ sort: be_weight
 乙肝	yiq gan
 乙胺	yiq oq
 乙胺丁醇	yiq oq ding chwen
+乙胺嘧啶	yiq oq miq dinq
 乙腈	yiq tzing
 乙苯	yiq been
 乙酉	yiq yeou
+乙酰	yiq sian
+乙酰乙酸	yiq sian yiq suan
+乙酰唑胺	yiq sian tzuoh oq
+乙酰氯	yiq sian luq
+乙酰胺	yiq sian oq
+乙酰膽鹼	yiq sian daan jean
 乙酸	yiq suan
+乙酸乙酯	yiq suan yiq jyy
+乙酸甲酯	yiq suan jiaq jyy
 乙酸鈉	yiq suan naq
 乙酸鉛	yiq suan chian
 乙醇	yiq chwen
@@ -6758,6 +6792,7 @@ sort: be_weight
 乙醛酸	yiq tsyuan suan
 乙醯	yiq shi
 乙醯乙酸	yiq shi yiq suan
+乙醯唑胺	yiq shi tzuoh oq
 乙醯氯	yiq shi luq
 乙醯胺	yiq shi oq
 乙醯胺吡咯烷酮	yiq shi oq biq loq wan torng
@@ -6970,6 +7005,7 @@ sort: be_weight
 也里可溫教	yee lii koo uen jiaw
 也門	yee men
 也麼哥	yee mo go
+乣軍	jiou jiun
 乩士	ji shyh
 乩手	ji shoou
 乩文	ji wen
@@ -7127,6 +7163,7 @@ sort: be_weight
 乾手機	gan shoou ji
 乾打雷	gan daa luei
 乾折	gan jèq
+乾撂臺	gan liaw tair
 乾撇下	gan pieq shiah
 乾擦	gan tsaq
 乾支剌	gan jy laq
@@ -7165,6 +7202,7 @@ sort: be_weight
 乾濕計	gan shyq jih
 乾炒	gan chao
 乾炒牛河	gan chao gniou hor
+乾煸土豆絲	gan bian tuu dow sy
 乾熬	gan ngau
 乾熱	gan rèq
 乾爸	gan bah
@@ -7626,6 +7664,7 @@ sort: be_weight
 二哈	ell ha
 二哥	ell go
 二喬	ell chyau
+二嗪	ell tsyn
 二噁烷	ell oq wan
 二噁英	ell oq ing
 二四	ell syh
@@ -7655,6 +7694,7 @@ sort: be_weight
 二審	ell sheen
 二寶	ell bao
 二小	ell seau
+二尕子	ell gaa .tzyy
 二尖瓣	ell tzian bann
 二尖瓣狹窄	ell tzian bann shiaq jeq
 二尾子	ell veei .tzyy
@@ -7752,6 +7792,7 @@ sort: be_weight
 二氧化鉛	ell yeang huah chian
 二氧化錳	ell yeang huah menq
 二氧芑	ell yeang chii
+二氮䓬	ell dann juoq
 二氯化二硫	ell luq huah ell liou
 二氯化硫	ell luq huah liou
 二氯甲烷	ell luq jiaq wan
@@ -7772,7 +7813,9 @@ sort: be_weight
 二甘醇	ell gan chwen
 二田制	ell tyan jyh
 二甲	ell jiaq
+二甲基亞碸	ell jiaq ji yah fong
 二甲基汞	ell jiaq ji gonq
+二甲基甲酰胺	ell jiaq ji jiaq sian oq
 二甲基甲醯胺	ell jiaq ji jiaq shi oq
 二甲基硫醚	ell jiaq ji liou mi
 二甲基鋅	ell jiaq ji sin
@@ -7821,6 +7864,7 @@ sort: be_weight
 二聚體	ell tziuh tii
 二聲	ell sheng
 二股弦	ell guu shyan
+二肽	ell tay
 二胎	ell tai
 二胡	ell hwu
 二腮類	ell sai luey
@@ -8121,6 +8165,7 @@ sort: be_weight
 五命	wuu minq
 五品	wuu piin
 五善	wuu shann
+五嗪	wuu tsyn
 五器	wuu chih
 五四	wuu syh
 五四三	wuu syh san
@@ -8797,7 +8842,9 @@ sort: be_weight
 亞眉	yah mei
 亞眠	yah mian
 亞砷酸	yah shen suan
+亞硝酰氯	yah siau sian luq
 亞硝酸	yah siau suan
+亞硝酸異戊酯	yah siau suan yih wuh jyy
 亞硝酸鈉	yah siau suan naq
 亞硝酸鉀	yah siau suan jiaq
 亞硝酸鹽	yah siau suan yan
@@ -8808,6 +8855,7 @@ sort: be_weight
 亞硫酸鈣	yah liou suan gay
 亞硫酸鉀	yah liou suan jiaq
 亞硫酸鹽	yah liou suan yan
+亞碸	yah fong
 亞科	yah ko
 亞科瑞克	yah ko shuey keq
 亞種	yea joong
@@ -10158,6 +10206,7 @@ sort: be_weight
 他化自在天	ta huah tzyh tzay tian
 他和	ta hor
 他和她	ta hor i
+他唑巴坦	ta tzuoh ba taan
 他喵的	ta mhiau .diq
 他國	ta guoq
 他奶奶的	ta nae .nae .diq
@@ -10669,6 +10718,9 @@ sort: be_weight
 以防萬一	yii farng wann yiq
 以阿戰爭	yii a jann jeng
 以降	yii jianq
+仨瓜倆棗	sa gua lea tzao
+仫佬	muq liau
+仫佬族	muq liau tzuq
 仮庪	faan goei
 仯偳	chaw duan
 仰不愧天	yeang buq kuey tian
@@ -11221,6 +11273,7 @@ sort: be_weight
 伙房	huoo farng
 伙食	huoo .shyq
 伙食	huoo shyq
+伢子	ya .tzyy
 伯仲	beq jonq
 伯仲之間	beq jonq jy jian
 伯仲叔季	beq jonq shuq jih
@@ -12126,6 +12179,7 @@ sort: be_weight
 你大爺的	nii dah .ye .diq
 你好	nii hao
 你好嗎	nii hao .ma
+你好嘢	nii hao yee
 你妹	nii mey
 你妹的	nii mey .diq
 你娘	nii gniang
@@ -12157,6 +12211,11 @@ sort: be_weight
 你開心就好	nii kai sin tziow hao
 你高興就好	nii gau shinq tziow hao
 佢兜	chyu dou
+佤族	woa tzuq
+佤語	woa yeu
+佤邦	woa bang
+佧佤	kaa woa
+佧喇	kaa laq
 佩劍	pey jiann
 佩奇	pey chyi
 佩尼亞	pey gni yah
@@ -12680,6 +12739,7 @@ sort: be_weight
 依據	i jiuh
 依斐	i feei
 依斯干達公主城	i sy gan daq gong juu cherng
+依替巴肽	i tih ba tay
 依格	i geq
 依樣畫葫蘆	i yanq huah hwu .lu
 依樣畫葫蘆	i yanq huoq hwu .lu
@@ -13131,6 +13191,7 @@ sort: be_weight
 保國安民	bao guoq an min
 保境安民	bao jinq an min
 保境息民	bao jinq siq min
+保墒	bao shang
 保增長	bao tzeng jaang
 保外就醫	bao way tziow i
 保奏	bao tzow
@@ -13427,6 +13488,7 @@ sort: be_weight
 信息技術	sinn siq jih shuq
 信息時代	sinn siq shyr day
 信息流	sinn siq liou
+信息熵	sinn siq shang
 信息社會	sinn siq shèh huey
 信息科學	sinn siq ko shioq
 信息系統	sinn siq shih toong
@@ -13978,6 +14040,7 @@ sort: be_weight
 倒贓	daw tzang
 倒路死	dao luh syy
 倒踏門	daw taq men
+倒蹅門	daw chaa men
 倒身	dao shen
 倒車	dao chè
 倒車	daw chè
@@ -14019,6 +14082,7 @@ sort: be_weight
 倔巴棍子	jiueq .ba guenn .tzyy
 倔強	jiueq jianq
 倔槓頭	jiueq ganq .tour
+倔犟	jiueq jianq
 倔頭倔腦	jiueq tour jiueq nao
 倖存	shinq tswen
 倖臣	shinq chern
@@ -14223,6 +14287,7 @@ sort: be_weight
 倫斯特	luen sy teq
 倫次	luen tsyh
 倫比	luen bii
+倫滘	luen jiaw
 倫理	luen lii
 倫理學	luen lii shioq
 倫琴	luen chyn
@@ -14613,6 +14678,8 @@ sort: be_weight
 偏頭關	pian tour guan
 偏食	pian shyq
 偏飯	pian fann
+偒傣	danq dae
+偒傣話	danq dae huah
 偓佺	woq tsyuan
 做一天和尚	tzoh yiq tian hor .shang
 做一天和尚撞一天鐘	tzoh yiq tian hor .shang juanq yiq tian jong
@@ -14993,6 +15060,7 @@ sort: be_weight
 偷吃步	tou chyq buh
 偷合取容	tou hoq tseu yong
 偷合苟容	tou hoq goou yong
+偷嘢	tou yee
 偷嘴	tou tzoei
 偷嚐禁果	tou charng jinn guoo
 偷天換日	tou tian huann ryq
@@ -15123,6 +15191,9 @@ sort: be_weight
 傅粉施朱	fuh feen shy ju
 傅里葉	fuh lii yeq
 傅里葉變換	fuh lii yeq biann huann
+傈僳	liq suq
+傈僳族	liq suq tzuq
+傈僳語	liq suq yeu
 傍亮	banq lianq
 傍人	parng ren
 傍人門戶	banq ren men huh
@@ -15246,6 +15317,11 @@ sort: be_weight
 傜賦	yau fuh
 傞傞	so so
 傢伙	jia .huo
+傣仂語	dae leq yeu
+傣劇	dae jiuq
+傣族	dae tzuq
+傣泐	dae leq
+傣語	dae yeu
 催乳	tsuei ruu
 催乳激素	tsuei ruu jiq suh
 催乳素	tsuei ruu suh
@@ -16174,6 +16250,7 @@ sort: be_weight
 儳言	chann yan
 儳道	chann daw
 儸儸	lo lo
+儹積	tzaan tziq
 儺戲	no shih
 儺神	no shern
 儺禮	no lii
@@ -16770,6 +16847,7 @@ sort: be_weight
 克卜勒	keq buq leq
 克卜勒定律	keq buq leq dinq liuq
 克君	keq jiun
+克唑替尼	keq tzuoh tih gni
 克婁巴特拉	keq lou ba teq lha
 克孜勒蘇	keq tzy leq su
 克孜勒蘇地區	keq tzy leq su dih chiu
@@ -16888,6 +16966,7 @@ sort: be_weight
 克雷格	keq luei geq
 克非爾	keq fei eel
 克魯斯	keq luu sy
+克黴唑	keq mei tzuoh
 兌付	duey fuh
 兌價	duey jiah
 兌取	duey tseu
@@ -17004,6 +17083,8 @@ sort: be_weight
 兒童醫院	erl torng i yuann
 兒臣	erl chern
 兒茶	erl char
+兒茶酚	erl char fen
+兒茶酚胺	erl char fen oq
 兒輩	erl bey
 兒郎	erl lang
 兒馬	erl maa
@@ -17049,6 +17130,7 @@ sort: be_weight
 兜嘴	dou tzoei
 兜圈子	dou chiuan .tzyy
 兜子	dou .tzyy
+兜巴冚	dou ba kaan
 兜帽	dou maw
 兜底	dou .de
 兜底	dou dii
@@ -17580,6 +17662,7 @@ sort: be_weight
 內部交易	nuey buh jiau yih
 內部構擬	nuey buh gow gnii
 內部結構	nuey buh jieq gow
+內酯	nuey jyy
 內野	nuey yee
 內野手	nuey yee shoou
 內銷	nuey siau
@@ -18019,6 +18102,7 @@ sort: be_weight
 八十六	baq shyq luq
 八十四	baq shyq syh
 八十四調	baq shyq syh diaw
+八十壋	baq shyq danq
 八十天環遊地球	baq shyq tian hwan you dih chyou
 八千代	baq tsian day
 八千里路雲和月	baq tsian lii luh yun hor yueq
@@ -18110,6 +18194,7 @@ sort: be_weight
 八格牙路	baq geq ya luh
 八格牙魯	baq geq ya luu
 八桂	baq guey
+八棍子撂不着	baq guenn .tzyy liaw buq joq
 八極	baq jiq
 八極拳	baq jiq chyuan
 八榮八恥	baq yong baq chyy
@@ -19292,6 +19377,12 @@ sort: be_weight
 冀求	jih chyou
 冀馬	jih maa
 冀魯官話	jih luu guan huah
+冇命	mao minq
+冇樟	mao jang
+冇樟	moou jang
+冇禮	mao lii
+冇蟳	mao syn
+冇鼻哥	mao bih go
 冉冉	raan raan
 冉冉升起	raan raan sheng chii
 冉弱	raan roq
@@ -19557,6 +19648,9 @@ sort: be_weight
 冗雜	roong tzaq
 冗餘	roong yu
 冘豫	you yuh
+冚住	kaan juh
+冚啲	kaan diq
+冚賭	kaan duu
 冠世之才	guann shyh jy tsair
 冠冕	guan mean
 冠冕堂皇	guan mean tarng hwang
@@ -19866,6 +19960,7 @@ sort: be_weight
 冰球	bing chyou
 冰球場	bing chyou chaang
 冰皮	bing pyi
+冰碴	bing char
 冰磚	bing juan
 冰磧	bing tsiq
 冰窖	bing jiaw
@@ -20478,6 +20573,7 @@ sort: be_weight
 出單	chuq dan
 出嗣	chuq syh
 出嘍子	chuq lou .tzyy
+出嘢	chuq yee
 出器	chuq chih
 出圈	chuq jiuann
 出圈	chuq chiuan
@@ -22098,6 +22194,7 @@ sort: be_weight
 利慾	lih yuq
 利慾薰心	lih yuq shiun sin
 利拉羅	lih lha lo
+利拉魯肽	lih lha luu tay
 利斯本	lih sy been
 利於	lih yu
 利曼	lih mann
@@ -22920,6 +23017,7 @@ sort: be_weight
 剛卯	gang mao
 剛口	gang .koou
 剛口	gang koou
+剛啱	gang yan
 剛好	gang hao
 剛子	gang .tzyy
 剛察	gang chaq
@@ -23560,6 +23658,8 @@ sort: be_weight
 劍麻	jiann ma
 劍齒虎	jiann chyy huu
 劍齒象	jiann chyy sianq
+劏房	tang farng
+劏死牛	tang syy gniou
 劑次	tzih tsyh
 劑量	tzih lianq
 劑量效應	tzih lianq shiaw yinq
@@ -25330,7 +25430,9 @@ sort: be_weight
 北疆風鈴草	bey jiang fong ling tsao
 北盤江	beq parn jiang
 北碑南帖論	bey bei nan tieq luenn
+北碚	beq bey
 北碧	beq biq
+北礵	bey shuang
 北票	beq piaw
 北秋田	bey tsiou tyan
 北科	bey ko
@@ -25413,6 +25515,7 @@ sort: be_weight
 北魏	beq wey
 北鼻	bey bih
 北齊	beq tsyi
+北𣴓	beq jiann
 匙子	shyr .tzyy
 匙鑰	.shyr yoq
 匜水	yi shoei
@@ -27198,6 +27301,7 @@ sort: be_weight
 卡死	kaa syy
 卡殼	kaa koq
 卡比多巴	kaa bii do ba
+卡比馬唑	kaa bii maa tzuoh
 卡波耶拉	kaa bo ye lha
 卡波西氏肉瘤	kaa bo si shyh row liou
 卡波西肉瘤	kaa bo si row liou
@@ -28561,6 +28665,7 @@ sort: be_weight
 反正統	faan jenq toong
 反比	faan bii
 反比例	faan bii lih
+反氘	faan dau
 反氣旋	faan chih syuan
 反水	faan shoei
 反水不收	faan shoei buq shou
@@ -29079,6 +29184,7 @@ sort: be_weight
 口噏噏	koou shiq shiq
 口噤	koou jinn
 口器	koou chih
+口嚡脷素	koou .hair lih suh
 口回	koou hwei
 口型	koou shyng
 口塞	koou seq
@@ -31111,6 +31217,7 @@ sort: be_weight
 同花	torng hua
 同花大順	torng hua dah shuenn
 同花順	torng hua shuenn
+同蝽	torng chiun
 同行	torng harng
 同行	torng shyng
 同行如敵國	torng harng ru diq guoq
@@ -31512,6 +31619,10 @@ sort: be_weight
 吒異	jah yih
 吒食	jah shyq
 吕梁山	leu liang shan
+吖丁啶	a ding dinq
+吖啶	a dinq
+吖啶黃	a dinq hwang
+吖嗪	a tsyn
 君上	jiun shanq
 君主	jiun juu
 君主主義	jiun juu juu yih
@@ -31651,7 +31762,12 @@ sort: be_weight
 吠非其主	fey fei chyi juu
 吡吡	biq biq
 吡咯	biq loq
+吡唑	biq tzuoh
+吡啶	biq dinq
 吡喃	biq nan
+吡喹酮	biq kwei torng
+吡嗪	biq tsyn
+吡嗪酰胺	biq tsyn sian oq
 吡拉西坦	biq lha si taan
 吡格列酮	biq geq lieq torng
 否則	foou tzeq
@@ -31682,6 +31798,8 @@ sort: be_weight
 吧檯	ba tair
 吧臺	ba tair
 吩咐	fen fuh
+吩嗪	fen tsyn
+吩噻嗪	fen sai tsyn
 含冤	harn iuan
 含含糊糊	harn harn hwu hwu
 含商咀徵	harn shang tzeu jeng
@@ -32839,8 +32957,11 @@ sort: be_weight
 咨牙倈嘴	tzy ya lai tzoei
 咨訪	tzy faang
 咪咪	mii mii
+咪唎𠼤	mii lih jian
+咪唑	mii tzuoh
 咪紙	mii jyy
 咪西	mii .si
+咪達唑侖	mii daq tzuoh luen
 咪錶	mii beau
 咫尺	jyy chyq
 咫尺之地	jyy chyq jy dih
@@ -32882,6 +33003,7 @@ sort: be_weight
 咯咯	goq goq
 咯咯作響	goq goq tzoq sheang
 咯咯笑	goq goq siaw
+咯嘣	goq beng
 咯噔	goq deng
 咯噠	goq .daq
 咯噹	goq dang
@@ -33328,6 +33450,9 @@ sort: be_weight
 哎喲喂呀	ngay io wey .ia
 哎媽	ngay mha
 哎媽呀	ngay mha .ia
+哏圖	gern twu
+哏都	gern du
+哚哥	duoo go
 員外	yuan way
 員山	yuan shan
 員工	yuan gong
@@ -33603,6 +33728,8 @@ sort: be_weight
 唐餐	tarng tsan
 唐餐館	tarng tsan goan
 唐鼠	tarng shuu
+唑吡坦	tzuoh biq taan
+唑吡坦	tzuoh pii taan
 唓嗻	chè jè
 唫嗻	yn jèh
 售價	show jiah
@@ -34105,6 +34232,17 @@ sort: be_weight
 啪啪	paq paq
 啪啪啪	paq paq paq
 啪嗒	paq daq
+啪嚓	paq tsaq
+啫喱	jee li
+啱使	yan shyy
+啱啱線	yan yan siann
+啱啱落地	yan yan loq dih
+啱嘴型	yan tzoei shyng
+啱心水	yan sin shoei
+啱晒	yan shay
+啱晒你	yan shay nii
+啱聽	yan ting
+啵啵	bo bo
 啷噹	lhang dang
 啷鐺	lhang dang
 啼叫	tyi jiaw
@@ -34164,6 +34302,7 @@ sort: be_weight
 喀爾喀蒙古	keq eel keq mong guu
 喀爾巴阡山脈	keq eel ba tsian shan meq
 喀爾文教派	keq eel wen jiaw pay
+喀爾曲尕	keq eel chiuq gaa
 喀琅施塔得	keq lang shy taq deq
 喀瓦克	keq woa keq
 喀秋莎	keq tsiou sha
@@ -34750,6 +34889,8 @@ sort: be_weight
 單眼皮	dan yean pyi
 單眼相機	dan yean sianq ji
 單瞼	dan jean
+單硝酸異山梨酯	dan siau suan yih shan li jyy
+單硝酸異山梨醇酯	dan siau suan yih shan li chwen jyy
 單程	dan cherng
 單程票	dan cherng piaw
 單程證	dan cherng jenq
@@ -34848,6 +34989,10 @@ sort: be_weight
 喳喳	cha cha
 喵喵	mhiau mhiau
 喵星人	mhiau sing ren
+喹唑啉	kwei tzuoh lan
+喹啉	kwei lan
+喹啉酸	kwei lan suan
+喹硫平	kwei liou pyng
 喻咀	yu tzeu
 喻示	yu shyh
 喻義	yu yih
@@ -34921,6 +35066,7 @@ sort: be_weight
 嗜肺軍團菌	shyh fey jiun twan jiunn
 嗜血	shyh shiueq
 嗜血桿菌	shyh shiueq gan jiunn
+嗜貝𩷶	shyh bey mang
 嗜酒	shyh tzeou
 嗜酸乳干菌	shyh suan ruu gan jiunn
 嗜酸乳桿菌	shyh suan ruu gan jiunn
@@ -34988,6 +35134,7 @@ sort: be_weight
 嗨森	hai shen
 嗨皮	hai pyi
 嗬嗬	ho ho
+嗲聲嗲氣	die sheng die chih
 嗶剝	bih boq
 嗶哩礡喇	bih lii boq laq
 嗶嗶剝剝	bih bih boq boq
@@ -35159,10 +35306,13 @@ sort: be_weight
 嘗酎	charng jow
 嘗酸	charng suan
 嘗鮮	charng sian
+嘚啵	deq .bo
 嘛呢石	ma gnhi shyq
 嘛嘛	ma ma
 嘛嘛吼	.ma .ma hoou
 嘛嘛檔	ma ma danq
+嘜啶	may dinq
+嘜碼	may maa
 嘟嘟噥噥	du .du nong nong
 嘟嘟囔囔	du .du .nang .nang
 嘟嘟車	du du chè
@@ -35174,6 +35324,7 @@ sort: be_weight
 嘟嚕嘴	du .lu tzoei
 嘟囔	du .nang
 嘟起嘴	du chii tzoei
+嘧啶	miq dinq
 嘩啦	hua .la
 嘩啦	hua lha
 嘩啦一聲	hua lha yiq sheng
@@ -35292,6 +35443,11 @@ sort: be_weight
 嘿記	meq jih
 噀唾	suenn tuoh
 噁丁環	oq ding hwan
+噁唑	oq tzuoh
+噁唑啉	oq tzuoh lan
+噁唑啉酮	oq tzuoh lan torng
+噁唑烷	oq tzuoh wan
+噁嗪	oq tsyn
 噁噁	u u
 噁庚因	oq geng in
 噁庚英	oq geng ing
@@ -35302,6 +35458,8 @@ sort: be_weight
 噂議	tzoen yih
 噇飯	chuanq fann
 噉噬	dann shyh
+噍吧哖	tziau po gnian
+噍吧哖事件	tziau ba gnian shyh jiann
 噍殺	tziau shay
 噏呷	shiq shiaq
 噏然	shiq ran
@@ -35315,6 +35473,8 @@ sort: be_weight
 噗鼾	puq han
 噘嘴	jiueq tzoei
 噙齒戴髮	chyn chyy day faq
+噝音	sy in
+噠嗪	daq tsyn
 噢咻	yeu sheu
 噢咿	yeu i
 噤住	jinn juh
@@ -35456,6 +35616,11 @@ sort: be_weight
 噹啷落地	dang lhang loq dih
 噹噹	dang dang
 噹噹船	dang dang chwan
+噻嘧啶	sai miq dinq
+噼哩啪啦	piq .li paq lha
+噼啪	piq paq
+噼裡啪啦	piq .lii paq lha
+噼裡啪啦	piq lii paq lha
 嚄唶	huoq tzeq
 嚄嚄	huoq huoq
 嚅動	ru donq
@@ -35491,6 +35656,7 @@ sort: be_weight
 嚎天喊地	haur tian haan dih
 嚏噴	tih .pen
 嚏噴	tih pen
+嚓嚓	tsaq tsaq
 嚕囌	lhu .su
 嚕囌	lhu su
 嚘咿	iou i
@@ -35498,6 +35664,8 @@ sort: be_weight
 嚚猾	yn huaq
 嚚訟	yn sonq
 嚜嚜	meq meq
+嚡裡	.hair lii
+嚡裡墶	.hair lii .daq
 嚥下	yann shiah
 嚥住	yann juh
 嚥唾	yann tuoh
@@ -35638,6 +35806,7 @@ sort: be_weight
 囊匣如洗	nang shiaq ru sii
 囊囊突突	nang nang tuq tuq
 囊地鼠	nang dih shuu
+囊尕	nang gaa
 囊尾蚴	nang veei yow
 囊括	nang guaq
 囊揣	nang chuai
@@ -35654,6 +35823,7 @@ sort: be_weight
 囊蟲病	nang chorng binq
 囊謙	nang chian
 囊鼠	nang shuu
+囍餅	shii biing
 囑付	juq fuh
 囑咐	juq fuh
 囑寄	juq jih
@@ -35779,6 +35949,7 @@ sort: be_weight
 四命	syh minq
 四哥	syh go
 四唐	syh tarng
+四嗪	syh tsyn
 四器	syh chih
 四回合將殺	syh hwei hoq tziang shaq
 四國	syh guoq
@@ -36403,6 +36574,7 @@ sort: be_weight
 回黃倒皂	hwei hwang daw tzaw
 回黃轉綠	hwei hwang joan luq
 回龍	hwei long
+回龍壋	hwei long danq
 回龍山	hwei long shan
 回龍觀	hwei long guan
 囟腦門	sinn nao men
@@ -37191,6 +37363,7 @@ sort: be_weight
 圍頭話	wei tour huah
 圍魏救趙	wei wey jiow jaw
 圍龍屋	wei long wuq
+圐圙	ku liueq
 園丁	yuan ding
 園公	yuan gong
 園區	yuan chiu
@@ -37455,6 +37628,7 @@ sort: be_weight
 團圓飯	twan yuan fann
 團團	twan twan
 團團轉	twan twan juann
+團圞	twan luan
 團坐	twan tzuoh
 團城山	twan cherng shan
 團契	twan chih
@@ -37509,6 +37683,7 @@ sort: be_weight
 圜扉	yuan fei
 圜牆	yuan tsyang
 圜鍾	yuan jong
+圞襠褲	luan dang kuh
 土丘	tuu chiou
 土中曲蟮	tuu jong chiuq shann
 土主	tuu juu
@@ -38103,6 +38278,7 @@ sort: be_weight
 地牢	dih lau
 地物	dih wuq
 地獄	dih yuq
+地獄哏	dih yuq gern
 地獄笑話	dih yuq siaw .huah
 地獄鬼國	dih yuq goei guoq
 地獄黑	dih yuq heq
@@ -38696,6 +38872,7 @@ sort: be_weight
 垃圾電話	laq siq diann huah
 垃圾食品	laq siq shyq piin
 垃圾食物	laq siq shyq wuq
+垈灣	day uan
 型別轉換	shyng bieq joan huann
 型式	shyng shyq
 型態	shyng tay
@@ -38758,6 +38935,7 @@ sort: be_weight
 埃及人	ai jiq ren
 埃及伊蚊	ai jiq i wen
 埃及學	ai jiq shioq
+埃及獴	ai jiq mong
 埃及眼鏡蛇	ai jiq yean jinq shèr
 埃及語	ai jiq yeu
 埃及阿拉伯共和國	ai jiq a lha beq gonq hor guoq
@@ -38798,6 +38976,7 @@ sort: be_weight
 埃米	ai mii
 埃米爾	ai mii eel
 埃米莉	ai mii lih
+埃索美拉唑	ai soq meei lha tzuoh
 埃維語	ai wei yeu
 埃莉斯	ai lih sy
 埃菲爾鐵塔	ai fei eel tieq taq
@@ -38964,6 +39143,7 @@ sort: be_weight
 執命	jyq minq
 執問	jyq wenn
 執喪	jyq sang
+執嘢	jyq yee
 執囚	jyq tsyou
 執固	jyq guh
 執圭	jyq guei
@@ -39085,6 +39265,7 @@ sort: be_weight
 執馭	jyq yuh
 培修	peir siou
 培勒茲	peir leq tzy
+培哚普利	peir duoo puu lih
 培土	peir tuu
 培塿	pow loou
 培尼亞	peir gni yah
@@ -39949,6 +40130,8 @@ sort: be_weight
 填還	tyan hwan
 填食	tyan shyq
 填鴨	tyan yaq
+塬地	yuan dih
+塱原	laang yuan
 塵下	chern shiah
 塵世	chern shyh
 塵世間	chern shyh jian
@@ -40037,6 +40220,7 @@ sort: be_weight
 塵腐	chern fuu
 塵膩	chern gnih
 塵芥	chern jiay
+塵蟎	chern maan
 塵蠹	chern duh
 塵表	chern beau
 塵襟	chern jin
@@ -40137,6 +40321,7 @@ sort: be_weight
 墓道	muh daw
 墓道口	muh daw koou
 墓門	muh men
+墘墘	chyan chyan
 墜亡	juey wang
 墜入	juey ruq
 墜入愛河	juey ruq ay hor
@@ -41276,6 +41461,7 @@ sort: be_weight
 多工作業	do gong tzoq yeq
 多巴	do ba
 多巴胺	do ba oq
+多巴酚丁胺	do ba fen ding oq
 多市	do shyh
 多年	do gnian
 多年媳婦熬成婆	do gnian siq fuh ngau cherng por
@@ -41348,6 +41534,7 @@ sort: be_weight
 多水分	do shoei fenn
 多汁	do jyq
 多汁果	do jyq guoo
+多沙唑嗪	do sha tzuoh tsyn
 多治見	do jyh jiann
 多浪	do lanq
 多潘立酮	do pan liq torng
@@ -41406,6 +41593,7 @@ sort: be_weight
 多聞闕疑	do wen chiueq yi
 多肉	do ruq
 多肉植物	do ruq jyq wuq
+多肽	do tay
 多胞形	do bau shyng
 多胞胎	do bau tai
 多能	do neng
@@ -41451,6 +41639,7 @@ sort: be_weight
 多邊主義	do bian juu yih
 多邊形	do bian shyng
 多配偶制	do pey ngoou jyh
+多酚	do fen
 多采多姿	do tsae do tzy
 多重	do chorng
 多重人格	do chorng ren geq
@@ -41492,6 +41681,7 @@ sort: be_weight
 多默	do meq
 多默福音	do meq fuq in
 多黨制	do daang jyh
+多齒𩷶	do chyy mang
 夜不歸宿	yeh buq guei suq
 夜不能寐	yeh buq neng mey
 夜不閉戶	yeh buq bih huh
@@ -41988,6 +42178,7 @@ sort: be_weight
 大埔	dah buh
 大埔心	dah buh sin
 大埔林	dah buh lin
+大埔滘	dah buh jiaw
 大埔縣	dah buh shiann
 大埔鄉	dah buh shiang
 大埠	dah buh
@@ -41995,6 +42186,7 @@ sort: be_weight
 大堂	dah tarng
 大堡礁	dah bao tziau
 大堰	dah yann
+大堰壋	dah yann danq
 大堰角	dah yann jioq
 大報	dah baw
 大場面	dah charng miann
@@ -42035,6 +42227,7 @@ sort: be_weight
 大夫	dah fu
 大夫	day .fu
 大夫	day fu
+大夫嫲	day fu .ma
 大夫松	day fu song
 大失人望	dah shyq ren wanq
 大失所望	dah shyq suoo wanq
@@ -42631,6 +42824,7 @@ sort: be_weight
 大理院	dah lii yuann
 大琉球	dah liou chyou
 大瑤山	dah yau shan
+大環內酯	dah hwan nuey jyy
 大環境	dah hwan jinq
 大生	dah sheng
 大甩賣	dah shoai may
@@ -42978,6 +43172,7 @@ sort: be_weight
 大跌小漲	dah dieq seau janq
 大跌眼鏡	dah dieq yean jinq
 大路	dah luh
+大路嘢	dah luh yee
 大路貨	dah luh huoh
 大踏步	dah taq buh
 大躍進	dah yoq tzinn
@@ -43202,6 +43397,7 @@ sort: be_weight
 大麴	dah chiuq
 大麻	dah ma
 大麻中毒	dah ma jonq duq
+大麻二酚	dah ma ell fen
 大麻仁	dah ma ren
 大麻煙	dah ma ian
 大麻竹	dah ma juq
@@ -43318,6 +43514,7 @@ sort: be_weight
 天冬	tian dong
 天冬氨酸	tian dong an suan
 天冬胺酸	tian dong oq suan
+天冬酰胺	tian dong sian oq
 天冬醯胺	tian dong shi oq
 天冷	tian leeng
 天分	tian fenn
@@ -43665,6 +43862,7 @@ sort: be_weight
 天真地秀	tian jen dih siow
 天真無邪	tian jen wu sye
 天真爛漫	tian jen lann mann
+天真爛熳	tian jen lann mann
 天眷	tian jiuann
 天眼	tian yean
 天知地知	tian jy dih jy
@@ -44964,6 +45162,7 @@ sort: be_weight
 奧旨	aw jyy
 奧昔布寧	aw siq buh gning
 奧普斯	aw puu sy
+奧曲肽	aw chiuq tay
 奧會	aw huey
 奧會模式	aw huey mu shyq
 奧本海默	aw been hae meq
@@ -45012,6 +45211,7 @@ sort: be_weight
 奧米伽	aw mii ga
 奧維耶多	aw wei ye do
 奧羅拉	aw lo lha
+奧美拉唑	aw meei lha tzuoh
 奧義	aw yih
 奧萊	aw lai
 奧蘭	aw lan
@@ -46770,6 +46970,7 @@ sort: be_weight
 媤家族	sy jia tzuq
 媦婿	wey siuh
 媧皇	ua hwang
+媬姆	bao muu
 媲美	pih meei
 媳婦	siq fuh
 媳婦熬成婆	siq fuh ngau cherng por
@@ -46943,6 +47144,7 @@ sort: be_weight
 嫩骨頭	nuenn guq .tour
 嫩黃	nuenn hwang
 嫫母	mu muu
+嫲豨	.ma shi
 嫳屑	pieq sieq
 嫵媚	wuu mey
 嫺淑	shyan shuq
@@ -47812,6 +48014,9 @@ sort: be_weight
 孫臏兵法	suen binn bing faq
 孫行者	suen shyng jèè
 孫郎	suen lang
+孭上身	mhie shanq shen
+孭債	mhie jay
+孭起	mhie chii
 孰料	shuq liaw
 孰是孰非	shuq shyh shuq fei
 孰真孰假	shuq jen shuq jea
@@ -47993,6 +48198,7 @@ sort: be_weight
 孺子牛	ru tzyy gniou
 孺慕	ru muh
 孺齒	ru chyy
+孻叔	nai shuq
 孽債	gnieq jay
 孽冤	gnieq iuan
 孽出	gnieq chuq
@@ -48849,6 +49055,7 @@ sort: be_weight
 官場現形記	guan chaang shiann shyng jih
 官塘	guan tarng
 官塘驛	guan tarng yiq
+官壋	guan danq
 官奴	guan nu
 官妓	guan jih
 官威	guan uei
@@ -49023,6 +49230,7 @@ sort: be_weight
 定向越野	dinq shianq yueq yee
 定命	dinq minq
 定員	dinq yuan
+定啲嚟	dinq diq li
 定單	dinq dan
 定器	dinq chih
 定國	dinq guoq
@@ -49624,6 +49832,7 @@ sort: be_weight
 家伎	jia jih
 家伙	jia .huo
 家信	jia sinn
+家俬	jia sy
 家俱	jia jiu
 家傳	jia juann
 家傳	jia chwan
@@ -50652,6 +50861,7 @@ sort: be_weight
 寡聚	goa tziuh
 寡聚物	goa tziuh wuq
 寡聞少見	goa wen shao jiann
+寡肽	goa tay
 寡臣	goa chern
 寡虞	goa yu
 寡蛋	goa dann
@@ -51137,6 +51347,7 @@ sort: be_weight
 寮佐	liau tzoh
 寮國	liau guoq
 寮國人	liau guoq ren
+寮埗	liau buh
 寮寀	liau tsae
 寮屋	liau wuq
 寮屋區	liau wuq chiu
@@ -51801,6 +52012,8 @@ sort: be_weight
 對不是	duey buq shyh
 對不起	duey .buq chii
 對不起	duey buq chii
+對乙酰氨基酚	duey yiq sian an ji fen
+對乙醯氨基酚	duey yiq shi an ji fen
 對了	duey .le
 對仗	duey janq
 對付	duey .fuh
@@ -51896,6 +52109,7 @@ sort: be_weight
 對比度	duey bii duh
 對比溫度	duey bii uen duh
 對氨基苯磺酸	duey an ji been hwang suan
+對氯間二甲苯酚	duey luq jian ell jiaq been fen
 對決	duey jiueq
 對沖	duey chong
 對沖基金	duey chong ji jin
@@ -51953,6 +52167,7 @@ sort: be_weight
 對膝	duey siq
 對臉	duey lean
 對臺戲	duey tair shih
+對苯二酚	duey been ell fen
 對著幹	duey .joq gann
 對號	duey haw
 對號入座	duey haw ruq tzuoh
@@ -52119,6 +52334,7 @@ sort: be_weight
 小伙	seau huoo
 小伙伴	seau huoo bann
 小伙子	seau huoo .tzyy
+小伢	seau ya
 小住	seau juh
 小佞	seau gninq
 小佳	seau jia
@@ -52221,6 +52437,7 @@ sort: be_weight
 小吏	seau lih
 小君	seau jiun
 小吝	seau linn
+小吻螺𩷶	seau woen luo mang
 小呂	seau leu
 小呂宋	seau leu sonq
 小周	seau jou
@@ -52895,6 +53112,7 @@ sort: be_weight
 小范老子	seau fann lao .tzyy
 小茴香	seau hwei shiang
 小茶	seau char
+小荊垈	seau jing day
 小菇	seau gu
 小菜	seau tsay
 小菜一碟	seau tsay yiq dieq
@@ -53296,6 +53514,9 @@ sort: be_weight
 少頭無尾	shao tour wu veei
 少魂失魄	shao hwen shyq peq
 少魂沒識	shao hwen meq shyq
+尕巴	gaa ba
+尕海	gaa hae
+尕羊	gaa yang
 尖不辣	tzian buq laq
 尖元音	tzian yuan in
 尖兵	tzian bing
@@ -53657,6 +53878,7 @@ sort: be_weight
 尿不濕	gniaw buq shyq
 尿兜	gniaw dou
 尿出子	gniaw chuq .tzyy
+尿嘧啶	gniaw miq dinq
 尿囊	gniaw nang
 尿壺	gniaw hwu
 尿失禁	gniaw shyq jinn
@@ -53779,6 +54001,7 @@ sort: be_weight
 屄臉	bei lean
 屄養	bei yeang
 屄養的	bei yeang .diq
+屄𡲰	bei chyu
 居上	jiu shanq
 居下	jiu shiah
 居不重席	jiu buq chorng siq
@@ -53945,6 +54168,7 @@ sort: be_weight
 屍骨未寒	shy guq vey harn
 屍骸	shy hair
 屍體	shy tii
+屎㞎㞎	shyy baa .baa
 屎尿	shyy gniaw
 屎尿屁	shyy gniaw pih
 屎山	shyy shan
@@ -54482,6 +54706,7 @@ sort: be_weight
 山盟海誓	shan meng hae shyh
 山石	shan shyq
 山砠	shan tziu
+山礄	shan chyau
 山礬	shan farn
 山礬水	shan farn shoei
 山神	shan shern
@@ -54651,6 +54876,7 @@ sort: be_weight
 岔調	chah diaw
 岔路	chah luh
 岔道	chah daw
+岕茶	jiay char
 岡上肌	gang shanq ji
 岡仁波齊	gang ren bo tsyi
 岡山	gang shan
@@ -54748,6 +54974,7 @@ sort: be_weight
 岸谷之變	ngann guq jy biann
 岸邊	ngann bian
 岸頭	ngann tour
+峌嵲	diaq gnieq
 峒人	tonq ren
 峒劇	tonq jiuq
 峒室	tonq shyq
@@ -55566,6 +55793,7 @@ sort: be_weight
 左文	tzoo wen
 左旁牛	tzoo parng gniou
 左旋	tzoo syuan
+左旋咪唑	tzoo syuan mii tzuoh
 左旋多巴	tzoo syuan do ba
 左旋肉鹼	tzoo syuan row jean
 左書	tzoo shu
@@ -55594,6 +55822,7 @@ sort: be_weight
 左衝右突	tzoo chong yow tuq
 左衽	tzoo renn
 左袒	tzoo taan
+左西替利嗪	tzoo si tih lih tsyn
 左計	tzoo jih
 左證	tzoo jenq
 左貂	tzoo diau
@@ -55715,6 +55944,7 @@ sort: be_weight
 巨牙鯊	jiuh ya sha
 巨獵豹	jiuh lieq baw
 巨獸	jiuh show
+巨環內酯	jiuh hwan nuey jyy
 巨石陣	jiuh shyq jenn
 巨硬	jiuh yinq
 巨禍	jiuh huoh
@@ -55889,6 +56119,7 @@ sort: be_weight
 己未	jii vey
 己炔	jii chiueq
 己烯	jii shi
+己烯雌酚	jii shi tsy fen
 己烷	jii wan
 己糖	jii tarng
 己糖激酶	jii tarng jiq mei
@@ -56067,6 +56298,7 @@ sort: be_weight
 巴拿馬共和國	ba na maa gonq hor guoq
 巴拿馬地峽	ba na maa dih shiaq
 巴掌	ba .jaang
+巴掌嫲	ba jaang .ma
 巴掌臉	ba jaang lean
 巴提卡洛阿	ba tyi kaa loq a
 巴攀	ba pan
@@ -56244,6 +56476,8 @@ sort: be_weight
 巷道	hanq daw
 巷道	shianq daw
 巷陌	shianq meq
+巹席	jiin siq
+巹筵	jiin yan
 巽他海峽	suenn ta hae shiaq
 巽他王國	suenn ta wang guoq
 巽他群島	suenn ta chyun dao
@@ -57272,6 +57506,7 @@ sort: be_weight
 帹暆	shaq i
 帽兜子	maw dou .tzyy
 帽匠	maw tzianq
+帽墘	maw chyan
 帽子	maw .tzyy
 帽子戲法	maw .tzyy shih faq
 帽徽	maw huei
@@ -59800,6 +60035,7 @@ sort: be_weight
 弱鹼	roq jean
 弱點	roq dean
 弱齡	roq ling
+弳度	jinq duh
 張三	jang san
 張三李四	jang san lii syh
 張伯倫	jang beq luen
@@ -60282,6 +60518,7 @@ sort: be_weight
 当家小生	dang jia seau sheng
 当日	dang ryq
 当着不着	dang joq buq joq
+彔彔	luq luq
 彖傳	tuann juann
 彗差	huey cha
 彗星	huey sing
@@ -61929,6 +62166,7 @@ sort: be_weight
 德媒	deq mei
 德宇	deq yeu
 德宏	deq horng
+德宏傣族景頗族自治州	deq horng dae tzuq jiing po tzuq tzyh jyh jou
 德宗	deq tzong
 德尊望重	deq tzuen wanq jonq
 德島	deq dao
@@ -63050,6 +63288,7 @@ sort: be_weight
 怒氣衝衝	nuh chih chong chong
 怒水	nuh shoei
 怒江	nuh jiang
+怒江傈僳族自治州	nuh jiang liq suq tzuq tzyh jyh jou
 怒沖沖	nuh chong chong
 怒潮	nuh chaur
 怒濤	nuh tau
@@ -63745,6 +63984,7 @@ sort: be_weight
 恕我直言	shuh ngoo jyq yan
 恕罪	shuh tzuey
 恕道	shuh daw
+恙蟎	yanq maan
 恙蟲病	yanq chorng binq
 恝置	jiaq jyh
 恝視	jiaq shyh
@@ -63991,6 +64231,7 @@ sort: be_weight
 息壤	siq raang
 息夫人	siq fu ren
 息女	siq gneu
+息嫲	siq .ma
 息嬀	siq guei
 息子	siq tzyy
 息幣	siq bih
@@ -64343,6 +64584,7 @@ sort: be_weight
 悶悶	menn menn
 悶悶不已	menn menn buq yii
 悶悶不樂	menn menn buq loq
+悶懨懨	menn ian ian
 悶損	menn soen
 悶數錢糧	menn shuu tsyan liang
 悶昏昏	menn huen huen
@@ -64987,6 +65229,7 @@ sort: be_weight
 愆面	chian miann
 愈來愈	yuh lai yuh
 愈創木	yuh chuanq muq
+愈創木酚	yuh chuanq muq fen
 愈加	yuh jia
 愈合	yuh hoq
 愈後	yuh how
@@ -66310,6 +66553,8 @@ sort: be_weight
 懦詞怪說	nuoh tsyr guay shuoq
 懦鈍	nuoh duenn
 懦響	nuoh sheang
+懨懨	ian ian
+懨纏	ian charn
 懮慮	yeou liuh
 懲一儆百	cherng yiq jiing beq
 懲一戒百	cherng yiq jiay beq
@@ -67010,6 +67255,7 @@ sort: be_weight
 我私	ngoo sy
 我等	ngoo deeng
 我聞如是	ngoo wen ru shyh
+我肏	ngoo tsaw
 我自	ngoo tzyh
 我蠻好	ngoo man hao
 我行其野	ngoo shyng chyi yee
@@ -68164,6 +68410,7 @@ sort: be_weight
 打哈欠	daa ha .chiann
 打哨子	daa shaw .tzyy
 打啞謎	daa yea mih
+打啵	daa bo
 打喳喳	daa cha .cha
 打喳喳	daa cha cha
 打嗝	daa geq
@@ -68544,6 +68791,7 @@ sort: be_weight
 打量	daa lianq
 打金麻	daa jin ma
 打針	daa jen
+打釺	daa chian
 打鈴	daa ling
 打鉤	daa gou
 打鋪	daa puh
@@ -68557,6 +68805,7 @@ sort: be_weight
 打鐵的	daa tieq .diq
 打鐵趁熱	daa tieq chenn rèq
 打鐵還需自身硬	daa tieq hair siu tzyh shen yinq
+打鑔	daa chaa
 打長工	daa charng gong
 打長途	daa charng twu
 打門	daa men
@@ -68630,6 +68879,7 @@ sort: be_weight
 托勒玫	toq leq mei
 托卡塔	toq kaa taq
 托卡馬克	toq kaa maa keq
+托吡酯	toq biq jyy
 托地	toq dih
 托夢	toq monq
 托子	toq .tzyy
@@ -68648,6 +68898,7 @@ sort: be_weight
 托木斯克	toq muq sy keq
 托木爾峰	toq muq eel fong
 托架	toq jiah
+托格日尕孜	toq geq ryq gaa tzy
 托業	toq yeq
 托洛斯基派	toq loq sy ji pay
 托洛茨基	toq loq tsyr ji
@@ -69011,6 +69262,7 @@ sort: be_weight
 找樂子	jao loq .tzyy
 找死	jao syy
 找着	jao joq
+找碴	jao char
 找縫子	jao fonq .tzyy
 找補	jao .buu
 找贖	jao shuq
@@ -69266,6 +69518,7 @@ sort: be_weight
 抓功夫	jua gong .fu
 抓包	jua bau
 抓取	jua tseu
+抓哏	jua gern
 抓地	jua dih
 抓地力	jua dih liq
 抓姦	jua jian
@@ -69517,6 +69770,7 @@ sort: be_weight
 抗耐甲氧西林金葡菌	kanq nay jiaq yeang si lin jin pwu jiunn
 抗聯	kanq lian
 抗菌	kanq jiunn
+抗菌甲硝唑	kanq jiunn jiaq siau tzuoh
 抗菌素	kanq jiunn suh
 抗菌藥	kanq jiunn yoq
 抗菌血清	kanq jiunn shiueq tsing
@@ -70010,6 +70264,7 @@ sort: be_weight
 抽象思維	chou sianq sy wei
 抽象畫	chou sianq huah
 抽身	chou shen
+抽躼	chou law
 抽閒	chou shyan
 抽鞭子	chou bian .tzyy
 抽頭	chou tour
@@ -70125,6 +70380,7 @@ sort: be_weight
 拈題分韻	gnian tyi fen yunn
 拈鬮	gnhian jiou
 拈鬮	gnian jiou
+拉㞎㞎	lha baa .baa
 拉丁	lha ding
 拉丁人	lha ding ren
 拉丁化	lha ding huah
@@ -70293,6 +70549,7 @@ sort: be_weight
 拉舌頭	lha shèq .tour
 拉花	lha hua
 拉茶	lha char
+拉莫三嗪	lha muh san tsyn
 拉莫斯	lha moq sy
 拉華爾	lha hwa eel
 拉菲亞	lha fei yah
@@ -71853,6 +72110,7 @@ sort: be_weight
 捘捘	tzuenn tzuenn
 捙畚斗	yih been doou
 捧上天	poong shanq tian
+捧哏	poong gern
 捧場	poong chaang
 捧杯	poong bei
 捧殺	poong shaq
@@ -71897,6 +72155,9 @@ sort: be_weight
 捭闔	bae hoq
 捭闔縱橫	bae hoq tzong herng
 捭闔縱橫	bae hoq tzonq herng
+捯氣	daur chih
+捯線	daur siann
+捯飭	daur .chyq
 捱日子	ngai ryq .tzyy
 捱時間	ngai shyr jian
 捱磨	ngai mo
@@ -72367,6 +72628,7 @@ sort: be_weight
 掘子軍	jiueq .tzyy jiun
 掘強	jiueq jianq
 掘穴	jiueq shiueq
+掙䦟	jenq chuay
 掙命	jenq minq
 掙四	jenq syh
 掙扎	jenq jaq
@@ -72973,6 +73235,7 @@ sort: be_weight
 掬紙	jiuq jyy
 掬腸	jiuq charng
 掬飲	jiuq yiin
+掭筆	tiann biq
 掮客	chyan keq
 掰交情	bai jiau .tsyng
 掰交情	bai jiau tsyng
@@ -73223,6 +73486,7 @@ sort: be_weight
 插條	chaq tyau
 插槓子	chaq ganq .tzyy
 插火坑	chaq huoo keng
+插犋	chaq jiuh
 插班	chaq ban
 插瓶	chaq pyng
 插田泡	chaq tyan paw
@@ -73871,6 +74135,7 @@ sort: be_weight
 搴旗取將	chian chyi tseu tzianq
 搴芳	chian fang
 搵世界	wenn shyh jiay
+搵嘢做	wenn yee tzoh
 搵老襯	wenn lao chenn
 搵銀	wenn yn
 搵食	wenn shyq
@@ -74237,6 +74502,16 @@ sort: be_weight
 摽幟	biau jyh
 摽梅之年	biaw mei jy gnian
 摽牌	biau pair
+撂下	liaw .shia
+撂下	liaw shiah
+撂倒	liaw dao
+撂地	liaw dih
+撂地幫	liaw dih bang
+撂手	liaw shoou
+撂挑	liaw tiau
+撂挑子	liaw tiau .tzyy
+撂皮	liaw pyi
+撂蹶子	liaw jiueq .tzyy
 撅嘴	jiueq tzoei
 撅撒	jiueq saq
 撇下	pieq .shia
@@ -74289,6 +74564,7 @@ sort: be_weight
 撈低	lhau di
 撈到霉	lhau daw mei
 撈取	lhau tseu
+撈嘢	lhau yee
 撈嘴	lhau tzoei
 撈婆	lhau por
 撈家	lhau jia
@@ -74620,6 +74896,9 @@ sort: be_weight
 撥雲見日	boq yun jiann ryq
 撥頭	boq tour
 撥馬	boq maa
+撧人	jiue ren
+撧折	jiue jèq
+撧過來	jiue guoh .lai
 撩丁	liau ding
 撩亂	liau luann
 撩人	liau ren
@@ -74827,6 +75106,7 @@ sort: be_weight
 撲鼻	puq bih
 撳倒	chinn dao
 撻伐	taq faq
+撻嘢	taq yee
 撻朵	taq duoo
 撻爐	taq lu
 撻生魚	taq sheng yu
@@ -75678,12 +75958,16 @@ sort: be_weight
 攤開	tan kai
 攤雞蛋	tan ji dann
 攦脫	lih tuoq
+攧攧看	dian dian kann
+攧窨	dian yinn
+攧脣簸嘴	dian chwen boo tzoei
 攩叉	daang cha
 攪三攪四	jeau san jeau syh
 攪亂	jeau luann
 攪動	jeau donq
 攪勻	jeau yun
 攪和	jeau .ho
+攪嘢	jeau yee
 攪局	jeau jiuq
 攪屎棍	jeau shyy guenn
 攪惱	jeau nao
@@ -77155,6 +77439,9 @@ sort: be_weight
 敦賀	duen hoh
 敦蹄刷腳	duen tyi shuaq jioq
 敦默寡言	duen meq goa yan
+敨股	toou guu
+敨脫	toou tuoq
+敨退	toou tuey
 敬事不暇	jinq shyh buq shiah
 敬亭山	jinq tyng shan
 敬仰	jinq yeang
@@ -78220,6 +78507,7 @@ sort: be_weight
 斑白	ban beq
 斑禿	ban tuq
 斑竹	ban juq
+斑竹壋	ban juq danq
 斑紋	ban wen
 斑羚	ban ling
 斑翅山鶉	ban chyh shan chwen
@@ -78766,6 +79054,7 @@ sort: be_weight
 新湘語	sin siang yeu
 新源	sin yuan
 新溝	sin gou
+新滘	sin jiaw
 新潟	sin siq
 新潮	sin chaur
 新潮流	sin chaur liou
@@ -81663,6 +81952,7 @@ sort: be_weight
 智駕	jyh jiah
 智齒	jyh chyy
 晼晚	woan woan
+晽晽	lin lin
 晾乾	lianq gan
 晾曬	lianq shay
 晾書	lianq shu
@@ -82255,6 +82545,7 @@ sort: be_weight
 曲匝	chiuq tzaq
 曲周	chiuq jou
 曲周縣	chiuq jou shiann
+曲唑酮	chiuq tzuoh torng
 曲園	chiuq yuan
 曲士	chiuq shyh
 曲奇	chiuq chyi
@@ -82336,6 +82627,7 @@ sort: be_weight
 曲線美	chiuq siann meei
 曲線論	chiuq siann luenn
 曲繪	chiuq huey
+曲美他嗪	chiuq meei ta tsyn
 曲肱之樂	chiuq gong jy loq
 曲肱而枕	chiuq gong erl jeen
 曲肱而枕	chiuq gong erl jenn
@@ -82391,6 +82683,7 @@ sort: be_weight
 曳光彈	yih guang dann
 曳兵棄甲	yih bing chih jiaq
 曳剌	yih laq
+曳嘢	yih yee
 曳尾塗中	yih veei twu jong
 曳尾泥塗	yih veei ni twu
 曳引機	yih yiin ji
@@ -82731,6 +83024,7 @@ sort: be_weight
 曼多林	mann do lin
 曼大	mann dah
 曼妙	mann miaw
+曼尕賴	mann gaa lay
 曼尼托巴	mann gni toq ba
 曼尼普爾	mann gni puu eel
 曼島	mann dao
@@ -82834,6 +83128,7 @@ sort: be_weight
 替死鬼	tih syy goei
 替母	tih muu
 替班	tih ban
+替硝唑	tih siau tzuoh
 替續器	tih siuq chih
 替罪	tih tzuey
 替罪羊	tih tzuey yang
@@ -83281,6 +83576,7 @@ sort: be_weight
 有否	yeou foou
 有味	yeou vey
 有味電影	yeou vey diann yiing
+有哏	yeou gern
 有商有量	yeou shang yeou liang
 有喜	yeou shii
 有嘴沒舌	yeou tzoei moq shèq
@@ -84302,6 +84598,7 @@ sort: be_weight
 木樵	muq tsyau
 木橛	muq jiueq
 木檄	muq shiq
+木檨	muq shè
 木櫝	muq duq
 木欒	muq luan
 木毛	muq mau
@@ -85706,6 +86003,7 @@ sort: be_weight
 東鱗西爪	dong lin si joa
 東鳴西應	dong ming si yinq
 東麗	dong lih
+東𨻧	dong liou
 杲昃	gao tzeq
 杲杲	gao gao
 杳如黃鶴	yeau ru hwang hoq
@@ -86749,6 +87047,7 @@ sort: be_weight
 柿餅	shyh biing
 栀子	jy tzyy
 栀子花	jy tzyy hua
+栃木	lih muq
 栓劑	shuan tzih
 栓塞	shuan seq
 栓子	shuan .tzyy
@@ -87070,6 +87369,7 @@ sort: be_weight
 格不相入	geq buq siang ruq
 格令	geq linq
 格但斯克	geq dann sy keq
+格列吡嗪	geq lieq biq tsyn
 格列美脲	geq lieq meei gniaw
 格列苯脲	geq lieq been gniaw
 格列齊特	geq lieq tsyi teq
@@ -88396,6 +88696,8 @@ sort: be_weight
 椓竅	juoq chiaw
 椓船	juoq chwan
 検索	jean soq
+椪柑	ponq gan
+椪餅	ponq biing
 椰城	ie cherng
 椰奶	ie nae
 椰子	ie .tzyy
@@ -88457,6 +88759,7 @@ sort: be_weight
 楊四將軍	yang syh tziang jiun
 楊園	yang yuan
 楊執戟	yang jyq jiq
+楊壋	yang danq
 楊家	yang jia
 楊家坡	yang jia po
 楊家將	yang jia tzianq
@@ -88827,6 +89130,7 @@ sort: be_weight
 榆陽	yu yang
 榆鞭	yu bian
 榎楚	jea chuu
+榒木	nuoq muq
 榔坪	lang pyng
 榔槺	lang .kang
 榔頭	lang .tour
@@ -90300,6 +90604,7 @@ sort: be_weight
 檳子	bin .tzyy
 檳島	bin dao
 檳州	bin jou
+檳椥	bin jy
 檳榔	bin .lang
 檳榔	bin lang
 檳榔攤	bin lang tan
@@ -92835,6 +93140,7 @@ sort: be_weight
 毛咕	mau .gu
 毛員鼓	mau yuan guu
 毛嘴	mau tzoei
+毛囊蟎	mau nang maan
 毛團	mau twan
 毛地黃	mau dih hwang
 毛坦廠	mau taan chaang
@@ -93313,6 +93619,7 @@ sort: be_weight
 氓隸	mang lih
 气沖沖	chih chong chong
 氖燈	nae deng
+氚核	chuan heq
 氛圍	fen wei
 氛垢	fen gow
 氛氳	fen iun
@@ -93330,6 +93637,7 @@ sort: be_weight
 氟化鉀	fuq huah jiaq
 氟卡尼	fuq kaa gni
 氟奮乃靜	fuq fenn nae tzinq
+氟尿嘧啶	fuq gniaw miq dinq
 氟氣	fuq chih
 氟氫可的松	fuq ching koo diq song
 氟氯烷	fuq luq wan
@@ -93573,6 +93881,9 @@ sort: be_weight
 氨甲環酸	an jiaq hwan suan
 氨磺必利	an hwang biq lih
 氨綸	an luen
+氨苄西林	an biann si lin
+氨苄青黴素	an biann tsing mei suh
+氨苯碸	an been fong
 氨酸	an suan
 氪金	keq jin
 氫化	ching huah
@@ -93603,8 +93914,10 @@ sort: be_weight
 氫氧基	ching yeang ji
 氫氧根	ching yeang gen
 氫氧焰	ching yeang yann
+氫氯噻嗪	ching luq sai tsyn
 氫氯酸	ching luq suan
 氫碘酸	ching dean suan
+氫醌	ching kuen
 氫鍵	ching jiann
 氮化	dann huah
 氮化物	dann huah wuq
@@ -93618,6 +93931,7 @@ sort: be_weight
 氮芥	dann jiay
 氮血症	dann shiueq jenq
 氮賓	dann bin
+氯丙嗪	luq biing tsyn
 氯丙酮	luq biing torng
 氯丹	luq dan
 氯乙烯	luq yiq shi
@@ -93625,11 +93939,13 @@ sort: be_weight
 氯仿	luq faang
 氯化	luq huah
 氯化亞汞	luq huah yah gonq
+氯化亞碸	luq huah yah fong
 氯化亞錫	luq huah yah siq
 氯化亞鐵	luq huah yah tieq
 氯化氫	luq huah ching
 氯化汞	luq huah gonq
 氯化物	luq huah wuq
+氯化苄	luq huah biann
 氯化苦	luq huah kuu
 氯化鈉	luq huah naq
 氯化鈣	luq huah gay
@@ -93650,6 +93966,8 @@ sort: be_weight
 氯卡色林	luq kaa seq lin
 氯原酸	luq yuan suan
 氯吡格雷	luq biq geq luei
+氯唑西林	luq tzuoh si lin
+氯喹	luq kwei
 氯奎	luq kuei
 氯己定	luq jii dinq
 氯巴占	luq ba jann
@@ -93741,6 +94059,7 @@ sort: be_weight
 水口	shoei koou
 水合	shoei hoq
 水合物	shoei hoq wuq
+水合肼	shoei hoq tziing
 水合酶	shoei hoq mei
 水君	shoei jiun
 水和	shoei hor
@@ -93932,6 +94251,7 @@ sort: be_weight
 水梨	shoei li
 水楊	shoei yang
 水楊酸	shoei yang suan
+水楊酸甲酯	shoei yang suan jiaq jyy
 水楔不通	shoei sieq buq tong
 水榭	shoei sieh
 水槍	shoei tsiang
@@ -94172,6 +94492,7 @@ sort: be_weight
 水腫	shoei joong
 水腳	shoei jioq
 水腹	shoei fuq
+水臌	shoei guu
 水臍	shoei tsyi
 水臬	shoei gnieq
 水舀	shoei yeau
@@ -94476,6 +94797,8 @@ sort: be_weight
 永隆沙	yeong long sha
 永靖	yeong tzinq
 永順	yeong shuenn
+氹仔	danq tzae
+氹公	danq gong
 氽湯	toen tang
 氽燙	toen tanq
 氿泉	goei tsyuan
@@ -94565,6 +94888,11 @@ sort: be_weight
 求雨	chyou yeu
 求靠	chyou kaw
 求饒	chyou rau
+汆丸子湯	tsuan wan .tzyy tang
+汆子	tsuan .tzyy
+汆燙	tsuan tanq
+汈東	diau dong
+汈汊	diau chah
 汊子	chah .tzyy
 汊河	chah hor
 汊流	chah liou
@@ -95535,6 +95863,8 @@ sort: be_weight
 沙和尚	sha hor .shang
 沙和尚	sha hor shanq
 沙啞	sha yea
+沙嗲	sha die
+沙嗲朱律	sha die ju liuq
 沙嘴	sha tzoei
 沙囊	sha nang
 沙國	sha guoq
@@ -95554,6 +95884,7 @@ sort: be_weight
 沙塵	sha chern
 沙塵暴	sha chern baw
 沙壩	sha bah
+沙壪河	sha uan hor
 沙士	sha shyh
 沙士病毒	sha shyh binq duq
 沙姆沙伊赫	sha muu sha i heq
@@ -96739,6 +97070,7 @@ sort: be_weight
 波譜	bo puu
 波谷	bo guq
 波貝	bo bey
+波蹅	bo chaa
 波那娑	bo no so
 波長	bo charng
 波阿斯	bo a sy
@@ -96923,6 +97255,7 @@ sort: be_weight
 泮大連	pann dah lian
 泮宮	pann gong
 泮岸	pann ngann
+泮托拉唑	pann toq lha tzuoh
 泮水	pann shoei
 泮渙	pann huann
 泯沒	miin moq
@@ -97812,6 +98145,7 @@ sort: be_weight
 流箭	liou tziann
 流籠	liou long
 流精	liou tzing
+流糍	liou tsyr
 流網	liou woang
 流線	liou siann
 流線型	liou siann shyng
@@ -97991,6 +98325,7 @@ sort: be_weight
 浪濤	lanq tau
 浪濤	lanq taur
 浪濤澎湃	lanq taur perng pay
+浪白滘	lanq beq jiaw
 浪白竈	lanq beq tzaw
 浪花	lanq hua
 浪蕩	lanq danq
@@ -98238,6 +98573,7 @@ sort: be_weight
 海報	hae baw
 海塗	hae twu
 海塘	hae tarng
+海墘	hae chyan
 海壇	hae tarn
 海外	hae way
 海外寓公	hae way yuh gong
@@ -98720,6 +99056,7 @@ sort: be_weight
 消拯局	siau jeeng jiuq
 消損	siau soen
 消散	siau sann
+消敨	siau toou
 消旋	siau syuan
 消旋酶	siau syuan mei
 消暑	siau shuu
@@ -99396,6 +99733,7 @@ sort: be_weight
 深根固蒂	shen gen guh dih
 深櫃	shen guey
 深水	shen shoei
+深水埗	shen shoei buh
 深水灣	shen shoei uan
 深水炸彈	shen shoei jah dann
 深池	shen chyr
@@ -100305,6 +100643,8 @@ sort: be_weight
 湄公	mei gong
 湄公河	mei gong hor
 湄公河三角洲	mei gong hor san jioq jou
+湄公河螺𩷶	mei gong hor luo mang
+湄公河𩷶	mei gong hor mang
 湄州	mei jou
 湄洲	mei jou
 湄洲島	mei jou dao
@@ -100316,6 +100656,7 @@ sort: be_weight
 湊分子	tsow fenn tzyy
 湊合	tsow .hoq
 湊合	tsow hoq
+湊啱	tsow yan
 湊巧	tsow cheau
 湊成	tsow cherng
 湊手	tsow shoou
@@ -100924,6 +101265,7 @@ sort: be_weight
 滑奏	huaq tzow
 滑奏法	huaq tzow faq
 滑奏部	huaq tzow buh
+滑家壋	huaq jia danq
 滑川	huaq chuan
 滑心	guq sin
 滑手機	huaq shoou ji
@@ -101009,6 +101351,9 @@ sort: be_weight
 滕王閣	terng wang goq
 滕縣	terng shiann
 滕薛爭長	terng siueq jeng charng
+滘口	jiaw koou
+滘心	jiaw sin
+滘西洲	jiaw si jou
 滫瀡	seou soei
 滬劇	huh jiuq
 滬寧	huh gning
@@ -102510,6 +102855,7 @@ sort: be_weight
 瀛臺	yng tair
 瀛表	yng beau
 瀝水	liq shoei
+瀝滘	liq jiaw
 瀝瀝	liq liq
 瀝瀝拉拉	liq liq lha lha
 瀝瀝汩汩	liq liq guq guq
@@ -102544,6 +102890,7 @@ sort: be_weight
 瀧澤	long jeq
 瀧瀧	long long
 瀧船	long chwan
+瀨嘢	lay yee
 瀨尿蝦	lay gniaw shia
 瀨戶	lay huh
 瀨戶內海	lay huh nuey hae
@@ -102920,6 +103267,7 @@ sort: be_weight
 灰產	huei chaan
 灰甲	huei jiaq
 灰白	huei beq
+灰磘	huei yau
 灰米	huei mii
 灰粉	huei feen
 灰綠藜	huei luq li
@@ -103341,6 +103689,7 @@ sort: be_weight
 為限	wei shiann
 為非作歹	wei fei tzoq dae
 為首	wei shoou
+炻器	shyq chih
 烈丈夫	lieq janq fu
 烈士	lieq shyh
 烈夫	lieq fu
@@ -103755,6 +104104,7 @@ sort: be_weight
 無信不立	wu sinn buq liq
 無倒斷	wu daw duann
 無倚無靠	wu yii wu kaw
+無倽	wu shah
 無傷	wu shang
 無傷大雅	wu shang dah yea
 無價	wu jiah
@@ -104332,6 +104682,7 @@ sort: be_weight
 然雖	ran suei
 然鵝	ran ngo
 焼燬	shau hoei
+煅礞石	duann mong shyq
 煅粉	duann feen
 煉丹	liann dan
 煉丹術	liann dan shuq
@@ -104536,6 +104887,7 @@ sort: be_weight
 煙葉	ian yeq
 煙蒂	ian dih
 煙蘿	ian lo
+煙蚜	ian ya
 煙螺	ian luo
 煙袋	ian day
 煙袋哨子	ian day shaw .tzyy
@@ -104550,6 +104902,7 @@ sort: be_weight
 煙農	ian nong
 煙郊	ian jiau
 煙酒	ian tzeou
+煙酰胺	ian sian oq
 煙酸	ian suan
 煙針	ian jen
 煙銷	ian siau
@@ -104776,6 +105129,7 @@ sort: be_weight
 煩惱魔	farn nao mo
 煩想	farn seang
 煩懣	farn menn
+煩懨	farn ian
 煩懷	farn hwai
 煩擾	farn rao
 煩數	farn shuh
@@ -105749,6 +106103,8 @@ sort: be_weight
 爛漫天真	lann mann tian jen
 爛然	lann ran
 爛熟	lann shuq
+爛熳	lann mann
+爛熳天真	lann mann tian jen
 爛片	lann piann
 爛痘	lann dow
 爛糊	lann .hwu
@@ -106043,6 +106399,7 @@ sort: be_weight
 爸爸	bah bah
 爸爸媽媽	bah .bah mha .ma
 爸爸活	bah bah huoq
+爹哋	die dih
 爹地	die dih
 爹娘	die gniang
 爹媽	die mha
@@ -106343,6 +106700,7 @@ sort: be_weight
 牛仔布	gniou tzae buh
 牛仔帽	gniou tzae maw
 牛仔舞	gniou tzae wuu
+牛仔裇	gniou tzae siuq
 牛仔裝	gniou tzyy juang
 牛仔裝	gniou tzae juang
 牛仔褲	gniou tzyy kuh
@@ -106361,6 +106719,7 @@ sort: be_weight
 牛女佳期	gniou gneu jia chyi
 牛奶柿	gniou nae shyh
 牛奶沫	gniou nae moq
+牛嫲	gniou .ma
 牛子	gniou tzyy
 牛字旁	gniou tzyh parng
 牛宿	gniou siow
@@ -106378,6 +106737,8 @@ sort: be_weight
 牛崽褲	gniou tzae kuh
 牛巴腿	gniou ba toei
 牛市	gniou shyh
+牛彔	gniou luq
+牛彔額真	gniou luq ngeq jen
 牛後	gniou how
 牛心	gniou sin
 牛心左性	gniou sin tzoo sinq
@@ -106519,6 +106880,7 @@ sort: be_weight
 牛鼎烹雞	gniou diing peng ji
 牛鼻	gniou bih
 牛鼻子	gniou bih .tzyy
+牛𡳞脬檨	gniou linn pau shè
 牝城	pinn cherng
 牝戶	pinn huh
 牝晨	pinn chern
@@ -106559,6 +106921,8 @@ sort: be_weight
 牢頭	lau tour
 牢飯	lau fann
 牢騷	lau sau
+牤子	mhang .tzyy
+牤牛	mhang gniou
 牧之原	muq jy yuan
 牧人	muq ren
 牧函	muq harn
@@ -106796,6 +107160,7 @@ sort: be_weight
 特技	teq jih
 特技撞球	teq jih juanq chyou
 特技演員	teq jih yean yuan
+特拉唑嗪	teq lha tzuoh tsyn
 特拉法加廣場	teq lha faq jia goang chaang
 特拉法爾加廣場	teq lha faq eel jia goang chaang
 特拉維夫	teq lha wei fu
@@ -107015,6 +107380,8 @@ sort: be_weight
 犗特	jiay teq
 犛牛	mau gniou
 犛牛	li gniou
+犟勁	jianq jinq
+犟嘴	jianq tzoei
 犢子	duq .tzyy
 犢牛	duq gniou
 犢牧採薪	duq muq tsae sin
@@ -107265,6 +107632,7 @@ sort: be_weight
 狐狸精	hwu .li tzing
 狐狼	hwu lang
 狐猴	hwu hour
+狐獴	hwu mong
 狐疑	hwu yi
 狐疝	hwu shann
 狐癖	hwu piq
@@ -107311,6 +107679,7 @@ sort: be_weight
 狗國	goou guoq
 狗奴	goou nu
 狗娘養的	goou gniang yeang .diq
+狗嫲	goou .ma
 狗子	goou .tzyy
 狗子夾尾巴	goou .tzyy jiaq veei .ba
 狗官	goou guan
@@ -107736,6 +108105,7 @@ sort: be_weight
 猶達斯	you daq sy
 猶達書	you daq shu
 猶魚得水	you yu deq shoei
+猸子	mei .tzyy
 猼且	peq tziu
 猼訑	boq yi
 猾吏	huaq lih
@@ -108323,6 +108693,7 @@ sort: be_weight
 玉減香消	yuq jean shiang siau
 玉溪	yuq chi
 玉溪地區	yuq chi dih chiu
+玉滘	yuq jiaw
 玉潤珠圓	yuq ruenn ju yuan
 玉瀣	yuq shiay
 玉灶	yuq tzaw
@@ -109647,6 +110018,7 @@ sort: be_weight
 瑪麗珍鞋	maa lih jen shyai
 瑪麗蓮夢露	maa lih lian monq luh
 瑪麗蘇	maa lih su
+瑪𤧛脂	maa dih jy
 瑯函	lang harn
 瑯南塔	lang nan taq
 瑯嬛記	lang hwan jih
@@ -109797,6 +110169,7 @@ sort: be_weight
 環繞	hwan rao
 環繞	hwan raw
 環肥燕瘦	hwan feir yann show
+環肽	hwan tay
 環蛇	hwan shèr
 環行	hwan shyng
 環衛	hwan wey
@@ -110138,6 +110511,9 @@ sort: be_weight
 甘氨酸	gan an suan
 甘汞	gan gonq
 甘油	gan you
+甘油三酯	gan you san jyy
+甘油三酸酯	gan you san suan jyy
+甘油酯	gan you jyy
 甘油酸	gan you suan
 甘油醛	gan you tsyuan
 甘泉	gan tsyuan
@@ -111034,6 +111410,7 @@ sort: be_weight
 田埂	tyan geeng
 田堘	tyan cheng
 田塍	tyan cherng
+田墘	tyan chyan
 田壟	tyan loong
 田夫野老	tyan fu yee lao
 田契	tyan chih
@@ -111174,6 +111551,7 @@ sort: be_weight
 甲基安非他命	jiaq ji an fei ta minq
 甲基橙	jiaq ji cherng
 甲基環己烷	jiaq ji hwan jii wan
+甲基磺酰胺	jiaq ji hwang sian oq
 甲基紅	jiaq ji horng
 甲基紫	jiaq ji tzyy
 甲基綠	jiaq ji luq
@@ -111186,6 +111564,7 @@ sort: be_weight
 甲字庫	jiaq tzyh kuh
 甲寅	jiaq yn
 甲州	jiaq jou
+甲巰咪唑	jiaq chyou mii tzuoh
 甲市	jiaq shyh
 甲帳	jiaq janq
 甲床	jiaq chwang
@@ -111215,6 +111594,7 @@ sort: be_weight
 甲殼蟲	jiaq koq chorng
 甲殼蟲類	jiaq koq chorng luey
 甲氧氯普胺	jiaq yeang luq puu oq
+甲氧苄啶	jiaq yeang biann dinq
 甲氧西林	jiaq yeang si lin
 甲氨蝶呤	jiaq an dieq ling
 甲油	jiaq you
@@ -111244,6 +111624,7 @@ sort: be_weight
 甲癬	jiaq sean
 甲癸	jiaq goei
 甲真菌病	jiaq jen jiunn binq
+甲硝唑	jiaq siau tzuoh
 甲硫氨酸	jiaq liou an suan
 甲硫胺酸	jiaq liou oq suan
 甲硫醇	jiaq liou chwen
@@ -111275,7 +111656,10 @@ sort: be_weight
 甲賦	jiaq fuh
 甲辰	jiaq chern
 甲邸	jiaq dii
+甲酚	jiaq fen
+甲酰胺	jiaq sian oq
 甲酸	jiaq suan
+甲酸甲酯	jiaq suan jiaq jyy
 甲酸鈉	jiaq suan naq
 甲醇	jiaq chwen
 甲醚	jiaq mi
@@ -111734,6 +112118,7 @@ sort: be_weight
 番木瓜	fan muq gua
 番杏	fan shinq
 番椒	fan tziau
+番檨	fan shè
 番瀉葉	fan sieh yeq
 番瓜	fan gua
 番番	bo bo
@@ -111760,6 +112145,7 @@ sort: be_weight
 番菜	fan tsay
 番菜館	fan tsay goan
 番薯	fan shuh
+番薯椪餅	fan shuh ponq biing
 番薯箍	fan shuh gu
 番薯糖水	fan shuh tarng shoei
 番薯蛋	fan shuh dann
@@ -111902,9 +112288,11 @@ sort: be_weight
 異丁酸	yih ding suan
 異丁醇	yih ding chwen
 異世界	yih shyh jiay
+異丙嗪	yih biing tsyn
 異丙基	yih biing ji
 異丙腎上腺素	yih biing shenn shanq siann suh
 異丙苯	yih biing been
+異丙酚	yih biing fen
 異丙醇	yih biing chwen
 異丙醚	yih biing mi
 異乎尋常	yih hu syn charng
@@ -111930,6 +112318,9 @@ sort: be_weight
 異同	yih torng
 異名	yih ming
 異味	yih vey
+異咯嗪	yih loq tsyn
+異咯嗪	yih goq tsyn
+異噁唑	yih oq tzuoh
 異國	yih guoq
 異國他鄉	yih guoq ta shiang
 異國情調	yih guoq tsyng diaw
@@ -111989,6 +112380,7 @@ sort: be_weight
 異母兄弟	yih muu shiong dih
 異氟烷	yih fuq wan
 異水	yih shoei
+異煙肼	yih ian tziing
 異爨	yih tsuann
 異物	yih wuq
 異狀	yih juanq
@@ -112477,6 +112869,7 @@ sort: be_weight
 疥癢	jiay yeang
 疥癬	jiay sean
 疥癬蟲	jiay sean chorng
+疥蟎	jiay maan
 疫區	yiq chiu
 疫埠	yiq buh
 疫情	yiq tsyng
@@ -112525,6 +112918,7 @@ sort: be_weight
 疲鈍	pyi duenn
 疲隸	pyi lih
 疲黎	pyi li
+疳癪	gan tziq
 疳積	gan tziq
 疵蒙謬累	tsy mong miow loei
 疵點	tsy dean
@@ -112658,6 +113052,7 @@ sort: be_weight
 病愈	binq yuh
 病態	binq tay
 病態肥胖	binq tay feir panq
+病懨懨	binq ian ian
 病房	binq farng
 病損	binq soen
 病故	binq guh
@@ -112930,6 +113325,7 @@ sort: be_weight
 痴夢	chy monq
 痴姑娘	chy gu gniang
 痴姨	chy yi
+痴嫲	chy .ma
 痴子	chy .tzyy
 痴心	chy sin
 痴心妄想	chy sin wanq seang
@@ -112969,6 +113365,7 @@ sort: be_weight
 瘀點	iu dean
 瘁瘁	tsuey tsuey
 瘁音	tsuey in
+瘄痘	tsuh dow
 瘈瘲	chih tzonq
 瘊子	hour .tzyy
 瘊子甲	hour .tzyy jiaq
@@ -113058,6 +113455,7 @@ sort: be_weight
 瘦怯怯	show chieq chieq
 瘦悴	show tsuey
 瘦懦	show nuoh
+瘦懨懨	show ian ian
 瘦括括	show guaq guaq
 瘦損	show soen
 瘦棱棱	show leng leng
@@ -113337,6 +113735,7 @@ sort: be_weight
 發喊	faq haan
 發喪	faq sang
 發單	faq dan
+發嗲	faq die
 發嘎嘎聲	faq gaq gaq sheng
 發回	faq hwei
 發報	faq baw
@@ -114920,6 +115319,7 @@ sort: be_weight
 盛飾嚴裝	shenq shyq yan juang
 盛饌	shenq juann
 盛鬋	shenq tzian
+盛𡐓	shenq kang
 盜亦有道	daw yiq yeou daw
 盜伐	daw faq
 盜儒	daw ru
@@ -115130,6 +115530,7 @@ sort: be_weight
 盤倒	parn dao
 盤剝	parn boq
 盤古	parn guu
+盤古壋	parn guu danq
 盤古大陸	parn guu dah luq
 盤問	parn wenn
 盤子	parn .tzyy
@@ -115259,6 +115660,7 @@ sort: be_weight
 目力表	muq liq beau
 目即	muq tziq
 目即成誦	muq tziq cherng sonq
+目墘	muq chyan
 目子錢	muq .tzyy tsyan
 目定口呆	muq dinq koou dai
 目怔口呆	muq jeng koou dai
@@ -116292,6 +116694,7 @@ sort: be_weight
 真命	jen minq
 真命天子	jen minq tian tzyy
 真品	jen piin
+真啱	jen yan
 真善	jen shann
 真善美	jen shann meei
 真嗣	jen syh
@@ -116986,6 +117389,7 @@ sort: be_weight
 瞌睡喬	koq shuey chyau
 瞌睡蟲	koq shuey chorng
 瞌睡鬼	koq shuey goei
+瞌𥅻	koq chonq
 瞎三話四	shiaq san huah syh
 瞎信	shiaq sinn
 瞎奶	shiaq nae
@@ -117512,8 +117916,10 @@ sort: be_weight
 短長之說	doan charng jy shuoq
 短除法	doan chwu faq
 短音	doan in
+短須𩷶	doan siu mang
 短頭	doan .tour
 短髮	doan faq
+短鬚擬𩷶	doan siu gnii mang
 矮一截	ae yiq tzieq
 矮人	ae ren
 矮人看場	ae ren kann charng
@@ -117840,6 +118246,7 @@ sort: be_weight
 石龍	shyq long
 石龍子	shyq long .tzyy
 石龍子	shyq long tzyy
+石𬒔	shyq geeng
 矸子	gann .tzyy
 矸石	gann shyq
 矻矻	kuq kuq
@@ -117975,6 +118382,7 @@ sort: be_weight
 研討	yan tao
 研討會	yan tao huey
 研讀	yan duq
+砛墘	jin chyan
 砝碼	faq maa
 砟子	jah .tzyy
 砣子	ta .tzyy
@@ -118255,10 +118663,13 @@ sort: be_weight
 硝酸	siau suan
 硝酸汞	siau suan gonq
 硝酸甘油	siau suan gan you
+硝酸異山梨酯	siau suan yih shan li jyy
 硝酸纖維素	siau suan sian wei suh
+硝酸酯	siau suan jyy
 硝酸釷	siau suan tuu
 硝酸鈉	siau suan naq
 硝酸鈣	siau suan gay
+硝酸鈾酰	siau suan you sian
 硝酸鉀	siau suan jiaq
 硝酸鉛	siau suan chian
 硝酸銀	siau suan yn
@@ -118299,14 +118710,17 @@ sort: be_weight
 硫化鋅	liou huah sin
 硫化鋇	liou huah bey
 硫化鎂	liou huah meei
+硫唑嘌呤	liou tzuoh piaw ling
 硫柳汞	liou leou gonq
 硫糖鋁	liou tarng leu
 硫胺	liou oq
 硫胺素	liou oq suh
 硫脲	liou gniaw
 硫酸	liou suan
+硫酸二甲酯	liou suan ell jiaq jyy
 硫酸亞鐵	liou suan yah tieq
 硫酸氫鈉	liou suan ching naq
+硫酸肼	liou suan tziing
 硫酸鈉	liou suan naq
 硫酸鈣	liou suan gay
 硫酸鉀	liou suan jiaq
@@ -118520,6 +118934,7 @@ sort: be_weight
 碓臼	duey jiow
 碗仔翅	woan tzae chyh
 碗公	woan gong
+碗墘	woan chyan
 碗子	woan .tzyy
 碗布	woan buh
 碗櫃	woan guey
@@ -118695,7 +119110,9 @@ sort: be_weight
 碳足印	tann tzuq yinn
 碳足跡	tann tzuq tziq
 碳達峰	tann daq fong
+碳酰氯	tann sian luq
 碳酸	tann suan
+碳酸二甲酯	tann suan ell jiaq jyy
 碳酸氣	tann suan chih
 碳酸氫鈉	tann suan ching naq
 碳酸氫鈣	tann suan ching gay
@@ -118703,6 +119120,7 @@ sort: be_weight
 碳酸氫鎂	tann suan ching meei
 碳酸氫鹽	tann suan ching yan
 碳酸水	tann suan shoei
+碳酸酯	tann suan jyy
 碳酸鈉	tann suan naq
 碳酸鈣	tann suan gay
 碳酸鉀	tann suan jiaq
@@ -118714,6 +119132,8 @@ sort: be_weight
 碳酸鹽	tann suan yan
 碳醯氯	tann shi luq
 碳黑	tann heq
+碴口	char koou
+碴子	char .tzyy
 確乎	chioq .hu
 確乎	chioq hu
 確例	chioq lih
@@ -118860,6 +119280,7 @@ sort: be_weight
 磔刑	jeq shyng
 磔屍	jeq shy
 磔磔	jeq jeq
+磙子	goen .tzyy
 磚坯	juan pei
 磚坯子	juan pei .tzyy
 磚塊	juan kuay
@@ -119022,7 +119443,11 @@ sort: be_weight
 磺潭	hwang tarn
 磺胺	hwang oq
 磺胺劑	hwang oq tzih
+磺胺嘧啶	hwang oq miq dinq
+磺胺甲噁唑	hwang oq jiaq oq tzuoh
 磺胺酸	hwang oq suan
+磺酰基	hwang sian ji
+磺酰胺	hwang sian oq
 磺酸	hwang suan
 磽地	chiau dih
 磽薄	chiau boq
@@ -119030,6 +119455,7 @@ sort: be_weight
 礁湖	tziau hwu
 礁溪	tziau chi
 礁石	tziau shyq
+礄口	chyau koou
 礌石	luei shyq
 礎石	chuu shyq
 礙事	ngay shyh
@@ -119041,6 +119467,7 @@ sort: be_weight
 礙難從命	ngay nan tsong minq
 礙難照辦	ngay nan jaw bann
 礙面子	ngay miann .tzyy
+礞石	mong shyq
 礤床	tsaq chwang
 礤簽	tsaq tsian
 礤霜	tsaq shuang
@@ -119277,6 +119704,7 @@ sort: be_weight
 祁鄉	chyi shiang
 祁門	chyi men
 祁陽	chyi yang
+祂們	ta .men
 祅孽	iau gnieq
 祅怪	iau guay
 祅星	iau sing
@@ -119552,6 +119980,7 @@ sort: be_weight
 神經線	shern jing siann
 神經纖維	shern jing sian wei
 神經纖維瘤	shern jing sian wei liou
+神經肽	shern jing tay
 神經膠質細胞	shern jing jiau jyq sih bau
 神經衝動	shern jing chong donq
 神經衰弱	shern jing shuai roq
@@ -120283,6 +120712,7 @@ sort: be_weight
 私仇	sy chour
 私仗	sy janq
 私企	sy chii
+私伢	sy ya
 私住	sy juh
 私侍	sy shyh
 私信	sy sinn
@@ -121570,6 +122000,7 @@ sort: be_weight
 穀梁	guq liang
 穀梁傳	guq liang juann
 穀殼	guq koq
+穀氨酰胺	guq an sian oq
 穀氨酸	guq an suan
 穀氨酸鈉	guq an suan naq
 穀氨醯胺	guq an shi oq
@@ -121582,6 +122013,7 @@ sort: be_weight
 穀粒	guq liq
 穀糠	guq kang
 穀糧	guq liang
+穀胱甘肽	guq guang gan tay
 穀胺酸	guq oq suan
 穀膠蛋白	guq jiau dann beq
 穀茶	guq char
@@ -121635,6 +122067,7 @@ sort: be_weight
 積伶	tziq ling
 積健爲雄	tziq jiann wei shyong
 積儲	tziq chwu
+積儹	tziq tzaan
 積分	tziq fen
 積分學	tziq fen shioq
 積分常數	tziq fen charng shuh
@@ -122212,6 +122645,7 @@ sort: be_weight
 穿幫	chuan bang
 穿心槓子	chuan sin ganq .tzyy
 穿心蓮	chuan sin lian
+穿心蓮內酯	chuan sin lian nuey jyy
 穿戴	chuan day
 穿插	chuan chaq
 穿搭	chuan daq
@@ -123249,6 +123683,8 @@ sort: be_weight
 笞辱	chy ruq
 笞鞭	chy bian
 笞鳳鞭鸞	chy fonq bian luan
+笠嘢	liq yee
+笠嫲	liq .ma
 笠子	liq .tzyy
 笠岡	liq gang
 笠帽	liq maw
@@ -123466,6 +123902,7 @@ sort: be_weight
 筆戰	biq jann
 筆挺	biq tiing
 筆掃千軍	biq sao tsian jiun
+筆掭	biq tiann
 筆據	biq jiuh
 筆政	biq jenq
 筆數	biq shuh
@@ -124553,6 +124990,7 @@ sort: be_weight
 籬笆牆	li ba tsyang
 籬落	li loq
 籬鷃	li yann
+籮噼	lo piq
 籮擔	lo dann
 籮筐	lo kuang
 籮簡	lo jean
@@ -124743,6 +125181,7 @@ sort: be_weight
 粉籤子	feen tsian .tzyy
 粉米	feen mii
 粉粿	feen guoo
+粉糍	feen tsyr
 粉紅	feen horng
 粉紅色	feen horng seq
 粉紅領	feen horng liing
@@ -124772,6 +125211,7 @@ sort: be_weight
 粉薑	feen jiang
 粉藻	feen tzao
 粉蝶	feen dieq
+粉蟎	feen maan
 粉裝玉琢	feen juang yuq juoq
 粉身	feen shen
 粉身灰骨	feen shen huei guq
@@ -124797,6 +125237,7 @@ sort: be_weight
 粉麵	feen miann
 粉黛	feen day
 粉齏	feen tzi
+粑粑	ba ba
 粒子	liq .tzyy
 粒子	liq tzyy
 粒子加速器	liq tzyy jia suq chih
@@ -125192,6 +125633,12 @@ sort: be_weight
 糊里糊塗	hwu .lii hwu twu
 糊里糊塗	hwu lii hwu twu
 糊門神	hwu men shern
+糌粑	tzan .ba
+糌粑	tzan ba
+糍巴	tsyr ba
+糍粑	tsyr ba
+糍粞	tsyr si
+糍糕	tsyr gau
 糕乾	gau .gan
 糕乾粉	gau .gan feen
 糕仔崁古道	gau tzyy kann guu daw
@@ -125254,6 +125701,7 @@ sort: be_weight
 糖衣炮彈	tarng i paw dann
 糖解	tarng jeai
 糖質新生	tarng jyh sin sheng
+糖酯	tarng jyy
 糖酵解	tarng jiaw jeai
 糖酸	tarng suan
 糖醇	tarng chwen
@@ -125264,6 +125712,7 @@ sort: be_weight
 糖食	tarng shyq
 糖餅	tarng biing
 糗事	cheou shyh
+糗糍	cheou tsyr
 糗糒	cheou bey
 糗餈	cheou tsyr
 糙人	tsaw ren
@@ -125312,6 +125761,7 @@ sort: be_weight
 糞青	fenn tsing
 糟丘	tzau chiou
 糟坊	tzau fang
+糟嫲	tzau .ma
 糟心	tzau sin
 糟擾	tzau rao
 糟朽	tzau sheou
@@ -125375,6 +125825,7 @@ sort: be_weight
 糯米丸子	nuoh mii wan .tzyy
 糯米心腸	nuoh mii sin charng
 糯米粉	nuoh mii feen
+糯米糍	nuoh mii tsyr
 糯米糰	nuoh mii twan
 糯米紙	nuoh mii jyy
 糯米腸	nuoh mii charng
@@ -126658,6 +127109,7 @@ sort: be_weight
 細密	sih miq
 細密畫	sih miq huah
 細小	sih seau
+細尾獴	sih veei mong
 細崽	sih tzae
 細工	sih gong
 細巧	sih cheau
@@ -128553,6 +129005,7 @@ sort: be_weight
 緩死	hoan syy
 緩沖	hoan chong
 緩沖期	hoan chong chi
+緩激肽	hoan jiq tay
 緩瀉	hoan sieh
 緩箭	hoan tziann
 緩緩	hoan hoan
@@ -129890,6 +130343,7 @@ sort: be_weight
 羊圈	yang jiuann
 羊城	yang cherng
 羊奶	yang nae
+羊嫲	yang .ma
 羊子	yang .tzyy
 羊字旁	yang tzyh parng
 羊工	yang gong
@@ -129993,6 +130447,7 @@ sort: be_weight
 羊齒	yang chyy
 羌人	chiang ren
 羌塘	chiang tarng
+羌家壪	chiang jia uan
 羌帖	chiang .tieq
 羌年	chiang gnian
 羌族	chiang tzuq
@@ -130542,6 +130997,8 @@ sort: be_weight
 羯陵伽	jieq ling ga
 羯鼓	jieq guu
 羯鼓催花	jieq guu tsuei hua
+羰基	tann ji
+羰基	tang ji
 羲和	shi hor
 羲和馭日	shi hor yuh ryq
 羲娥	shi ngo
@@ -130617,6 +131074,7 @@ sort: be_weight
 翁源	ong yuan
 翁蛤	ong goq
 翁長	ong jaang
+翂翂翐翐	fen fen jyq jyq
 翅人	chyh ren
 翅子	chyh .tzyy
 翅席	chyh siq
@@ -131440,6 +131898,7 @@ sort: be_weight
 老狐狸	lao hwu li
 老狗	lao goou
 老猴	lao hour
+老猴嫲	lao hour .ma
 老猴牯	lao hour guu
 老玉米	lao yuq .mii
 老玉米	lao yuq mii
@@ -131598,6 +132057,7 @@ sort: be_weight
 老豆腐	lao dow .fu
 老財	lao tsair
 老貨	lao huoh
+老貨嫲	lao huoh .ma
 老賊	lao tzeq
 老賣	lao may
 老賬	lao janq
@@ -131681,6 +132141,7 @@ sort: be_weight
 老鼠尾巴	lao shuu veei .ba
 老鼠屎	lao shuu shyy
 老鼠拉龜	lao shuu lha guei
+老鼠簕	lao shuu leh
 老鼠粉	lao shuu feen
 老鼠藥	lao shuu yoq
 老鼻子	lao bih .tzyy
@@ -131912,6 +132373,7 @@ sort: be_weight
 耐看	nay kann
 耐着性子	nay .joq sinq .tzyy
 耐磨	nay mo
+耐肏	nay tsaw
 耐藥	nay yoq
 耐藥性	nay yoq sinq
 耐酸	nay suan
@@ -132565,6 +133027,7 @@ sort: be_weight
 聚會	tziuh .huey
 聚會	tziuh huey
 聚殲	tziuh tzian
+聚氨酯	tziuh an jyy
 聚氯乙烯	tziuh luq yiq shi
 聚沙	tziuh sha
 聚沙成塔	tziuh sha cherng taq
@@ -132572,6 +133035,7 @@ sort: be_weight
 聚珍版	tziuh jen baan
 聚甲醛	tziuh jiaq tsyuan
 聚眾	tziuh jonq
+聚碳酸酯	tziuh tann suan jyy
 聚積	tziuh tziq
 聚米为山	tziuh mii wei shan
 聚米爲山	tziuh mii wei shan
@@ -132596,6 +133060,8 @@ sort: be_weight
 聚變反應	tziuh biann faan yinq
 聚財	tziuh tsair
 聚賭	tziuh duu
+聚酯	tziuh jyy
+聚酯絲	tziuh jyy sy
 聚醚	tziuh mi
 聚集	tziuh tziq
 聚集性	tziuh tziq sinq
@@ -133291,6 +133757,17 @@ sort: be_weight
 肌體	ji tii
 肌鬆	ji song
 肌鬆藥	ji song yoq
+肏不百	tsaw buq beq
+肏你八輩子祖宗	tsaw nii baq bey .tzyy tzuu tzong
+肏你媽	tsaw nii mha
+肏你媽屄	tsaw nii mha bei
+肏你祖宗十八代	tsaw nii tzuu tzong shyq baq day
+肏屄	tsaw bei
+肏攮	tsaw naang
+肏粉	tsaw feen
+肏蛋	tsaw dann
+肏逼	tsaw biq
+肏鬼	tsaw goei
 肐拉子	geq lha .tzyy
 肐膊	geq .boq
 肐膊上走的馬	geq .boq shanq tzoou .diq maa
@@ -133655,6 +134132,10 @@ sort: be_weight
 肺高壓	fey gau yaq
 肺魚	fey yu
 肺鱗癌	fey lin yan
+肼屈嗪	tziing chiuq tsyn
+肽聚糖	tay tziuh tarng
+肽酶	tay mei
+肽鍵	tay jiann
 胃下垂	wey shiah chwei
 胃十二指腸動脈	wey shyq ell jyy charng donq meq
 胃口	wey koou
@@ -133807,6 +134288,7 @@ sort: be_weight
 背骨	bey guq
 背鰭	bey chyi
 背黑鍋	bey heq guo
+胍乙啶	gua yiq dinq
 胎位	tai wey
 胎位不正	tai wey buq jenq
 胎便	tai biann
@@ -133877,6 +134359,7 @@ sort: be_weight
 胞兄弟	bau shiong dih
 胞吐	bau tuh
 胞吞	bau tuen
+胞嘧啶	bau miq dinq
 胞器	bau chih
 胞外	bau way
 胞妹	bau mey
@@ -134140,6 +134623,7 @@ sort: be_weight
 胤嗣	yinn syh
 胤文	yinn wen
 胤續	yinn siuq
+胬肉	nuu ruq
 胭脂	ian .jy
 胭脂	ian jy
 胭脂紅	ian .jy horng
@@ -134235,6 +134719,7 @@ sort: be_weight
 胸腔穿刺	shiong chiang chuan tsyh
 胸腹	shiong fuq
 胸腺	shiong siann
+胸腺嘧啶	shiong siann miq dinq
 胸腺瘤	shiong siann liou
 胸膈	shiong geq
 胸膛	shiong tarng
@@ -134342,6 +134827,7 @@ sort: be_weight
 脂肪肝	jy farng gan
 脂肪酶	jy farng mei
 脂肪酸	jy farng suan
+脂肽	jy tay
 脂膏	jy gau
 脂蛋白	jy dann beq
 脂質	jy jyq
@@ -134623,6 +135109,8 @@ sort: be_weight
 脰領	dow liing
 脱文	tuoq wen
 脲酶	gniaw mei
+脷刮	lih guaq
+脷根	lih gen
 脹子	janq tzyy
 脹氣	janq chih
 脹痛	janq tonq
@@ -135169,6 +135657,8 @@ sort: be_weight
 腺體	siann tii
 腺體樣	siann tii yanq
 腺鼠疫	siann shuu yiq
+腼腆	mean tean
+腼腆溫柔	mean tean uen rou
 腿子	toei .tzyy
 腿帶	toei day
 腿庫	toei kuh
@@ -135362,6 +135852,8 @@ sort: be_weight
 膳食纖維	shann shyq sian wei
 膴仕	wuu shyh
 膴膴	wuu wuu
+膵臓	tsuey tzanq
+膵臟	tsuey tzanq
 膺懲	ing cherng
 膺曆	ing liq
 膻味	shan vey
@@ -136615,6 +137107,7 @@ sort: be_weight
 臺灣地區	tair uan dih chiu
 臺灣島	tair uan dao
 臺灣杉	tair uan shan
+臺灣檨	tair uan shè
 臺灣民眾黨	tair uan min jonq daang
 臺灣油芒	tair uan you mang
 臺灣海峽	tair uan hae shiaq
@@ -136932,6 +137425,7 @@ sort: be_weight
 舉動荊棘	jeu donq jing jiq
 舉口	jeu koou
 舉哀	jeu ai
+舉嘢	jeu yee
 舉國	jeu guoq
 舉國上下	jeu guoq shanq shiah
 舉報	jeu baw
@@ -137455,6 +137949,7 @@ sort: be_weight
 船埠	chwan buh
 船堅炮利	chwan jian paw lih
 船塢	chwan wuh
+船墘	chwan chyan
 船夫	chwan fu
 船家	chwan jia
 船尾	chwan veei
@@ -137510,6 +138005,7 @@ sort: be_weight
 船首	chwan shoou
 船驥	chwan jih
 船體	chwan tii
+舾裝	si juang
 艄公	shau gong
 艅艎	yu hwang
 艇仔粥	tiing tzae juq
@@ -137717,6 +138213,8 @@ sort: be_weight
 艾力西湖	ngay liq si hwu
 艾古斯	ngay guu sy
 艾古萊尼	ngay guu lai gni
+艾司唑侖	ngay sy tzuoh luen
+艾司西酞普蘭	ngay sy si tay puu lan
 艾合麥提	ngay hoq meq tyi
 艾哈邁德	ngay ha may deq
 艾哈邁德	ngay heq may deq
@@ -138395,7 +138893,13 @@ sort: be_weight
 芽菜雞	ya tsay ji
 芽豆	ya dow
 芽韭	ya jeou
+芽𦨭	ya pyi
 芾芾	fuq fuq
+苄基	biann ji
+苄星青黴素	biann sing tsing mei suh
+苄胺	biann oq
+苊烯	eq shi
+苊醌	eq kuen
 苑善拿打	yuann shann na daa
 苑囿	yuann yow
 苑結	yuann jieq
@@ -138690,6 +139194,7 @@ sort: be_weight
 苯乙腈	been yiq tzing
 苯乙酮	been yiq torng
 苯乙醚	been yiq mi
+苯二氮䓬	been ell dann juoq
 苯基	been ji
 苯妥英	been tuoo ing
 苯巴比妥	been ba bii tuoo
@@ -138700,6 +139205,7 @@ sort: be_weight
 苯環	been hwan
 苯環利定	been hwan lih dinq
 苯甲基	been jiaq ji
+苯甲酰氯	been jiaq sian luq
 苯甲酸	been jiaq suan
 苯甲酸鈉	been jiaq suan naq
 苯甲醇	been jiaq chwen
@@ -138709,7 +139215,9 @@ sort: be_weight
 苯磺酸	been hwang suan
 苯胺	been oq
 苯腎上腺素	been shenn shanq siann suh
+苯酚	been fen
 苯酮尿症	been torng gniaw jenq
+苯醌	been kuen
 苯駢芘	been pyan bih
 英中	ing jong
 英主	ing juu
@@ -138888,6 +139396,9 @@ sort: be_weight
 茄紅素	chye horng suh
 茄苳	jia dong
 茄苳	chye dong
+茄萣	jia dinq
+茄萣	chye dinq
+茄萣鄉	chye dinq shiang
 茄袋	chye day
 茄酸	chye suan
 茅利塔尼亞	mau lih taq gni yah
@@ -139067,6 +139578,7 @@ sort: be_weight
 茶湯	char tang
 茶湯壺	char tang hwu
 茶滓	char tzyy
+茶滘	char jiaw
 茶滷	char luu
 茶漬	char tzyh
 茶灶	char tzaw
@@ -139166,6 +139678,7 @@ sort: be_weight
 茹葷	ru huen
 茹葷飲酒	ru huen yiin tzeou
 茹藘	ru liu
+茹𦨭	ru pyi
 茺蔚	chong wey
 茼蒿	torng hau
 荀卿	siun ching
@@ -139314,9 +139827,12 @@ sort: be_weight
 草詔	tsao jaw
 草賊	tsao tzeq
 草質莖	tsao jyh jiing
+草酰乙酸	tsao sian yiq suan
+草酰氯	tsao sian luq
 草酸	tsao suan
 草酸鈉	tsao suan naq
 草酸鈣	tsao suan gay
+草酸鈾酰	tsao suan you sian
 草酸鉀	tsao suan jiaq
 草酸鋰	tsao suan lii
 草酸鎂	tsao suan meei
@@ -139440,6 +139956,7 @@ sort: be_weight
 荔子	lih tzyy
 荔枝	lih jy
 荔枝奴	lih jy nu
+荔枝蝽	lih jy chiun
 荔枝角	lih jy jioq
 荔枝香	lih jy shiang
 荔波	lih bo
@@ -139705,6 +140222,9 @@ sort: be_weight
 莫須有	moq siu yeou
 莫高	muh gau
 莫高窟	moq gau kuq
+莰烯	kaan shi
+莰烷	kaan wan
+莰醇	kaan chwen
 莽吉柿	maang jiq shyh
 莽撞	maang juanq
 莽榛蔓草	maang jen mann tsao
@@ -139848,6 +140368,7 @@ sort: be_weight
 菜薹	tsay tair
 菜藕	tsay ngoou
 菜虎子	tsay huu .tzyy
+菜蚜	tsay ya
 菜蜜	tsay miq
 菜螺	tsay luo
 菜蟲	tsay chorng
@@ -140067,6 +140588,7 @@ sort: be_weight
 菲力	fei liq
 菲力牛排	fei liq gniou pair
 菲勒斯中心主義	fei leq sy jong sin juu yih
+菲啶	fei dinq
 菲國	fei guoq
 菲士蘭	fei shyh lan
 菲姬	feei ji
@@ -140207,6 +140729,9 @@ sort: be_weight
 萎靡不振	woei mii buq jenn
 萎黃病	uei hwang binq
 萐莆	shaq fuu
+萘啶	nay dinq
+萘普生	nay puu sheng
+萘酚	nay fen
 萩餅	tsiou biing
 萪藤	ko terng
 萬一	wann yiq
@@ -140839,6 +141364,7 @@ sort: be_weight
 葡萄糖激酶	pwu taur tarng jiq mei
 葡萄糖胺	pwu .taur tarng oq
 葡萄糖酸	pwu taur tarng suan
+葡萄糖酸內酯	pwu taur tarng suan nuey jyy
 葡萄糖酸鈉	pwu taur tarng suan naq
 葡萄糖酸鈣	pwu taur tarng suan gay
 葡萄糖酸鋅	pwu taur tarng suan sin
@@ -140932,6 +141458,7 @@ sort: be_weight
 蒂爾克奧盧	dih eel keq aw lu
 蒂羅爾	dih lo eel
 蒂莫西	dih muh si
+蒎烯	pay shi
 蒐狩	sou show
 蒐藏	sou tzanq
 蒐證	sou jenq
@@ -141824,8 +142351,11 @@ sort: be_weight
 薌城	shiang cherng
 薏仁	yih ren
 薏米	yih mii
+薏粑	yih ba
 薏苡	yih yii
 薏苡仁	yih yii ren
+薑乸	jiang naa
+薑嫲	jiang .ma
 薑是老的辣	jiang shyh lao .diq laq
 薑桂	jiang guey
 薑桂老辣	jiang guey lao laq
@@ -142522,6 +143052,7 @@ sort: be_weight
 蘇娘	su gniang
 蘇子	su .tzyy
 蘇子油	su .tzyy you
+蘇家壋	su jia danq
 蘇家屯	su jia twen
 蘇寧電器	su gning diann chih
 蘇小	su seau
@@ -142753,6 +143284,7 @@ sort: be_weight
 蘭玉	lan yuq
 蘭盆	lan pern
 蘭秋	lan tsiou
+蘭索拉唑	lan soq lha tzuoh
 蘭考	lan kao
 蘭臭	lan shiow
 蘭臺	lan tair
@@ -143305,6 +143837,7 @@ sort: be_weight
 蚓廉	yiin lian
 蚓狀肌	yiin juanq ji
 蚛齲	jonq cheu
+蚜蟲	ya chorng
 蚡息	fern siq
 蚡鼠	fern shuu
 蚤休	tzao shiou
@@ -143531,6 +144064,7 @@ sort: be_weight
 蜂房不容鵠卵	fong farng buq yong huq loan
 蜂毒	fong duq
 蜂毒素	fong duq suh
+蜂毒肽	fong duq tay
 蜂牙絲蘭	fong ya sy lan
 蜂王	fong wang
 蜂王乳	fong wang ruu
@@ -143775,6 +144309,7 @@ sort: be_weight
 蝦隻	shia jyq
 蝦餃	shia jeau
 蝦麵	shia miann
+蝨嫲	sheq .ma
 蝨子	sheq .tzyy
 蝨官	sheq guan
 蝨心	sheq sin
@@ -143811,6 +144346,7 @@ sort: be_weight
 蝴蝶骨	hwu dieq guq
 蝴蝶魚	hwu dieq yu
 蝶呤	dieq ling
+蝶啶	dieq dinq
 蝶式	dieq shyq
 蝶竇	dieq dow
 蝶骨	dieq guq
@@ -143818,6 +144354,8 @@ sort: be_weight
 蝸居蟻蛭	gua jiu yii dieq
 蝸行	gua shyng
 蝻子	nan .tzyy
+蝽蟓	chiun sianq
+蝽象	chiun sianq
 螃蟹	parng sheai
 螃蟹島	parng sheai dao
 螃蟹心態	parng sheai sin tay
@@ -143953,6 +144491,7 @@ sort: be_weight
 螺鈿	luo diann
 螺階	luo jiai
 螺黛	luo day
+螺𩷶	luo mang
 螻蛄	lou gu
 螻螲	lou jyq
 螻蟻	lou yii
@@ -143974,6 +144513,7 @@ sort: be_weight
 蟄雷	jyq luei
 蟈蟈	guoq .guoq
 蟊賊	mou tzeq
+蟎蟲	maan chorng
 蟑螂	jang lang
 蟒服	maang fuq
 蟒牛	maang gniou
@@ -144544,6 +145084,7 @@ sort: be_weight
 血管操	shiueq goan tsau
 血管攝影	shiueq goan shèq yiing
 血管收縮素	shiueq goan shou shuq suh
+血管活性腸肽	shiueq goan huoq sinq charng tay
 血管滋養管	shiueq goan tzy yeang goan
 血管炎	shiueq goan yan
 血管瘤	shiueq goan liou
@@ -145159,6 +145700,7 @@ sort: be_weight
 街燈	jiai deng
 街童	jiai torng
 街舞	jiai wuu
+街艔	jiai duh
 街號巷哭	jiai haur shianq kuq
 街衢	jiai chyu
 街角	jiai jioq
@@ -145691,6 +146233,7 @@ sort: be_weight
 袖頭	siow tour
 袜肚	moq duh
 袞冕	goen mean
+袞墘	goen chyan
 袞州	goen jou
 袞毬	goen chyou
 袞纏	goen charn
@@ -145873,6 +146416,7 @@ sort: be_weight
 裂開	lieq kai
 裂隙	lieq shiq
 裂隙燈	lieq shiq deng
+裇衫	siuq shan
 裊娜	gneau no
 裊裊	gneau gneau
 裊裊上升	gneau gneau shanq sheng
@@ -146250,6 +146794,7 @@ sort: be_weight
 裸頸鸛	luoo jiing guann
 裸體	luoo tii
 裸體主義	luoo tii juu yih
+裸鰮	luoo uen
 裸麥	luoo meq
 裹亂	guoo luann
 裹住	guoo juh
@@ -146701,6 +147246,7 @@ sort: be_weight
 西塞山區	si say shan chiu
 西塞羅	si seq lo
 西塞羅	si say lo
+西塱	si laang
 西塾	si shuq
 西夏	si shiah
 西夏文	si shiah wen
@@ -146795,6 +147341,7 @@ sort: be_weight
 西曆	si liq
 西曬	si shay
 西曲	si chiuq
+西替利嗪	si tih lih tsyn
 西服	si fuq
 西朝鮮	si chaur sean
 西朝鮮灣	si chaur sian uan
@@ -146844,6 +147391,7 @@ sort: be_weight
 西洋象棋	si yang sianq chyi
 西洋鏡	si yang jinq
 西洋風	si yang fong
+西洛他唑	si loq ta tzuoh
 西津渡	si tzin duh
 西流河	si liou hor
 西海	si hae
@@ -147000,6 +147548,7 @@ sort: be_weight
 西鄂	si ngoq
 西鄉塘	si shiang tarng
 西鄉隆盛	si shiang long shenq
+西酞普蘭	si tay puu lan
 西醫	si i
 西里伯斯	si lii beq sy
 西里爾	si lii eel
@@ -147022,6 +147571,7 @@ sort: be_weight
 西隧	si suey
 西雅圖	si yea twu
 西雙版納	si shuang baan naq
+西雙版納傣族自治州	si shuang baan naq dae tzuq tzyh jyh jou
 西零	si lian
 西青	si tsing
 西非	si fei
@@ -147803,6 +148353,7 @@ sort: be_weight
 觀音兵	guan in bing
 觀音土	guan in tuu
 觀音坐蓮	guan in tzuoh lian
+觀音壋	guan in danq
 觀音大士	guan in dah shyh
 觀音寺	guan in syh
 觀音山轎子	guan in shan jiaw .tzyy
@@ -151662,6 +152213,7 @@ sort: be_weight
 讓道	ranq daw
 讓避	ranq bih
 讓開	ranq kai
+讕係嘢	lan shih yee
 讕架勢	lan jiah shyh
 讕言	lan yan
 讕調	lan diaw
@@ -151774,6 +152326,7 @@ sort: be_weight
 豆瓣醬	dow bann tzianq
 豆甲	dow jiaq
 豆皮	dow pyi
+豆碹	dow siuann
 豆秸	dow jiaq
 豆箍	dow gu
 豆算	dow suann
@@ -152148,6 +152701,7 @@ sort: be_weight
 豢圉	huann yeu
 豢豹	huann baw
 豢養	huann yeang
+豨嫲	shi .ma
 豨心	shi sin
 豨獀	shi sou
 豨獅	shi shy
@@ -152240,11 +152794,13 @@ sort: be_weight
 豬公	ju gong
 豬加	ju jia
 豬哥	ju go
+豬嘜	ju may
 豬噏	ju shiq
 豬圈	ju jiuann
 豬場	ju chaang
 豬大腸	ju dah charng
 豬婆	ju por
+豬嫲	ju .ma
 豬尾巴	ju veei .ba
 豬尿泡	ju suei paw
 豬尿脬	ju suei pau
@@ -153529,6 +154085,7 @@ sort: be_weight
 資訊	tzy sinn
 資訊學	tzy sinn shioq
 資訊技術	tzy sinn jih shuq
+資訊熵	tzy sinn shang
 資訊理論	tzy sinn lii luenn
 資訊社會	tzy sinn shèh huey
 資訊科學	tzy sinn ko shioq
@@ -154085,6 +154642,7 @@ sort: be_weight
 質難	jyh nann
 質難	jyq nann
 質體	jyh tii
+質體醌	jyh tii kuen
 質點	jyq dean
 賬冊	janq tseq
 賬務	janq wuh
@@ -154151,6 +154709,7 @@ sort: be_weight
 賴債	lay jay
 賴和	lay hor
 賴哲卜月	lay jèq buq yueq
+賴嘢	lay yee
 賴圖	lay twu
 賴婚	lay huen
 賴子	lay .tzyy
@@ -154581,6 +155140,7 @@ sort: be_weight
 赤馬港	chyq maa gaang
 赤體	chyq tii
 赤鯉	chyq lii
+赤鯮	chyq tzong
 赤鯶公	chyq huenn gong
 赤鱲角	chyq lieq jioq
 赤鴉	chyq ia
@@ -155019,6 +155579,7 @@ sort: be_weight
 趁勢落篷	chenn shyh loq porng
 趁哄	chenn honq
 趁哄打劫	chenn honq daa jieq
+趁墒	chenn shang
 趁墟	chenn shiu
 趁心	chenn sin
 趁手	chenn shoou
@@ -155584,6 +156145,7 @@ sort: be_weight
 跑單幫	pao dan bang
 跑圓場	pao yuan charng
 跑堂	pao tarng
+跑墒	pao shang
 跑官	pao guan
 跑得了和尚	pao deq leau hor shanq
 跑得了和尚跑不了廟	pao deq leau hor shanq pao buq leau miaw
@@ -155832,6 +156394,7 @@ sort: be_weight
 路權	luh chyuan
 路死路埋	luh syy luh mai
 路段	luh duann
+路氹	luh danq
 路沙卡	luh sha kaa
 路況	luh kuanq
 路演	luh yean
@@ -155976,6 +156539,8 @@ sort: be_weight
 踉踉蹡蹡	lianq lianq tsianq tsianq
 踉蹌	lianq tsiang
 踉蹡	lianq tsianq
+踎嗮	mou say
+踎緊躉	mou jiin doen
 踏上	taq shanq
 踏上征途	taq shanq jeng twu
 踏入	taq ruq
@@ -156073,6 +156638,8 @@ sort: be_weight
 蹄筋	tyi jin
 蹄膀	tyi .parng
 蹄骨	tyi guq
+蹅踏	chaa taq
+蹅雨	chaa yeu
 蹇修	jean siou
 蹇傴	jean yeu
 蹇剝	jean boq
@@ -156123,6 +156690,7 @@ sort: be_weight
 蹌蹌踉踉	tsiang tsiang lianq lianq
 蹎蹎	dian dian
 蹐地跼天	tziq dih jiuq tian
+蹓躂	liow .taq
 蹕路	bih luh
 蹙國	tsuq guoq
 蹙國喪師	tsuq guoq sanq shy
@@ -157864,6 +158432,7 @@ sort: be_weight
 辣乎乎	laq hu hu
 辣味	laq vey
 辣哈布	laq ha buh
+辣嘢	laq yee
 辣妹	laq mey
 辣媽	laq mha
 辣子	laq .tzyy
@@ -159177,6 +159746,7 @@ sort: be_weight
 逕行	jinq shyng
 逖聽	tiq ting
 逖聽遐視	tiq ting shya shyh
+逗哏	dow gern
 逗嘴皮子	dow tzoei pyi .tzyy
 逗子	dow tzyy
 逗屄	dow bei
@@ -162445,6 +163015,7 @@ sort: be_weight
 鄰熟	lin shuq
 鄰牙	lin ya
 鄰舍	lin shèh
+鄰苯醌	lin been kuen
 鄰角	lin jioq
 鄰近	lin jinn
 鄰近詞頻率效果	lin jinn tsyr pyn liuq shiaw guoo
@@ -162776,6 +163347,10 @@ sort: be_weight
 酗訟	shiuh sonq
 酗酒	shiuh tzeou
 酘一酘	tour .yiq tour
+酚紅	fen horng
+酚酞	fen tay
+酚類	fen luey
+酞嗪	tay tsyn
 酢漿草	tzoq tziang tsao
 酣夢	harn monq
 酣嬉淋漓	harn shi lin li
@@ -162841,15 +163416,22 @@ sort: be_weight
 酬載	chour tzay
 酬酢	chour tzoq
 酬金	chour jin
+酮康唑	torng kang tzuoh
 酮病	torng binq
 酮症	torng jenq
 酮糖	torng tarng
 酮酸	torng suan
 酮體	torng tii
+酯化	jyy huah
+酯化反應	jyy huah faan yinq
+酯酶	jyy mei
+酰氯	sian luq
+酰胺	sian oq
 酴蘇	twu su
 酴酒	twu tzeou
 酴酥	twu su
 酴醾	twu mi
+酵嫲	jiaw .ma
 酵子	jiaw tzyy
 酵母	jiaw muu
 酵母菌	jiaw muu jiunn
@@ -164277,6 +164859,7 @@ sort: be_weight
 金龜婿	jin guei siuh
 金龜子	jin guei tzyy
 金龜車	jin guei chè
+釕銱	leau diaw
 釗文袋	jau wen day
 釘上	dinq shanq
 釘契	dinq chih
@@ -164401,6 +164984,7 @@ sort: be_weight
 釦環	koou hwan
 釧路	chuann luh
 釵腳漏痕	chai jioq low hern
+釺子	chian .tzyy
 釿鍔	yn ngoq
 鈀子拳	ba tzyy chyuan
 鈉鉀泵	naq jiaq bang
@@ -164486,6 +165070,7 @@ sort: be_weight
 鈷鉧	guu muu
 鈽彈	buh dann
 鈾礦	you kuanq
+鈾酰	you sian
 鈿合	diann hoq
 鈿合金釵	diann hoq jin chai
 鈿尺	diann chyq
@@ -164845,6 +165430,7 @@ sort: be_weight
 銜頭	shyan tour
 銬子	kaw .tzyy
 銬鐐	kaw liau
+銱子	diaw .tzyy
 銲炬	hann jiuh
 銳不可當	ruey buq koo dang
 銳利	ruey lih
@@ -165363,6 +165949,7 @@ sort: be_weight
 錶針	beau jen
 錶面	beau miann
 錶面皿	beau miann miing
+鍃孔	huoh koong
 鍊子	liann .tzyy
 鍊度	liann duh
 鍊金術	liann jin shuq
@@ -165458,6 +166045,10 @@ sort: be_weight
 鍾靈毓秀	jong ling yuq siow
 鎂光燈	meei guang deng
 鎂粉	meei feen
+鎅手	jiay shoou
+鎅損	jiay soen
+鎅板	jiay baan
+鎅櫈	jiay denq
 鎊地	paang dih
 鎌倉	lian tsang
 鎌谷	lian guq
@@ -165663,6 +166254,7 @@ sort: be_weight
 鏟運機	chaan yunn ji
 鏟運車	chaan yunn chè
 鏟除	chaan chwu
+鏟鮰	chaan hwei
 鏡下血尿	jinq shiah shiueq gniaw
 鏡像	jinq sianq
 鏡匣	jinq shiaq
@@ -165982,6 +166574,7 @@ sort: be_weight
 鑒賞	jiann shaang
 鑒賞力	jiann shaang liq
 鑒跨	jiann kuah
+鑔子	chaa .tzyy
 鑞箔	laq boq
 鑞鎗頭	laq tsiang tour
 鑢斷	liuh duann
@@ -166088,6 +166681,8 @@ sort: be_weight
 鑾音	luan in
 鑾駕	luan jiah
 钁頭	jiuoq .tour
+钂叉	taang cha
+钂鈀	taang ba
 钟山	jong shan
 長一智	jaang yiq jyh
 長一智	charng yiq jyh
@@ -166969,6 +167564,7 @@ sort: be_weight
 開場	kai chaang
 開場抽頭	kai charng chou tour
 開場白	kai chaang beq
+開墒	kai shang
 開墾	kai keen
 開士	kai shyh
 開外	kai way
@@ -168041,6 +168637,7 @@ sort: be_weight
 阿伯茨福德	a beq tsyr fuq deq
 阿伽陀	a chye tor
 阿佛洛狄忒	a fuq loq diq teq
+阿佤	a woa
 阿來	a lai
 阿依庫勒	a i kuh leq
 阿依莎	a i sha
@@ -168381,6 +168978,7 @@ sort: be_weight
 阿昔洛韋	a siq loq wei
 阿是穴	a shyh shiueq
 阿普吐龍	a puu tuu long
+阿普唑侖	a puu tzuoh luen
 阿普爾頓	a puu eel duenn
 阿曼	a mann
 阿曼灣	a mann uan
@@ -168611,6 +169209,7 @@ sort: be_weight
 阿芙樂爾	a fwu loq eel
 阿芙樂爾號	a fwu loq eel haur
 阿芙羅狄忒	a fwu lo diq teq
+阿苯達唑	a been daq tzuoh
 阿茨海默症	a tsyr hae meq jenq
 阿茲夫定	a tzy fu dinq
 阿茲海默病	a tzy hae meq binq
@@ -170442,6 +171041,7 @@ sort: be_weight
 雙商	shuang shang
 雙喜	shuang shii
 雙喜臨門	shuang shii lin men
+雙嘧達莫	shuang miq daq muh
 雙回門	shuang hwei men
 雙國籍	shuang guoq tziq
 雙坪	shuang pyng
@@ -170539,9 +171139,11 @@ sort: be_weight
 雙溪	shuang chi
 雙溪大年	shuang chi dah gnian
 雙溪毛糯	shuang chi mau nuoh
+雙滘	shuang jiaw
 雙滬	shuang huh
 雙灣	shuang uan
 雙灤	shuang luan
+雙炔失碳酯	shuang chiueq shyq tann jyy
 雙牌	shuang pair
 雙牛仔布	shuang gniou tzae buh
 雙璧	shuang biq
@@ -170549,6 +171151,7 @@ sort: be_weight
 雙生子	shuang sheng tzyy
 雙生子佯謬	shuang sheng tzyy yang miow
 雙目	shuang muq
+雙目墘	shuang muq chyan
 雙盲	shuang mang
 雙相	shuang sianq
 雙相情感障礙	shuang sianq tsyng gaan janq ngay
@@ -170632,6 +171235,7 @@ sort: be_weight
 雙遼	shuang liau
 雙邊	shuang bian
 雙鄉	shuang shiang
+雙酚	shuang fen
 雙醣	shuang tarng
 雙重	shuang chorng
 雙重人格	shuang chorng ren geq
@@ -170824,6 +171428,7 @@ sort: be_weight
 雞娃	ji ua
 雞婁鼓	ji lou guu
 雞婆	ji por
+雞嫲	ji .ma
 雞子	ji .tzyy
 雞子	ji tzyy
 雞宗	ji tzong
@@ -171687,6 +172292,7 @@ sort: be_weight
 雷諾	luei noq
 雷諾數	luei noq shuh
 雷諾阿	luei noq a
+雷貝拉唑	luei bey lha tzuoh
 雷達	luei daq
 雷酸	luei suan
 雷鋒	luei fong
@@ -172762,6 +173368,7 @@ sort: be_weight
 青葙子	tsing siang tzyy
 青蒜	tsing suann
 青蒿	tsing hau
+青蒿琥酯	tsing hau huu jyy
 青蒿素	tsing hau suh
 青蓮	tsing lian
 青蓮崗文化	tsing lian gang wen huah
@@ -175492,6 +176099,7 @@ sort: be_weight
 飛機派遣可靠率	fei ji pay chean koo kaw liuq
 飛機票	fei ji piaw
 飛機耳	fei ji eel
+飛機裇	fei ji siuq
 飛機頭	fei ji tour
 飛機餐	fei ji tsan
 飛檄	fei shiq
@@ -176125,6 +176733,8 @@ sort: be_weight
 餅錠	biing dinq
 餅鐺	biing cheng
 餈巴	tsyr ba
+餈粑	tsyr .ba
+餈粑	tsyr ba
 餈糕	tsyr gau
 餉午	shianq wuu
 餉遺	shianq wey
@@ -176374,6 +176984,7 @@ sort: be_weight
 餵食	wey shyq
 餵飽	wey bao
 餵養	wey yeang
+餷粥	cha juq
 餺飥	boq toq
 餼廩	shih liin
 餼羊	shih yang
@@ -176450,6 +177061,7 @@ sort: be_weight
 饗賜	sheang tsyh
 饗辭	sheang tsyr
 饗醴	sheang lii
+饘粑	jan ba
 饘粥	jan juq
 饘酎	jan jow
 饘餼	jan shih
@@ -176466,6 +177078,10 @@ sort: be_weight
 饞蟲	charn chorng
 饞貓	charn mhau
 饞鬼	charn goei
+饢嗓	naang saang
+饢坑	nang keng
+饢糟	naang tzau
+饢糠	naang kang
 首丘	shoou chiou
 首事	shoou shyh
 首人	shoou ren
@@ -176599,6 +177215,7 @@ sort: be_weight
 香侶	shiang leu
 香公	shiang gong
 香冢	shiang joong
+香冮	shiang gang
 香分	shiang fenn
 香包	shiang bau
 香匠	shiang tzianq
@@ -176649,6 +177266,7 @@ sort: be_weight
 香榭麗舍	shiang sieh lih shèh
 香樟	shiang jang
 香橙	shiang cherng
+香檨	shiang shè
 香檳	shiang bin
 香檳酒	shiang bin tzeou
 香檸檬	shiang gning mong
@@ -176996,6 +177614,7 @@ sort: be_weight
 馬屎洲	maa shyy jou
 馬山	maa shan
 馬島	maa dao
+馬島獴	maa dao mong
 馬島長尾狸貓	maa dao charng veei li mhau
 馬崗	maa gang
 馬崩丁	maa beng ding
@@ -177115,6 +177734,7 @@ sort: be_weight
 馬溜子	maa lhiou tzyy
 馬溜子船	maa lhiou .tzyy chwan
 馬溜子船	maa lhiou tzyy chwan
+馬滘	maa jiaw
 馬潤	maa ruenn
 馬灣	maa uan
 馬熊	maa shyong
@@ -178961,6 +179581,7 @@ sort: be_weight
 鬍匪	hwu feei
 鬍子	hwu .tzyy
 鬍子工程	hwu .tzyy gong cherng
+鬍子拉碴	hwu .tzyy lha char
 鬍子茬	hwu .tzyy shyr
 鬍子阿姨	hwu .tzyy a yi
 鬍渣	hwu ja
@@ -179311,6 +179932,7 @@ sort: be_weight
 鬼笑人	goei siaw ren
 鬼笑窮	goei siaw chyong
 鬼筆	goei biq
+鬼筆環肽	goei biq hwan tay
 鬼箭	goei tziann
 鬼節	goei tzieq
 鬼籙	goei luq
@@ -179557,6 +180179,7 @@ sort: be_weight
 魚埠	yu buh
 魚塊	yu kuay
 魚塘	yu tarng
+魚塭	yu uen
 魚夫	yu fu
 魚子	yu tzyy
 魚子醬	yu tzyy tzianq
@@ -179845,6 +180468,7 @@ sort: be_weight
 鯉庭	lii tyng
 鯉書	lii shu
 鯉溪	lii chi
+鯉簰	lii pair
 鯉素	lii suh
 鯉腸	lii charng
 鯉魚	lii yu
@@ -179875,6 +180499,7 @@ sort: be_weight
 鯤雞	kuen ji
 鯤魚	kuen yu
 鯤鯁	kuen geeng
+鯤鯓	kuen shen
 鯤鱗	kuen lin
 鯤鳳	kuen fonq
 鯤鵬	kuen perng
@@ -180289,6 +180914,7 @@ sort: be_weight
 鴨嘴船	yaq tzoei chwan
 鴨嘴龍	yaq tzoei long
 鴨堰橋	yaq yann chyau
+鴨嫲	yaq .ma
 鴨子	yaq .tzyy
 鴨子	yaq tzyy
 鴨子上架	yaq .tzyy shanq jiah
@@ -180320,6 +180946,7 @@ sort: be_weight
 鴨翼	yaq yiq
 鴨肝	yaq gan
 鴨肫	yaq juen
+鴨脷洲	yaq lih jou
 鴨腳	yaq jioq
 鴨腳木	yaq jioq muq
 鴨舌	yaq shèq
@@ -180601,6 +181228,8 @@ sort: be_weight
 鷩冕	bih mean
 鷩雉	bih jyh
 鷫鷞	suq shuang
+鷫鸘	suq shuang
+鷫鸘裘	suq shuang chyou
 鷮息	jiau siq
 鷯哥	liau go
 鷰頷	yann hann
@@ -180661,6 +181290,7 @@ sort: be_weight
 鸊鷉	piq ti
 鸑鷟	yoq juoq
 鸓鼠	luei shuu
+鸘裘	shuang chyou
 鸚卮	ing jy
 鸚哥	ing go
 鸚哥嘴	ing go tzoei
@@ -181211,6 +181841,7 @@ sort: be_weight
 麥蓋提	meq goq tyi
 麥蓋提	meq gay tyi
 麥蓋提縣	meq goq tyi shiann
+麥蚜	meq ya
 麥蚻	meq jaq
 麥西	meq si
 麥西熱甫	meq si rèq fuu
@@ -181306,6 +181937,7 @@ sort: be_weight
 麵湯	miann tang
 麵炙	miann jyh
 麵煎粿	miann tzian guoo
+麵煳	miann hwu
 麵猴	miann hour
 麵瓜	miann gua
 麵疙瘩	miann geq .baq
@@ -181391,7 +182023,9 @@ sort: be_weight
 麻竹	ma juq
 麻米	ma mii
 麻糊	ma hwu
+麻糍	ma tsyr
 麻糖	ma tarng
+麻糬	ma shuu
 麻糰	ma twan
 麻紗布	ma sha buh
 麻繩	ma sherng
@@ -181669,6 +182303,7 @@ sort: be_weight
 黃紫	hwang tzyy
 黃絁	hwang shy
 黃絲	hwang sy
+黃絲𩶘	hwang sy liq
 黃絹幼婦	hwang jiuann yow fuh
 黃綠	hwang luq
 黃縣	hwang shiann
@@ -182341,6 +182976,7 @@ sort: be_weight
 黑頸鶴	heq jiing hoq
 黑飛	heq fei
 黑馬	heq maa
+黑馬壋	heq maa danq
 黑骨朧東	heq .guq long dong
 黑體	heq tii
 黑體字法	heq tii tzyh faq
@@ -182805,6 +183441,7 @@ sort: be_weight
 鼠偷狗盜	shuu tou goou daw
 鼠兔	shuu tuh
 鼠入牛角	shuu ruq gniou jioq
+鼠嘢	shuu yee
 鼠壤	shuu raang
 鼠夾	shuu jiaq
 鼠姑	shuu gu
@@ -183474,6 +184111,7 @@ sort: be_weight
 𠌖倯	chyong song
 𠢕人	haur ren
 𠢕早	haur tzao
+𠳐啷	bang lhang
 𡳞脬	linn pau
 𡳞脬步	linn pau buh
 𡳞面	linn miann
@@ -183485,26 +184123,44 @@ sort: be_weight
 𢯾壁鬼	maw biq goei
 𢯾壁魚	maw biq yu
 𣘨橠	oh noh
+𣝓弧	yean hwu
+𣝓絲	yean sy
+𣱼𣱼	dau dau
+𤅷江	ling jiang
 𤊶翻	laq fan
 𤘅孲	ya ia
+𥅻瞌睡	chonq koq shuey
 𥍉久	shèq jeou
 𥍉囇	shèq li
 𥍉爧	shèq ling
 𥍉目	shèq muq
+𥻗子	char .tzyy
 𦊓魚	linq yu
 𦗒狐	guoq hwu
+𦣇噼	lo piq
 𦿊會	lu huey
 𦿊薈	lu huey
+𧈢蜡	ba jah
 𧐍𧑓	chong shuu
+𧐱蝑	tsorng siu
 𧑓蝜	shuu fuh
 𧑗蝦	gning shia
+𧒽崗	lei gang
 𨂝出	penq chuq
+𨃅子	bai .tzyy
 𨑨婊	jyq beau
 𨤡𨤡	goang goang
+𨻧隍	liou hwang
+𩖁𪚇	ya tzioq
 𩩍後	pinq how
 𩩍脊骨	pinq tziq guq
+𩵚魠魚	tuu tuoq yu
 𩵩鯕	fu chyi
 𩿣鴄	moq piq
 𪁎哥	siau go
 𪁎雞	siau ji
+𬌗學	her shioq
+𮨻湯	shar tang
+𰛄𰛅	pay leh
+𰛄𰛅	pay lay
 𰻞𰻞麵	byang byang miann
