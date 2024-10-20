@@ -47,7 +47,7 @@
 - [綺檐淸露：國音用漢語拼音](#tsinglou)
   - `./bepemefeve_tsinglou.schema.yaml`
 - [Ruenn式國音拼音方案](#ruenn)
-  - `./bepemefeve_tsinglou.schema.yaml`
+  - `./bepemefeve_ruenn.schema.yaml`
 - [注音 大千兼容式](#stdext)
   -  `./bepemefeve_stdext.schema.yaml`
 - [注音 順位式](#shuennwey)
@@ -288,4 +288,4 @@
 - [康熙字典 Kangxi Dictionary TXT](https://github.com/7468696e6b/kangxiDictText)
 - [趙元任 國語留聲片課本](https://upload.wikimedia.org/wikipedia/commons/c/c0/NLC416-07jh011263-4826_%E5%9C%8B%E8%AA%9E%E7%95%99%E8%81%B2%E7%89%87%E8%AA%B2%E6%9C%AC.pdf)
 - [RIME 地球拼音](https://github.com/rime/rime-terra-pinyin)
-
+- [Wiktionary](https://en.wiktionary.org)
